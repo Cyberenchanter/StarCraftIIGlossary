@@ -1,0 +1,704 @@
+﻿Abil/Name/AmorphousArmorcloud=무정형 방어구름
+Abil/Name/BatteryOvercharge=충전소 과충전
+Abil/Name/BattlecruiserAttack=전투순양함 공격
+Abil/Name/BattlecruiserAttackEvaluator=전투순양함 공격 평가
+Abil/Name/BattlecruiserMove=전투순양함 이동
+Abil/Name/BattlecruiserStop=전투순양함 정지
+Abil/Name/BattlecruiserStopEvaluator=전투순양함 정지 평가
+Abil/Name/BypassArmor=방어력 감쇠
+Abil/Name/BypassArmorDroneCU=Bypass Armor Drone CU
+Abil/Name/ChannelSnipe=저격 집중
+Abil/Name/ChronoBoostEnergyCost=시간 증폭 에너지 비용
+Abil/Name/DarkShrineResearch=암흑 성소 연구
+Abil/Name/DarkTemplarBlink=암흑 기사 점멸
+Abil/Name/EnergyRecharge=에너지 재충전
+Abil/Name/HydraliskFrenzy=달려들기
+Abil/Name/InfestorEnsnare=감염충 속박
+Abil/Name/LaunchInterceptors=요격기 출격
+Abil/Name/LockOnAir=공중 목표물 고정
+Abil/Name/LocustMPFlyingSwoopAttack=식충 MP 비행 급강하 공격
+Abil/Name/LurkerDenResearch=가시지옥 굴 연구
+Abil/Name/LurkerRemoveHoldFire=가시지옥 공격 중지 제거
+Abil/Name/MorphToBaneling=맹독충으로 변태
+Abil/Name/MorphToTransportOverlord=수송 대군주로 변태
+Abil/Name/NexusMassRecall=연결체 대규모 귀환
+Abil/Name/NexusShieldOvercharge=연결체 보호막 과충전
+Abil/Name/NexusShieldOverchargeOff=연결체 보호막 과충전 끄기
+Abil/Name/NexusShieldRecharge=연결체 보호막 재충전
+Abil/Name/NexusShieldRechargeOnPylon=수정탑에 연결체 보호막 재충전
+Abil/Name/ObserverMorphtoObserverSiege=관측선이 관측선 공성으로 변신
+Abil/Name/ObserverSiegeMorphtoObserver=관측선 공성이 관측선으로 변신
+Abil/Name/OverseerMorphtoOverseerSiegeMode=감시군주가 감시군주 공성 모드로 변태
+Abil/Name/OverseerSiegeModeMorphtoOverseer=감시군주 공성 모드가 감시군주로 변태
+Abil/Name/PurificationNovaTargetted=정화 폭발 대상 지정됨
+Abil/Name/RavenRepairDrone=수리 비행정
+Abil/Name/RavenRepairDroneHeal=수리
+Abil/Name/RavenScramblerMissile=억제 미사일
+Abil/Name/RavenShredderMissile=파쇄 미사일
+Abil/Name/SC2_Battery=SC2 Battery
+Abil/Name/SalvageEffect=회수 효과
+Abil/Name/SalvageSensorTowerRefund=감지탑
+Abil/Name/ShieldBatteryRechargeChanneled=보호막 재충전
+Abil/Name/ShieldBatteryRechargeEx5=
+Abil/Name/SpawnInterceptors=요격기 생성
+Abil/Name/SpawnLocustsTargeted=식충 생성 대상
+Abil/Name/TempestDisruptionBlast=붕괴 충격
+Abil/TargetMessage/attack=<IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/>   지점 선택 후 자동 공격<n/><IMG path="Assets\Textures\tutorialmouserightbuttondown.dds" alignment="absolutemiddle"/>   취소
+AchievementTerm/Name/Combat_Mechanic_KillTransport_TransportOverlord=Combat_Mechanic_KillTransport_TransportOverlord
+AchievementTerm/Name/Combat_Spells_PhasePrism_Adept=Combat_Spells_PhasePrism_Adept
+Behavior/Name/AmorphousArmorcloud=세균 장막
+Behavior/Name/BatteryOvercharge=충전소 과충전
+Behavior/Name/BypassArmorDebuffOne=방어력 감쇠
+Behavior/Name/BypassArmorDebuffThree=방어력 감쇠
+Behavior/Name/BypassArmorDebuffTwo=방어력 감쇠
+Behavior/Name/ChannelSnipeCombat=부동 조준
+Behavior/Name/ChronoBoostEnergyCost=시간 증폭
+Behavior/Name/DisableInterceptors=요격기 사용 안 함
+Behavior/Name/HydraliskFrenzy=달려들기
+Behavior/Name/InfestorEnsnare=휘감기
+Behavior/Name/InterceptorTimedLife=요격기 시한 생명
+Behavior/Name/InterceptorWander=요격기 방황
+Behavior/Name/NeuralParasiteChildren=신경 기생충 자식
+Behavior/Name/NexusShieldOvercharge=연결체 보호막 과충전
+Behavior/Name/NexusShieldRechargeOnPylonBehavior=재충전장
+Behavior/Name/NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget=재충전장
+Behavior/Name/PowerUserWarpable=소환 중
+Behavior/Name/PurificationNovaPost=위상 전환
+Behavior/Name/RavenScramblerMissile=방해 매트릭스
+Behavior/Name/RavenShredderMissileArmorReduction=방어력 감소
+Behavior/Name/RavenShredderMissileArmorReductionUISubtruct=방어력 감소
+Behavior/Name/RavenShredderMissileTint=대장갑 미사일 대상
+Behavior/Name/ResonatingGlaivesPhaseShift=공명 파열포
+Behavior/Name/TempestDisruptionBlastStunBehavior=붕괴 충격
+Behavior/Name/Transfusion=수혈
+Behavior/Tooltip/AmorphousArmorcloud=원거리 공격으로 받는 피해가 <d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>% 감소합니다.
+Behavior/Tooltip/BatteryOvercharge=보호막 회복률 증가 및 에너지를 소모하지 않음
+Behavior/Tooltip/BypassArmorDebuffOne=이 유닛은 방어력이 감소했습니다.
+Behavior/Tooltip/BypassArmorDebuffThree=이 유닛은 방어력이 감소했습니다.
+Behavior/Tooltip/BypassArmorDebuffTwo=이 유닛은 방어력이 감소했습니다.
+Behavior/Tooltip/ChannelSnipeCombat=이 유닛은 신중하게 목표를 조준하고 있습니다.
+Behavior/Tooltip/ChronoBoostEnergyCost=이 구조물은 가속 상태입니다.
+Behavior/Tooltip/CloakField2=모선과 충분히 가까운 곳에 있는 아군 지상 유닛은 은폐됩니다.
+Behavior/Tooltip/FungalGrowth=대상이 진균 번식의 영향을 받아 모습이 드러나고 이동 속도가 제한됩니다.
+Behavior/Tooltip/HydraliskFrenzy=달려들기 효과가 지속하는 동안 유닛의 이동 속도가 빨라집니다.
+Behavior/Tooltip/InfestorEnsnare=이 유닛은 지상으로 떨어져 무기가 비활성화되었습니다.
+Behavior/Tooltip/MedivacSpeedBoost=이 유닛은 이동 속도가 증가했습니다.
+Behavior/Tooltip/NeuralParasiteChildren=이 유닛은 감염충이 조종하고 있습니다.
+Behavior/Tooltip/NexusShieldRechargeOnPylonBehavior=이 수정탑은 주위 아군 유닛의 보호막을 재충전시킵니다.
+Behavior/Tooltip/NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget=유닛의 보호막이 재충전됩니다.
+Behavior/Tooltip/PurificationNovaPost=이 유닛은 무적 상태이며 다른 유닛을 통과하여 이동할 수 있습니다.
+Behavior/Tooltip/Purify=이 수정탑은 강력한 원거리 공격 능력을 가지고 있습니다.
+Behavior/Tooltip/RavenScramblerMissile=무기 및 능력이 비활성화되었습니다.
+Behavior/Tooltip/RavenShredderMissileArmorReduction=이 유닛은 방어력이 감소했습니다.
+Behavior/Tooltip/RavenShredderMissileArmorReductionUISubtruct=이 유닛은 방어력이 감소했습니다.
+Behavior/Tooltip/RavenShredderMissileTint=이 유닛은 파쇄 미사일 대상으로 지정되었습니다.
+Behavior/Tooltip/ResonatingGlaivesPhaseShift=사도의 공격 속도가 <d ref="(Behavior,ResonatingGlaivesPhaseShift,Modification.AttackSpeedMultiplier-1)*100"/>% 증가했습니다.
+Behavior/Tooltip/TempestDisruptionBlastStunBehavior=이 유닛은 기절했습니다.
+Behavior/Tooltip/TemporalField=이 유닛은 공격 및 이동 속도가 <d ref="100 - (100 * Behavior,TemporalField,Modification.AttackSpeedMultiplier)"/>%만큼 감소했습니다.
+Behavior/Tooltip/Transfusion=이 유닛은 체력을 회복하는 중입니다.
+Button/Name/ActivateStasisWard=정지장 덫
+Button/Name/AdeptPiercingUpgrade=공명 파열포
+Button/Name/AdeptResearchPiercingUpgrade=공명 파열포 연구
+Button/Name/AdeptShieldUpgrade=보호막 증폭
+Button/Name/AmorphousArmorcloud=세균 장막
+Button/Name/Baneling2=맹독충으로 변태
+Button/Name/BatteryOvercharge=충전소 과충전
+Button/Name/CarrierCapacity=우주모함 수용력
+Button/Name/CarrierLeashRangeUpgrade=고급 통신 배열
+Button/Name/ChronoBoostEnergyCost=시간 증폭
+Button/Name/CycloneLockOnAir=지대공 조준
+Button/Name/CycloneRapidFireLaunchers=신속 발사기
+Button/Name/CycloneResearchHurricaneThrusters=허리케인 엔진 연구
+Button/Name/CycloneResearchLockOnAir=자기장 가속기 연구
+Button/Name/DarkTemplarBlink=그림자 걸음
+Button/Name/DrillClaws=천공 발톱
+Button/Name/EnergyRecharge=에너지 재충전
+Button/Name/EnhancedShockwaves=향상된 충격파
+Button/Name/EvolveAmorphousArmorcloud=세균 장막 진화
+Button/Name/EvolveDiggingClaws=적응형 발톱 진화
+Button/Name/EvolveGroovedSpines=가시 홈 진화
+Button/Name/EvolveMuscularAugments=근육 보강 진화
+Button/Name/EvolvePropulsivePeristalsis=추진적 연동 운동 진화
+Button/Name/HurricaneThrusters=허리케인 엔진
+Button/Name/HydraliskFrenzy=달려들기
+Button/Name/HydraliskIncreasedAttackRange=공격 사거리 증가
+Button/Name/HydraliskIncreasedMovementSpeed=이동 속도 증가
+Button/Name/InfestorEnsnare=휘감기
+Button/Name/KD8Charge=KD8 지뢰
+Button/Name/Larva=애벌레 선택
+Button/Name/LockOnAir=공중 목표물 고정
+Button/Name/MagFieldLaunchers=자기장 발사기
+Button/Name/MorphtoObserver=관측 모드
+Button/Name/MorphtoObserverSiege=감시 모드
+Button/Name/MorphtoOverlordTransport=배주머니 변이
+Button/Name/MorphtoOverseerNormal=감시 취소
+Button/Name/MorphtoOverseerSiege=감시
+Button/Name/NexusMassRecall=전략 소환
+Button/Name/NexusShieldOvercharge=연결체 보호막 과충전
+Button/Name/NexusShieldOverchargeOff=연결체 보호막 과충전 끄기
+Button/Name/NexusShieldRecharge=보호막 재충전
+Button/Name/NexusShieldRechargeOnPylon=재충전장
+Button/Name/NydusWormIncreasedArmorPassive=지하 비늘
+Button/Name/PsionicSurge=사이오닉 쇄도
+Button/Name/PurificationNovaTargeted=정화 폭발
+Button/Name/RapidReignitionSystem=고속 재점화 시스템
+Button/Name/Ravager=궤멸충으로 변태
+Button/Name/RavenEnhancedMunitionsPassive=강화 탄약
+Button/Name/RavenRecalibratedExplosives=재보정 폭발물
+Button/Name/RavenRepairDrone=수리 비행정 생산
+Button/Name/RavenRepairDroneHeal=수리
+Button/Name/RavenResearchEnhancedMunitions=강화 탄약 연구
+Button/Name/RavenScramblerMissile=방해 매트릭스
+Button/Name/RavenShredderMissile=대장갑 미사일
+Button/Name/ResearchAdeptShieldUpgrade=보호막 증폭 연구
+Button/Name/ResearchAmplifiedShielding=증폭 보호막 연구
+Button/Name/ResearchArmorPiercingRockets=방어구 관통 로켓 연구
+Button/Name/ResearchCarrierCapacity=우주모함 수용력 연구
+Button/Name/ResearchCarrierLeashRangeUpgrade=고급 통신 배열 연구
+Button/Name/ResearchCycloneRapidFireLaunchers=신속 발사기 연구
+Button/Name/ResearchDarkTemplarBlink=그림자 걸음 연구
+Button/Name/ResearchEnhancedShockwaves=향상된 충격파 연구
+Button/Name/ResearchFrenzy=나노 근육 팽창 진화
+Button/Name/ResearchMagFieldLaunchers=자기장 발사기 연구
+Button/Name/ResearchPsionicAmplifiers=사이오닉 증폭기 연구
+Button/Name/ResearchPsionicSurge=사이오닉 쇄도 연구
+Button/Name/ResearchRapidReignitionSystem=고속 재점화 시스템 연구
+Button/Name/ResearchRavenInterferenceMatrix=방해 매트릭스 연구
+Button/Name/ResearchRavenRecalibratedExplosives=재보정 폭발물 연구
+Button/Name/ResearchSmartServos=지능형 제어 장치 연구
+Button/Name/ShieldBattery=보호막 충전소 소환
+Button/Name/ShieldBatteryRecharge=회복
+Button/Name/ShieldBatteryRechargeEx5=재충전
+Button/Name/TempestDisruptionBlast=붕괴 충격
+Button/Name/TempestGroundAttackUpgrade=구조 불안정장치
+Button/Name/TempestResearchGroundAttackUpgrade=구조 불안정장치 연구
+Button/Name/UpgradeBuildingArmorLevel1=신소재 강철 장갑 업그레이드
+Button/Name/WidowMineConcealment=은폐
+Button/Name/hydraliskspeed=근육 보강 진화
+Button/Tooltip/ActivateStasisWard=주위 적들을 <d ref="Behavior,OracleStasisTrapTarget,Duration"/>초 동안 정지장 안에 가둡니다. 갇힌 유닛은 공격당하지 않으며 능력의 영향을 받지도 않습니다.
+Button/Tooltip/AdeptPiercingUpgrade=사도의 공격 속도가 45%만큼 증가합니다.
+Button/Tooltip/AdeptResearchPiercingUpgrade=<c val="ffff8a">사도</c>의 공격 속도가 45%만큼 증가합니다.
+Button/Tooltip/AmorphousArmorcloud=장막으로 지상 유닛을 가려 공중 유닛으로부터 받는 피해를 <d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>% 감소시킵니다. <d ref="Effect,AmorphousArmorcloudCP,PeriodCount*Effect,AmorphousArmorcloudCP,PeriodicPeriodArray[0]"/>초 동안 지속됩니다.
+Button/Tooltip/AnionPulseCrystals=<c val="ffff8a">불사조</c>의 공격 사거리가 <d ref="$UpgradeEffectArrayValue:PhoenixRangeUpgrade:Weapon,IonCannons,Range$"/>만큼 증가합니다.
+Button/Tooltip/Armory=군수공장과 우주공항에서 생산하는 유닛의 무기와 장갑을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 화염기갑병 (군수공장)<n/>- 토르 (군수공장)
+Button/Tooltip/BanelingCocoon2=이 고치 안에서 저글링이 맹독충으로 변태 중입니다.
+Button/Tooltip/Barracks=보병 생산 시설입니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 해병<n/>- 사신<n/>- 벙커 (건설로봇 건설)<n/>- 궤도 사령부 (사령부 업그레이드)
+Button/Tooltip/BatteryOvercharge=연결체 근처에 있는 보호막 충전소 하나를 과충전시켜 보호막 회복률을 <d ref="Behavior,BatteryOvercharge,Modification.HealDealtMultiplier * 100 - 100"/>% 증가시키고 <d ref="Behavior,BatteryOvercharge,Duration"/>초 동안 에너지를 소모하지 않고 보호막을 충전시키게 만듭니다.
+Button/Tooltip/BuildTechLabFactory=차량 기술을 연구합니다. 기술실은 모든 생산 건물에 부착할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 공성 전차<n/>- 토르 (무기고 필요)
+Button/Tooltip/BypassArmorDrone=적 유닛에게 광선을 집중시켜 방어력을 3만큼 감소시킵니다.<n/><d ref="Behavior,BypassArmorDroneTimedLife,Duration"/>초 후에 사라집니다.
+Button/Tooltip/CalldownMULE=선택한 광물 지대에 실험용 채광 기계인 지게로봇을 투하합니다. 지게로봇은 건설로봇보다 더 빠르게 광물을 채취합니다.<n/><n/>지게로봇은 <d ref="Behavior,MULETimedLife,Duration"/>초 후에 작동을 멈춥니다.
+Button/Tooltip/CarrierCapacity=우주모함 하나당 요격기의 최대 숫자가 8대에서 10대로 증가합니다.
+Button/Tooltip/CarrierLeashRangeUpgrade=<c val="ffff8a">요격기</c>의 활동 범위가 <d ref="$UpgradeEffectArrayValue:CarrierLeashRangeUpgrade:Abil,CarrierHangar,Leash$"/>만큼 증가합니다.
+Button/Tooltip/ChannelSnipe=신중하게 목표를 조준하여, <d ref="Effect,ChannelSnipeCreatePersistent,PeriodCount*Effect,ChannelSnipeCreatePersistent,PeriodicPeriodArray[0]" precision="2"/>초 동안 피해를 받지 않으면 저격하여 <d ref="Effect,ChannelSnipeDamage,Amount"/>의 피해를 줍니다(사이오닉 유닛을 상대로 +<d ref="Effect,ChannelSnipeDamage,AttributeBonus[Psionic]"/>의 피해). 방어력을 무시합니다.<n/><n/><c val="#ColorAttackInfo">생체 유닛을 대상으로만 사용 가능</c>
+Button/Tooltip/Charge=광전사가 주위 적을 향해 돌진합니다. 추가로 광전사의 이동 속도가 증가합니다. <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/>초에 한 번씩만 사용할 수 있습니다.
+Button/Tooltip/ChronoBoostEnergyCost=대상 구조물에 시간 증폭을 사용합니다. 해당 건물의 생산 및 연구 속도가 <d ref="Behavior,ChronoBoostEnergyCost,Duration"/>초 동안 <d ref="(((Behavior,ChronoBoostEnergyCost,Modification.RateMultiplierArray[Progress])-1)*100)" precision="1"/>%만큼 증가합니다.
+Button/Tooltip/CloakingField=적 유닛이 근처 유닛과 구조물을 보거나 공격하지 못하게 모선 주변에 은폐장을 <d ref="Behavior,CloakField,Duration"/>초 동안 생성합니다. 은폐 상태인 유닛은 탐지기나 탐지 효과로만 적에게 드러납니다.
+Button/Tooltip/CollapsiblePurifierTowerDebris=이 장애물을 파괴하면 새로운 지역에 접근할 수 있습니다.
+Button/Tooltip/CollapsiblePurifierTowerDiagonal=이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다.
+Button/Tooltip/CyberneticsCore=프로토스 공중 유닛과 차원 관문을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 파수기 (관문)- 추적자 (관문)<n/><n/>- 사도 (관문)<n/>- 보호막 충전소 (탐사정)
+Button/Tooltip/Cyclone=기동형 차량입니다. 목표물 고정을 사용해 이동 중에도 공격할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>
+Button/Tooltip/CycloneLockOnAir=사이클론의 무기 공격과 목표물 고정 능력이 공중 유닛을 대상으로 삼을 수 있습니다.
+Button/Tooltip/CycloneRapidFireLaunchers=목표물 고정 능력을 향상하여 첫 12발을 빠르게 발사하게 만듭니다.
+Button/Tooltip/CycloneResearchHurricaneThrusters=<c val="ffff8a">사이클론</c>의 이동 속도가 증가합니다.
+Button/Tooltip/CycloneResearchLockOnAir=사이클론의 태풍 미사일 포와 목표물 고정 능력이 공중 유닛을 대상으로 삼을 수 있습니다.
+Button/Tooltip/CycloneResearchLockOnDamageUpgrade=<c val="ffff8a">사이클론</c>의 목표물 고정 공격력을 증가시킵니다. 지상 및 공중 유닛에 <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/>초에 걸쳐 600의 피해를 줍니다.
+Button/Tooltip/CycloneUpgrade=기동형 차량입니다. 목표물 고정을 사용해 이동 중에도 공격할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>
+Button/Tooltip/DarkShrine=암흑 기사를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 암흑 기사 (관문)<n/>- 집정관 (암흑 기사 합체)
+Button/Tooltip/DarkTemplarBlink=암흑 기사가 주위의 대상 위치로 순간이동합니다. <d ref="Abil,DarkTemplarBlink,Cost[0].Cooldown.TimeUse"/>초에 한 번씩만 사용할 수 있습니다.
+Button/Tooltip/Disruptor=로봇 분열 유닛입니다. 정화 폭발을 사용하여 큰 범위 피해를 줄 수 있습니다.
+Button/Tooltip/DisruptorPhased=고농축 태양 에너지입니다. <d ref="Behavior,PurificationNovaTargettedTarget,Duration"/>초 후 폭발하여 범위 피해를 줍니다.
+Button/Tooltip/DrillClaws=더 빠르게 잠복합니다.
+Button/Tooltip/EnergyRecharge=연결체 주변 유닛 하나의 에너지를 즉시 <d ref="Effect,EnergyRecharge,VitalArray[Energy].Change * (Effect,EnergyRechargePersistent,PeriodCount + 1)"/>만큼 충전시킵니다.
+Button/Tooltip/EnhancedShockwaves=<c val="ffff8a">유령</c>의 EMP 탄환 반경이 +<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>만큼 증가합니다.
+Button/Tooltip/EvolveAmorphousArmorcloud=<c val="ffff8a">감염충</c>이 세균 장막 능력을 사용할 수 있습니다.
+Button/Tooltip/EvolveAnabolicSynthesis2=<c val="ffff8a">울트라리스크</c>의 점막 밖 이동 속도가 증가합니다.
+Button/Tooltip/EvolveCentrificalHooks=<c val="ffff8a">맹독충</c>의 이동 속도가 증가하고 체력이 5만큼 증가합니다.
+Button/Tooltip/EvolveChitinousPlating=<c val="ffff8a">울트라리스크</c>의 방어력이 <d ref="$UpgradeEffectArrayValue:ChitinousPlating:Unit,Ultralisk,LifeArmor$"/>만큼 증가합니다.
+Button/Tooltip/EvolveDiggingClaws=<c val="ffff8a">가시지옥</c>의 잠복 속도가 <d time="2.5" precision="1"/>에서 1.07초로 감소하고 이동 속도가 증가합니다.
+Button/Tooltip/EvolveGroovedSpines=<c val="ffff8a">히드라리스크</c>의 공격 사거리가 <d ref="$UpgradeEffectArrayValue:EvolveGroovedSpines:Weapon,NeedleSpines,Range$"/>만큼 증가합니다.
+Button/Tooltip/EvolveMuscularAugments=<c val="ffff8a">히드라리스크</c>의 이동 속도가 증가합니다.
+Button/Tooltip/EvolvePropulsivePeristalsis=<c val="ffff8a">땅굴망</c>과 <c val="ffff8a">땅굴벌레</c>의 들이기 및 내보내기 속도가 증가합니다.
+Button/Tooltip/EvolveTunnelingClaws=<c val="ffff8a">바퀴</c>가 잠복 상태에서 이동할 수 있게 합니다.
+Button/Tooltip/ExplosiveShrapnelShells=밤까마귀의 자동 포탑과 추적 미사일의 공격력이 30%만큼 증가합니다.
+Button/Tooltip/Factory=차량 생산 시설입니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 화염차<n/>- 땅거미 지뢰<n/>- 사이클론
+Button/Tooltip/Feedback=대상의 에너지를 모두 소진시키고, 소진된 에너지 1당 <d ref="(Effect,Feedback,VitalFractionCurrent[Energy])" Precision="2"/>의 피해를 줍니다.
+Button/Tooltip/FleetBeacon=불사조와 공허 포격기를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 폭풍함 (우주관문)<n/>- 우주모함 (우주관문)</n>- 모선 (연결체)
+Button/Tooltip/Frenzied=감속, 기절, 정신 제어, 이동 방해 효과에 면역입니다.
+Button/Tooltip/FungalGrowth=대상 유닛에 <d time="4"/>에 걸쳐 <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/>의 피해를 주고 이동 속도를 <d ref="(1-Behavior,FungalGrowthSlowMovement,Modification.MoveSpeedMultiplier)*100"/>% 감소시킵니다. 은폐하거나 잠복한 유닛은 모습이 드러납니다. 영향을 받은 유닛은 점멸을 사용할 수 없으며, 수송기나 건물에 들어갈 수도 없습니다.
+Button/Tooltip/FusionCore=의료선, 해방선, 전투순양함을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 전투순양함 (우주공항)
+Button/Tooltip/Ghost=저격수입니다. 부동 조준과 EMP 탄환을 사용할 수 있고, 업그레이드하면 은폐를 사용할 수 있습니다. 유령 사관학교에서 생산한 전술 핵미사일을 투하할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>
+Button/Tooltip/GhostAcademy=유령을 업그레이드합니다. 유령이 사용할 수 있는 핵을 생산합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 유령 (병영)
+Button/Tooltip/GuardianShield=반경 거리 <d ref="Effect,GuardianShieldSearch,AreaArray[0].Radius" precision="1"/>의 오라를 생성하여 내부 아군 유닛을 타격하는 원거리 공격 피해를 <d ref="Behavior,GuardianShield,DamageResponse.ModifyAmount * (-1)"/>만큼 감소시킵니다. <d time="[d ref='(Effect,GuardianShieldPersistent,PeriodicPeriodArray[0] + 0.13) * Effect,GuardianShieldPersistent,PeriodCount'/]"/> 동안 지속합니다.
+Button/Tooltip/Heal=아군 생체 유닛을 치료합니다.<n/><n/><c val="f078ff">에너지 1당 <d ref="Effect,MedivacHeal,RechargeVitalRate*Effect,MedivacHeal,DrainVitalCostFactor"/>의 체력 회복</c>
+Button/Tooltip/HighCapacityFuelTanks=의료선의 연료 비축량을 증가시켜 재연소 장치 점화의 지속 시간을 50%만큼 증가시킵니다.
+Button/Tooltip/HighTemplar=강한 사이오닉 능력을 지니고 있습니다. 환류를 사용할 수 있고 업그레이드하면 사이오닉 폭풍을 사용할 수 있습니다. 집정관으로 변신할 수 있습니다.<n/><n/><c val="ffff8a">지상 유닛 공격 가능</c>
+Button/Tooltip/HurricaneThrusters=<c val="ffff8a">사이클론</c>의 이동 속도가 증가합니다.
+Button/Tooltip/HydraliskDen=히드라리스크를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 히드라리스크 (애벌레에서 변태)
+Button/Tooltip/HydraliskFrenzy=히드라리스크가 앞으로 달려들어, 짧은 시간 동안 이동 속도가 크게 증가합니다.
+Button/Tooltip/ImmortalOverload=최대 <d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/>의 피해를 흡수합니다. <d ref="Behavior,TakenDamage,Duration"/>초 동안 지속됩니다. 이 효과는 <d ref="Abil,ImmortalOverload,Cost[0].Cooldown.TimeUse"/>초마다 한 번만 발동합니다.
+Button/Tooltip/InfestationPit=감염충을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 감염충 (애벌레에서 변태)<n/>- 군단 숙주 (애벌레에서 변태)
+Button/Tooltip/InfestedTerrans=감염된 테란을 하나 생성합니다. 감염된 테란은 <d ref="Behavior,InfestedTerranTimedLife,Duration"/>초 동안 전장에 머뭅니다.<n/><n/><c val="ffff8a">잠복한 상태로 시전 가능</c>
+Button/Tooltip/Infestor=감염 전문 유닛입니다. 진균 번식, 세균 장막, 신경 기생충 능력을 사용할 수 있습니다.
+Button/Tooltip/InfestorEnsnare=감염충이 대상 공중 유닛을 <d ref="Behavior,InfestorEnsnare,Duration"/>초 동안 지상으로 끌어 내려 공격을 못하게 만들고, 아군이 해당 유닛을 지상 유닛인 것처럼 공격할 수 있게 합니다.
+Button/Tooltip/KD8Charge=일정 시간 후 폭발하여 주위 유닛에게 <d ref="Effect,KD8ChargeExplodeDamage,Amount"/>의 피해를 주고 밀쳐냅니다.
+Button/Tooltip/LiberatorAGRangeUpgrade=해방선의 수호기 모드의 사거리가 <d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>.ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>만큼 증가합니다.
+Button/Tooltip/LockOn=대상 유닛을 사이클론의 공격 목표로 고정시켜 사이클론의 사거리가 <d ref="Validator,LockOnCasterNearTargetUpgraded,Range"/>(으)로 증가하고 이동하며 발사할 수 있습니다. 대상이 사거리 밖으로 벗어나면 취소됩니다.
+Button/Tooltip/LockOnAir=대상 비행 유닛을 사이클론의 공격 목표로 고정시켜 <d ref="Effect,LockOnAirCP,PeriodCount * Effect,LockOnAirCP,PeriodicPeriodArray[0]"/>초에 걸쳐 <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/>의 피해를 줍니다. 이동하면서 공격할 수 있습니다. 대상이 사거리 밖으로 나가면 취소됩니다.
+Button/Tooltip/LockOnArmorPiercingUpgrade=사이클론의 무기를 대상 공중 유닛 또는 구조물에 고정시켜 <d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/>초에 걸쳐 <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/> (중장갑 유닛에는 +<d ref="Effect,LockOnAirCP,PeriodCount * $UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamage,AttributeBonus[Armored]$"/>)의 피해를 줍니다. 이동하며 발사할 수 있고 대상이 사거리 밖으로 벗어나면 취소됩니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 및 지상 구조물 공격 불가</c>
+Button/Tooltip/LockOnRapidFireLaunchers=사이클론의 무기를 대상 공중 유닛 또는 구조물에 고정시켜 <d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/>초에 걸쳐 <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/>의 피해를 줍니다. 이동하며 발사할 수 있고 첫 <c val="#ColorAttackInfo">12</c>발은 빠르게 발사됩니다. 대상이 사거리 밖으로 벗어나면 취소됩니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 및 지상 구조물 공격 불가</c>
+Button/Tooltip/LockOnUpgraded=대상 유닛을 사이클론의 공격 목표로 고정시켜 지상 유닛과 공중 유닛에 <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/>초에 걸쳐 <d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/>(중장갑 유닛에게는 추가 400)의 피해를 줍니다. 이동하면서 공격할 수 있습니다. 대상이 사거리 밖으로 나가면 취소됩니다.
+Button/Tooltip/LurkerDenMP=가시지옥를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 가시지옥 (히드라리스크에서 변태)
+Button/Tooltip/MULE=시험 운영 중인 채취 유닛입니다. 일반 건설로봇보다 더 빨리 광물을 채취합니다. <d time="90"/> 후에 작동을 멈춥니다.
+Button/Tooltip/MagFieldLaunchers=<c val="ffff8a">사이클론</c>의 사거리가 <d ref="$UpgradeEffectArrayValue:MagFieldLaunchers:Weapon,TyphoonMissilePod,Range$"/>만큼 증가합니다.
+Button/Tooltip/MassRecall=대상 지역에 있는 플레이어 유닛을 모두 모선으로 소환합니다.
+Button/Tooltip/MedivacSpeedBoost=의료선의 이동 속도가 <d ref="Behavior,MedivacSpeedBoost,Duration"/>초 동안 증가합니다.
+Button/Tooltip/MorphMorphalisk=<d ref="Behavior,QueenSpawnLarvaTimer,Duration"/>초 후 대상 부화장, 번식지, 또는 군락에 애벌레 <d ref="Effect,SpawnMutantLarvaApplySpawnBehavior,Count"/>마리를 생성합니다. 부화장, 번식지, 또는 군락에 애벌레가 3마리 이상 있으면 통상적인 애벌레 생성이 중단됩니다. 대상이 이미 추가 애벌레를 생성 중이면 중첩되어 대기열에 추가됩니다.
+Button/Tooltip/MorphToMothership=모선으로 업그레이드합니다. 광자 과충전, 대규모 귀환, 시간 왜곡을 사용할 수 있습니다. 근처에 있는 유닛과 구조물을 은폐합니다.
+Button/Tooltip/MorphtoObserver=관측선을 일반 관측 모드로 전환합니다. 관측선의 시야 반경이 줄어드는 대신, 이동할 수 있습니다. 
+Button/Tooltip/MorphtoObserverSiege=관측선을 감시 모드로 전환합니다. 관측선의 시야가 <d ref="(Unit,ObserverSiegeMode,Sight/Unit,Observer,Sight-1)*100"/>%만큼 증가하는 대신, 이동할 수 없습니다.
+Button/Tooltip/MorphtoOverlordTransport=대군주가 유닛을 수송할 수 있습니다.
+Button/Tooltip/MorphtoOverseerNormal=감시군주가 다시 이동할 수 있으며 시야 반경이 원래대로 돌아옵니다.
+Button/Tooltip/MorphtoOverseerSiege=감시군주의 시야가 <d ref="(Unit,OverseerSiegeMode,Sight/Unit,Overseer,Sight-1)*100"/>% 증가하지만 이동 능력이 사라집니다. 이 능력은 활성화한 뒤에 취소할 수 있습니다.
+Button/Tooltip/Mothership=궁극의 프로토스 함선입니다. 전략 소환, 시간 왜곡, 은폐장 능력을 사용할 수 있습니다.<n/><n/><c val="ffff8a">지상 및 공중 유닛 공격 가능</c>
+Button/Tooltip/MothershipCoreWeapon=대상 수정탑의 케이다린 수정을 강화시켜 <d ref="Behavior,Purify,Duration[0]"/>초 동안 강력한 원거리 무기로 바꿉니다. 공격당 <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/>의 피해를 줍니다.
+Button/Tooltip/MutateintoLurkerDen=가시지옥를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 가시지옥 (히드라리스크에서 변태)
+Button/Tooltip/NeuralParasite=감염충이 <d ref="Behavior,NeuralParasite,Duration"/>초 동안 대상 유닛을 조종합니다. 감염충은 적 유닛을 조종하는 동안 다른 행동을 할 수 없습니다.<n/><n/><c val="ffff8a">집중 기술. 잠복한 상태로 시전 가능</c><n/><c val="#ColorAttackInfo">영웅 유닛은 면역</c>
+Button/Tooltip/Nexus=주 건물입니다. 채취한 자원을 수집합니다. 시간 증폭 및 대규모 귀환 능력을 사용할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 탐사정<n/>- 모선
+Button/Tooltip/NexusMassRecall=대상 지역에 위치한 자신의 모든 유닛을 연결체로 귀환시킵니다. 
+Button/Tooltip/NexusShieldOvercharge=연결체가 자동으로 에너지를 사용해서 주위 유닛들의 보호막을 회복시킵니다.
+Button/Tooltip/NexusShieldOverchargeOff=연결체가 더는 자동으로 아군 유닛을 대상으로 삼지 않습니다.
+Button/Tooltip/NexusShieldRecharge=대상 유닛 또는 구조물의 보호막을 회복시킵니다.<n/><n/><c val="ffff8a">에너지 1당 <d ref="Effect,NexusShieldRechargeShield,VitalArray[Shields].Change"/>의 보호막이 회복됩니다.</c>
+Button/Tooltip/NexusShieldRechargeOnPylon=대상 수정탑의 케이다린 수정을 강화하여 <d ref="Behavior,NexusShieldRechargeOnPylonBehavior,Duration[0]"/>초 동안 아군 유닛의 보호막을 재충전하는 구조물로 만들어 줍니다.
+Button/Tooltip/NydusWormIncreasedArmorPassive=땅굴벌레가 땅속에서 나올 때 <d ref="Behavior,NydusWormArmor,Modification.LifeArmorBonus+1"/>의 방어력이 부여됩니다.
+Button/Tooltip/OracleBuildStasisTrap=대상 위치에 <d ref="Behavior,StasisWardTimedLife,Duration"/>초 동안 지속되는 은폐 정지장 수호물을 놓습니다. 적의 지상 유닛이 수호물을 발동시키면 주위 적들이 <d ref="Behavior,OracleStasisTrapTarget,Duration"/>초 동안 정지장에 갇힙니다. 정지장에 갇힌 유닛은 공격을 받거나 능력의 영향을 받지 않습니다.
+Button/Tooltip/Overseer=고급 공중 탐지 유닛입니다. 대군주와 동일한 만큼의 지휘력을 공급합니다. 감시, 변신수 생성, 오염 능력을 사용할 수 있습니다.<n/><n/><c val="FFE303">탐지기</c>
+Button/Tooltip/ParasiticBomb=기생 구름을 생성하여 대상과 주위 적 공중 유닛에게 <d ref="Behavior,ParasiticBomb,Duration"/>초에 걸쳐 <d ref="Behavior,ParasiticBomb,Duration/Behavior,ParasiticBomb,Period*Effect,ParasiticBombDotDamage,Amount"/>의 피해를 줍니다. 대상이 죽으면 구름은 그 죽은 지점의 공중에 머물다 사라집니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 또는 구조물 대상 지정 불가</c>
+Button/Tooltip/PointDefense=다양한 적 원거리 발사체를 요격하는 자동 방어 레이저 장치입니다. 특수 공격은 무력화시킬 수 없습니다.<n/><n/><c val="f078ff">매 사격 시 10의 에너지 소모</c>
+Button/Tooltip/PsiStorm=<d time="8.4"/> 동안 지속되는 사이오닉 에너지의 폭풍을 생성하여, 대상 지역에 있는 모든 유닛에게 최대 140의 피해를 줍니다.
+Button/Tooltip/PsionicSurge=광전사의 돌진이 대상에게 <d ref="Effect,ChargingDamage,Amount"/>의 피해를 줍니다.
+Button/Tooltip/PurificationNova=<d ref="Behavior,PurificationNovaTargettedTarget,Duration"/>초 동안 지속되는 에너지 구체를 발사합니다. 구체는 지속 시간 후 강력한 폭발 에너지를 방출하여 주위 지상 유닛과 구조물에 <d ref="Effect,PurificationNovaDamage,Amount"/>의 방사 피해를 주고 추가로 <d ref="Effect,PurificationNovaDamage,ShieldBonus"/>의 보호막 피해를 줍니다. 에너지 구체가 활성화되어 있는 동안 분열기는 이동 불가 상태가 됩니다.
+Button/Tooltip/RapidReignitionSystem=의료선의 재연소 장치 점화의 재사용 대기시간이 <d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/>만큼 감소하고 이동 속도가 증가합니다.
+Button/Tooltip/Raven=공중 지원 유닛입니다. 자동 포탑, 방해 매트릭스, 대장갑 미사일을 사용할 수 있습니다.<n/><n/><c val="FFE303">탐지기</c>
+Button/Tooltip/RavenEnhancedMunitionsPassive=밤까마귀의 대장갑 미사일 폭발 반경이 20%만큼 증가하고 추적 거리가 50%만큼 증가합니다.
+Button/Tooltip/RavenRecalibratedExplosives=추적 미사일의 공격력이 30%만큼 증가하고 추적 거리가 50%만큼 증가합니다.
+Button/Tooltip/RavenRepairDrone=<d ref="Behavior,RavenRepairDroneTimedLife,Duration"/>초 동안 주위 아군 기계 유닛을 수리합니다.
+Button/Tooltip/RavenRepairDroneHeal=아군 기계 유닛을 수리합니다.<n/><n/><c val="f078ff">에너지 1당 <d ref="Effect,RavenRepairDroneHeal,RechargeVitalRate*Effect,RavenRepairDroneHeal,DrainVitalCostFactor"/>의 체력을 수리합니다.</c>
+Button/Tooltip/RavenResearchEnhancedMunitions=<c val="ffff8a">밤까마귀</c>의 대장갑 미사일 폭발 반경이 20%만큼 증가하고 추적 거리가 50%만큼 증가합니다.
+Button/Tooltip/RavenScramblerMissile=대상 유닛을 비활성화시켜 <d ref="Behavior,RavenScramblerMissile,Duration"/>초 동안 공격하거나 능력을 사용하지 못하게 만듭니다. 은폐한 유닛을 드러냅니다.<n/><n/><c val="#ColorAttackInfo">기계 유닛 및 사이오닉 유닛을 대상으로 사용 가능</c>
+Button/Tooltip/RavenShredderMissile=미사일을 배치합니다. 미사일은 대상 유닛을 추적하여 적중 시 <d ref="Behavior,RavenShredderMissileArmorReductionUISubtruct,Duration"/>초 동안 방어력과 보호막 방어력을 <d ref="-1*Behavior,RavenShredderMissileArmorReductionUISubtruct,Modification.LifeArmorBonus"/>만큼 감소시킵니다.
+Button/Tooltip/ResearchAdeptShieldUpgrade=<c val="ffff8a">사도</c>의 보호막이 50만큼 증가합니다.
+Button/Tooltip/ResearchAmplifiedShielding=<c val="ffff8a">사도</c>의 보호막이 <d ref="$UpgradeEffectArrayValue:AmplifiedShielding:Unit,Adept,ShieldsMax$"/> 증가합니다.
+Button/Tooltip/ResearchArmorPiercingRockets=<c val="ffff8a">사이클론의</c> 목표물 고정 능력을 향상시켜 중장갑 유닛에게 공격당 +<d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$"/>의 피해를 줍니다. 총 +<d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$*Effect,LockOnAirCP,PeriodCount"/>의 피해를 줍니다.
+Button/Tooltip/ResearchBallisticRange=<c val="ffff8a">해방선</c>의 수호기 모드의 사거리가 <d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>만큼 증가합니다.
+Button/Tooltip/ResearchCarrierCapacity=<c val="ffff8a">우주모함</c> 하나당 요격기의 최대 숫자가 8대에서 10대로 증가합니다.
+Button/Tooltip/ResearchCarrierLeashRangeUpgrade=<c val="ffff8a">요격기</c>의 활동 범위가 <d ref="$UpgradeEffectArrayValue:CarrierLeashRangeUpgrade:Abil,CarrierHangar,Leash$"/>만큼 증가합니다.
+Button/Tooltip/ResearchCharge=<c val="ffff8a">광전사</c>가 주위 적을 향해 돌진합니다. 추가로 <c val="ffff8a">광전사</c>의 이동 속도가 증가합니다. <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/>초에 한 번씩만 사용할 수 있습니다.
+Button/Tooltip/ResearchCycloneRapidFireLaunchers=<c val="ffff8a">사이클론</c>의 목표물 고정 능력 첫 12발의 공격 속도가 증가합니다.
+Button/Tooltip/ResearchDarkTemplarBlink=<c val="ffff8a">암흑 기사</c>가 주위의 대상 위치로 순간이동할 수 있습니다.
+Button/Tooltip/ResearchDrillClaws=<c val="ffff8a">땅거미 지뢰</c>의 잠복 및 잠복 해제 속도가 2배 더 빨라집니다.
+Button/Tooltip/ResearchEnhancedShockwaves=<c val="ffff8a">유령</c>의 EMP 탄환 반경이 +<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>만큼 증가합니다.
+Button/Tooltip/ResearchExplosiveShrapnelShells=밤까마귀의 <c val="ffff8a">자동 포탑</c>과 <c val="ffff8a">추적 미사일</c>의 공격력이 30%만큼 증가합니다.
+Button/Tooltip/ResearchExtendedThermalLance=<c val="ffff8a">거신</c> 무기의 사거리가 <d ref="$UpgradeEffectArrayValue:ExtendedThermalLance:Weapon,ThermalLances,Range$"/>만큼 증가합니다.
+Button/Tooltip/ResearchFrenzy=<c val="ffff8a">히드라리스크</c>가 달려들기 능력을 사용할 수 있습니다. 달려들기는 짧은 시간 동안 이동 속도를 크게 증가시킵니다.
+Button/Tooltip/ResearchHiSecAutoTracking=<c val="ffff8a">미사일 포탑</c>과 <c val="ffff8a">자동 포탑</c>, <c val="ffff8a">행성 요새</c>의 사거리가 1만큼 증가합니다.
+Button/Tooltip/ResearchHighCapacityBarrels=<c val="ffff8a">화염차</c>에 장착된 지옥 화염방사기의 성능을 향상시켜 경장갑 유닛에게 <d ref="$UpgradeEffectArrayValue:HighCapacityBarrels:Effect,InfernalFlameThrower,AttributeBonus[Light]$"/>의 추가 피해를 줍니다. <c val="ffff8a">화염기갑병</c>의 네이팜 분사가 경장갑 유닛에게 <d ref="$UpgradeEffectArrayValue:HighCapacityBarrels:Effect,HellionTankDamage,AttributeBonus[Light]$"/>의 추가 피해를 줍니다.
+Button/Tooltip/ResearchHighCapacityFuelTanks=<c val="ffff8a">의료선</c>의 연료 비축량을 증가시켜 재연소 장치 점화의 지속 시간을 50%만큼 증가시킵니다.
+Button/Tooltip/ResearchLockOnRangeUpgrade=사이클론의 목표물 고정 사거리가 6에서 9로 증가하고 목표물로 고정되는 사거리가 12에서 15로 증가합니다.
+Button/Tooltip/ResearchLurkerRange=<c val="ffff8a">가시지옥</c>의 사거리가 +<d ref="$UpgradeEffectArrayValue:LurkerRange:Weapon,LurkerMP,Range$"/>만큼 증가합니다.
+Button/Tooltip/ResearchMagFieldLaunchers=<c val="ffff8a">사이클론</c>의 사거리가 <d ref="$UpgradeEffectArrayValue:MagFieldLaunchers:Weapon,TyphoonMissilePod,Range$"/>만큼 증가합니다.
+Button/Tooltip/ResearchMedivacEnergyUpgrade2=<c val="ffff8a">의료선</c>의 에너지 재생 속도가 <d ref="(Upgrade,MedivacCaduceusReactor,EffectArray[0].Value-1)*100"/>% 증가합니다.
+Button/Tooltip/ResearchPsionicAmplifiers=<c val="ffff8a">사도</c>의 공격 사거리가 +<d ref="$UpgradeEffectArrayValue:PsionicAmplifiers:Weapon,Adept,Range$"/> 증가합니다.
+Button/Tooltip/ResearchPsionicSurge=<c val="ffff8a">광전사</c>의 돌진이 대상에게 <d ref="Effect,ChargingDamage,Amount"/>의 피해를 줍니다.
+Button/Tooltip/ResearchRapidReignitionSystem=<c val="ffff8a">의료선</c>의 재연소 장치 점화의 재사용 대기시간이 <d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/>만큼 감소하고 이동 속도가 증가합니다.
+Button/Tooltip/ResearchRavenInterferenceMatrix=<c val="ffff8a">밤까마귀</c>가 방해 매트릭스 능력을 사용할 수 있습니다.
+Button/Tooltip/ResearchRavenRecalibratedExplosives=<c val="ffff8a">추적 미사일</c>의 공격력이 30%만큼 증가하고 추적 거리가 50%만큼 증가합니다.
+Button/Tooltip/ResearchSmartServos=<c val="ffff8a">화염차</c>, <c val="ffff8a">화염기갑병</c>, <c val="ffff8a">바이킹</c>, <c val="ffff8a">해방선</c>, <c val="ffff8a">토르</c>가 전투 모드를 빠르게 전환합니다.
+Button/Tooltip/RoachWarren=바퀴를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 바퀴 (애벌레에서 변태)<n/>- 궤멸충 (바퀴에서 변태)
+Button/Tooltip/ShieldBatteryRecharge=대상 유닛 또는 구조물의 보호막을 회복시킵니다.
+Button/Tooltip/ShieldBatteryRechargeEx5=대상 유닛 또는 구조물의 보호막을 회복시킵니다.<n/><n/><c val="f078ff">에너지 1당 3의 보호막 회복</c><n/><n/><c val="#ColorAttackInfo">자동 시전은 유닛과 방어 구조물만 대상으로 함</c>
+Button/Tooltip/ShieldBatteryRechargeNotOvercharged=<n/><n/><c val="f078ff">초당 최대 <d ref="Effect,ShieldBatteryRechargeEx5,RechargeVitalRate * Behavior,BatteryOvercharge,Modification.HealDealtMultiplier"/>의 보호막을 회복시킵니다.</c>
+Button/Tooltip/ShieldBatteryRechargeNotOverchargedConstantText=<n/><n/><c val="#ColorAttackInfo">자동 시전은 유닛과 방어 구조물만 대상으로 합니다.</c>
+Button/Tooltip/ShieldBatteryRechargeOvercharged=<n/><n/><c val="f078ff">초당 최대 <d ref="Effect,ShieldBatteryRechargeEx5,RechargeVitalRate"/>의 보호막을 회복시킵니다. 보호막을 3 회복시킬 때마다 충전소의 에너지가 1 소모됩니다.</c>
+Button/Tooltip/Starport=공중 유닛 생산 시설입니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 바이킹<n/>- 의료선<n/>- 해방선
+Button/Tooltip/SupplyDrop=선택한 보급고에 추가 보급품을 투하하여 보급품 공급량을 영구적으로 <d ref="Behavior,SupplyDrop,Modification.Food"/>만큼 증가시키고 즉시 체력을 500까지 증가시킵니다.
+Button/Tooltip/SwarmHostMP=식충을 생성해 공격하는 공성 유닛입니다.<n/><n/><c val="#ColorAttackInfo">식충은 지상 유닛 공격 가능</c>
+Button/Tooltip/TechLabFactory=차량 기술을 연구합니다. 기술실은 모든 생산 건물에 부착할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 공성 전차<n/>- 토르 (무기고 필요)
+Button/Tooltip/Tempest=공성 포함입니다. 장거리에서 공격합니다.<n/><n/><c val="ffff8a">지상 및 공중 유닛 공격 가능</c>
+Button/Tooltip/TempestDisruptionBlast=<d ref="Abil,TempestDisruptionBlast,CastIntroTime[0]"/>초의 충전 시간 후, 대상 지역의 적 지상 유닛과 지상 구조물을 <d ref="Behavior,TempestDisruptionBlastStunBehavior,Duration"/>초 동안 기절시킵니다.
+Button/Tooltip/TempestDisruptionSphereMissile=대상 지역의 적 지상 유닛과 구조물에 <d ref="(Effect,TempestDeathBallCP,PeriodCount)*(Effect,TempestDeathBallCP,PeriodicPeriodArray[0])"/>초 동안 최대 <d ref="(Effect,TempestDeathBallCP,PeriodCount)*(Effect,TempestDeathBallCP,PeriodicPeriodArray[0])/(Behavior,TempestDeathBall,Period)*(Effect,TempestDeathBallDamage,Amount)"/>의 피해를 줍니다.
+Button/Tooltip/TempestGroundAttackUpgrade=폭풍함의 무기가 구조물에 +<d ref="$UpgradeEffectArrayValue:TempestGroundAttackUpgrade:Effect,TempestDamageGround,AttributeBonus[Structure]$"/>의 피해를 줍니다.
+Button/Tooltip/TempestResearchGroundAttackUpgrade=<c val="ffff8a">폭풍함</c>의 무기가 구조물에 +<d ref="$UpgradeEffectArrayValue:TempestGroundAttackUpgrade:Effect,TempestDamageGround,AttributeBonus[Structure]$"/>의 피해를 줍니다.
+Button/Tooltip/TemporalField=<d ref="(Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodicPeriodArray[0])"/>초 후, 대상 지역의 시공간을 <d ref="Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodicPeriodArray[0]"/>초 동안 왜곡합니다. 이 왜곡장 안의 모든 적 유닛과 구조물은 공격 속도와 이동 속도가 <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%만큼 감소합니다.
+Button/Tooltip/TimeWarp=대상 구조물에 시간 증폭을 사용합니다. 해당 건물의 생산 및 연구 속도가 <d ref="(((Behavior,TimeWarpProduction,Modification.TimeScale)-1)*100)" precision="1"/>%만큼 증가합니다.
+Button/Tooltip/Transfusion=대상 생체 유닛 또는 구조물을 즉시 치료하여 <d ref="Effect,Transfusion,VitalArray[Life].Change"/>의 생명력을 회복시킵니다. 추가로 <d ref="Behavior,Transfusion,Duration"/>초에 걸쳐 <d ref="Behavior,Transfusion,Duration/Behavior,Transfusion,Period*Effect,TransfusionHealTick,VitalArray[Life].Change"  precision="3"/>의 생명력을 회복시킵니다.
+Button/Tooltip/UltraliskCavern=울트라리스크를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 울트라리스크 (애벌레에서 변태)
+Button/Tooltip/UpgradeBuildingArmorLevel1=<c val="ffff8a">구조물</c>의 방어력이 2만큼 증가합니다. <c val="ffff8a">벙커</c>의 공간이 2칸 증가합니다. <c val="ffff8a">사령부</c>와 <c val="ffff8a">행성 요새</c>에 추가 공간을 제공합니다.
+Button/Tooltip/ViperConsume=대상 구조물에 달라붙어 총 <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/>의 피해를 주고, 살모사의 에너지를 초당 <d ref="(Effect,ViperConsumeStructureModifyCaster,VitalArray[2].Change / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/>만큼 회복시킵니다. <d time="20"/> 동안 지속됩니다.<n/><n/><c val="#ColorAttackInfo">동맹 또는 적 구조물 대상 지정 불가</c>
+Button/Tooltip/VoidRaySwarmDamageBoost=공허 포격기의 분광 광선을 재정렬하여, 중장갑 유닛에게 주는 피해가 <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/>초 동안 <d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/>만큼 증가합니다. 분광 정렬이 활성화되어 있는 동안 공허 폭격기의 이동 속도가 감소합니다.
+Button/Tooltip/WarpPrism=비행 수송기입니다. 떨어져 있는 유닛을 들일 수 있으며 동력장을 생성하도록 배치할 수 있습니다.
+Button/Tooltip/WarpPrismLoad=최대 <d ref="Abil,WarpPrismTransport,Range"/>만큼 떨어져 있는 유닛을 차원 분광기의 분광장 안으로 들일 수 있습니다.
+Button/Tooltip/WarpPrismPhasing=정지 상태로 에너지를 공급합니다. 유닛을 들이거나 내보낼 수 있습니다. 이동하는 수송 모드로 전환할 수 있습니다.
+Button/Tooltip/WidowMine=로봇 지뢰입니다. 잠복 상태로 있다가 근처로 다가오는 적에게 미사일을 발사하여 대상과 그 주변 소규모 지역에 피해를 줍니다. 감시 미사일이 재사용 대기 중이면 땅거미 지뢰가 모습을 드러냅니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>
+Button/Tooltip/WidowMineBioSplash=접근하는 적 지상 및 공중 유닛에 미사일을 발사합니다. 미사일은 주 대상에게 <d ref="Effect,WidowMineExplodeDirect,Amount"/>(보호막에는 추가 <d ref="Effect,WidowMineExplodeDirect,ShieldBonus"/>)의 피해를 주고 주위 유닛에게 <d ref="Effect,WidowMineExplodeSplash,Amount"/>(보호막에는 추가 <d ref="Effect,WidowMineExplodeSplash,ShieldBonus"/>)의 방사 피해를 줍니다. 재장전 시 유닛이 노출됩니다.<n/><n/><c val="#ColorAttackInfo">재사용 대기시간: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/>초</c>
+Button/Tooltip/WidowMineConcealment=재장전 시에 노출되지 않습니다.
+Button/Tooltip/YamatoGun=강력한 플라스마 포로 대상을 공격하여 <d ref="Effect,YamatoU,Amount"/>의 피해를 줍니다.
+Button/Tooltip/hydraliskspeed=<c val="ffff8a">히드라리스크</c>의 이동 속도가 25%만큼 증가하고 공격 사거리가 <d ref="$UpgradeEffectArrayValue:hydraliskspeed:Weapon,NeedleSpines,Range$"/>만큼 증가합니다.
+DataCollection/Name/ShieldBatteryRechargeEx5=Shield Battery Recharge Ex5
+Effect/Name/90mmCannonsDummy=90mm Cannons Dummy
+Effect/Name/AdeptPiercingDamage=관통 피해
+Effect/Name/AdeptPiercingInitialPersistent=관통 초기 지속
+Effect/Name/AdeptPiercingSearch=관통 탐색
+Effect/Name/AdeptPiercingSet=관통 설정
+Effect/Name/AmorphousArmorcloudAB=AmorphousArmorcloudAB
+Effect/Name/AmorphousArmorcloudCP=AmorphousArmorcloudCP
+Effect/Name/AmorphousArmorcloudSearch=AmorphousArmorcloudSearch
+Effect/Name/ApplyNeuralAcquireToAllChildren=
+Effect/Name/AutoMorphtoWarpGate=차원 관문으로 자동 변태
+Effect/Name/BarrierIssueOrder=방벽 지시 전달
+Effect/Name/BatteryAddEnergy=
+Effect/Name/BatteryCooldownAB=
+Effect/Name/BatteryOverchargeAB=
+Effect/Name/BatteryOverchargeCreateHealer=
+Effect/Name/BattlecruiserAttackTrackerAB=
+Effect/Name/BattlecruiserAttackTrackerCP=
+Effect/Name/BattlecruiserAttackTrackerDP=
+Effect/Name/BattlecruiserAttackTrackerOrderAttack=
+Effect/Name/BattlecruiserAttackTrackerOrderStop=
+Effect/Name/BattlecruiserAttackTrackerPointSet=
+Effect/Name/BattlecruiserAttackTrackerStopSet=
+Effect/Name/BattlecruiserAttackTrackerSwitch=
+Effect/Name/BattlecruiserAttackTrackerUnitSet=
+Effect/Name/BattlecruiserChasingAB=
+Effect/Name/BattlecruiserChasingRB=
+Effect/Name/BattlecruiserDamageCP=BattlecruiserDamageCP
+Effect/Name/BattlecruiserDamageSet=
+Effect/Name/BattlecruiserDamageSwitch=BattlecruiserDamageSwitch
+Effect/Name/BattlecruiserTacticalJumpCD=Battlecruiser Tactical Jump CD
+Effect/Name/BattlecruiserTargetTriggerHyperJumpCD=BattlecruiserTargetTriggerHyperJumpCD
+Effect/Name/BattlecruiserTransientTrackerAB=
+Effect/Name/BattlecruiserTransientTrackerSwitch=
+Effect/Name/BattlecruiserTransientTrackerThreatAB=
+Effect/Name/BattlecruiserYamatoCD=Battlecruiser Yamato CD
+Effect/Name/BattlecrusierDisableWeaponsAB=무기 AB 비활성화
+Effect/Name/BatttlecruiserAttackTrackerRB=
+Effect/Name/BypassArmorABSet=Bypass Armor AB Set
+Effect/Name/BypassArmorCU=Bypass Armor CU
+Effect/Name/BypassArmorCreatePersistent=Bypass Armor Create Persistent
+Effect/Name/BypassArmorDebuffDamageDummy=방어력 감쇠 약화 효과 피해 모형
+Effect/Name/BypassArmorDebuffOneAB=Bypass Armor Debuff One AB
+Effect/Name/BypassArmorDebuffOneRB=Bypass Armor Debuff One RB
+Effect/Name/BypassArmorDebuffOneSet=방어력 감쇠 약화 효과 1 모음
+Effect/Name/BypassArmorDebuffThreeAB=Bypass Armor Debuff Three AB
+Effect/Name/BypassArmorDebuffThreeRB=Bypass Armor Debuff Three RB
+Effect/Name/BypassArmorDebuffThreeSet=방어력 감쇠 약화 효과 3 모음
+Effect/Name/BypassArmorDebuffTwoAB=Bypass Armor Debuff Two AB
+Effect/Name/BypassArmorDebuffTwoRB=Bypass Armor Debuff Two RB
+Effect/Name/BypassArmorDebuffTwoSet=방어력 감쇠 약화 효과 2 모음
+Effect/Name/BypassArmorDestroyPersistent=Bypass Armor Destroy Persistent
+Effect/Name/BypassArmorDroneMove=Bypass Armor Drone Move
+Effect/Name/BypassArmorMovementDebuffAB=Bypass Armor Movement Debuff AB
+Effect/Name/BypassArmorRBSet=Bypass Armor RB Set
+Effect/Name/BypassArmorStunAB=Bypass Armor Stun AB
+Effect/Name/BypassArmorStunRB=Bypass Armor Stun RB
+Effect/Name/CalldownMULEIssueOrderSecondary=Calldown MULE (Issue Order) Secondary
+Effect/Name/ChannelSnipeCombat=Channel Snipe Combat
+Effect/Name/ChannelSnipeCombatBeamDummy=Channel Snipe Combat Beam Dummy
+Effect/Name/ChannelSnipeCombatRB=Channel Snipe Combat RB
+Effect/Name/ChannelSnipeCreatePersistent=Channel Snipe Create Persistent
+Effect/Name/ChannelSnipeDamage=Channel Snipe Damage
+Effect/Name/ChannelSnipeDamageSet=Channel Snipe Damage Set
+Effect/Name/ChannelSnipeInitialSet=Channel Snipe Initial Set
+Effect/Name/ChannelingCausticSprayAB=부식액 분사 집중 중 AB
+Effect/Name/ChannelingCausticSprayRB=부식액 분사 집중 중 RB
+Effect/Name/ChargeAttackApplyBuff=돌진 공격 (강화 효과 적용)
+Effect/Name/ChargeAttackRemoveBuff=Charge Attack Remove Buff
+Effect/Name/ChargeCheckApplyBuff=돌진 확인 (강화 효과 적용)
+Effect/Name/ChargeCheckRemoveBuff=Charge Check Remove Buff
+Effect/Name/ChargingDamage=돌진 피해
+Effect/Name/ChargingDamageSecondary=Charging Damage Secondary
+Effect/Name/ChargingPrimaryDamageSet=Charging Primary Damage Set
+Effect/Name/ChronoBoostEnergyCostAB=Chrono Boost Energy Cost
+Effect/Name/CommandCenterKnockbackSE=Command Center Knockback SE
+Effect/Name/CycloneAirWeaponDamage=Cyclone Air Weapon Damage
+Effect/Name/CycloneAirWeaponLaunchMissileLeft=사이클론 공중 무기 발사 미사일 왼쪽
+Effect/Name/CycloneAirWeaponLaunchMissileLeftSet=사이클론 공중 무기 발사 미사일 왼쪽 설정
+Effect/Name/CycloneAirWeaponLaunchMissileRight=사이클론 공중 무기 발사 미사일 오른쪽
+Effect/Name/CycloneAirWeaponLaunchMissileRightSet=사이클론 공중 무기 발사 미사일 오른쪽 설정
+Effect/Name/CycloneAirWeaponLaunchMissileSwitch=사이클론 공중 무기 발사 미사일 전환
+Effect/Name/CycloneAttackWeaponDamage=사이클론 공격 무기 피해
+Effect/Name/CycloneAttackWeaponLaunchMissileLeft=사이클론 공격 무기 발사 미사일 왼쪽
+Effect/Name/CycloneAttackWeaponLaunchMissileLeftSet=Cyclone Attack Weapon Launch Missile Left Set
+Effect/Name/CycloneAttackWeaponLaunchMissileRight=사이클론 공격 무기 발사 미사일 오른쪽
+Effect/Name/CycloneAttackWeaponLaunchMissileRightSet=Cyclone Attack Weapon Launch Missile Right Set
+Effect/Name/CycloneAttackWeaponLaunchMissileSwitch=Cyclone Attack Weapon Launch Missile Switch
+Effect/Name/CycloneWeaponLaunchMissileLeftSetNew=사이클론 무기 발사 미사일 왼쪽 설정 신규
+Effect/Name/CycloneWeaponLaunchMissileRightSetNew=사이클론 무기 발사 미사일 오른쪽 설정 신규
+Effect/Name/CycloneWeaponTurretClearLook=Cyclone Weapon Turret Clear Look
+Effect/Name/CycloneWeaponTurretLook=Cyclone Weapon Turret Look
+Effect/Name/DamageTakenBarrieAutocastAB=Damage Taken Barrie Autocast AB
+Effect/Name/DamageTakenBarrierAutocastSet=Damage Taken Barrier Autocast Set
+Effect/Name/DarkTemplarBlink=Dark Templar Blink
+Effect/Name/DarkTemplarBlinkAB=
+Effect/Name/DisruptorTransportUnloadPurificationNovaCooldownReset=Disruptor Transport Unload Purification Nova Cooldown Reset
+Effect/Name/EnergyRecharge=에너지 재충전
+Effect/Name/EnergyRechargePersistent=
+Effect/Name/FungalGrowthSlowMovementApplyBehavior=Fungal Growth Slow Movement Apply Behavior
+Effect/Name/FungalGrowthTargetOnCreepSwitch=Fungal Growth Target On Creep Switch
+Effect/Name/HighTemplarWeaponDamage=High Templar Weapon Damage
+Effect/Name/HighTemplarWeaponLM=High Templar Weapon LM
+Effect/Name/HighTemplarWeaponSet=High Templar Weapon Set
+Effect/Name/HydraliskFrenzyApplyBehavior=
+Effect/Name/HyperjumpInitialCP=
+Effect/Name/HyperjumpInitialDelaySuppressWeaponAB=HyperjumpInitialDelaySuppressWeaponAB
+Effect/Name/HyperjumpInitialDelaySuppressWeaponRB=HyperjumpInitialDelaySuppressWeaponRB
+Effect/Name/ImmortalBarrierSupressedApplyBehavior=Immortal Barrier Supressed Apply Behavior
+Effect/Name/InfestedAcidSpines=Infested Acid Spines
+Effect/Name/InfestedAcidSpinesLM=Infested Acid Spines LM
+Effect/Name/IssueOrderMorphtoWarpGate=차원 관문에 변태 지시 전달
+Effect/Name/LockOnAirCP=Lock On Air CP
+Effect/Name/LockOnAirFireSet=공중 목표물 고정 사격 설정
+Effect/Name/LockOnAirInitialSet=공중 목표물 고정 초기 설정
+Effect/Name/LockOnAirTurretStart=공중 목표물 고정 포탑 시작
+Effect/Name/LockOnGroundAirSet=지상 공중 목표물 고정 설정
+Effect/Name/LockOnInitialSetNew=목표물 고정 초기 설정 신규
+Effect/Name/LocustMPFlyingSwoopAttackIssueOrder=Locust MP Flying Swoop Attack Issue Order
+Effect/Name/LocustMPFlyingSwoopCreatePrecursorOffset=Locust MP Flying Swoop Create Precursor Offset
+Effect/Name/LocustMPFlyingUncommandableAB=Locust MP Flying Uncommandable AB
+Effect/Name/LocustMPIssueOrder=식충 MP 지시 전달
+Effect/Name/LurkerMPCU=
+Effect/Name/LurkerMPDestroyPersistent=
+Effect/Name/LurkerMPSearchSet=
+Effect/Name/LurkerMPWeaponRangeSwitch=
+Effect/Name/MedivacUnloadCargoSetEffect=Medivac Unload Cargo Set Effect
+Effect/Name/MorphToGhostAlternate=MorphToGhostAlternate
+Effect/Name/MorphToGhostNova=MorphToGhostNova
+Effect/Name/NeuralParasiteChildren=신경 기생충 자식
+Effect/Name/NexusChronoBoostIssueOrder=시간 증폭 지시 전달
+Effect/Name/NexusMassRecallPhased=Nexus Mass Recall Phased
+Effect/Name/NexusMassRecallSearch=Nexus Mass Recall Search
+Effect/Name/NexusMassRecallTeleport=Nexus Mass Recall Teleport
+Effect/Name/NexusMassRecallWarpOutAB=Nexus Mass Recall Warp Out 
+Effect/Name/NexusShieldOverchargeAB=Nexus Shield Overcharge AB
+Effect/Name/NexusShieldOverchargeEnergy=Nexus Shield Overcharge Energy
+Effect/Name/NexusShieldOverchargeRB=Nexus Shield Overcharge RB
+Effect/Name/NexusShieldOverchargeSearch=Nexus Shield Overcharge Search
+Effect/Name/NexusShieldOverchargeSet=Nexus Shield Overcharge Set
+Effect/Name/NexusShieldOverchargeShield=Nexus Shield Overcharge Shield
+Effect/Name/NexusShieldRecharge=Nexus Shield Recharge
+Effect/Name/NexusShieldRechargeEnergy=Nexus Shield Recharge Energy
+Effect/Name/NexusShieldRechargeOnPylonAB=Nexus Shield Recharge On Pylon AB
+Effect/Name/NexusShieldRechargeOnPylonABSecondaryOnTarget=Nexus Shield Recharge On Pylon AB Secondary On Target
+Effect/Name/NexusShieldRechargeOnPylonModifyUnit=Nexus Shield Recharge On Pylon Modify Unit
+Effect/Name/NexusShieldRechargeOnPylonMorph=Nexus Shield Recharge On Pylon Morph
+Effect/Name/NexusShieldRechargeOnPylonMorphBack=Nexus Shield Recharge On Pylon Morph Back
+Effect/Name/NexusShieldRechargeOnPylonSearch=Nexus Shield Recharge On Pylon Search
+Effect/Name/NexusShieldRechargeSet=Nexus Shield Recharge Set
+Effect/Name/NexusShieldRechargeShield=Nexus Shield Recharge Shield
+Effect/Name/OrbitalCommandCreateMuleOffsetCP=Orbital Command Create Mule Offset CP
+Effect/Name/OrbitalCommandCreateMuleSearchTownHall=Orbital Command Create Mule Search TownHall
+Effect/Name/OrbitalCommandCreateMuleSwitch=Orbital Command Create Mule Switch
+Effect/Name/PhaseMothershipCoreRecalledRemove=Phase Mothership Core Recalled Remove
+Effect/Name/PhaseMothershipCoreRecallingRemove=Phase Mothership Core Recalling Remove
+Effect/Name/PhaseShiftRemoveRecall=Phase Shift Remove Recall
+Effect/Name/PhaseShiftTimerCancelSet=Phase Shift Timer Cancel Set
+Effect/Name/PiercingLM=관통 LM
+Effect/Name/PunisherGrenadesLMLeft=응징자 유탄 LM 왼쪽
+Effect/Name/PunisherGrenadesLMRight=응징자 유탄 LM 오른쪽
+Effect/Name/PunisherGrenadesLaunchSet=응징자 유탄 발사 모음
+Effect/Name/PurificationNovaDetonateRBCaster=Purification Nova Detonate RB Caster
+Effect/Name/PurificationNovaDetonateRBTarget=Purification Nova Detonate RB Target
+Effect/Name/PurificationNovaDetonateSearch=Purification Nova Detonate Search
+Effect/Name/PurificationNovaDetonateSearchSiegedSiegeTank=Purification Nova Detonate Search Sieged Siege Tank
+Effect/Name/PurificationNovaDetonateSet=Purification Nova Detonate Set
+Effect/Name/PurificationNovaMorphBackFromTransport=Purification Nova Morph Back From Transport
+Effect/Name/PurificationNovaPeriodicSet=Purification Nova Periodic Set
+Effect/Name/PurificationNovaPhaseRB=Purification Nova Phase RB
+Effect/Name/PurificationNovaPostApply=Purification Nova Post (Apply)
+Effect/Name/PurificationNovaPostPhaseRB=Purification Nova Post Phase RB
+Effect/Name/PurificationNovaSpeedRB=Purification Nova Speed RB
+Effect/Name/PurificationNovaTargettedCU=정화 폭발 대상 지정됨 CU
+Effect/Name/PurificationNovaTargettedCasterAB=정화 폭발 대상 지정됨 시전자 AB
+Effect/Name/PurificationNovaTargettedCasterRB=Purification Nova Targetted Caster RB
+Effect/Name/PurificationNovaTargettedInitialSet=정화 폭발 대상 지정됨 초기 설정
+Effect/Name/PurificationNovaTargettedIssueOrder=정화 폭발 대상 지정됨 지시 전달
+Effect/Name/PurificationNovaTargettedSearch=정화 폭발 대상 지정됨 탐색
+Effect/Name/PurificationNovaTargettedSearchSet=정화 폭발 대상 지정됨 탐색 설정
+Effect/Name/PurificationNovaTargettedSpawnAB=정화 폭발 대상 지정됨 생성 AB
+Effect/Name/PurificationNovaTargettedSpawnSet=정화 폭발 대상 지정됨 생성 설정
+Effect/Name/PurificationNovaTargettedTimerSpawnAB=정화 폭발 대상 지정됨 타이머 생성 AB
+Effect/Name/PurificationNovaTransportPickupSet=Purification Nova Transport Pickup Set
+Effect/Name/RavenScramblerDummy=RavenScramblerDummy
+Effect/Name/RavenScramblerMissileSetInitial=
+Effect/Name/RavenScramblerSwitchInitial=RavenScramblerSwitchInitial
+Effect/Name/RavenShredderMissileArmorReductionUIAdd=RavenShredderMissileArmorReductionUIAdd
+Effect/Name/RavenShredderMissileArmorReductionUISubtruct=RavenShredderMissileArmorReductionUISubtruct
+Effect/Name/RavenShredderMissileSearchImpactSet=RavenShredderMissileSearchImpactSet
+Effect/Name/ReleaseInterceptorCreateUnit=요격기 출격 (유닛 생성)
+Effect/Name/ReleaseInterceptorLaunchMissile=요격기 출격 (미사일 발사)
+Effect/Name/ReleaseInterceptorLaunchSet=요격기 출격 (발사 모음)
+Effect/Name/ReleaseInterceptorPersistent=요격기 출격 (지속 효과)
+Effect/Name/ReleaseInterceptorSet=요격기 출격 (모음)
+Effect/Name/ReleaseInterceptorTimedLife=요격기 출격 (시한 생명)
+Effect/Name/ResonatingGlaivesPhaseShiftAB=
+Effect/Name/SalvageCombatAB=
+Effect/Name/SalvageCombatRB=
+Effect/Name/ScramblerMarkerAB=
+Effect/Name/ShieldBatteryRechargeEx5=
+Effect/Name/ShieldBatteryRechargeEx5@DamageDummy=Damage Dummy
+Effect/Name/ShieldBatteryRechargeEx5@RevealSearch=Reveal Search
+Effect/Name/SiegeTankMorphDisableDummyWeaponAB=Siege Tank Morph Disable Dummy Weapon AB
+Effect/Name/SiegeTankUnloadDelayAB=공성 전차 내보내기 지연 AB
+Effect/Name/SiegeTankUnmorphDisableDummyWeaponAB=Siege Tank Unmorph Disable Dummy Weapon AB
+Effect/Name/SpawnInterceptorsCreateUnit=요격기 생성 (유닛 생성)
+Effect/Name/SpawnInterceptorsSearchDummy=요격기 생성 (모형 검색)
+Effect/Name/SpawnLarvaDelay=애벌레 생성 지연
+Effect/Name/SpawnLarvaExpireSet=애벌레 생성 만료 모음
+Effect/Name/SpawnLarvaSet=애벌레 생성 모음
+Effect/Name/SpawnMutantLarvaHiddenAB=돌연변이 애벌레 생성 숨음 AB
+Effect/Name/SpawnMutantLarvaRemoveHiddenBehavior=돌연변이 애벌레 생성 숨은 동작 제거
+Effect/Name/SupplyDropSet=
+Effect/Name/TargetFirePriority=
+Effect/Name/TempestDeathBallCP=Tempest Death Ball 
+Effect/Name/TempestDisruptionBlastAB=Tempest Disruption Blast AB
+Effect/Name/TempestDisruptionBlastInitialWarningDamage=Tempest Disruption Blast Initial Warning Damage
+Effect/Name/TempestDisruptionBlastInitialWarningSearch=Tempest Disruption Blast Initial Warning Search
+Effect/Name/TempestDisruptionBlastSearch=Tempest Disruption Blast Search
+Effect/Name/TempestDisruptionBlastSecondaryWarningDamage=Tempest Disruption Blast Secondary Warning Damage
+Effect/Name/TempestDisruptionBlastSecondaryWarningSearch=Tempest Disruption Blast Secondary Warning Search
+Effect/Name/TempestDisruptionBlastSet=Tempest Disruption Blast Set
+Effect/Name/TemporalFieldAfterBubbleCreatePersistent=거품 후 감속장 지속 효과 생성
+Effect/Name/TemporalFieldAfterBubbleSearchArea=거품 후 감속장 지역 검색
+Effect/Name/TemporalFieldCreatePersistentGrowingBubble=감속장 지속 효과 생성 커지는 거품
+Effect/Name/TemporalFieldGrowingBubbleCreatePersistent=감속장 커지는 거품 (지속 효과 생성)
+Effect/Name/TemporalFieldGrowingBubbleSearchArea=감속장 커지는 거품 (지역 검색)
+Effect/Name/TerranBuildingKnockBack2Set=TerranBuildingKnockBack2Set
+Effect/Name/TerranStructuresKnockbackSE=Terran Structures Knockback SE
+Effect/Name/ThermalBeamDamage=고열 광선 (피해)
+Effect/Name/ThermalBeamPersistent=고열 광선 (지속 효과)
+Effect/Name/ThermalBeamSet=고열 광선 (모음)
+Effect/Name/Transfusion2=
+Effect/Name/TransfusionAB=수혈 AB
+Effect/Name/TransfusionHealTick=수혈 치료 주기
+Effect/Name/TransfusionImpactSet=수혈 충격 세트
+Effect/Name/UpgradeToWarpGateAutoCastDisabler=차원 관문 자동 시전 비활성화로 업그레이드
+Effect/Name/UpgradeToWarpGateAutoCastOff=차원 관문 자동 시전 꺼짐으로 업그레이드
+Effect/Name/VoidRayWeaponTimeWarpSwitch=VoidRayWeaponTimeWarpSwitch
+Effect/Name/WarpPrismUnloadCargoSetEffect=Warp Prism Unload Cargo Set Effect
+Effect/Name/WidowMineNotificationSearch=땅거미 지뢰
+Effect/Name/WidowMineTargetingBeamDummy=Widow Mine Targeting Beam Dummy
+Error/AddOnIsWorking=부속 건물을 연구하는 동안에는 할 수 없습니다.
+Error/AlreadyChronoBoosted=대상이 이미 가속 상태입니다.
+Error/BatteryMustBeNearNexus=대상이 연결체 근처에 있어야 합니다.
+Error/CantBlinkWhileRooted=진균 번식의 효과를 받고 있을 때는 할 수 없습니다.
+Error/CantTargetBattlecruiserHyperjump=전술 차원 도약 유닛을 대상으로 할 수 없습니다.
+Error/CantTargetEggUnit=알을 대상으로 할 수 없습니다.
+Error/CantTargetOverchargedShieldBattery=보호막 충전소가 이미 과충전되어 있습니다.
+Error/CantTargetShieldBattery=보호막 충전소를 대상으로 할 수 없습니다.
+Error/MustTargetMechanicalorPsionic=기계 또는 사이오닉 유닛을 대상으로 해야 합니다.
+Error/MustTargetShieldBattery=보호막 충전소를 대상으로 해야 합니다.
+Error/Scrambled=방해 매트릭스에 갇힌 유닛을 대상으로 할 수 없습니다.
+Error/TargetIsUnpowered=대상의 동력이 끊겼습니다.
+LoadingScreen/Help40=불멸자에게는 <d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/>의 피해를 흡수하는 특수 보호막이 있습니다.
+LookAtType/CycloneTurret=
+Requirement/Name/LearnBansheeRange=밴시 사거리 증가 습득
+RequirementNode/Tooltip/CountBehaviorQueenMustBeOnCreepCompleteOnlyAtUnit1120682689=여왕이 점막 위에 있어야 함
+RequirementNode/Tooltip/CountUnitAlias_TechLabCompleteOnlyAtUnit2589852481TechTreeCheat=부착된 기술실
+RequirementNode/Tooltip/CountUnitLairCompleteOnly1515591279TechTreeCheat=번식지
+RequirementNode/Tooltip/CountUpgradeAdeptPiercingAttackCompleteOnly543136321=황혼 의회에서 공명 파열포 연구
+RequirementNode/Tooltip/CountUpgradeAnabolicSynthesisCompleteOnly463276968=울트라리스크 동굴에서 합성 동화 작용 진화
+RequirementNode/Tooltip/CountUpgradeCarrierCarrierCapacityCompleteOnly3850636404=함대 신호소에서 우주모함 수용력 연구
+RequirementNode/Tooltip/CountUpgradeCarrierLeashRangeUpgradeCompleteOnly3097273746=함대 신호소에서 고급 통신 배열 연구
+RequirementNode/Tooltip/CountUpgradeChargeCompleteOnly137519211TechTreeCheat=황혼 의회에서 돌진 연구
+RequirementNode/Tooltip/CountUpgradeCycloneAirUpgradeCompleteOnly3809174891=군수공장 기술실에서 지대공 조준 연구
+RequirementNode/Tooltip/CountUpgradeCycloneLockOnDamageUpgradeCompleteOnly114637382=군수공장 기술실에서 자기장 가속기 연구
+RequirementNode/Tooltip/CountUpgradeCycloneRapidFireLaunchersCompleteOnly403155563=군수공장 기술실에서 신속 발사기 연구
+RequirementNode/Tooltip/CountUpgradeDarkTemplarBlinkUpgradeCompleteOnly3445645436TechTreeCheat=암흑 성소에서 그림자 걸음 연구
+RequirementNode/Tooltip/CountUpgradeDrillClawsCompleteOnly1396043293=군수공장 기술실에서 천공 발톱 연구
+RequirementNode/Tooltip/CountUpgradeEnhancedShockwavesCompleteOnly2618611756TechTreeCheat=유령 사관학교에서 향상된 충격파 연구
+RequirementNode/Tooltip/CountUpgradeFrenzyCompleteOnly812063945TechTreeCheat=히드라리스크 굴에서 나노 근육 팽창 진화
+RequirementNode/Tooltip/CountUpgradeHurricaneThrustersCompleteOnly114637382=군수공장 기술실에서 허리케인 엔진 연구
+RequirementNode/Tooltip/CountUpgradeInterferenceMatrixCompleteOnly1603463487=우주공항 기술실에서 방해 매트릭스 연구
+RequirementNode/Tooltip/CountUpgradeLiberatorAGRangeUpgradeCompleteOnly2325880491=융합로에서 첨단 탄도 시스템 연구
+RequirementNode/Tooltip/CountUpgradeLiberatorMorphCompleteOnly4015118574TechTreeCheat=우주공항 기술실에서 수호기 모드 연구
+RequirementNode/Tooltip/CountUpgradeMagFieldLaunchersCompleteOnly4115927287=군수공장 기술실에서 자기장 발사기 연구
+RequirementNode/Tooltip/CountUpgradeMedivacCaduceusReactorCompleteOnly3015700321=융합로에서 카두세우스 반응로 연구
+RequirementNode/Tooltip/CountUpgradeMedivacIncreaseSpeedBoostCompleteOnly20648635=융합로에서 고속 재점화 시스템 연구
+RequirementNode/Tooltip/CountUpgradeMedivacRapidDeploymentCompleteOnly1198155126=우주공항 기술실에서 신속 투하 연구
+RequirementNode/Tooltip/CountUpgradeMicrobialShroudCompleteOnly3803934920TechTreeCheat=감염 구덩이에서 세균 장막을 진화합니다.
+RequirementNode/Tooltip/CountUpgradeNeuralParasiteCompleteOnly1444946120TechTreeCheat=감염 구덩이에서 신경 기생충 진화
+RequirementNode/Tooltip/CountUpgradeRavagerRangeCompleteOnly4292606879=바퀴 소굴에서 가압 분비선 연구
+RequirementNode/Tooltip/CountUpgradeRavenDamageUpgradeCompleteOnly1937328235=우주공항 기술실에서 폭발 유산탄 연구
+RequirementNode/Tooltip/CountUpgradeRavenEnhancedMunitionsCompleteOnly807727127=우주공항 기술실에서 강화 탄약 연구
+RequirementNode/Tooltip/CountUpgradeRavenRecalibratedExplosivesCompleteOnly2020753493=우주공항 기술실에서 재보정 폭발물 연구
+RequirementNode/Tooltip/CountUpgradeSunderingImpactCompleteOnly1226141447TechTreeCheat=황혼 의회에서 가르기 충격 연구
+RequirementNode/Tooltip/CountUpgradeTempestGroundAttackUpgradeCompleteOnly788113278=함대 신호소에서 구조 불안정장치 연구
+RequirementNode/Tooltip/LT4164600185CountUnitInterceptorQueuedOrBetterAtUnit10=우주모함이 보유한 요격기 10기 미만
+RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=번식지
+UI/Morphing=전환 중
+Unit/Category/TerranUnits=테란
+Unit/Name/AdeptPiercingWeapon=사도 관통 공격
+Unit/Name/BanelingCocoon2=맹독충 고치
+Unit/Name/BypassArmorDrone=방어력 감쇠기
+Unit/Name/CarrierInterceptorDummy=요격기 모형 *임시*
+Unit/Name/CorrosiveParasiteWeapon=부식성 기생충
+Unit/Name/DisruptorPhased=정화자 구체
+Unit/Name/HighTemplarWeaponMissile=고위 기사 무기 투사체
+Unit/Name/InfestedAcidSpinesWeapon=감염된 산성 가시뼈 무기
+Unit/Name/InterceptorProjectile=요격기 (투사체)
+Unit/Name/InterceptorVoid=요격기
+Unit/Name/LurkerDenMP=가시지옥 굴
+Unit/Name/OverseerSiegeMode=감시군주
+Unit/Name/RavenRepairDrone=수리 비행정
+Unit/Name/SpyDrone=첩보 드론
+Unit/Name/TempestDisruptionSphereMissile=폭풍함 붕괴 구체 미사일
+Upgrade/Name/AdeptPiercingAttack=공명 파열포
+Upgrade/Name/AmplifiedShielding=증폭 보호막
+Upgrade/Name/ArmorPiercingRockets=방어구 관통 로켓
+Upgrade/Name/BansheeSpeed=초비행 회전날개
+Upgrade/Name/CarrierCarrierCapacity=우주모함 수용력
+Upgrade/Name/CarrierLeashRangeUpgrade=우주모함 활동 범위 업그레이드
+Upgrade/Name/CycloneLockOnDamageUpgrade=자기장 가속기
+Upgrade/Name/CycloneRapidFireLaunchers=신속 발사기
+Upgrade/Name/DarkTemplarBlinkUpgrade=그림자 걸음
+Upgrade/Name/DiggingClaws=적응형 발톱
+Upgrade/Name/EnhancedShockwaves=향상된 충격파
+Upgrade/Name/EvolveGroovedSpines=가시 홈
+Upgrade/Name/EvolveMuscularAugments=근육 보강
+Upgrade/Name/Frenzy=달려들기
+Upgrade/Name/GhostAlternate=유령
+Upgrade/Name/HighCapacityBarrels=지옥불 조기점화기
+Upgrade/Name/HurricaneThrusters=허리케인 엔진
+Upgrade/Name/InterferenceMatrix=방해 매트릭스
+Upgrade/Name/LiberatorAGRangeUpgrade=첨단 탄도 시스템
+Upgrade/Name/LiberatorMorph=수호기 모드
+Upgrade/Name/LurkerRange=진동 가시뼈
+Upgrade/Name/MagFieldLaunchers=자기장 발사기
+Upgrade/Name/MedivacIncreaseSpeedBoost=고속 재점화 시스템
+Upgrade/Name/MedivacRapidDeployment=신속 투하
+Upgrade/Name/MicrobialShroud=세균 장막
+Upgrade/Name/PsionicAmplifiers=사이오닉 증폭기
+Upgrade/Name/RavagerRange=궤멸충 사거리
+Upgrade/Name/RavenDamageUpgrade=폭발 유산탄
+Upgrade/Name/RavenEnhancedMunitions=강화 탄약
+Upgrade/Name/RavenRecalibratedExplosives=재보정 폭발물
+Upgrade/Name/RavenSeekerMissileRecalibratedExplosives=재보정 폭발물
+Upgrade/Name/SecretedCoating=분비물 피막
+Upgrade/Name/SmartServos=지능형 제어 장치
+Upgrade/Name/SunderingImpact=가르기 충격
+Upgrade/Name/TempestGroundAttackUpgrade=구조 불안정장치
+Upgrade/Name/TerranBuildingArmor=신소재 강철 장갑
+Upgrade/Name/TerranVehicleAndShipArmorsLevel1=테란 차량 및 우주선 장갑 1단계
+Upgrade/Name/TerranVehicleAndShipArmorsLevel2=테란 차량 및 우주선 장갑 2단계
+Upgrade/Name/TerranVehicleAndShipArmorsLevel3=테란 차량 및 우주선 장갑 3단계
+Upgrade/Name/hydraliskspeed=근육 보강
+Weapon/Name/90mmCannonsFake=90mm 포 가짜
+Weapon/Name/BattlecruiserWeaponSwitch=BattlecruiserWeaponSwitch
+Weapon/Name/BypassArmorDroneWeapon=방어력 감쇠기 무기
+Weapon/Name/CycloneLockOnDummy=모형 목표물 고정
+Weapon/Name/DisruptionBeamDisplayDummy=분열 광선
+Weapon/Name/InfestedAcidSpines=감염된 로켓
+Weapon/Name/OracleDisplayDummy=펄서 광선
+Weapon/Name/PsiBlast=사이오닉 폭발
+Weapon/Name/PurifierBeamDummyTargetFire=
+Weapon/Name/ThermalBeam=고열 광선
+Weapon/Name/VoidRaySwarmDisplayDummy=분광 광선

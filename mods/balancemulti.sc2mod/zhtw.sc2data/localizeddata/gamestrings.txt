@@ -1,0 +1,652 @@
+﻿Abil/Name/AmorphousArmorcloud=無定型防護雲
+Abil/Name/BatteryOvercharge=充能器超載 /// Battery Overcharge
+Abil/Name/BattlecruiserAttack=戰巡艦攻擊
+Abil/Name/BattlecruiserAttackEvaluator=戰巡艦攻擊評估器
+Abil/Name/BattlecruiserMove=戰巡艦移動
+Abil/Name/BattlecruiserStop=戰巡艦停止
+Abil/Name/BattlecruiserStopEvaluator=戰巡艦停止評估器
+Abil/Name/BypassArmor=穿甲
+Abil/Name/BypassArmorDroneCU=穿甲無人機CU
+Abil/Name/ChannelSnipe=引導狙擊
+Abil/Name/ChronoBoostEnergyCost=超時空加速能量消耗
+Abil/Name/DarkShrineResearch=黑暗聖殿研發
+Abil/Name/DarkTemplarBlink=黑暗聖堂武士 - 暗影步法
+Abil/Name/InfestationPitResearch=感染巢研發
+Abil/Name/InfestorEnsnare=感染蟲黏液
+Abil/Name/LaunchInterceptors=發射攔截機
+Abil/Name/LockOnAir=鎖定對空目標
+Abil/Name/LocustMPFlyingSwoopAttack=蝗蟲 - 多人對戰 - 飛行俯衝 - 攻擊
+Abil/Name/LurkerDenResearch=遁地獸穴研發
+Abil/Name/LurkerRemoveHoldFire=遁地獸移除停止攻擊
+Abil/Name/MorphToTransportOverlord=變形為運輸王蟲
+Abil/Name/NexusMassRecall=星核群體召喚
+Abil/Name/NexusShieldOvercharge=星核護盾超載
+Abil/Name/NexusShieldOverchargeOff=關閉星核護盾超載
+Abil/Name/NexusShieldRecharge=星核護盾充能
+Abil/Name/NexusShieldRechargeOnPylon=星核對水晶塔使用護盾充能
+Abil/Name/ObserverMorphtoObserverSiege=觀察者模式轉換為監視模式
+Abil/Name/ObserverSiegeMorphtoObserver=監視模式轉換為觀察者模式
+Abil/Name/OverseerMorphtoOverseerSiegeMode=監察王蟲變形為監察王蟲監視模式
+Abil/Name/OverseerSiegeModeMorphtoOverseer=監察王蟲監視模式變形為監察王蟲
+Abil/Name/PurificationNovaTargetted=淨化光球 - 已鎖定
+Abil/Name/RavenRepairDrone=自動維修機
+Abil/Name/RavenRepairDroneHeal=修復
+Abil/Name/RavenScramblerMissile=干擾器飛彈
+Abil/Name/RavenShredderMissile=粉碎者飛彈
+Abil/Name/SC2_Battery=SC2 Battery
+Abil/Name/ShieldBatteryRechargeChanneled=護盾充能
+Abil/Name/ShieldBatteryRechargeEx5=
+Abil/Name/SpawnInterceptors=生成攔截機
+Abil/Name/SpawnLocustsTargeted=孵化蝗蟲指定目標
+Abil/Name/TempestDisruptionBlast=失能震爆 /// Disruption Blast
+Abil/TargetMessage/attack=<IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/>   點擊地點以自動攻擊<n/><IMG path="Assets\Textures\tutorialmouserightbuttondown.dds" alignment="absolutemiddle"/>   取消 /// <IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/>   Ground to Auto-attack<n/><IMG path="Assets\Textures\tutorialmouserightbuttondown.dds" alignment="absolutemiddle"/>   Cancel
+AchievementTerm/Name/Combat_Mechanic_KillTransport_TransportOverlord=Combat_Mechanic_KillTransport_TransportOverlord
+AchievementTerm/Name/Combat_Spells_PhasePrism_Adept=Combat_Spells_PhasePrism_Adept
+Behavior/Name/AmorphousArmorcloud=微生物護罩 /// Microbial Shroud
+Behavior/Name/BatteryOvercharge=充能器超載 /// Battery Overcharge
+Behavior/Name/BypassArmorDebuffOne=穿甲
+Behavior/Name/BypassArmorDebuffThree=穿甲
+Behavior/Name/BypassArmorDebuffTwo=穿甲
+Behavior/Name/ChannelSnipeCombat=精準狙擊
+Behavior/Name/ChronoBoostEnergyCost=超時空加速 /// Chrono Boost
+Behavior/Name/DisableInterceptors=停用攔截機
+Behavior/Name/InfestorEnsnare=捲入 /// Entangle
+Behavior/Name/InterceptorTimedLife=攔截機限時生命
+Behavior/Name/InterceptorWander=攔截機漫遊
+Behavior/Name/NeuralParasiteChildren=神經寄生宿主
+Behavior/Name/NexusShieldOvercharge=關閉 /// Nexus Shield Overcharge
+Behavior/Name/NexusShieldRechargeOnPylonBehavior=恢復力場 /// Restoration Field
+Behavior/Name/NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget=恢復力場 /// Restoration Field
+Behavior/Name/PowerUserWarpable=躍傳中
+Behavior/Name/PurificationNovaPost=相位轉換
+Behavior/Name/RavenScramblerMissile=干擾矩陣 /// Interference Matrix
+Behavior/Name/RavenShredderMissileArmorReduction=裝甲值降低 /// Armor Reduction
+Behavior/Name/RavenShredderMissileArmorReductionUISubtruct=裝甲值降低
+Behavior/Name/RavenShredderMissileTint=反裝甲飛彈鎖定 /// Anti-Armor Missile Targeting
+Behavior/Name/ResonatingGlaivesPhaseShift=共振旋刃 /// Resonating Glaives
+Behavior/Name/TempestDisruptionBlastStunBehavior=失能震爆 /// Disruption Blast
+Behavior/Name/Transfusion=輸血
+Behavior/Tooltip/AmorphousArmorcloud=由空中單位造成的傷害降低<d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>%。 /// Incoming damage from air units reduced by <d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>%.
+Behavior/Tooltip/BatteryOvercharge=護盾恢復率提高。不消耗能量。 /// Restoration rate increased. Not consuming energy.
+Behavior/Tooltip/BypassArmorDebuffOne=這個單位的裝甲值降低了。
+Behavior/Tooltip/BypassArmorDebuffThree=這個單位的裝甲值降低了。
+Behavior/Tooltip/BypassArmorDebuffTwo=這個單位的裝甲值降低了。
+Behavior/Tooltip/ChannelSnipeCombat=這個單位正在專心瞄準目標。
+Behavior/Tooltip/ChronoBoostEnergyCost=此建築正處於加速運轉狀態。 /// This structure is in an accelerated state.
+Behavior/Tooltip/FungalGrowth=目標受到真菌增生影響。目標已被偵測到且移動受到限制。 /// Target is affected by Fungal Growth. Target is detected and has restricted movement.
+Behavior/Tooltip/InfestorEnsnare=此單位已落地，並且無法使用武器。 /// This unit is grounded and weapons are disabled.
+Behavior/Tooltip/MedivacSpeedBoost=此單位的移動速度提高。 /// This unit's movement speed is increased.
+Behavior/Tooltip/NeuralParasiteChildren=此單位正受到感染蟲操控。
+Behavior/Tooltip/NexusShieldRechargeOnPylonBehavior=這座水晶塔會恢復附近友方單位的護盾。 /// This Pylon restores shields of friendly units nearby.
+Behavior/Tooltip/NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget=單位的護盾恢復了。 /// Unit's shields are being restored.
+Behavior/Tooltip/PurificationNovaPost=此單位處於無敵狀態，並且可以穿越其他單位。
+Behavior/Tooltip/Purify=此水晶塔可發動強大的遠程攻擊。
+Behavior/Tooltip/RavenScramblerMissile=無法使用武器和技能。 /// Weapons and abilities are disabled.
+Behavior/Tooltip/RavenShredderMissileArmorReduction=此單位的裝甲值已降低。 /// This unit has reduced armor.
+Behavior/Tooltip/RavenShredderMissileArmorReductionUISubtruct=此單位的裝甲值已降低。
+Behavior/Tooltip/RavenShredderMissileTint=此單位已被反裝甲飛彈鎖定。 /// This unit is being targeted by an Anti-Armor Missile.
+Behavior/Tooltip/ResonatingGlaivesPhaseShift=教士的攻擊速度提高<d ref="(Behavior,ResonatingGlaivesPhaseShift,Modification.AttackSpeedMultiplier-1)*100"/>%。 /// Adept's attack speed increased by <d ref="(Behavior,ResonatingGlaivesPhaseShift,Modification.AttackSpeedMultiplier-1)*100"/>%.
+Behavior/Tooltip/TempestDisruptionBlastStunBehavior=此單位已昏迷。 /// This unit is stunned.
+Behavior/Tooltip/TemporalField=此單位的攻擊和移動速度降低50%。
+Behavior/Tooltip/Transfusion=此單位正在恢復生命值。
+Button/Name/ActivateStasisWard=靜滯詭雷 /// Stasis Trap
+Button/Name/AdeptPiercingUpgrade=共振旋刃 /// Resonating Glaives
+Button/Name/AdeptResearchPiercingUpgrade=研發共振旋刃 /// Research Resonating Glaives
+Button/Name/AdeptShieldUpgrade=護盾強化
+Button/Name/AmorphousArmorcloud=微生物護罩 /// Microbial Shroud
+Button/Name/BatteryOvercharge=充能器超載 /// Battery Overcharge
+Button/Name/CarrierCapacity=航空母艦容量
+Button/Name/CarrierLeashRangeUpgrade=進階通訊陣列
+Button/Name/ChronoBoostEnergyCost=超時空加速 /// Chrono Boost
+Button/Name/CycloneLockOnAir=地對空鎖定
+Button/Name/CycloneRapidFireLaunchers=速射發射器 /// Rapid Fire Launchers
+Button/Name/CycloneResearchLockOnAir=研發磁場加速器
+Button/Name/DarkTemplarBlink=暗影步法 /// Shadow Stride
+Button/Name/DrillClaws=鑽地爪 /// Drilling Claws
+Button/Name/EnhancedShockwaves=強化衝擊波 /// Enhanced Shockwaves
+Button/Name/EvolveAmorphousArmorcloud=進化微生物護罩 /// Evolve Microbial Shroud
+Button/Name/EvolveDiggingClaws=進化適應性掘爪 /// Evolve Adaptive Talons
+Button/Name/EvolveGroovedSpines=進化鑿溝脊刺 /// Evolve Grooved Spines
+Button/Name/EvolveMuscularAugments=進化肌力增強 /// Evolve Muscular Augments
+Button/Name/EvolvePropulsivePeristalsis=進化蠕動推進 /// Evolve Propulsive Peristalsis
+Button/Name/HydraliskIncreasedAttackRange=攻擊距離提高
+Button/Name/HydraliskIncreasedMovementSpeed=移動速度提高
+Button/Name/InfestorEnsnare=捲入 /// Entangle
+Button/Name/KD8Charge=KD8炸藥 /// KD8 Charge
+Button/Name/Larva=選取幼蟲 /// Select Larvae
+Button/Name/LockOnAir=鎖定對空目標
+Button/Name/MagFieldLaunchers=磁場發射器
+Button/Name/MorphtoObserver=觀察者模式 /// Observer Mode
+Button/Name/MorphtoObserverSiege=監視模式 /// Surveillance Mode
+Button/Name/MorphtoOverlordTransport=突變腹腔氣囊 /// Mutate Ventral Sacs
+Button/Name/MorphtoOverseerNormal=取消監視模式 /// Cancel Oversight
+Button/Name/MorphtoOverseerSiege=監視模式 /// Oversight
+Button/Name/NexusMassRecall=戰術召回 /// Strategic Recall
+Button/Name/NexusShieldOvercharge=星核護盾超載 /// Nexus Shield Overcharge
+Button/Name/NexusShieldOverchargeOff=關閉星核護盾超載 /// Nexus Shield Overcharge Off
+Button/Name/NexusShieldRecharge=護盾充能 /// Shield Recharge
+Button/Name/NexusShieldRechargeOnPylon=恢復力場 /// Restoration Field
+Button/Name/NydusWormIncreasedArmorPassive=地底鱗片 /// Subterranean Scales
+Button/Name/PsionicSurge=幽能奔流 /// Psionic Surge
+Button/Name/PurificationNovaTargeted=淨化光球 /// Purification Nova
+Button/Name/RapidReignitionSystem=快速再燃系統 /// Rapid Reignition System
+Button/Name/Ravager=變形為劫毀蟲 /// Morph to Ravager
+Button/Name/RavenEnhancedMunitionsPassive=強化彈藥 /// Enhanced Munitions
+Button/Name/RavenRecalibratedExplosives=精準高爆彈 /// Recalibrated Explosives
+Button/Name/RavenRepairDrone=建造自動維修機 /// Build Repair Drone
+Button/Name/RavenRepairDroneHeal=修復 /// Repair
+Button/Name/RavenResearchEnhancedMunitions=研發強化彈藥 /// Research Enhanced Munitions
+Button/Name/RavenScramblerMissile=干擾矩陣 /// Interference Matrix
+Button/Name/RavenShredderMissile=反裝甲飛彈 /// Anti-Armor Missile
+Button/Name/ResearchAdeptShieldUpgrade=研發護盾強化
+Button/Name/ResearchAmplifiedShielding=研發護盾增量
+Button/Name/ResearchArmorPiercingRockets=研發穿甲飛彈 /// Research Armor Piercing Rockets
+Button/Name/ResearchCarrierCapacity=研發航空母艦容量
+Button/Name/ResearchCarrierLeashRangeUpgrade=研發進階通訊陣列
+Button/Name/ResearchCycloneRapidFireLaunchers=研發速射發射器 /// Research Rapid Fire Launchers
+Button/Name/ResearchDarkTemplarBlink=研發暗影步法 /// Research Shadow Stride
+Button/Name/ResearchEnhancedShockwaves=研發強化衝擊波 /// Research Enhanced Shockwaves
+Button/Name/ResearchMagFieldLaunchers=研發磁場發射器
+Button/Name/ResearchPsionicAmplifiers=研發幽能增幅器 /// Research Psionic Amplifiers
+Button/Name/ResearchPsionicSurge=研發幽能奔流 /// Research Psionic Surge
+Button/Name/ResearchRapidReignitionSystem=研發快速再燃系統 /// Research Rapid Reignition System
+Button/Name/ResearchRavenRecalibratedExplosives=研發精準高爆彈 /// Research Recalibrated Explosives
+Button/Name/ResearchSmartServos=研發智能傳動 /// Research Smart Servos
+Button/Name/ShieldBattery=躍傳護盾充能器 /// Warp In Shield Battery
+Button/Name/ShieldBatteryRecharge=充能 /// Restore
+Button/Name/ShieldBatteryRechargeEx5=充能
+Button/Name/TempestDisruptionBlast=失能震爆 /// Disruption Blast
+Button/Name/TempestGroundAttackUpgrade=地質減穩器
+Button/Name/TempestResearchGroundAttackUpgrade=研發地質減穩器
+Button/Name/UpgradeBuildingArmorLevel1=升級新型鋼鐵裝甲 /// Upgrade Neosteel Armor
+Button/Name/WidowMineConcealment=隱蔽 /// Concealment
+Button/Name/hydraliskspeed=進化肌力增強 /// Evolve Muscular Augments
+Button/Tooltip/ActivateStasisWard=使附近的敵人陷入靜滯狀態，持續<d ref="Behavior,OracleStasisTrapTarget,Duration"/>秒。陷入靜滯狀態的單位無法成為攻擊目標或者受到技能的影響。 /// Traps nearby enemies in stasis for <d ref="Behavior,OracleStasisTrapTarget,Duration"/> seconds. Trapped units cannot be attacked or affected by abilities.
+Button/Tooltip/AdeptPiercingUpgrade=教士的攻擊速度提高45%。 /// Increases the attack speed of Adepts by 45%.
+Button/Tooltip/AdeptResearchPiercingUpgrade=<c val="ffff8a">教士</c>的攻擊速度提高45%。 /// Increases the attack speed of <c val="ffff8a">Adepts</c> by 45%.
+Button/Tooltip/AmorphousArmorcloud=製造一個護罩遮蓋其下方的地面單位，當他們受到空中單位攻擊時，承受的傷害降低<d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>%，持續<d ref="Effect,AmorphousArmorcloudCP,PeriodCount*Effect,AmorphousArmorcloudCP,PeriodicPeriodArray[0]"/>秒。 /// Creates a shroud that obscures ground units underneath, reducing damage taken from air units by <d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>%. Lasts <d ref="Effect,AmorphousArmorcloudCP,PeriodCount*Effect,AmorphousArmorcloudCP,PeriodicPeriodArray[0]"/> seconds.
+Button/Tooltip/AnionPulseCrystals=<c val="ffff8a">鳳凰戰機</c>的攻擊距離提高<d ref="$UpgradeEffectArrayValue:PhoenixRangeUpgrade:Weapon,IonCannons,Range$"/>格。 /// Increases <c val="ffff8a">Phoenix's</c> attack range by <d ref="$UpgradeEffectArrayValue:PhoenixRangeUpgrade:Weapon,IonCannons,Range$"/>.
+Button/Tooltip/Armory=提供軍工廠和星際港單位的武器和裝甲升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓軍工廠可建造戰狼<n/>- 讓軍工廠可建造雷神 /// Contains weapon and armor upgrades for Factory and Starport units. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellbat at the Factory<n/>- Thor at the Factory
+Button/Tooltip/Barracks=步兵生產設施。<n/><n/><c val="ffff8a">功能：</c><n/>- 可訓練陸戰隊<n/>- 可訓練死神<n/>- 讓太空工程車可建造碉堡<n/>- 讓指揮中心可升級為星軌指揮總部 /// Infantry-production facility.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marines<n/>- Reapers<n/>- Bunkers from SCVs<n/>- Orbital Commands from Command Centers
+Button/Tooltip/BatteryOvercharge=超載星核附近的目標護盾充能器，使其護盾恢復率提高100%，並且在恢復護盾時不消耗能量，持續<d ref="Behavior,BatteryOvercharge,Duration"/>秒。 /// Overcharges a target Shield Battery near a Nexus, increasing its shield restoration rate by 100% and allowing it to restore shields without consuming energy for <d ref="Behavior,BatteryOvercharge,Duration"/> seconds.
+Button/Tooltip/BuildTechLabFactory=研發載具科技的建築。科技實驗室適用於任何生產類建築。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造颶風飛彈車<n/>- 可建造攻城坦克<n/>- 可建造雷神，需具備兵工廠
+Button/Tooltip/BypassArmorDrone=以光束使一名敵方單位的裝甲值降低3點。<n/>效果可持續<d ref="Behavior,BypassArmorDroneTimedLife,Duration"/>秒。
+Button/Tooltip/CalldownMULE=空投一台實驗性的機械礦騾到目標晶礦場。礦騾採集晶礦的速度比太空工程車快。<n/><n/>礦騾在其系統當機前可持續<d ref="Behavior,MULETimedLife,Duration"/>秒。 /// Drops an experimental robotic MULE miner onto the target Mineral Field. MULEs collect minerals more quickly than SCVs.  <n/><n/>MULEs last <d ref="Behavior,MULETimedLife,Duration"/> seconds before their systems fail.
+Button/Tooltip/CarrierCapacity=航空母艦的攔截機數量上限由8架提升到10架。
+Button/Tooltip/CarrierLeashRangeUpgrade=<c val="ffff8a">攔截機</c>的飛行距離提高<d ref="$UpgradeEffectArrayValue:CarrierLeashRangeUpgrade:Abil,CarrierHangar,Leash$"/>格。
+Button/Tooltip/Charge=讓狂戰士可攔截附近的敵人，並且提高狂戰士的移動速度。每<d ref="Abil,Charge,Cost.Cooldown.TimeUse"/>秒可使用一次。 /// Allows Zealots to intercept nearby enemies. Also increases the movement speed of Zealots. Ability can only be used once every <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/> seconds.
+Button/Tooltip/ChronoBoostEnergyCost=讓目標建築進入超時空加速狀態，使該建築的運轉速度提高<d ref="(((Behavior,ChronoBoostEnergyCost,Modification.RateMultiplierArray[Progress])-1)*100)" precision="1"/>%，持續<d ref="Behavior,ChronoBoostEnergyCost,Duration"/>秒。 /// Places target structure in a Chrono Boost, causing it to operate <d ref="(((Behavior,ChronoBoostEnergyCost,Modification.RateMultiplierArray[Progress])-1)*100)" precision="1"/>% faster for <d ref="Behavior,ChronoBoostEnergyCost,Duration"/> seconds.
+Button/Tooltip/CollapsiblePurifierTowerDebris=摧毀此障礙物後可前往新的區域。 /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsiblePurifierTowerDiagonal=可被摧毀的石堆，可用以截斷通往新的區域或資源地點的路徑。 /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CyberneticsCore=提供神族空中單位的武器與裝甲升級，以及空間之門的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓傳送門可躍傳哨衛 <n/>- 讓傳送門可躍傳追獵者<n/>- 讓傳送門可躍傳教士<n/>- 讓探測機可躍傳護盾充能器 /// Contains weapon and armor upgrades for Protoss air units and the Warp Gate upgrade.<n/><n/><c val="ffff8a">Enables:</c><n/>- Sentries at the Gateway<n/>- Stalkers at the Gateway<n/>- Adepts at the Gateway<n/>- Shield Batteries from Probes
+Button/Tooltip/Cyclone=機動突擊載具。可以使用鎖定目標技能，在移動狀態下快速攻擊目標。<n/><n/><c val="#ColorAttackInfo">可攻擊地面單位。</c> /// Mobile assault vehicle. Can use Lock On to quickly fire while moving.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/CycloneLockOnAir=讓颶風飛彈車的武器與鎖定目標技能，能夠以空中單位為目標。
+Button/Tooltip/CycloneRapidFireLaunchers=強化鎖定目標這個技能，提高最初12發的發射速度。 /// Improves the Lock On ability to fire the first 12 shots quickly.
+Button/Tooltip/CycloneResearchLockOnAir=讓颶風飛彈車的武器與鎖定目標技能，能夠以空中單位為目標。
+Button/Tooltip/CycloneResearchLockOnDamageUpgrade=提高<c val="ffff8a">颶風飛彈車</c>鎖定目標的傷害。可在<d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/>秒內對地面或空中單位造成400點傷害(對重甲單位額外提高400點)。 /// Increases <c val="ffff8a">Cyclone</c> Lock On damage. Deals 400 damage (+400 vs. Armored) over <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/> seconds to ground and flying targets.
+Button/Tooltip/CycloneUpgrade=機動突擊載具。可以使用鎖定目標技能，在移動狀態下快速攻擊目標。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Mobile assault vehicle. Can use Lock On to quickly fire while moving.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/DarkShrine=提供黑暗聖堂武士的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓傳送門可躍傳黑暗聖堂武士<n/>- 黑暗聖堂武士可合併為執政官 /// Contains an upgrade for Dark Templar.<n/><n/><c val="ffff8a">Enables:</c><n/>- Dark Templar at the Gateway<n/>- Archon Merge from Dark Templar
+Button/Tooltip/DarkTemplarBlink=將黑暗聖堂武士傳送至附近的目標地點。每<d ref="Abil,DarkTemplarBlink,Cost[0].Cooldown.TimeUse"/>秒可使用一次。 /// Teleports the Dark Templar to a nearby target location. Ability can only be used once every <d ref="Abil,DarkTemplarBlink,Cost[0].Cooldown.TimeUse"/> seconds.
+Button/Tooltip/Disruptor=機械擾敵單位。可以使用淨化光球造成大量範圍傷害。 /// Robotic disruption unit. Can use Purification Nova to deal heavy area damage.
+Button/Tooltip/DisruptorPhased=高度濃縮的太陽能量。會在<d ref="Behavior,PurificationNovaTargettedTarget,Duration"/>秒後爆炸，造成範圍傷害。 /// Highly concentrated solar energy. Explodes after <d ref="Behavior,PurificationNovaTargettedTarget,Duration"/> seconds, dealing area damage.
+Button/Tooltip/DrillClaws=此單位遁地的速度較快。 /// This unit burrows faster.
+Button/Tooltip/EnhancedShockwaves=使<c val="ffff8a">幽靈特務</c>的電磁脈衝彈範圍增加<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>格。 /// Increases the radius of <c val="ffff8a">Ghost's</c> EMP Round by +<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>.
+Button/Tooltip/EvolveAmorphousArmorcloud=讓<c val="ffff8a">感染蟲</c>可使用微生物護罩。 /// Allows <c val="ffff8a">Infestors</c> to use the Microbial Shroud ability.
+Button/Tooltip/EvolveAnabolicSynthesis2=<c val="ffff8a">雷獸</c>在蟲苔外的移動速度提高。 /// Increases the movement speed of <c val="ffff8a">Ultralisks</c> off creep.
+Button/Tooltip/EvolveCentrificalHooks=提高<c val="ffff8a">毒爆蟲</c>的移動速度，並且生命值提高5點。 /// <c val="ffff8a">Banelings</c> gain increased movement speed and +5 life.
+Button/Tooltip/EvolveChitinousPlating=<c val="ffff8a">雷獸</c>的裝甲值提高<d ref="$UpgradeEffectArrayValue:ChitinousPlating:Unit,Ultralisk,LifeArmor$"/>點。 /// Gives +<d ref="$UpgradeEffectArrayValue:ChitinousPlating:Unit,Ultralisk,LifeArmor$"/> armor to <c val="ffff8a">Ultralisks</c>.
+Button/Tooltip/EvolveDiggingClaws=<c val="ffff8a">遁地獸</c>遁地所需時間從<d time="2.5" precision="1"/>降低為<d time="1" precision="1"/>，且其移動速度提高。 /// Reduces the time <c val="ffff8a">Lurkers</c> take to burrow from <d time="2.5" precision="1"/> to <d time="1" precision="1"/> and increases their movement speed.
+Button/Tooltip/EvolveGroovedSpines=<c val="ffff8a">刺蛇</c>的攻擊距離提高<d ref="$UpgradeEffectArrayValue:EvolveGroovedSpines:Weapon,NeedleSpines,Range$"/>格。 /// Increases <c val="ffff8a">Hydralisk</c> attack range by +<d ref="$UpgradeEffectArrayValue:EvolveGroovedSpines:Weapon,NeedleSpines,Range$"/>.
+Button/Tooltip/EvolveMuscularAugments=<c val="ffff8a">刺蛇</c>的移動速度提高。 /// Increases the movement speed of <c val="ffff8a">Hydralisks</c>.
+Button/Tooltip/EvolvePropulsivePeristalsis=提高<c val="ffff8a">蟲殖地網</c>和<c val="ffff8a">地下蠕蟲</c>的裝載與卸載速度。 /// Increase the <c val="ffff8a">Nydus Network</c> and <c val="ffff8a">Nydus Worm's</c> load and unload speeds.
+Button/Tooltip/EvolveTunnelingClaws=讓<c val="ffff8a">蟑螂</c>可在遁地時移動。 /// Enables <c val="ffff8a">Roaches</c> to move while burrowed.
+Button/Tooltip/ExplosiveShrapnelShells=渡鴉的自動砲台和導引飛彈的傷害提高30%。
+Button/Tooltip/Factory=載具生產設施。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造惡狼<n/>- 可建造寡婦詭雷<n/>- 可建造颶風飛彈車 /// Vehicle-production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellions<n/>- Widow Mines<n/>- Cyclones
+Button/Tooltip/Feedback=除去目標的所有能量。每除去1點能量可造成<d ref="(Effect,Feedback,VitalFractionCurrent[Energy])" Precision="2"/>點傷害。 /// Drains all energy from the target. Deals <d ref="(Effect,Feedback,VitalFractionCurrent[Energy])" Precision="2"/> damage per point of energy.
+Button/Tooltip/FleetBeacon=提供鳳凰戰機和虛空艦的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓星際之門可躍傳暴風艦</n>- 讓星際之門可躍傳航空母艦<n/>- 讓星核可躍傳聖母艦 /// Contains upgrades for Phoenixes and Void Rays.<n/><n/><c val="ffff8a">Enables:</c><n/>- Tempests at the Stargate</n>- Carriers at the Stargate<n/>- Mothership from the Nexus
+Button/Tooltip/Frenzied=對緩速、昏迷、心靈控制及移動變更效果免疫。 /// Immune to snare, stun, mind control, and movement altering effects.
+Button/Tooltip/FungalGrowth=使目標單位在<d time="4"/>內受到<d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/>點傷害，移動速度降低<d ref="(1-Behavior,FungalGrowthSlowMovement,Modification.MoveSpeedMultiplier)*100"/>%。可使匿蹤或遁地的單位現形。受影響的單位無法瞬移、進入運輸單位或建築物。 /// Target units take <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/> damage over <d time="4"/> and have movement speed reduced by <d ref="(1-Behavior,FungalGrowthSlowMovement,Modification.MoveSpeedMultiplier)*100"/>%. Reveals cloaked and burrowed units. Affected units cannot Blink or load into transports or buildings.
+Button/Tooltip/FusionCore=提供醫療艇、解放者和戰巡艦的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓星際港可建造戰巡艦 /// Contains Medivac, Liberator, and Battlecruiser upgrades. <n/><n/><c val="ffff8a">Enables:</c><n/>- Battlecruisers at the Starport
+Button/Tooltip/Ghost=狙擊手。可使用精準狙擊及電磁脈衝彈，並可透過升級使用匿蹤。可導引由幽靈特務學院所建造的戰術核彈進行轟炸。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Sniper. Can use Steady Targeting, EMP Round, and be upgraded to use Cloak. Can call down Tactical Nukes built at the Ghost Academy.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/GhostAcademy=可建造幽靈特務使用的核彈。提供幽靈特務的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓兵營可訓練幽靈特務 /// Contains upgrades for Ghosts. Can build Nukes for Ghosts.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ghosts at the Barracks
+Button/Tooltip/GuardianShield=產生一道靈氣，使範圍<d ref="Effect,GuardianShieldSearch,AreaArray[0].Radius" precision="1"/>格內所有友方單位受到的遠程傷害降低2點，持續<d time="15"/>。 /// Creates a range <d ref="Effect,GuardianShieldSearch,AreaArray[0].Radius" precision="1"/> aura that reduces incoming ranged damage to friendly units by 2. Lasts <d time="15"/>.
+Button/Tooltip/Heal=治療一個友方的生物單位。<n/><n/><c val="f078ff">每1點能量治療<d ref="Effect,MedivacHeal,RechargeVitalRate*Effect,MedivacHeal,DrainVitalCostFactor"/>點生命值。</c>
+Button/Tooltip/HighCapacityFuelTanks=提高醫療艇的燃料儲存量，啟動後燃器的持續時間提高50%。
+Button/Tooltip/HighTemplar=強力的幽能大師。可使用潰蝕，並可透過升級使用幽能風暴。可轉化為執政官。<n/><n/><c val="ffff8a">可攻擊地面單位。</c> /// Potent psionic master. Can use Feedback and be upgraded to use Psionic Storm. Can transform into an Archon.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/HydraliskDen=提供刺蛇的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓幼蟲可變形為刺蛇 /// Contains upgrades for Hydralisks.<n/><n/><c val="ffff8a">Enables:</c><n/>- Hydralisks from Larvae
+Button/Tooltip/ImmortalOverload=最多可吸收<d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/>點傷害，持續<d ref="Behavior,ImmortalOverload,Duration"/>秒。此效果每隔<d ref="Abil,ImmortalOverload,Cost[0].Cooldown.TimeUse"/>秒只能觸發一次。 /// Absorbs up to <d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/> damage. Lasts for <d ref="Behavior,ImmortalOverload,Duration"/> seconds. This effect can only occur once every <d ref="Abil,ImmortalOverload,Cost[0].Cooldown.TimeUse"/> seconds.
+Button/Tooltip/InfestationPit=提供感染蟲的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓幼蟲可變形為感染蟲<n/>- 讓幼蟲可變形為百生獸 /// Contains upgrades for Infestors.<n/><n/><c val="ffff8a">Enables:</c><n/>- Infestors from Larvae<n/>- Swarm Hosts from Larvae
+Button/Tooltip/InfestedTerrans=孵化一名受感染的人類。受感染的人類可存活<d ref="Behavior,InfestedTerranTimedLife,Duration"/>秒。<n/><n/><c val="ffff8a">可在遁地時施放。</c> /// Spawn an Infested Terran. Infested Terrans last <d ref="Behavior,InfestedTerranTimedLife,Duration"/> seconds.<n/><n/><c val="ffff8a">Can cast while burrowed.</c>
+Button/Tooltip/Infestor=專精於感染的特殊單位。可使用真菌增生、微生物護罩及神經寄生。 /// Infestation specialist. Can use the Fungal Growth, Microbial Shroud, and Neural Parasite abilities.
+Button/Tooltip/InfestorEnsnare=將目標空中單位拉至地面<d ref="Behavior,InfestorEnsnare,Duration"/>秒，這段期間內，這個單位無法攻擊，而且所有地面攻擊都可對其造成傷害。 /// Brings a target air unit to the ground for <d ref="Behavior,InfestorEnsnare,Duration"/> seconds, rendering it unable to attack, and allowing units to attack it as if it were a ground unit.
+Button/Tooltip/KD8Charge=短暫延遲後爆炸，對附近的單位造成<d ref="Effect,KD8ChargeExplodeDamage,Amount"/>點傷害，並且將其擊退。 /// Explodes after a short delay, dealing <d ref="Effect,KD8ChargeExplodeDamage,Amount"/> damage and knocking back nearby units.
+Button/Tooltip/LiberatorAGRangeUpgrade=解放者的防禦者模式射程提高<d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>格。 /// Increases the range of Liberators in Defender Mode by <d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>.
+Button/Tooltip/LockOn=颶風飛彈車的武器系統鎖定目標單位，在<d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/>秒內對地面與空中單位造成<d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/>點傷害。可以邊移動邊進行射擊。當目標超出射擊範圍時將會取消攻擊。 /// Locks the Cyclone's weapons on the target unit, dealing <d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/> damage over <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/> seconds to ground and flying targets. Can move while firing. Cancels if target moves out of range.
+Button/Tooltip/LockOnAir=颶風飛彈車的武器系統鎖定目標單位，可在<d ref="Effect,LockOnAirCP,PeriodCount * Effect,LockOnAirCP,PeriodicPeriodArray[0]"/>秒內對空中單位造成<d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/>點傷害。可以邊移動邊進行射擊。當目標超出射擊範圍時將會取消攻擊。
+Button/Tooltip/LockOnArmorPiercingUpgrade=颶風飛彈車的武器系統鎖定空中單位或空中建築，可在<d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/>秒內造成<d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/>（對重甲額外造成<d ref="Effect,LockOnAirCP,PeriodCount * $UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamage,AttributeBonus[Armored]$"/>）點傷害，最初4發的發射速度比較快。可以邊移動邊進行射擊。當目標超出射擊範圍時將會取消攻擊。<n/><n/><c val="#ColorAttackInfo">無法以地面單位或地面建築為目標。</c> /// Locks the Cyclone's weapons on the target air unit or air structure, dealing <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/> (+<d ref="Effect,LockOnAirCP,PeriodCount * $UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamage,AttributeBonus[Armored]$"/> vs Armored) damage over <d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/> seconds. First four shots fire quickly. Can move while firing. Cancels if target moves out of range.<n/><n/><c val="#ColorAttackInfo">Cannot target ground units or ground structures.</c>
+Button/Tooltip/LockOnRapidFireLaunchers=颶風飛彈車的武器系統鎖定空中單位或空中建築，可在<d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/>秒內造成<d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/>點傷害，最初<c val="#ColorAttackInfo">12</c>發的發射速度比較快。可以邊移動邊進行射擊。當目標超出射擊範圍時將會取消攻擊。<n/><n/><c val="#ColorAttackInfo">無法以地面單位或地面建築為目標。</c> /// Locks the Cyclone's weapons on the target air unit or air structure, dealing <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/> damage over <d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/> seconds. First <c val="#ColorAttackInfo">12</c> shots fire quickly. Can move while firing. Cancels if target moves out of range.<n/><n/><c val="#ColorAttackInfo">Cannot target ground units or ground structures.</c>
+Button/Tooltip/LockOnUpgraded=颶風飛彈車的武器系統鎖定目標單位，可在<d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/>秒內對地面或空中單位造成<d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/>點傷害(對重甲單位額外提高400點)。可以邊移動邊進行射擊。當目標超出射擊範圍時將會取消攻擊。 /// Locks the Cyclone's weapons on the target unit, dealing <d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/> damage (+400 vs. Armored) over <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/> seconds to ground and flying targets. Can move while firing. Cancels if target moves out of range.
+Button/Tooltip/LurkerDenMP=提供遁地獸的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓刺蛇可變形為遁地獸 /// Contains an upgrade for Lurkers.<n/><n/><c val="ffff8a">Enables:</c><n/>- Lurkers from Hydralisks
+Button/Tooltip/MULE=採集單位的原型機種。採集晶礦的速度比一般太空工程車更快。礦騾在其系統當機前可持續<d time="90"/>。 /// Prototype harvesting unit. Gathers minerals more quickly than regular SCVs. MULEs last <d time="90"/> before their systems fail.
+Button/Tooltip/MagFieldLaunchers=<c val="ffff8a">颶風飛彈車</c>的攻擊距離提高<d ref="$UpgradeEffectArrayValue:MagFieldLaunchers:Weapon,TyphoonMissilePod,Range$"/>格。
+Button/Tooltip/MassRecall=將目標區域內所有玩家的單位召喚至聖母艦的所在位置。 /// Recalls all player units in the target area to the Mothership.
+Button/Tooltip/MedivacSpeedBoost=醫療艇的移動速度提高，持續<d ref="Behavior,MedivacSpeedBoost,Duration"/>秒。 /// Increases the Medivac's movement speed for <d ref="Behavior,MedivacSpeedBoost,Duration"/> seconds.
+Button/Tooltip/MorphMorphalisk=目標孵化所、蟲穴、或蟲巢會在<d ref="Behavior,QueenSpawnLarvaTimer,Duration"/>秒內孵化<d ref="Effect,SpawnMutantLarvaApplySpawnBehavior,Count"/>隻幼蟲。如果孵化所、蟲穴、或蟲巢擁有超過三隻幼蟲，則會停止正常的幼蟲生產程序，直到少於三隻幼蟲為止。如果目標正在孵化額外的幼蟲，此效果將累積至佇列中。
+Button/Tooltip/MorphToMothership=升級至聖母艦。可使用光子充能、群體召喚和時空扭曲，並且可使附近的單位和建築進入匿蹤狀態。 /// Upgrades into the Mothership. Can use Photon Overcharge, Mass Recall and Time Warp. Cloaks nearby units and structures.
+Button/Tooltip/MorphtoObserver=將觀察者轉換為標準模式，此模式下觀察者可移動，但視野範圍降低。 /// Transforms the Observer to standard Observer Mode. Allows the Observer to move at the cost of decreased sight radius.
+Button/Tooltip/MorphtoObserverSiege=將觀察者轉換為監視模式。觀察者的視野範圍提高<d ref="(Unit,ObserverSiegeMode,Sight/Unit,Observer,Sight-1)*100"/>%，但無法移動。 /// Transforms the Observer to Surveillance Mode. The Observer gains <d ref="(Unit,ObserverSiegeMode,Sight/Unit,Observer,Sight-1)*100"/>% wider vision, but loses the ability to move.
+Button/Tooltip/MorphtoOverlordTransport=讓王蟲可運輸單位。 /// Enables the Overlord to transport units.
+Button/Tooltip/MorphtoOverseerNormal=使監察王蟲可以進行移動並使其視野距離回復正常。 /// Restores the Overseer's ability to move and returns its vision to its normal radius.
+Button/Tooltip/MorphtoOverseerSiege=使監察王蟲的視野提高<d ref="(Unit,OverseerSiegeMode,Sight/Unit,Overseer,Sight-1)*100"/>%，但是失去移動能力。啟動此技能後，可再度取消。 /// Grants the Overseer <d ref="(Unit,OverseerSiegeMode,Sight/Unit,Overseer,Sight-1)*100"/>% wider vision, but removes its ability to move. This ability can be canceled after activation.
+Button/Tooltip/Mothership=終極的神族戰艦。可使用時空扭曲及戰術召回。使附近的友方單位及建築進入匿蹤狀態。<n/><n/><c val="ffff8a">可攻擊地面及空中單位。</c> /// Ultimate Protoss vessel. Can use Strategic Recall and Time Warp abilities. Cloaks nearby friendly units and structures.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/MothershipCoreWeapon=為目標水晶塔的凱達林水晶充能，將其轉化為一個威力強大的遠程武器，該武器可持續<d ref="Behavior,Purify,Duration[0]"/>秒，並且造成<d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/>點傷害。 /// Energizes the target Pylon's khaydarin crystal, turning it into a powerful long-range weapon for <d ref="Behavior,Purify,Duration[0]"/> seconds that deals <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/> damage.
+Button/Tooltip/MutateintoLurkerDen=提供遁地獸的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓刺蛇可變形為遁地獸 /// Contains an upgrade for Lurkers.<n/><n/><c val="ffff8a">Enables:</c><n/>- Lurkers from Hydralisks
+Button/Tooltip/NeuralParasite=目標單位將被感染蟲控制<d ref="Behavior,NeuralParasite,Duration"/>秒。感染蟲在控制敵方單位時無法從事任何其他的動作。<n/><n/><c val="ffff8a">導引技能。可在遁地時施放。</c><n/><c val="#ColorAttackInfo">對英雄單位無效。</c> /// Target unit is controlled by the Infestor for <d ref="Behavior,NeuralParasite,Duration"/> seconds. The Infestor cannot take any other action while controlling an enemy unit.<n/><n/><c val="ffff8a">Channeled ability. Can cast while burrowed.</c><n/><c val="#ColorAttackInfo">Heroic units are immune.</c>
+Button/Tooltip/Nexus=主要建築。可接收採集到的資源。可使用超時空加速及群體召喚。<n/><n/><c val="ffff8a">功能：</c><n/>- 可躍傳探測機<n/>- 可躍傳聖母艦 /// Primary structure. Can receive gathered resources. Can use the Chrono Boost and Mass Recall abilities.<n/><n/><c val="ffff8a">Enables:</c><n/>- Probes<n/>- Mothership
+Button/Tooltip/NexusMassRecall=將目標區域內玩家擁有的所有單位召喚到這個星核。 /// Recalls all units owned by the player in the target area to the Nexus.
+Button/Tooltip/NexusShieldOvercharge=星核會自動消耗能量為附近的單位恢復護盾。 /// Nexus will automatically use energy to restore shields of nearby units.
+Button/Tooltip/NexusShieldOverchargeOff=星核不會自動鎖定友方單位。 /// Nexus will no longer automatically target friendly units.
+Button/Tooltip/NexusShieldRecharge=為目標單位或建築恢復護盾。<n/><n/><c val="ffff8a">每1點能量可恢復<d ref="Effect,NexusShieldRechargeShield,VitalArray[Shields].Change"/>點護盾。</c> /// Restore shields of target unit or structure.<n/><n/><c val="ffff8a">Costs 1 energy for every <d ref="Effect,NexusShieldRechargeShield,VitalArray[Shields].Change"/> shields restored.</c>
+Button/Tooltip/NexusShieldRechargeOnPylon=為目標水晶塔的凱達林水晶充能，將其轉化為可為附近友方單位恢復護盾的建築，該效果可持續<d ref="Behavior,NexusShieldRechargeOnPylonBehavior,Duration[0]"/>秒。 /// Energizes the target Pylon's khaydarin crystal, turning it into a structure that restores shields of friendly units for <d ref="Behavior,NexusShieldRechargeOnPylonBehavior,Duration[0]"/> seconds.
+Button/Tooltip/NydusWormIncreasedArmorPassive=地下蠕蟲從地下竄出時獲得<d ref="Behavior,NydusWormArmor,Modification.LifeArmorBonus+1"/>點裝甲值。 /// Nydus Worms have <d ref="Behavior,NydusWormArmor,Modification.LifeArmorBonus+1"/> armor when emerging from the ground.
+Button/Tooltip/OracleBuildStasisTrap=在目標地點設置一個匿蹤的靜滯詭雷，持續<d ref="Behavior,StasisWardTimedLife,Duration"/>秒。當敵方地面單位啟動詭雷時，將會使附近的敵人陷入靜滯狀態，持續<d ref="Behavior,OracleStasisTrapTarget,Duration"/>秒。陷入靜滯狀態的單位無法被攻擊或者受到技能的影響。 /// Places a cloaked Stasis Ward at the target location that lasts <d ref="Behavior,StasisWardTimedLife,Duration"/> seconds. Once activated by an enemy ground unit, the ward traps nearby enemies in stasis for <d ref="Behavior,OracleStasisTrapTarget,Duration"/> seconds. Trapped units cannot be attacked or affected by abilities.
+Button/Tooltip/Overseer=進階空中觀察者。維持王蟲所提供的補給。可使用監視模式、孵化變形蟲及使用污染技能。<n/><n/><c val="FFE303">偵測單位</c> /// Advanced aerial observer. Maintains the unit cap set by the Overlord. Can use the Oversight, Spawn Changeling, and Contaminate abilities.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/ParasiticBomb=產生一團寄生雲霧，在<d ref="Behavior,ParasiticBomb,Duration"/>秒內對目標和附近的敵方空中單位造成<d ref="Behavior,ParasiticBomb,Duration/Behavior,ParasiticBomb,Period*Effect,ParasiticBombDotDamage,Amount"/>點傷害。目標死亡後，這團雲霧仍會停留在敵人死亡的地點，直到時效結束。<n/><n/><c val="#ColorAttackInfo">無法以地面單位或建築為目標。</c> /// Creates a parasitic cloud that deals <d ref="Behavior,ParasiticBomb,Duration/Behavior,ParasiticBomb,Period*Effect,ParasiticBombDotDamage,Amount"/> damage over <d ref="Behavior,ParasiticBomb,Duration"/> seconds to the target and enemy air units nearby. If the target dies, the cloud remains in the air where the enemy died until it expires.<n/><n/><c val="#ColorAttackInfo">Cannot target ground units or structures.</c>
+Button/Tooltip/PointDefense=自動化防禦雷射，可攔截敵方的砲彈。無法攔截特殊攻擊。<n/><n/><c val="f078ff">每發消耗10點能量。</c> /// Automated defensive laser that intercepts a variety of enemy projectiles. Does not intercept special attacks.<n/><n/><c val="f078ff">Each shot consumes 10 energy.</c>
+Button/Tooltip/PsionicSurge=狂戰士的衝鋒對目標的傷害提高為<d ref="Effect,ChargingDamage,Amount"/>點。 /// Improves the Zealot's Charge to deal <d ref="Effect,ChargingDamage,Amount"/> damage to the charged target.
+Button/Tooltip/PurificationNova=發射一顆光球，在<d ref="Behavior,PurificationNovaTargettedTarget,Duration"/>秒後爆發出威力強大的能量，對附近的地面單位和建築造成<d ref="Effect,PurificationNovaDamage,Amount"/>點擴散傷害，並且對其護盾造成<d ref="Effect,PurificationNovaDamage,ShieldBonus"/>點傷害。在此期間，裂光球無法移動。 /// Shoots out a ball of energy that lasts <d ref="Behavior,PurificationNovaTargettedTarget,Duration"/> seconds and emits a powerful nova dealing <d ref="Effect,PurificationNovaDamage,Amount"/> splash damage and an additional <d ref="Effect,PurificationNovaDamage,ShieldBonus"/> shield damage to nearby ground units and structures. The Disruptor is immobile while this is active.
+Button/Tooltip/RapidReignitionSystem=醫療艇啟動後燃器的冷卻時間降低<d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/>，並且提高醫療艇的移動速度。 /// Reduces the cooldown of Medivac's Ignite Afterburners by <d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/> and increases the movement speed of Medivacs.
+Button/Tooltip/Raven=空中支援單位。可使用自動砲台、干擾矩陣和反裝甲飛彈。<n/><n/><c val="FFE303">偵測單位</c> /// Aerial support unit. Can use Auto-Turret, Interference Matrix, and Anti-Armor Missile.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/RavenEnhancedMunitionsPassive=渡鴉反裝甲飛彈的爆炸範圍提高20%，追蹤距離提高50%。 /// Increases the Raven's Anti-Armor Missile explosion radius by 20% and its tracking range by 50%.
+Button/Tooltip/RavenRecalibratedExplosives=導引飛彈的傷害提高30%，追蹤距離提高50%。 /// Increases the Seeker Missile's damage by 30% and its tracking range by 50%.
+Button/Tooltip/RavenRepairDrone=修復附近的友方機械單位，持續<d ref="Behavior,RavenRepairDroneTimedLife,Duration"/>秒。 /// Repairs nearby friendly mechanical units for <d ref="Behavior,RavenRepairDroneTimedLife,Duration"/> seconds.
+Button/Tooltip/RavenRepairDroneHeal=修復一名友方機械目標。<n/><n/><c val="f078ff">每1點能量治療<d ref="Effect,RavenRepairDroneHeal,RechargeVitalRate*Effect,RavenRepairDroneHeal,DrainVitalCostFactor"/>點生命值。</c> /// Repair a friendly mechanical target.<n/><n/><c val="f078ff">Repairs <d ref="Effect,RavenRepairDroneHeal,RechargeVitalRate*Effect,RavenRepairDroneHeal,DrainVitalCostFactor"/> life per 1 energy.</c>
+Button/Tooltip/RavenResearchEnhancedMunitions=<c val="ffff8a">渡鴉</c>反裝甲飛彈的爆炸範圍提高20%，追蹤距離提高50%。 /// Increases the <c val="ffff8a">Raven's</c> Anti-Armor Missile explosion radius by 20% and its tracking range by 50%.
+Button/Tooltip/RavenScramblerMissile=使一個單位無法攻擊或使用技能，持續<d ref="Behavior,RavenScramblerMissile,Duration"/>秒。使匿蹤單位現形。<n/><n/><c val="#ColorAttackInfo">可以機械單位和幽能單位為目標。</c> /// Disables a target unit rendering it unable to attack or use abilities for <d ref="Behavior,RavenScramblerMissile,Duration"/> seconds. Reveals Cloaked units.<n/><n/><c val="#ColorAttackInfo">Can target mechanical and psionic units.</c>
+Button/Tooltip/RavenShredderMissile=部署會追擊目標單位的飛彈，擊中時會使受影響單位的裝甲值與護盾裝甲降低<d ref="Behavior,RavenShredderMissileArmorReduction,DamageResponse.ModifyAmount"/>點，持續<d ref="Behavior,RavenShredderMissileArmorReduction,Duration"/>秒。 /// Deploys a missile which pursues the target unit and, upon contact, reduces the armor and shield armor of affected units by <d ref="Behavior,RavenShredderMissileArmorReduction,DamageResponse.ModifyAmount"/> for <d ref="Behavior,RavenShredderMissileArmorReduction,Duration"/> seconds.
+Button/Tooltip/ResearchAdeptShieldUpgrade=<c val="ffff8a">教士</c>的護盾值提高50點。
+Button/Tooltip/ResearchAmplifiedShielding=<c val="ffff8a">教士</c>的護盾值提高<d ref="$UpgradeEffectArrayValue:AmplifiedShielding:Unit,Adept,ShieldsMax$"/>點。
+Button/Tooltip/ResearchArmorPiercingRockets=強化<c val="ffff8a">颶風飛彈車</c>的鎖定目標技能，每一發對重甲單位造成的傷害提高<d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$"/>點。總共提高<d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$*Effect,LockOnAirCP,PeriodCount"/>點傷害。 /// Improves the <c val="ffff8a">Cyclone's</c> Lock On ability to deal +<d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$"/> damage vs. armored units per shot. +<d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$*Effect,LockOnAirCP,PeriodCount"/> damage total. 
+Button/Tooltip/ResearchBallisticRange=<c val="ffff8a">解放者</c>的防禦者模式射程提高<d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>格。 /// Increases the range of <c val="ffff8a">Liberators</c> in Defender Mode by <d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/>.
+Button/Tooltip/ResearchCarrierCapacity=<c val="ffff8a">航空母艦</c>的攔截機數量上限由8架提升到10架。
+Button/Tooltip/ResearchCarrierLeashRangeUpgrade=<c val="ffff8a">攔截機</c>的飛行距離提高<d ref="$UpgradeEffectArrayValue:CarrierLeashRangeUpgrade:Abil,CarrierHangar,Leash$"/>格。
+Button/Tooltip/ResearchCharge=讓<c val="ffff8a">狂戰士</c>可攔截附近的敵人，並且提高<c val="ffff8a">狂戰士</c>的移動速度。每<d ref="Abil,Charge,Cost.Cooldown.TimeUse"/>秒可使用一次。
+Button/Tooltip/ResearchCycloneRapidFireLaunchers=強化<c val="ffff8a">颶風飛彈車</c>的鎖定目標這個技能，提高最初12發的發射速度。 /// Increases the attack speed of the first 12 shots of the <c val="ffff8a">Cyclone's</c> Lock On.
+Button/Tooltip/ResearchDarkTemplarBlink=讓<c val="ffff8a">黑暗聖堂武士</c>可傳送至附近的目標地點。 /// Allows <c val="ffff8a">Dark Templars</c> to teleport to a nearby target location.
+Button/Tooltip/ResearchDrillClaws=讓<c val="ffff8a">寡婦詭雷</c>遁地啟動的速度提高為原來的3倍。 /// Allows <c val="ffff8a">Widow Mines</c> to burrow and activate three times as fast.
+Button/Tooltip/ResearchEnhancedShockwaves=使<c val="ffff8a">幽靈特務</c>的電磁脈衝彈範圍增加<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>格。 /// Increases the <c val="ffff8a">Ghost's</c> EMP Round radius by +<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>.
+Button/Tooltip/ResearchExplosiveShrapnelShells=渡鴉的<c val="ffff8a">自動砲台</c>和<c val="ffff8a">導引飛彈</c>的傷害提高30%。
+Button/Tooltip/ResearchExtendedThermalLance=提高<c val="ffff8a">巨像</c>的武器攻擊距離<d ref="$UpgradeEffectArrayValue:ExtendedThermalLance:Weapon,ThermalLances,Range$"/>格。 /// Increases the range of the <c val="ffff8a">Colossus</c> weapon by <d ref="$UpgradeEffectArrayValue:ExtendedThermalLance:Weapon,ThermalLances,Range$"/>.
+Button/Tooltip/ResearchHiSecAutoTracking=<c val="ffff8a">飛彈砲台</c>、<c val="ffff8a">自動砲台</c>及<c val="ffff8a">行星要塞</c>的攻擊距離提高1格。 /// Adds +1 range to <c val="ffff8a">Missile Turrets</c>, <c val="ffff8a">Auto-Turrets</c>, and <c val="ffff8a">Planetary Fortresses</c>.
+Button/Tooltip/ResearchHighCapacityBarrels=改良<c val="ffff8a">惡狼</c>的地獄火焰發射器，對輕甲單位的傷害提高5點。<c val="ffff8a">戰狼</c>的烈焰噴射對輕甲單位的傷害提高12點。 /// Improves the <c val="ffff8a">Hellion's</c> Infernal Flamethrower to deal +5 damage vs. light units and the <c val="ffff8a">Hellbat's</c> Napalm Spray to deal +12 damage vs. light units.
+Button/Tooltip/ResearchHighCapacityFuelTanks=提高<c val="ffff8a">醫療艇</c>的燃料儲存量，啟動後燃器的持續時間提高50%。
+Button/Tooltip/ResearchLockOnRangeUpgrade=使颶風飛彈車鎖定目標的距離從6格提高至9格，鎖定後的攻擊距離從12格提高至15格。
+Button/Tooltip/ResearchLurkerRange=<c val="ffff8a">遁地獸</c>的攻擊距離提高<d ref="$UpgradeEffectArrayValue:LurkerRange:Weapon,LurkerMP,Range$"/>格。
+Button/Tooltip/ResearchMagFieldLaunchers=<c val="ffff8a">颶風飛彈車</c>的攻擊距離提高<d ref="$UpgradeEffectArrayValue:MagFieldLaunchers:Weapon,TyphoonMissilePod,Range$"/>格。
+Button/Tooltip/ResearchPsionicAmplifiers=<c val="ffff8a">教士</c>的攻擊距離提高<d ref="$UpgradeEffectArrayValue:PsionicAmplifiers:Weapon,Adept,Range$"/>格。 /// Increases <c val="ffff8a">Adept</c> attack range by +<d ref="$UpgradeEffectArrayValue:PsionicAmplifiers:Weapon,Adept,Range$"/>.
+Button/Tooltip/ResearchPsionicSurge=<c val="ffff8a">狂戰士</c>的衝鋒對目標的傷害提高為<d ref="Effect,ChargingDamage,Amount"/>點。 /// Improves the <c val="ffff8a">Zealot's</c> Charge to deal <d ref="Effect,ChargingDamage,Amount"/> damage to the charged target.
+Button/Tooltip/ResearchRapidReignitionSystem=<c val="ffff8a">醫療艇</c>啟動後燃器的冷卻時間降低<d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/>，並且提高<c val="ffff8a">醫療艇</c>的移動速度。
+Button/Tooltip/ResearchRavenRecalibratedExplosives=<c val="ffff8a">導引飛彈</c>的傷害提高30%，追蹤距離提高50%。 /// Increases the <c val="ffff8a">Seeker Missile's</c> damage by 30% and its tracking range by 50%.
+Button/Tooltip/ResearchSmartServos=提高<c val="ffff8a">惡狼</c>、<c val="ffff8a">戰狼</c>、<c val="ffff8a">維京戰機</c>和<c val="ffff8a">雷神</c>的變形速度。 /// Allows <c val="ffff8a">Hellions</c>, <c val="ffff8a">Hellbats</c>, <c val="ffff8a">Vikings</c>, and <c val="ffff8a">Thors</c> to transform quickly between combat modes.
+Button/Tooltip/RoachWarren=提供蟑螂的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓幼蟲可變形為蟑螂<n/>- 讓蟑螂可變形為劫毀蟲 /// Contains upgrades for Roaches.<n/><n/><c val="ffff8a">Enables:</c><n/>- Roaches from Larvae<n/>- Ravagers from Roaches
+Button/Tooltip/ShieldBatteryRecharge=恢復目標單位或建築的護盾值。
+Button/Tooltip/ShieldBatteryRechargeEx5=恢復目標單位或建築的護盾值。<n/><n/><c val="f078ff">每1點能量可恢復3點護盾值。</c><n/><n/><c val="#ColorAttackInfo">只能自動施放，會自動鎖定單位和防禦性建築。</c>
+Button/Tooltip/ShieldBatteryRechargeNotOvercharged=<n/><n/><c val="f078ff">每秒最多可恢復72點護盾值。</c> /// <n/><n/><c val="f078ff">Restores up to 72 shields per second.</c>
+Button/Tooltip/ShieldBatteryRechargeNotOverchargedConstantText=<n/><n/><c val="#ColorAttackInfo">僅可對目標單位和防禦性建築自動施放。</c> /// <n/><n/><c val="#ColorAttackInfo">Autocasting targets units and defensive structures only.</c>
+Button/Tooltip/ShieldBatteryRechargeOvercharged=<n/><n/><c val="f078ff">每秒最多可恢復36點護盾值。每恢復3點護盾值會消耗護盾充能器1點能量。</c> /// <n/><n/><c val="f078ff">Restores up to 36 shields per second. Every 3 shields restored drains 1 energy from the Battery.</c>
+Button/Tooltip/Starport=空中單位生產設施。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造維京戰機<n/>- 可建造醫療艇<n/>- 可建造解放者 /// Air-unit production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Vikings<n/>- Medivacs<n/>- Liberators
+Button/Tooltip/SwarmHostMP=攻城單位，可以孵化蝗蟲來攻擊敵人。<n/><n/><c val="#ColorAttackInfo">蝗蟲可以攻擊地面單位。</c> /// Siege unit that attacks by spawning Locust minions.<n/><n/><c val="#ColorAttackInfo">Locusts can attack ground units.</c>
+Button/Tooltip/TechLabFactory=研發載具科技的建築。科技實驗室適用於任何生產類建築。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造颶風飛彈車<n/>- 可建造攻城坦克<n/>- 可建造雷神，需具備兵工廠
+Button/Tooltip/Tempest=長程砲擊船艦，從遠距離外發動攻擊。<n/><n/><c val="ffff8a">可攻擊地面及空中單位。</c> /// Siege artillery craft. Attacks from long range.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/TempestDisruptionBlast=充能<d ref="Abil,TempestDisruptionBlast,CastIntroTime[0]"/>秒，然後使目標區域內的敵方地面單位昏迷、敵方地面建築失效，持續<d ref="Behavior,TempestDisruptionBlastStunBehavior,Duration"/>秒。 /// Charges up for <d ref="Abil,TempestDisruptionBlast,CastIntroTime[0]"/> seconds, and then stuns enemy ground units and ground structures in the target area for <d ref="Behavior,TempestDisruptionBlastStunBehavior,Duration"/> seconds.
+Button/Tooltip/TempestDisruptionSphereMissile=在<d ref="(Effect,TempestDeathBallCP,PeriodCount)*(Effect,TempestDeathBallCP,PeriodicPeriodArray[0])"/>秒內持續造成傷害，最多可對目標區域內的敵方地面單位與建築造成<d ref="(Effect,TempestDeathBallCP,PeriodCount)*(Effect,TempestDeathBallCP,PeriodicPeriodArray[0])/(Behavior,TempestDeathBall,Period)*(Effect,TempestDeathBallDamage,Amount)"/>點傷害。
+Button/Tooltip/TempestGroundAttackUpgrade=強化暴風艦的共振旋砲，對建築額外造成<d ref="$UpgradeEffectArrayValue:TempestGroundAttackUpgrade:Effect,TempestDamageGround,AttributeBonus[Structure]$"/>點傷害。
+Button/Tooltip/TempestResearchGroundAttackUpgrade=強化<c val="ffff8a">暴風艦</c>的共振旋砲，對建築額外造成<d ref="$UpgradeEffectArrayValue:TempestGroundAttackUpgrade:Effect,TempestDamageGround,AttributeBonus[Structure]$"/>點傷害。
+Button/Tooltip/TemporalField=經過<d ref="(Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodicPeriodArray[0])"/>秒延遲後，扭曲目標區域的時空，持續<d ref="Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodicPeriodArray[0]"/>秒。該力場內所有敵方單位與建築物的攻擊與移動速度降低<d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%。 /// After a <d ref="(Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodicPeriodArray[0])"/> second delay, warps spacetime within the target area for <d ref="Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodicPeriodArray[0]"/> seconds. All enemy units and structures within the field will have attack and movement speeds reduced by <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%.
+Button/Tooltip/TimeWarp=讓目標建築進入超時空加速狀態，使該建築的運轉速度提高<d ref="(((Behavior,TimeWarpProduction,Modification.TimeScale)-1)*100)" precision="1"/>%。 /// Places target structure in a Chrono Boost, causing it to operate <d ref="(((Behavior,TimeWarpProduction,Modification.TimeScale)-1)*100)" precision="1"/>% faster.
+Button/Tooltip/Transfusion=立刻治療目標生物單位或建築<d ref="Effect,Transfusion,VitalArray[Life].Change"/>點生命值，並在<d ref="Behavior,Transfusion,Duration"/>秒內額外恢復<d ref="Behavior,Transfusion,Duration/Behavior,Transfusion,Period*Effect,TransfusionHealTick,VitalArray[Life].Change"  precision="3"/>點生命值。 /// Instantly heals target biological unit or structure for <d ref="Effect,Transfusion,VitalArray[Life].Change"/> life. An additional <d ref="Behavior,Transfusion,Duration/Behavior,Transfusion,Period*Effect,TransfusionHealTick,VitalArray[Life].Change"  precision="3"/> life regenerates over <d ref="Behavior,Transfusion,Duration"/> seconds.
+Button/Tooltip/UltraliskCavern=提供雷獸的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓幼蟲可變形為雷獸 /// Contains upgrades for Ultralisks.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ultralisks from Larvae
+Button/Tooltip/UpgradeBuildingArmorLevel1=<c val="ffff8a">建築</c>的裝甲提高2點。<c val="ffff8a">碉堡</c>內的裝載空間增加2格，並且<c val="ffff8a">指揮中心</c>與<c val="ffff8a">行星要塞</c>內有額外的裝載空間。 /// Upgrades the armor of <c val="ffff8a">structures</c> by 2. Increases the cargo space of <c val="ffff8a">Bunkers</c> by 2. Also provides extra cargo space for <c val="ffff8a">Command Centers</c> and <c val="ffff8a">Planetary Fortresses</c>.
+Button/Tooltip/ViperConsume=吸附目標建築，造成<d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/>點傷害，每秒為飛蟒恢復<d ref="(Effect,ViperConsumeStructureModifyCaster,VitalArray[2].Change / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/>點能量值，持續<d time="20"/>。<n/><n/><c val="#ColorAttackInfo">無法以盟友或敵方的建築為目標。</c> /// Latches onto the target structure, dealing <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/> damage and restoring <d ref="(Effect,ViperConsumeStructureModifyCaster,VitalArray[2].Change / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/> energy to the Viper every second. Lasts for <d time="20"/>.<n/><n/><c val="#ColorAttackInfo">Cannot target allied or enemy structures.</c>
+Button/Tooltip/VoidRaySwarmDamageBoost=重新校準虛空艦的稜鏡光束，使其對重甲單位造成的傷害提高<d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/>點，持續<d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/>秒。啟動稜鏡校準時，虛空艦的移動速度降低。
+Button/Tooltip/WarpPrism=飛行運輸機。可裝載一段距離內的單位。也可轉換模式以產生能源力場。 /// Flying transport. Can load units from a distance. Can also deploy to create a power field.
+Button/Tooltip/WarpPrismLoad=裝載單位至傳輸稜鏡的矩陣，裝載距離最遠為<d ref="Abil,WarpPrismTransport,Range"/>格。 /// Loads units into the Warp Prism's matrix from up to <d ref="Abil,WarpPrismTransport,Range"/> range away.
+Button/Tooltip/WarpPrismPhasing=定點能量提供單位。可裝載一段距離內的單位。也可轉換為運輸模式。 /// Immobile power provider. Can load units from a distance. Can switch to a mobile Transport Mode.
+Button/Tooltip/WidowMine=機械詭雷，可在遁地狀態下對附近的敵方單位發射飛彈，並對目標周圍的一小片範圍造成擴散傷害。哨兵飛彈處於冷卻狀態時，寡婦詭雷會現形。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Robotic mine. Launches missiles at nearby enemy units while burrowed. Attacks deal splash damage in a small area around the target. Widow Mine is revealed when Sentinel Missile is on cooldown. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/WidowMineBioSplash=攻擊靠近的敵方地面及空中單位。對主要目標造成<d ref="Effect,WidowMineExplodeDirect,Amount"/>點（對護盾＋<d ref="Effect,WidowMineExplodeDirect,ShieldBonus"/>點）傷害，對附近的單位造成<d ref="Effect,WidowMineExplodeSplash,Amount"/>點（對護盾＋<d ref="Effect,WidowMineExplodeSplash,ShieldBonus"/>點）擴散傷害。此單位補充彈藥時會現形。<n/><n/><c val="#ColorAttackInfo">冷卻時間：<d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/>秒。</c> /// Attacks air and ground units in proximity dealing <d ref="Effect,WidowMineExplodeDirect,Amount"/> (+<d ref="Effect,WidowMineExplodeDirect,ShieldBonus"/> vs. shields) damage to their primary target and <d ref="Effect,WidowMineExplodeSplash,Amount"/> (+<d ref="Effect,WidowMineExplodeSplash,ShieldBonus"/> vs. shields) splash damage to units nearby. This unit is revealed while reloading.<n/><n/><c val="#ColorAttackInfo">Cooldown: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/> seconds.</c>
+Button/Tooltip/WidowMineConcealment=此單位不再會於填彈時現形。 /// This unit is no longer revealed while reloading.
+Button/Tooltip/YamatoGun=使用強力的電漿加農砲猛轟目標，造成<d ref="Effect,YamatoU,Amount"/>點傷害。 /// Blasts a target with a devastating plasma cannon, causing <d ref="Effect,YamatoU,Amount"/> damage.
+Button/Tooltip/hydraliskspeed=<c val="ffff8a">刺蛇</c>的移動速度提高25%，並且攻擊距離提高<d ref="$UpgradeEffectArrayValue:hydraliskspeed:Weapon,NeedleSpines,Range$"/>格。 /// Increases <c val="ffff8a">Hydralisk</c> movement speed by 25%, and their attack range by +<d ref="$UpgradeEffectArrayValue:hydraliskspeed:Weapon,NeedleSpines,Range$"/>.
+DataCollection/Name/ShieldBatteryRechargeEx5=護盾充能器充能Ex5
+Effect/Name/90mmCannonsDummy=90mm Cannons Dummy
+Effect/Name/AdeptPiercingDamage=Piercing Damage
+Effect/Name/AdeptPiercingInitialPersistent=Piercing Initial Persistent
+Effect/Name/AdeptPiercingSearch=Piercing Search
+Effect/Name/AdeptPiercingSet=Piercing Set
+Effect/Name/AmorphousArmorcloudAB=
+Effect/Name/AmorphousArmorcloudCP=
+Effect/Name/AmorphousArmorcloudSearch=
+Effect/Name/ApplyNeuralAcquireToAllChildren=
+Effect/Name/AutoMorphtoWarpGate=
+Effect/Name/BarrierIssueOrder=Barrier Issue Order
+Effect/Name/BatteryOverchargeAB=Battery Overcharge AB
+Effect/Name/BatteryOverchargeCreateHealer=Battery Overcharge Create Healer
+Effect/Name/BattlecruiserAttackTrackerAB=BattlecruiserAttackTrackerAB
+Effect/Name/BattlecruiserAttackTrackerCP=BattlecruiserAttackTrackerCP
+Effect/Name/BattlecruiserAttackTrackerDP=BattlecruiserAttackTrackerDP
+Effect/Name/BattlecruiserAttackTrackerOrderAttack=BattlecruiserAttackTrackerOrderAttack
+Effect/Name/BattlecruiserAttackTrackerOrderStop=BattlecruiserAttackTrackerOrderStop
+Effect/Name/BattlecruiserAttackTrackerPointSet=BattlecruiserAttackTrackerPointSet
+Effect/Name/BattlecruiserAttackTrackerStopSet=BattlecruiserAttackTrackerStopSet
+Effect/Name/BattlecruiserAttackTrackerSwitch=BattlecruiserAttackTrackerSwitch
+Effect/Name/BattlecruiserAttackTrackerUnitSet=BattlecruiserAttackTrackerUnitSet
+Effect/Name/BattlecruiserChasingAB=BattlecruiserChasingAB
+Effect/Name/BattlecruiserChasingRB=BattlecruiserChasingRB
+Effect/Name/BattlecruiserDamageCP=BattlecruiserDamageCP
+Effect/Name/BattlecruiserDamageSet=BattlecruiserDamageSet
+Effect/Name/BattlecruiserDamageSwitch=
+Effect/Name/BattlecruiserTacticalJumpCD=
+Effect/Name/BattlecruiserTargetTriggerHyperJumpCD=
+Effect/Name/BattlecruiserTransientTrackerAB=BattlecruiserTransientTrackerAB
+Effect/Name/BattlecruiserTransientTrackerSwitch=BattlecruiserTransientTrackerSwitch
+Effect/Name/BattlecruiserTransientTrackerThreatAB=BattlecruiserTransientTrackerThreatAB
+Effect/Name/BattlecruiserYamatoCD=
+Effect/Name/BattlecrusierDisableWeaponsAB=
+Effect/Name/BatttlecruiserAttackTrackerRB=BatttlecruiserAttackTrackerRB
+Effect/Name/BypassArmorABSet=Bypass Armor AB Set
+Effect/Name/BypassArmorCU=Bypass Armor CU
+Effect/Name/BypassArmorCreatePersistent=Bypass Armor Create Persistent
+Effect/Name/BypassArmorDebuffDamageDummy=Bypass Armor Debuff Damage Dummy
+Effect/Name/BypassArmorDebuffOneAB=Bypass Armor Debuff One AB
+Effect/Name/BypassArmorDebuffOneRB=Bypass Armor Debuff One RB
+Effect/Name/BypassArmorDebuffOneSet=Bypass Armor Debuff One Set
+Effect/Name/BypassArmorDebuffThreeAB=Bypass Armor Debuff Three AB
+Effect/Name/BypassArmorDebuffThreeRB=Bypass Armor Debuff Three RB
+Effect/Name/BypassArmorDebuffThreeSet=Bypass Armor Debuff Three Set
+Effect/Name/BypassArmorDebuffTwoAB=Bypass Armor Debuff Two AB
+Effect/Name/BypassArmorDebuffTwoRB=Bypass Armor Debuff Two RB
+Effect/Name/BypassArmorDebuffTwoSet=Bypass Armor Debuff Two Set
+Effect/Name/BypassArmorDestroyPersistent=Bypass Armor Destroy Persistent
+Effect/Name/BypassArmorDroneMove=Bypass Armor Drone Move
+Effect/Name/BypassArmorMovementDebuffAB=Bypass Armor Movement Debuff AB
+Effect/Name/BypassArmorRBSet=Bypass Armor RB Set
+Effect/Name/BypassArmorStunAB=Bypass Armor Stun AB
+Effect/Name/BypassArmorStunRB=Bypass Armor Stun RB
+Effect/Name/CalldownMULEIssueOrderSecondary=
+Effect/Name/ChannelSnipeCombat=Channel Snipe Combat
+Effect/Name/ChannelSnipeCombatBeamDummy=Channel Snipe Combat Beam Dummy
+Effect/Name/ChannelSnipeCombatRB=Channel Snipe Combat RB
+Effect/Name/ChannelSnipeCreatePersistent=Channel Snipe Create Persistent
+Effect/Name/ChannelSnipeDamage=Channel Snipe Damage
+Effect/Name/ChannelSnipeDamageSet=Channel Snipe Damage Set
+Effect/Name/ChannelSnipeInitialSet=Channel Snipe Initial Set
+Effect/Name/ChannelingCausticSprayAB=Channeling Caustic Spray AB
+Effect/Name/ChannelingCausticSprayRB=Channeling Caustic Spray RB
+Effect/Name/ChargeAttackApplyBuff=Charge Attack (Apply Buff)
+Effect/Name/ChargeAttackRemoveBuff=Charge Attack Remove Buff
+Effect/Name/ChargeCheckApplyBuff=Charge Check (Apply Buff)
+Effect/Name/ChargeCheckRemoveBuff=Charge Check Remove Buff
+Effect/Name/ChargingDamage=Charging Damage
+Effect/Name/ChargingDamageSecondary=Charging Damage Secondary
+Effect/Name/ChargingPrimaryDamageSet=Charging Primary Damage Set
+Effect/Name/ChronoBoostEnergyCostAB=超時空加速能量消耗
+Effect/Name/CommandCenterKnockbackSE=Command Center Knockback SE
+Effect/Name/CycloneAirWeaponDamage=Cyclone Air Weapon Damage
+Effect/Name/CycloneAirWeaponLaunchMissileLeft=Cyclone Air Weapon Launch Missile Left
+Effect/Name/CycloneAirWeaponLaunchMissileLeftSet=Cyclone Air Weapon Launch Missile Left Set
+Effect/Name/CycloneAirWeaponLaunchMissileRight=Cyclone Air Weapon Launch Missile Right
+Effect/Name/CycloneAirWeaponLaunchMissileRightSet=Cyclone Air Weapon Launch Missile Right Set
+Effect/Name/CycloneAirWeaponLaunchMissileSwitch=Cyclone Air Weapon Launch Missile Switch
+Effect/Name/CycloneAttackWeaponDamage=Cyclone Attack Weapon Damage
+Effect/Name/CycloneAttackWeaponLaunchMissileLeft=Cyclone Attack Weapon Launch Missile Left
+Effect/Name/CycloneAttackWeaponLaunchMissileLeftSet=Cyclone Attack Weapon Launch Missile Left Set
+Effect/Name/CycloneAttackWeaponLaunchMissileRight=Cyclone Attack Weapon Launch Missile Right
+Effect/Name/CycloneAttackWeaponLaunchMissileRightSet=Cyclone Attack Weapon Launch Missile Right Set
+Effect/Name/CycloneAttackWeaponLaunchMissileSwitch=Cyclone Attack Weapon Launch Missile Switch
+Effect/Name/CycloneWeaponLaunchMissileLeftSetNew=Cyclone Weapon Launch Missile Left Set New
+Effect/Name/CycloneWeaponLaunchMissileRightSetNew=Cyclone Weapon Launch Missile Right Set New
+Effect/Name/CycloneWeaponTurretClearLook=Cyclone Weapon Turret Clear Look
+Effect/Name/CycloneWeaponTurretLook=Cyclone Weapon Turret Look
+Effect/Name/DamageTakenBarrieAutocastAB=Damage Taken Barrie Autocast AB
+Effect/Name/DamageTakenBarrierAutocastSet=Damage Taken Barrier Autocast Set
+Effect/Name/DarkTemplarBlink=Dark Templar Blink
+Effect/Name/DisruptorTransportUnloadPurificationNovaCooldownReset=Disruptor Transport Unload Purification Nova Cooldown Reset
+Effect/Name/FungalGrowthSlowMovementApplyBehavior=Fungal Growth Slow Movement Apply Behavior
+Effect/Name/FungalGrowthTargetOnCreepSwitch=Fungal Growth Target On Creep Switch
+Effect/Name/HighTemplarWeaponDamage=High Templar Weapon Damage
+Effect/Name/HighTemplarWeaponLM=High Templar Weapon LM
+Effect/Name/HighTemplarWeaponSet=High Templar Weapon Set
+Effect/Name/HyperjumpInitialCP=
+Effect/Name/HyperjumpInitialDelaySuppressWeaponAB=
+Effect/Name/HyperjumpInitialDelaySuppressWeaponRB=
+Effect/Name/ImmortalBarrierSupressedApplyBehavior=Immortal Barrier Supressed Apply Behavior
+Effect/Name/InfestedAcidSpines=Infested Acid Spines
+Effect/Name/InfestedAcidSpinesLM=Infested Acid Spines LM
+Effect/Name/IssueOrderMorphtoWarpGate=
+Effect/Name/LockOnAirCP=Lock On Air CP
+Effect/Name/LockOnAirFireSet=Lock On Air Fire Set
+Effect/Name/LockOnAirInitialSet=Lock On Air Initial Set
+Effect/Name/LockOnAirTurretStart=Lock On Air Turret Start
+Effect/Name/LockOnGroundAirSet=Lock On Ground Air Set
+Effect/Name/LockOnInitialSetNew=Lock On Initial Set New
+Effect/Name/LocustMPFlyingSwoopAttackIssueOrder=Locust MP Flying Swoop Attack Issue Order
+Effect/Name/LocustMPFlyingSwoopCreatePrecursorOffset=Locust MP Flying Swoop Create Precursor Offset
+Effect/Name/LocustMPFlyingUncommandableAB=Locust MP Flying Uncommandable AB
+Effect/Name/LocustMPIssueOrder=Locust MP Issue Order
+Effect/Name/LurkerMPCU=
+Effect/Name/LurkerMPDestroyPersistent=
+Effect/Name/LurkerMPSearchSet=
+Effect/Name/LurkerMPWeaponRangeSwitch=
+Effect/Name/MedivacUnloadCargoSetEffect=Medivac Unload Cargo Set Effect
+Effect/Name/MorphToGhostAlternate=MorphToGhostAlternate
+Effect/Name/MorphToGhostNova=MorphToGhostNova
+Effect/Name/NeuralParasiteChildren=神經寄生宿主
+Effect/Name/NexusChronoBoostIssueOrder=Chrono Boost Issue Order
+Effect/Name/NexusMassRecallPhased=Nexus Mass Recall Phased
+Effect/Name/NexusMassRecallSearch=Nexus Mass Recall Search
+Effect/Name/NexusMassRecallTeleport=Nexus Mass Recall Teleport
+Effect/Name/NexusMassRecallWarpOutAB=Nexus Mass Recall Warp Out 
+Effect/Name/NexusShieldOverchargeAB=Nexus Shield Overcharge AB
+Effect/Name/NexusShieldOverchargeEnergy=Nexus Shield Overcharge Energy
+Effect/Name/NexusShieldOverchargeRB=Nexus Shield Overcharge RB
+Effect/Name/NexusShieldOverchargeSearch=Nexus Shield Overcharge Search
+Effect/Name/NexusShieldOverchargeSet=Nexus Shield Overcharge Set
+Effect/Name/NexusShieldOverchargeShield=Nexus Shield Overcharge Shield
+Effect/Name/NexusShieldRecharge=Nexus Shield Recharge
+Effect/Name/NexusShieldRechargeEnergy=Nexus Shield Recharge Energy
+Effect/Name/NexusShieldRechargeOnPylonAB=
+Effect/Name/NexusShieldRechargeOnPylonABSecondaryOnTarget=
+Effect/Name/NexusShieldRechargeOnPylonModifyUnit=
+Effect/Name/NexusShieldRechargeOnPylonMorph=
+Effect/Name/NexusShieldRechargeOnPylonMorphBack=
+Effect/Name/NexusShieldRechargeOnPylonSearch=
+Effect/Name/NexusShieldRechargeSet=Nexus Shield Recharge Set
+Effect/Name/NexusShieldRechargeShield=Nexus Shield Recharge Shield
+Effect/Name/OrbitalCommandCreateMuleOffsetCP=
+Effect/Name/OrbitalCommandCreateMuleSearchTownHall=
+Effect/Name/OrbitalCommandCreateMuleSwitch=
+Effect/Name/PhaseMothershipCoreRecalledRemove=Phase Mothership Core Recalled Remove
+Effect/Name/PhaseMothershipCoreRecallingRemove=Phase Mothership Core Recalling Remove
+Effect/Name/PhaseShiftRemoveRecall=Phase Shift Remove Recall
+Effect/Name/PhaseShiftTimerCancelSet=Phase Shift Timer Cancel Set
+Effect/Name/PiercingLM=Piercing LM
+Effect/Name/PunisherGrenadesLMLeft=Punisher Grenades LM Left
+Effect/Name/PunisherGrenadesLMRight=Punisher Grenades LM Right
+Effect/Name/PunisherGrenadesLaunchSet=Punisher Grenades Launch Set
+Effect/Name/PurificationNovaDetonateRBCaster=Purification Nova Detonate RB Caster
+Effect/Name/PurificationNovaDetonateRBTarget=Purification Nova Detonate RB Target
+Effect/Name/PurificationNovaDetonateSearch=Purification Nova Detonate Search
+Effect/Name/PurificationNovaDetonateSearchSiegedSiegeTank=Purification Nova Detonate Search Sieged Siege Tank
+Effect/Name/PurificationNovaDetonateSet=Purification Nova Detonate Set
+Effect/Name/PurificationNovaMorphBackFromTransport=Purification Nova Morph Back From Transport
+Effect/Name/PurificationNovaPeriodicSet=Purification Nova Periodic Set
+Effect/Name/PurificationNovaPhaseRB=Purification Nova Phase RB
+Effect/Name/PurificationNovaPostApply=Purification Nova Post (Apply)
+Effect/Name/PurificationNovaPostPhaseRB=Purification Nova Post Phase RB
+Effect/Name/PurificationNovaSpeedRB=Purification Nova Speed RB
+Effect/Name/PurificationNovaTargettedCU=Purification Nova Targetted CU
+Effect/Name/PurificationNovaTargettedCasterAB=Purification Nova Targetted Caster AB
+Effect/Name/PurificationNovaTargettedCasterRB=Purification Nova Targetted Caster RB
+Effect/Name/PurificationNovaTargettedInitialSet=Purification Nova Targetted Initial Set
+Effect/Name/PurificationNovaTargettedIssueOrder=Purification Nova Targetted Issue Order
+Effect/Name/PurificationNovaTargettedSearch=Purification Nova Targetted Search
+Effect/Name/PurificationNovaTargettedSearchSet=Purification Nova Targetted Search Set
+Effect/Name/PurificationNovaTargettedSpawnAB=Purification Nova Targetted Spawn AB
+Effect/Name/PurificationNovaTargettedSpawnSet=Purification Nova Targetted Spawn Set
+Effect/Name/PurificationNovaTargettedTimerSpawnAB=Purification Nova Targetted Timer Spawn AB
+Effect/Name/PurificationNovaTransportPickupSet=Purification Nova Transport Pickup Set
+Effect/Name/RavenScramblerDummy=
+Effect/Name/RavenScramblerSwitchInitial=
+Effect/Name/RavenShredderMissileArmorReductionUIAdd=
+Effect/Name/RavenShredderMissileArmorReductionUISubtruct=
+Effect/Name/RavenShredderMissileSearchImpactSet=
+Effect/Name/ReleaseInterceptorCreateUnit=Release Interceptor (Create Unit)
+Effect/Name/ReleaseInterceptorLaunchMissile=Release Interceptor (Launch Missile)
+Effect/Name/ReleaseInterceptorLaunchSet=Release Interceptor (Launch Set)
+Effect/Name/ReleaseInterceptorPersistent=Release Interceptor (Persistent)
+Effect/Name/ReleaseInterceptorSet=Release Interceptor (Set)
+Effect/Name/ReleaseInterceptorTimedLife=Release Interceptor (Timed Life)
+Effect/Name/ResonatingGlaivesPhaseShiftAB=
+Effect/Name/ShieldBatteryRechargeEx5=
+Effect/Name/ShieldBatteryRechargeEx5@DamageDummy=Damage Dummy
+Effect/Name/ShieldBatteryRechargeEx5@RevealSearch=Reveal Search
+Effect/Name/SiegeTankMorphDisableDummyWeaponAB=Siege Tank Morph Disable Dummy Weapon AB
+Effect/Name/SiegeTankUnloadDelayAB=Siege Tank Unload Delay AB
+Effect/Name/SiegeTankUnmorphDisableDummyWeaponAB=Siege Tank Unmorph Disable Dummy Weapon AB
+Effect/Name/SpawnInterceptorsCreateUnit=Spawn Interceptors (Create Unit)
+Effect/Name/SpawnInterceptorsSearchDummy=Spawn Interceptors (Search Dummy)
+Effect/Name/SpawnLarvaDelay=Spawn Larva Delay
+Effect/Name/SpawnLarvaExpireSet=Spawn Larva Expire Set
+Effect/Name/SpawnLarvaSet=Spawn Larva Set
+Effect/Name/SpawnMutantLarvaHiddenAB=Spawn Mutant Larva Hidden AB
+Effect/Name/SpawnMutantLarvaRemoveHiddenBehavior=Spawn Mutant Larva Remove Hidden Behavior
+Effect/Name/TempestDeathBallCP=Tempest Death Ball 
+Effect/Name/TempestDisruptionBlastAB=Tempest Disruption Blast AB
+Effect/Name/TempestDisruptionBlastInitialWarningDamage=Tempest Disruption Blast Initial Warning Damage
+Effect/Name/TempestDisruptionBlastInitialWarningSearch=Tempest Disruption Blast Initial Warning Search
+Effect/Name/TempestDisruptionBlastSearch=Tempest Disruption Blast Search
+Effect/Name/TempestDisruptionBlastSecondaryWarningDamage=Tempest Disruption Blast Secondary Warning Damage
+Effect/Name/TempestDisruptionBlastSecondaryWarningSearch=Tempest Disruption Blast Secondary Warning Search
+Effect/Name/TempestDisruptionBlastSet=Tempest Disruption Blast Set
+Effect/Name/TemporalFieldAfterBubbleCreatePersistent=Temporal Field After Bubble Create Persistent
+Effect/Name/TemporalFieldAfterBubbleSearchArea=Temporal Field After Bubble Search Area
+Effect/Name/TemporalFieldCreatePersistentGrowingBubble=Temporal Field Create Persistent Growing Bubble
+Effect/Name/TemporalFieldGrowingBubbleCreatePersistent=Temporal Field Growing Bubble (Create Persistent)
+Effect/Name/TemporalFieldGrowingBubbleSearchArea=Temporal Field Growing Bubble (Search Area)
+Effect/Name/TerranBuildingKnockBack2Set=TerranBuildingKnockBack2Set
+Effect/Name/TerranStructuresKnockbackSE=Terran Structures Knockback SE
+Effect/Name/ThermalBeamDamage=Thermal Beam (Damage)
+Effect/Name/ThermalBeamPersistent=Thermal Beam (Persistent)
+Effect/Name/ThermalBeamSet=Thermal Beam (Set)
+Effect/Name/TransfusionAB=Transfusion AB
+Effect/Name/TransfusionHealTick=Transfusion Heal Tick
+Effect/Name/TransfusionImpactSet=Transfusion Impact Set
+Effect/Name/UpgradeToWarpGateAutoCastDisabler=Upgrade To Warp Gate Auto Cast Disabler
+Effect/Name/UpgradeToWarpGateAutoCastOff=Upgrade To Warp Gate Auto Cast Off
+Effect/Name/VoidRayWeaponTimeWarpSwitch=VoidRayWeaponTimeWarpSwitch
+Effect/Name/WarpPrismUnloadCargoSetEffect=Warp Prism Unload Cargo Set Effect
+Effect/Name/WidowMineTargetingBeamDummy=Widow Mine Targeting Beam Dummy
+Error/AddOnIsWorking=附屬建築研發時不能那樣做 /// Can't do that while add-on is researching
+Error/AlreadyChronoBoosted=該目標已處於加速狀態 /// Target is already accelerated
+Error/BatteryMustBeNearNexus=護盾充能器必須位於星核附近 /// Battery must be near a Nexus
+Error/CantBlinkWhileRooted=受真菌增生影響時無法那樣做 /// Can't do that while affected by Fungal Growth
+Error/CantTargetBattlecruiserHyperjump=無法以戰術躍傳中的單位為目標。 /// Can't target a Tactical Jumping unit.
+Error/CantTargetEggUnit=無法以蟲卵為目標。 /// Can't target Eggs.
+Error/CantTargetOverchargedShieldBattery=護盾充能器已超載。 /// Shield Battery is already overcharged.
+Error/CantTargetShieldBattery=無法以護盾充能器為目標。
+Error/MustTargetMechanicalorPsionic=必須以機械單位或幽能單位為目標。 /// Must target a Mechanical or Psionic unit.
+Error/MustTargetShieldBattery=必須以護盾充能器為目標。 /// Must target a Shield Battery.
+Error/TargetIsUnpowered=目標未充能 /// Target is unpowered
+LoadingScreen/Help40=不朽者具有特殊護盾，可吸收<d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/>點傷害。 /// Immortals have a special barrier that absorbs <d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/> points of damage.
+Requirement/Name/LearnBansheeRange=
+RequirementNode/Tooltip/CountUnitAlias_TechLabCompleteOnlyAtUnit2589852481TechTreeCheat=附屬科技實驗室 /// Attached Tech Lab
+RequirementNode/Tooltip/CountUnitLairCompleteOnly1515591279TechTreeCheat=蟲穴 /// Lair
+RequirementNode/Tooltip/CountUpgradeAdeptPiercingAttackCompleteOnly543136321=在暮光議會研發共振旋刃 /// Research Resonating Glaives at the Twilight Council
+RequirementNode/Tooltip/CountUpgradeAnabolicSynthesisCompleteOnly463276968=在雷獸洞穴進化代謝合成 /// Evolve Anabolic Synthesis at the Ultralisk Cavern
+RequirementNode/Tooltip/CountUpgradeCarrierCarrierCapacityCompleteOnly3850636404=在艦隊導航台研發航空母艦容量
+RequirementNode/Tooltip/CountUpgradeCarrierLeashRangeUpgradeCompleteOnly3097273746=在艦隊導航台研發進階通訊序列 /// Research Advanced Communications Array at the Fleet Beacon
+RequirementNode/Tooltip/CountUpgradeChargeCompleteOnly137519211TechTreeCheat=在暮光議會研發衝鋒
+RequirementNode/Tooltip/CountUpgradeCycloneAirUpgradeCompleteOnly3809174891=在軍工廠的科技實驗室研發地對空鎖定
+RequirementNode/Tooltip/CountUpgradeCycloneLockOnDamageUpgradeCompleteOnly114637382=在軍工廠的科技實驗室研發磁場加速器
+RequirementNode/Tooltip/CountUpgradeCycloneRapidFireLaunchersCompleteOnly403155563=在軍工廠的科技實驗室研發速射發射器 /// Research Rapid Fire Launchers at the Factory Tech Lab
+RequirementNode/Tooltip/CountUpgradeDarkTemplarBlinkUpgradeCompleteOnly3445645436TechTreeCheat=在黑暗聖殿研發暗影步法 /// Research Shadow Stride at the Dark Shrine
+RequirementNode/Tooltip/CountUpgradeDrillClawsCompleteOnly1396043293=在軍工廠的科技實驗室研發鑽地爪 /// Research Drilling Claws at the Factory Tech Lab
+RequirementNode/Tooltip/CountUpgradeEnhancedShockwavesCompleteOnly2618611756TechTreeCheat=在幽靈特務學院研發強化衝擊波 /// Research Enhanced Shockwaves at the Ghost Academy
+RequirementNode/Tooltip/CountUpgradeLiberatorAGRangeUpgradeCompleteOnly2325880491=在核融合核心研發強化彈道
+RequirementNode/Tooltip/CountUpgradeLiberatorMorphCompleteOnly4015118574TechTreeCheat=在星際港的科技實驗室研發防禦者模式
+RequirementNode/Tooltip/CountUpgradeMagFieldLaunchersCompleteOnly4115927287=在軍工廠的科技實驗室研發磁場發射器。
+RequirementNode/Tooltip/CountUpgradeMedivacIncreaseSpeedBoostCompleteOnly20648635=在核融合核心研發快速再燃系統
+RequirementNode/Tooltip/CountUpgradeMedivacRapidDeploymentCompleteOnly1198155126=在星際港的科技實驗室研發快速卸載
+RequirementNode/Tooltip/CountUpgradeMicrobialShroudCompleteOnly3803934920TechTreeCheat=在感染巢進化微生物護罩 /// Evolve Microbial Shroud at the Infestation Pit
+RequirementNode/Tooltip/CountUpgradeNeuralParasiteCompleteOnly1444946120TechTreeCheat=在感染巢進化神經寄生 /// Evolve Neural Parasite at the Infestation Pit
+RequirementNode/Tooltip/CountUpgradeRavagerRangeCompleteOnly4292606879=在蟑螂繁殖場研發增壓腺體
+RequirementNode/Tooltip/CountUpgradeRavenDamageUpgradeCompleteOnly1937328235=在星際港的科技實驗室研發破片高爆彈
+RequirementNode/Tooltip/CountUpgradeRavenEnhancedMunitionsCompleteOnly807727127=在星際港的科技實驗室研發強化彈藥 /// Research Enhanced Munitions at the Starport Tech Lab
+RequirementNode/Tooltip/CountUpgradeRavenRecalibratedExplosivesCompleteOnly2020753493=在星際港的科技實驗室研發精準高爆彈 /// Research Recalibrated Explosives at the Starport Tech Lab
+RequirementNode/Tooltip/CountUpgradeSunderingImpactCompleteOnly1226141447TechTreeCheat=在暮光議會研發碎裂衝擊
+RequirementNode/Tooltip/CountUpgradeTempestGroundAttackUpgradeCompleteOnly788113278=在艦隊導航台研發地質減穩器
+RequirementNode/Tooltip/LT4164600185CountUnitInterceptorQueuedOrBetterAtUnit10=航空母艦搭載的攔截機必須低於10架 /// Carrier must have fewer than 10 Interceptors
+RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=蟲穴 /// Lair
+UI/Morphing=正在轉換
+Unit/Category/TerranUnits=人類 /// Terran
+Unit/Name/AdeptPiercingWeapon=教士穿透攻擊 /// Adept Piercing Weapon
+Unit/Name/BypassArmorDrone=穿甲無人機 /// Bypass Armor Drone
+Unit/Name/CarrierInterceptorDummy=Interceptor Dummy *TEMP*
+Unit/Name/CorrosiveParasiteWeapon=腐蝕寄生蟲 /// Corrosive Parasite
+Unit/Name/DisruptorPhased=淨化光球 /// Purifier Orb
+Unit/Name/HighTemplarWeaponMissile=高階聖堂武士武器飛彈 /// High Templar Weapon Missile
+Unit/Name/InfestedAcidSpinesWeapon=受感染部隊強酸脊刺武器 /// Infested Acid Spines Weapon
+Unit/Name/InterceptorProjectile=攔截機（投射物）
+Unit/Name/InterceptorVoid=攔截機
+Unit/Name/LurkerDenMP=遁地獸穴 /// Lurker Den
+Unit/Name/OverseerSiegeMode=監察王蟲 /// Overseer
+Unit/Name/RavenRepairDrone=自動維修機 /// Repair Drone
+Unit/Name/SpyDrone=偵察無人機
+Unit/Name/TempestDisruptionSphereMissile=暴風艦 - 滅裂光球
+Upgrade/Name/AdeptPiercingAttack=共振旋刃
+Upgrade/Name/AmplifiedShielding=護盾增量 /// Amplified Shielding
+Upgrade/Name/ArmorPiercingRockets=穿甲飛彈 /// Armor Piercing Rockets
+Upgrade/Name/BansheeSpeed=高速旋翼飛行器
+Upgrade/Name/CarrierCarrierCapacity=航空母艦容量
+Upgrade/Name/CarrierLeashRangeUpgrade=航空母艦單位飛行距離升級
+Upgrade/Name/CycloneLockOnDamageUpgrade=磁場加速器
+Upgrade/Name/CycloneRapidFireLaunchers=速射發射器 /// Rapid Fire Launchers
+Upgrade/Name/DarkTemplarBlinkUpgrade=暗影步法 /// Shadow Stride
+Upgrade/Name/DiggingClaws=適應性掘爪 /// Adaptive Talons
+Upgrade/Name/EnhancedShockwaves=強化衝擊波 /// Enhanced Shockwaves
+Upgrade/Name/EvolveGroovedSpines=鑿溝脊刺 /// Grooved Spines
+Upgrade/Name/EvolveMuscularAugments=肌力增強 /// Muscular Augments
+Upgrade/Name/GhostAlternate=幽靈特務
+Upgrade/Name/HighCapacityBarrels=地獄預燃器 /// Infernal Pre-Igniter
+Upgrade/Name/LiberatorAGRangeUpgrade=強化彈道
+Upgrade/Name/LiberatorMorph=防禦者模式
+Upgrade/Name/LurkerRange=震地脊刺
+Upgrade/Name/MagFieldLaunchers=磁場發射器
+Upgrade/Name/MedivacIncreaseSpeedBoost=快速再燃系統 /// Rapid Reignition System
+Upgrade/Name/MedivacRapidDeployment=快速卸載
+Upgrade/Name/MicrobialShroud=微生物護罩 /// Microbial Shroud
+Upgrade/Name/PsionicAmplifiers=幽能增幅器 /// Psionic Amplifiers
+Upgrade/Name/RavagerRange=劫毀蟲射程
+Upgrade/Name/RavenDamageUpgrade=破片高爆彈
+Upgrade/Name/RavenEnhancedMunitions=強化彈藥 /// Enhanced Munitions
+Upgrade/Name/RavenRecalibratedExplosives=精準高爆彈 /// Recalibrated Explosives
+Upgrade/Name/RavenSeekerMissileRecalibratedExplosives=精準高爆彈 /// Recalibrated Explosives
+Upgrade/Name/SecretedCoating=分泌物塗層 /// Secreted Coating
+Upgrade/Name/SmartServos=智能傳動 /// Smart Servos
+Upgrade/Name/SunderingImpact=碎裂衝擊 /// Sundering Impact
+Upgrade/Name/TempestGroundAttackUpgrade=地質減穩器
+Upgrade/Name/TerranBuildingArmor=新型鋼鐵裝甲 /// Neosteel Armor
+Upgrade/Name/TerranVehicleAndShipArmorsLevel1=人類載具與船艦的合金板等級1 /// Terran Vehicle and Ship Plating Level 1
+Upgrade/Name/TerranVehicleAndShipArmorsLevel2=人類載具與船艦的合金板等級2 /// Terran Vehicle and Ship Plating Level 2
+Upgrade/Name/TerranVehicleAndShipArmorsLevel3=人類載具與船艦的合金板等級3 /// Terran Vehicle and Ship Plating Level 3
+Upgrade/Name/hydraliskspeed=肌力增強
+Weapon/Name/90mmCannonsFake=90毫米加農砲仿製品
+Weapon/Name/BattlecruiserWeaponSwitch=BattlecruiserWeaponSwitch
+Weapon/Name/BypassArmorDroneWeapon=穿甲無人機武器
+Weapon/Name/CycloneLockOnDummy=鎖定目標
+Weapon/Name/DisruptionBeamDisplayDummy=干擾光束 /// Disruption Beam
+Weapon/Name/InfestedAcidSpines=受感染的火箭
+Weapon/Name/OracleDisplayDummy=脈衝光束 /// Pulsar Beam
+Weapon/Name/PsiBlast=幽能炸裂
+Weapon/Name/ThermalBeam=熱能光束
+Weapon/Name/VoidRaySwarmDisplayDummy=稜鏡光束 /// Prismatic Beam

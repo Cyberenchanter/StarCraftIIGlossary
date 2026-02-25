@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=Modyfikacja trybu współpracy StarCraft 2
+DocInfo/Name=Sprzymierzeni dowódcy

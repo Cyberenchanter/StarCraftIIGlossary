@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=스타크래프트 II 협동전 모드 /// Starcraft 2 Co-op mod
+DocInfo/Name=동맹 사령관

@@ -1,0 +1,322 @@
+﻿Abil/Name/ArmorpiercingMissiles=관통 미사일 /// Armor-piercing Missiles
+Abil/Name/ArmoryResearchSwarm=무기고 연구 군단 /// Armory Research Swarm
+Abil/Name/ExplosiveMissiles=폭약 미사일 /// Explosive Missiles
+Abil/Name/LightofAiur=예지 /// Envision
+Abil/Name/LocustMPFlyingMorphToGround=식충 MP 비행 지상으로 변태
+Abil/Name/LocustMPFlyingSwoop=식충 MP 비행 급강하
+Abil/Name/LocustMPFlyingSwoopAttack=식충 MP 비행 급강하 공격
+Abil/Name/LocustMPMorphToAir=식충 MP 공중으로 변태
+Abil/Name/MorphToHellion=화염차로 변신 /// Morph To Hellion
+Abil/Name/MorphToHellionTank=화염기갑병으로 변신 /// Morph To Hellbat
+Abil/Name/MothershipCorePurifyNexus=모선핵 - 정화 연결체 /// Mothership Core - Purify Nexus
+Abil/Name/MothershipCorePurifyNexusCancel=모선핵 - 정화 연결체 (취소) /// Mothership Core - Purify Nexus (Cancel)
+Abil/Name/MothershipMassRecall=모선 대규모 귀환 /// Mothership Mass Recall
+Abil/Name/OracleWeapon=예언자 무기 /// Oracle Weapon
+Abil/Name/PhaseShield=차원막 /// Phase Shield
+Abil/Name/PulsarBeam=펄서 광선 /// Pulsar Beam
+Abil/Name/PulsarCannon=펄서 폭발 /// Pulsar Blast
+Abil/Name/SeekerDummyChannel=추적 미사일 모형 집중 /// Seeker Dummy Channel
+Abil/Name/SpawnLocustsTargeted=식충 생성 대상
+Abil/Name/TemporalField=시간 왜곡 /// Time Warp
+Abil/Name/ThorAPMode=토르 AP 모드 /// Thor APMode
+Abil/Name/ThorNormalMode=토르 일반 모드 /// Thor Normal Mode
+Abil/Name/UltraliskWeaponCooldown=울트라리스크 무기 재사용 대기시간 /// Ultralisk Weapon Cooldown
+Abil/Name/VoidRaySwarmDamageBoost=공허 포격기 군단 피해 증폭 /// Void Ray Swarm Damage Boost
+Abil/Name/VoidSiphon=공허 흡입 /// Void Siphon
+Abil/Name/VoidSwarmHostSpawnLocust=공허 군단 숙주 식충 생성
+Abil/Thor/ReArm=장착 중 /// Arming
+Behavior/Name/ArmorpiercingMode=철갑 모드 /// Armor-piercing Mode
+Behavior/Name/ExplosiveMode=폭약 모드 /// Explosive Mode
+Behavior/Name/LightofAiur=예지 /// Envision
+Behavior/Name/LocustMPFlyingSwoopPrecursor=식충 MP 비행 급강하 사전 커서
+Behavior/Name/LocustMPFlyingSwoopUncommandable=식충 MP 비행 급강하 명령 불가
+Behavior/Name/MedivacSpeedBoost=애프터버너 활성화 /// Afterburners Active
+Behavior/Name/MothershipCoreDeath=모선핵 (죽음) /// Mothership Core (Death)
+Behavior/Name/MothershipCorePurifyNexus=모선핵 - 정화 연결체 /// Mothership Core - Purify Nexus
+Behavior/Name/MothershipDeath=모선 (죽음) /// Mothership (Death)
+Behavior/Name/MothershipRecalled=모선 귀환 완료 /// Mothership Recalled
+Behavior/Name/MothershipRecalling=모선 귀환 중 /// Mothership Recalling
+Behavior/Name/MothershipResetEnergy=모선핵 에너지 초기화 /// Mothership Reset Energy
+Behavior/Name/NydusDetect=땅굴 감지 /// Nydus Detect
+Behavior/Name/OracleRevelationController=예언자 계시 조종자 /// Oracle Revelation Controller
+Behavior/Name/OracleWeapon=펄서 광선 /// Pulsar Beam
+Behavior/Name/PhaseShield=차원막 /// Phase Shield
+Behavior/Name/PulsarBeam=펄서 광선 /// Pulsar Beam
+Behavior/Name/Purify=광자 과충전 /// Photon Overcharge
+Behavior/Name/ResourceStunDamage=자원 기절 (피해) /// Resource Stun (Damage)
+Behavior/Name/SeekerMissile=추적 미사일 /// Seeker Missile
+Behavior/Name/TemporalField=시간 왜곡 /// Time Warp
+Behavior/Name/TemporalFieldDecelerationBuff=시간 왜곡 (감속 효과) /// Time Warp (Deceleration Buff)
+Behavior/Name/VoidRaySwarmDamageBoost=분광 정렬 /// Prismatic Alignment
+Behavior/Name/VoidSiphon=공허 흡입 /// Void Siphon
+Behavior/Name/VortexKill=소용돌이 처치 /// Vortex Kill
+Behavior/Name/WidowMineAnimationController=땅거미 지뢰 애니메이션 제어기 /// Widow Mine Animation Controller
+Behavior/Name/WidowMineArmed=활성화되어야 함 /// Must be Activated
+Behavior/Tooltip/LightofAiur=은폐, 잠복, 환상 유닛을 탐지합니다. /// Detecting cloaked, burrowed, and hallucinated units.
+Behavior/Tooltip/MedivacSpeedBoost=이 유닛의 이동 속도가 70%만큼 증가합니다. /// This unit's movement speed is increased by 70%.
+Behavior/Tooltip/OracleRevelation=이 유닛 또는 구조물은 시전자에게 시야를 제공합니다. /// This unit or structure is providing vision for the caster.
+Behavior/Tooltip/OracleWeapon=이 예언자는 무기를 사용하며 지상 유닛을 공격할 수 있습니다. /// This Oracle's weapon is enabled and can attack ground units.
+Behavior/Tooltip/PhaseShield=이 유닛은 해로운 효과로부터 보호받습니다. /// This unit is protected from harmful effects.
+Behavior/Tooltip/PulsarBeam=펄서 광선을 구조물에 집중시킵니다. /// Channeling a Pulsar Beam at a structure.
+Behavior/Tooltip/Purify=이 연결체는 강력한 원거리 공격 능력을 갖습니다. /// This Nexus has a powerful long-ranged attack.
+Behavior/Tooltip/ResourceStun=광물 차단막을 파괴하기 전에는 이 광물 지대에서 광물을 채취할 수 없습니다. /// This Mineral Field cannot be harvested until the Mineral Shield is destroyed.
+Behavior/Tooltip/SeekerMissile=이 유닛은 추적 미사일의 목표로 지정되었습니다. /// This unit is being targeted by a Seeker Missile.
+Behavior/Tooltip/TemporalField=이 유닛은 이동 속도가 50%만큼 감소했습니다. /// This unit's movement speed is reduced by 50%.
+Behavior/Tooltip/VoidRaySwarmDamageBoost=이 유닛은 중장갑 유닛에게 6의 피해를 추가로 줍니다. /// This unit deals an additional +6 damage to armored units.
+Behavior/Tooltip/VoidSiphon=예언자가 이 구조물에 피해를 주고 광물을 적에게 공급하고 있습니다. /// An Oracle is damaging this structure and generating minerals for the enemy.
+Button/Name/ArmorpiercingMode=고충격 탄두 /// High Impact Payload
+Button/Name/BattlecruiserWeaponsIgnoreArmor=대장갑 함포 /// Anti-armor Ordnance
+Button/Name/CombatAwareness=전장 파악 /// Battlefield Awareness
+Button/Name/EvolveFlyingLocusts=비행 식충 진화
+Button/Name/ExitPurifyMode=정화 모드 종료 /// Exit Purify Mode
+Button/Name/ExplosiveMode=폭약 탄두 /// Explosive Payload
+Button/Name/FlyingLocusts=비행 식충
+Button/Name/HellionTank=화염기갑병 생산 /// Build Hellbat
+Button/Name/LightofAiur=예지 /// Envision
+Button/Name/LocustMPFlyingSwoop=비행 급강하
+Button/Name/MedivacSpeedBoost=애프터버너 점화 /// Ignite Afterburners
+Button/Name/MorphToHellion=화염차 모드 /// Hellion Mode
+Button/Name/MorphToHellionTank=화염기갑병 모드 /// Hellbat Mode
+Button/Name/MothershipCoreMassRecall=대규모 귀환 /// Mass Recall
+Button/Name/MothershipCoreWeapon=광자 과충전 /// Photon Overcharge
+Button/Name/MothershipMassRecall=대규모 귀환 /// Mass Recall
+Button/Name/MutaliskRegeneration=조직 재생 /// Tissue Regeneration
+Button/Name/OracleWeaponOff=펄서 광선 비활성화 /// Deactivate Pulsar Beam
+Button/Name/OracleWeaponOn=펄서 광선 활성화 /// Activate Pulsar Beam
+Button/Name/PhaseShield=차원막 /// Phase Shield
+Button/Name/PulsarCannon=펄서 폭발 /// Pulsar Blast
+Button/Name/ResearchDrillClaws=천공 발톱 연구 /// Research Drilling Claws
+Button/Name/ResearchLocustLifetimeIncrease=식충 내구력 진화 /// Evolve Enduring Locusts
+Button/Name/ResearchMedivacEnergyUpgrade=카두세우스 반응로 연구 /// Research Caduceus Reactor
+Button/Name/ResearchTransformationServos=변신 제어 장치 연구 /// Research Transformation Servos
+Button/Name/RipField=펄서 광선 /// Pulsar Beam
+Button/Name/TempestRangeUpgrade=양자 반응로 연구 /// Research Quantum Reactor
+Button/Name/TemporalField=시간 왜곡 /// Time Warp
+Button/Name/TerranVehicleAndShipPlatingLevel1=차량 및 우주선 장갑 업그레이드 1단계 /// Upgrade Vehicle and Ship Plating Level 1
+Button/Name/TerranVehicleAndShipPlatingLevel2=차량 및 우주선 장갑 업그레이드 2단계 /// Upgrade Vehicle and Ship Plating Level 2
+Button/Name/TerranVehicleAndShipPlatingLevel3=차량 및 우주선 장갑 업그레이드 3단계 /// Upgrade Vehicle and Ship Plating Level 3
+Button/Name/TerranVehicleAndShipWeaponsLevel1=차량 및 우주선 무기 업그레이드 1단계 /// Upgrade Vehicle and Ship Weapons Level 1
+Button/Name/TerranVehicleAndShipWeaponsLevel2=차량 및 우주선 무기 업그레이드 2단계 /// Upgrade Vehicle and Ship Weapons Level 2
+Button/Name/TerranVehicleAndShipWeaponsLevel3=차량 및 우주선 무기 업그레이드 3단계 /// Upgrade Vehicle and Ship Weapons Level 3
+Button/Name/VoidRaySwarmDamageBoost=분광 정렬 /// Prismatic Alignment
+Button/Name/VoidSiphon=공허 흡입 /// Void Siphon
+Button/Name/VoidSwarmHostSpawnLocust=식충 생성
+Button/Name/VortexKO=중력장 /// Gravity Well
+Button/Name/WidowMineBioSplash=감시 미사일 /// Sentinel Missiles
+Button/Tooltip/ArmorpiercingMode=토르의 250mm 천벌포를 활성화합니다. 천벌포는 단일 공중 유닛을 공격하여 큰 피해를 줍니다. /// Activates the Thor's 250mm Punisher Cannons. Punisher cannons strike a single air target for heavy damage.
+Button/Tooltip/Armory=군수공장과 우주공항에서 생산하는 유닛의 무기와 장갑을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 화염기갑병 (군수공장)<n/>- 토르 (군수공장) /// Contains weapon and armor upgrades for Factory and Starport units. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellbat at the Factory<n/>- Thor at the Factory
+Button/Tooltip/BanelingNest=맹독충을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 맹독충 (저글링에서 변태) /// Contains an upgrade for Banelings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Banelings from Zerglings
+Button/Tooltip/Barracks=보병 생산 설비입니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 해병<n/>- 사신<n/>- 벙커 (건설로봇 건설)<n/>- 궤도 사령부 (사령부 업그레이드) /// Infantry-production facility.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marines<n/>- Reapers<n/>- Bunkers from SCVs<n/>- Orbital Commands from Command Centers
+Button/Tooltip/BlindingCloud=<d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/>초 동안 지속되는 구름을 생성하여, 그 안에 있는 지상 유닛과 구조물의 공격 사거리를 근접 사거리로 줄입니다. /// Creates a cloud for <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> seconds that reduces attack range of ground units and structures underneath to melee range.
+Button/Tooltip/BuildTechLabFactory=차량 기술을 연구합니다. 기술실은 모든 생산 건물에 부착할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 공성 전차<n/>- 토르 (무기고 필요) /// Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Thor with Armory
+Button/Tooltip/BurrowProtector=<d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/>초 동안 지속되는 구름을 생성하여, 그 안에 있는 지상 유닛의 공격 사거리를 근접 사거리로 줄입니다. /// Creates a cloud for <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> seconds that reduces attack range of ground units under it to melee range.
+Button/Tooltip/CollapsibleRockTower=이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerDebris=이 장애물을 파괴하면 새로운 지역에 접근할 수 있습니다. /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDebrisRampLeft=이 장애물을 파괴하면 새로운 지역에 접근할 수 있습니다. /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDebrisRampRight=이 장애물을 파괴하면 새로운 지역에 접근할 수 있습니다. /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDiagonal=이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerDoubleWide=이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerRampLeft=이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerRampRight=이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CombatAwareness=사신이 언덕 위와 일반적으로 시야를 가로막는 지형 너머를 볼 수 있습니다. /// Allows Reapers to see up cliffs and through terrain that would normally block line of sight.
+Button/Tooltip/CombatDrugs=비전투 시 체력이 빠르게 회복됩니다. /// Regenerates life quickly while out of combat.
+Button/Tooltip/CyberneticsCore=프로토스 공중 유닛의 무기와 장갑을 강화합니다. 차원 관문을 업그레이드할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 추적자 (관문)<n/>- 파수기 (관문)<n/>- 모선핵 (연결체) /// Contains weapon and armor upgrades for Protoss air units and the Warp Gate upgrade.<n/><n/><c val="ffff8a">Enables:</c><n/>- Stalkers at the Gateway<n/>- Sentries at the Gateway<n/>- Mothership Core at the Nexus
+Button/Tooltip/EvolutionChamber=저그 지상 유닛을 업그레이드합니다. /// Contains upgrades for Zerg ground units. 
+Button/Tooltip/EvolveFlyingLocusts=군단 숙주가 생성하는 식충이 날아다닐 수 있습니다. 비행 식충은 급강하를 사용해 지상에 착지한 뒤 공격을 시작할 수 있습니다.
+Button/Tooltip/ExitPurifyMode=이 유닛은 정화 모드를 종료합니다. /// This unit is exiting Purify mode.
+Button/Tooltip/ExplosiveMode=토르에 재블린 미사일 발사기를 장착합니다. 재블린 미사일은 주변 공중 유닛에 방사 피해를 주며, 경장갑 유닛에게 추가 피해를 줍니다. /// Arms the Thor's Javelin missile launchers. Javelin missiles deal splash damage to nearby air units and additional damage vs. light units.
+Button/Tooltip/FaceEmbrace=대상 유닛을 살모사의 위치로 잡아당깁니다. /// Pulls target unit to the location of the Viper.
+Button/Tooltip/Factory=차량 생산 시설입니다. <n/><n/><c val="ffff8a">사용 가능:</c><n/>- 화염차<n/>- 땅거미 지뢰 /// Vehicle-production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellions<n/>- Widow Mines
+Button/Tooltip/FleetBeacon=불사조와 우주모함을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 폭풍함 (우주관문)<n/>- 우주모함 (우주관문)</n>- 모선 (모선핵에서 업그레이드) /// Contains upgrades for Phoenixes and Carriers.<n/><n/><c val="ffff8a">Enables:</c><n/>- Tempests at the Stargate</n>- Carriers at the Stargate<n/>- Mothership from the Mothership Core
+Button/Tooltip/FlyingLocusts=군단 숙주가 생성하는 식충이 날아다닐 수 있습니다. 비행 식충은 급강하를 사용해 지상에 착지한 뒤 공격을 시작할 수 있습니다.
+Button/Tooltip/Frenzied=감속, 기절, 정신 제어, 이동 방해 효과에 면역입니다. /// Immune to snare, stun, mind control, and movement altering effects.
+Button/Tooltip/FungalGrowth=대상 유닛들을 움직이지 못하게 하고 4초에 걸쳐 총 <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/>의 피해를 줍니다. 은폐하거나 잠복한 유닛은 모습이 드러납니다. /// Immobilizes target units and causes <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/> damage over 4 seconds. Reveals cloaked and burrowed units.
+Button/Tooltip/GhostAcademy=유령을 업그레이드합니다. 유령이 사용할 수 있는 핵을 생산합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 유령 (병영) /// Contains an upgrade for Ghosts. Can build Nukes for Ghosts.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ghosts at the Barracks
+Button/Tooltip/HealUpgraded=아군 생체 유닛을 치료합니다.<n/><n/><c val="f078ff">에너지 1당 5의 체력 회복</c> /// Heals a friendly biological target.<n/><n/><c val="f078ff">Heals 5 life per 1 energy.</c>
+Button/Tooltip/Hive=부화장의 더욱 진화된 형태인 군락에서는 추가적인 업그레이드와 다양한 건물 생산이 가능합니다. 또한 모든 저그 유닛을 생성할 수 있으며 채취한 자원을 수집할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 살모사 (애벌레에서 변태) /// Further evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/><c val="ffff8a">Enables:</c><n/>- Vipers from Larvae
+Button/Tooltip/HunterSeekerMissile=추적 미사일을 배치합니다. 미사일은 <d ref="Mover,HunterSeekerMissile,MotionPhases[0].Timeout+Mover,HunterSeekerMissile,MotionPhases[1].Timeout"/>초 후에 발사되어, 대상 유닛을 따라가다 적중 시 <d ref="Effect,SeekerMissileDamage,Amount"/>의 방사 피해를 줍니다. /// Deploys a Seeker Missile which activates after <d ref="Mover,HunterSeekerMissile,MotionPhases[0].Timeout+Mover,HunterSeekerMissile,MotionPhases[1].Timeout"/> seconds and pursues the target unit, dealing <d ref="Effect,SeekerMissileDamage,Amount"/> splash damage upon contact.
+Button/Tooltip/Lair=부화장의 진화된 형태인 번식지에서는 추가적인 업그레이드와 다양한 건물 생산이 가능합니다. 또한 다양한 저그 유닛을 생성할 수 있으며 채취한 자원을 수집할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 감시군주 (대군주에서 변태) /// Evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/><c val="ffff8a">Enables:</c><n/>- Overseers from Overlords
+Button/Tooltip/LightofAiur=예언자가 60초 동안 은폐, 잠복, 환상 유닛을 탐지할 수 있습니다. /// Allows the Oracle to detect cloaked, burrowed, and hallucinated units for 60 seconds.
+Button/Tooltip/LocustMPFlying=정해진 시간이 지나면 소멸하는 생명체입니다. 끈질기고 위험합니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>
+Button/Tooltip/LocustMPFlyingSwoop=식충을 대상 위치에 착지시켜 공격할 수 있게 합니다.
+Button/Tooltip/Medivac=공중 수송기입니다. 주위 생체 유닛을 치료합니다. 애프터버너를 사용할 수 있습니다. /// Air transport. Heals nearby biological units. Can use Afterburners.
+Button/Tooltip/MedivacSpeedBoost=의료선의 이동 속도가 8초 동안 70%만큼 증가합니다. /// Increases the Medivac's movement speed by 70% for 8 seconds.
+Button/Tooltip/MorphToMothership=모선으로 업그레이드합니다. 대규모 귀환과 시간 왜곡을 사용할 수 있습니다. 근처에 있는 유닛과 구조물을 은폐합니다. /// Upgrades into the Mothership. Can use Mass Recall and Time Warp. Cloaks nearby units and structures.
+Button/Tooltip/Mothership=궁극의 프로토스 함선입니다. 대규모 귀환과 시간 왜곡 능력을 사용할 수 있습니다.<n/><n/><c val="ffff8a">지상 및 공중 유닛 공격 가능</c> /// Ultimate Protoss vessel. Can use Mass Recall and Time Warp abilities.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/MothershipCore=특수 능력을 사용하는 비행 유닛입니다. 광자 과충전, 대규모 귀환, 시간 왜곡 능력을 사용할 수 있습니다. 모선으로 업그레이드할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c> /// Mobile Flying Caster. Can use Photon Overcharge, Mass Recall and Time Warp abilities. Can upgrade into the Mothership.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/MothershipCoreMassRecall=모선핵과 그 근처에 있는 플레이어의 모든 유닛을 지정한 연결체로 순간 이동시킵니다. /// Teleports the Mothership Core and all nearby units owned by the player to the targeted Nexus.
+Button/Tooltip/MothershipCoreWeapon=대상 연결체의 케이다린 수정을 강화시켜 <d ref="Behavior,Purify,Duration[0]"/>초 동안 강력한 원거리 무기로 바꿉니다. 공격당 <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/>의 피해를 줍니다. /// Energizes the target Nexus's khaydarin crystal, turning it into a powerful long-range weapon for <d ref="Behavior,Purify,Duration[0]"/> seconds that deals <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/> damage.
+Button/Tooltip/MothershipMassRecall=모선과 그 근처에 있는 플레이어의 모든 유닛을 지정한 연결체로 순간 이동시킵니다. /// Teleports the Mothership and all nearby units owned by the player to the targeted Nexus.
+Button/Tooltip/MutaliskRegeneration=뮤탈리스크가 대부분의 저그 유닛보다 더 빨리 체력을 회복합니다. /// The Mutalisk regenerates life faster than most zerg units.
+Button/Tooltip/NydusNetwork=아군 지상 유닛이 땅굴망을 통해 다른 땅굴망이나 땅굴벌레로 즉시 이동할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 땅굴벌레 /// Friendly ground units can use the Nydus Network to instantly travel to any other Nydus Network or Nydus Worm owned by the player.<n/><n/><c val="ffff8a">Enables:</c><n/>- Nydus Worm
+Button/Tooltip/Oracle=특수 능력을 사용하는 비행 유닛입니다. 계시, 예지, 펄서 광선 능력을 사용할 수 있습니다. /// Flying Caster. Can use Revelation, Envision, and Pulsar Beam.
+Button/Tooltip/OracleRevelation=<d ref="Behavior,OracleRevelationController,Duration"/>초 동안 대상 지역 안에 있는 적 유닛과 구조물, 중립 유닛과 구조물을 볼 수 있습니다. 은폐 또는 잠복 중인 유닛과 구조물에는 영향을 미치지 않습니다. /// Causes enemy and neutral units and structures within the target area to grant vision for <d ref="Behavior,OracleRevelationController,Duration"/> seconds. Does not affect cloaked or burrowed units and structures.
+Button/Tooltip/OracleWeaponOff=펄서 광선을 비활성화하고 공격을 멈춥니다. /// Deactivates the Oracle's Pulsar Beam and prevents it from attacking.
+Button/Tooltip/OracleWeaponOn=펄서 광선을 충전하여 적 지상 유닛을 공격합니다.<n/><n/><c val="f078ff">초당 <d ref="-1 * (Behavior,OracleWeapon,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/>의 에너지 소모</c> /// Charges the Oracle's Pulsar Beam and allows it to attack enemy ground units.<n/><n/><c val="f078ff">Drains <d ref="-1 * (Behavior,OracleWeapon,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> energy per second.</c>
+Button/Tooltip/PhaseShield=대상 지역에 있는 아군 유닛을 5초 동안 해로운 효과로부터 보호합니다. /// Protects friendly units within target area from harmful effects for 5 seconds.
+Button/Tooltip/PointDefense=적 미사일을 요격하는 자동 방어 레이저 장치입니다.<n/><n/>불곰, 바이킹, 밴시, 전투순양함, 토르, 미사일 포탑, 추적자, 불사조, 폭풍함, 광자포, 모선핵, 연결체, 여왕, 뮤탈리스크, 타락귀, 히드라리스크, 식충, 포자 촉수를 상대할 때 효과적입니다.<n/><n/><c val="f078ff">매 사격 시 10의 에너지 소모</c> /// Automated defensive laser that intercepts enemy projectiles.<n/><n/>Effective against Marauders, Vikings, Banshees, Battlecruisers, Thors, Missile Turrets, Stalkers, Phoenixes, Tempests, Photon Cannons, Mothership Cores, Nexus, Queens, Mutalisks, Corruptors, Hydralisks, Locusts, and Spore Crawlers.<n/><n/><c val="f078ff">Each shot consumes 10 energy.</c>
+Button/Tooltip/PulsarCannon=불안정한 중성자를 응축시켜 적 지상 유닛에 발사합니다. <d ref="Effect,PulsarShotDamage,Amount[0]"/>(경장갑 상대로 <d ref="Effect,PulsarShotDamage,Amount[0]+Effect,PulsarShotDamage,AttributeBonus[Light]<n/>"/>)의 피해를 줍니다. /// Fires a concentrated blast of unstable neutrons at an enemy ground unit. Deals <d ref="Effect,PulsarShotDamage,Amount[0]"/> (<d ref="Effect,PulsarShotDamage,Amount[0]+Effect,PulsarShotDamage,AttributeBonus[Light]<n/>"/> vs. Light) damage.
+Button/Tooltip/Raven=공중 지원 유닛입니다. 자동 포탑, 국지 방어기, 추적 미사일을 사용할 수 있습니다.<n/><n/><c val="FFE303">탐지기</c> /// Aerial support unit. Can use Auto-Turret, Point Defense Drone, and Seeker Missile.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/Reaper=기습 유닛입니다. 언덕을 오르내릴 수 있습니다. 비전투 시 체력이 빠르게 회복됩니다. <n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c> /// Raider. Can jump up and down cliffs. Regenerates life quickly while out of combat. <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/ReaperSpeed=사신의 이동 속도가 증가합니다. /// Increases the movement speed of Reapers.
+Button/Tooltip/ResearchDrillClaws=땅거미 지뢰의 잠복 및 활성화 시간이 3배 더 빨라집니다. /// Allows Widow Mines to burrow and activate three times as fast.
+Button/Tooltip/ResearchDurableMaterials=밤까마귀의 국지 방어기 및 자동 포탑의 지속 시간을 연장합니다. /// Extends the timed duration of Raven Auto-Turrets and Point Defense Drones.
+Button/Tooltip/ResearchHighCapacityBarrels=화염차에 장착된 화염방사기의 성능을 향상시켜 경장갑 유닛을 상대로 5의 추가 피해를 줍니다. 화염기갑병의 네이팜 분사가 경장갑 유닛을 상대로 12의 추가 피해를 줍니다. /// Improves the Hellion's Infernal Flamethrower to deal +5 damage vs. light units and the Hellbat's Napalm Spray to deal +12 damage vs. light units.
+Button/Tooltip/ResearchLocustLifetimeIncrease=식충의 수명이 <d ref="Upgrade,LocustLifetimeIncrease,EffectArray[0].Value"/>초 증가합니다. /// Increases the lifetime of Locusts by <d ref="Upgrade,LocustLifetimeIncrease,EffectArray[0].Value"/> seconds.
+Button/Tooltip/ResearchMedivacEnergyUpgrade=의료선의 최초 에너지가 <d ref="Upgrade,MedivacCaduceusReactor,EffectArray[0].Value"/>만큼 증가합니다. /// Increases the starting energy of Medivacs by <d ref="Upgrade,MedivacCaduceusReactor,EffectArray[0].Value"/>.
+Button/Tooltip/ResearchSeekerMissile=밤까마귀의 추적 미사일 기술을 연구합니다. 추적 미사일은 <d ref="Behavior,SeekerMissileTimeout,Duration[0]"/>초 후에 발사되어, 범위 안에 있는 대상들에게 <d ref="Effect,SeekerMissileDamage,Amount"/>의 광역 피해를 줍니다. /// Enables Ravens to use the Seeker Missile armament. This missile activates after <d ref="Behavior,SeekerMissileTimeout,Duration[0]"/> seconds, dealing <d ref="Effect,SeekerMissileDamage,Amount"/> AoE damage to the target if they are still within range.
+Button/Tooltip/ResearchTransformationServos=화염차와 화염기갑병 모드 사이를 자유롭게 전환할 수 있습니다. 화염차 모드로 설정하면 빠른 정찰 유닛이 되며 화염기갑병 모드로 설정하면 근접 공격 유닛이 됩니다. /// Allows Hellions and Hellbats to transform between modes freely. In Hellion mode they are fast scouts, but by activating Hellbat mode they become close range combat units.
+Button/Tooltip/RipField=구조물에 불안정한 중성자 광선을 집중 발사합니다. 펄서 광선은 <d ref="Effect,RipFieldCreatePersistent,PeriodicPeriodArray[0]"/>초마다 <d ref="Effect,RipFieldDamage,Amount"/>의 피해를 줍니다.<n/><n/><c val="f078ff">초당 <d ref="-1 * (Behavior,PulsarBeam,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/>의 에너지 소모</c> /// Attacks structures with a concentrated beam of unstable neutrons. The Pulsar Beam deals <d ref="Effect,RipFieldDamage,Amount"/> damage every <d ref="Effect,RipFieldCreatePersistent,PeriodicPeriodArray[0]"/> second.<n/><n/><c val="f078ff">Drains <d ref="-1 * (Behavior,PulsarBeam,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> energy per second.</c>
+Button/Tooltip/Sentry=에너지 조작 유닛입니다. 역장, 수호 방패, 환상 능력을 사용할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c> /// Energy-manipulator unit. Can use Force Field, Guardian Shield, and Hallucination.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/SiegeTank=중전차입니다. 공성 모드로 전환하여 장거리 지원 포격을 할 수 있습니다.<n/><n/><c val="FFFF8A">지상 유닛 공격 가능</c> /// Heavy tank. Can switch into Siege Mode to provide long-range artillery support.<n/><n/><c val="FFFF8A">Can attack ground units.</c>
+Button/Tooltip/Snipe=정조준하여 <d ref="Effect,SnipeDamage,Amount"/>(사이오닉 상대로 <d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/>)의 피해를 줍니다. 방어력을 무시합니다.<n/><n/><c val="#ColorAttackInfo">생체 유닛만 대상 지정 가능</c> /// A careful shot, dealing <d ref="Effect,SnipeDamage,Amount"/> (<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/> vs. Psionic) damage. Ignores armor.<n/><n/><c val="#ColorAttackInfo">Can only target biological units.</c>
+Button/Tooltip/SpawningPool=저글링을 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 여왕 (부화장, 번식지, 군락)<n/>- 저글링 (애벌레에서 변태)<n/>- 가시 촉수 (일벌레에서 변태)<n/>- 포자 촉수 (일벌레에서 변태) /// Contains upgrades for Zerglings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Queens at the Hatchery, Lair, or Hive<n/>- Zerglings from Larvae<n/>- Spine Crawlers from Drones<n/>- Spore Crawlers from Drones
+Button/Tooltip/Stargate=프로토스 공중 유닛을 소환합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 불사조<n/>- 공허 포격기<n/>- 예언자 /// Warps in Protoss air units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Phoenixes<n/>- Void Rays<n/>- Oracles
+Button/Tooltip/SwarmHostMP=식충을 생성해 공격하는 공성 유닛입니다.<n/><n/><c val="#ColorAttackInfo">식충은 지상 유닛 공격 가능</c>
+Button/Tooltip/TechLabBarracks=보병 기술을 연구합니다. 기술실은 모든 생산 건물에 부착할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 불곰<n/>- 유령 (유령 사관학교 필요) /// Infantry-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marauders<n/>- Ghosts with Ghost Academy
+Button/Tooltip/TechLabFactory=차량 기술을 연구합니다. 기술실은 모든 생산 건물에 부착할 수 있습니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 공성 전차<n/>- 토르 (무기고 필요) /// Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Thor with Armory
+Button/Tooltip/TempestRangeUpgrade=폭풍함의 과부하에 엄청난 에너지를 투입하여 거대 유닛 상대로 30의 추가 피해를 줍니다. /// Hypercharges the Tempest's Overload to deal +30 damage vs. massive units.
+Button/Tooltip/TemporalField=대상 지역의 시공간을 <d ref="Effect,TemporalFieldCreatePersistent,PeriodCount*Effect,TemporalFieldCreatePersistent,PeriodicPeriodArray[0]"/>초 동안 왜곡합니다. 이 왜곡장에 들어오는 적 지상 유닛은 이동 속도가 <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%만큼 감소합니다. /// Warps spacetime within the target area for <d ref="Effect,TemporalFieldCreatePersistent,PeriodCount*Effect,TemporalFieldCreatePersistent,PeriodicPeriodArray[0]"/> seconds. Enemy ground units that enter the field have their movement speed reduced by <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel1=군수공장이나 우주공항에서 생산하는 유닛의 방어력을 업그레이드합니다. /// Upgrades the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel2=군수공장이나 우주공항에서 생산하는 유닛의 방어력을 한 단계 더 업그레이드합니다. /// Further upgrades the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel3=군수공장이나 우주공항에서 생산하는 유닛의 방어력을 최대로 업그레이드합니다. /// Maximizes the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel1=군수공장이나 우주공항에서 생산하는 유닛의 공격력을 업그레이드합니다. /// Upgrades the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel2=군수공장이나 우주공항에서 생산하는 유닛의 공격력을 한 단계 더 업그레이드합니다. /// Further upgrades the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel3=군수공장이나 우주공항에서 생산하는 유닛의 공격력을 최대로 업그레이드합니다. /// Maximizes the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/Thor=중돌격 기계 유닛입니다. 고충격 탄두와 폭약 탄두를 번갈아 장착할 수 있습니다.<n/><n/><c val="ffff8a">지상 및 공중 유닛 공격 가능</c> /// Heavy assault mech. Can alter between High Impact and Explosive Payloads.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Ultralisk=범위 공격을 하는 중돌격수입니다.<n/><n/><c val="ffff8a">지상 유닛 공격 가능</c> /// Heavy assault beast. Has an area-damage attack.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/UltraliskCavern=울트라리스크를 업그레이드합니다.<n/><n/><c val="ffff8a">사용 가능:</c><n/>- 울트라리스크 (애벌레에서 변태) /// Contains an upgrade for Ultralisks.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ultralisks from Larvae
+Button/Tooltip/ViperConsume=대상 구조물에 달라붙어 총 <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/>의 피해를 주고, 살모사의 에너지를 초당 2.5만큼 회복시킵니다.<n/><n/><c val="#ColorAttackInfo">동맹 또는 적 구조물 대상 지정 불가</c>
+Button/Tooltip/VoidRay=정밀 타격기입니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c> /// Surgical strike craft.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/VoidRaySwarmDamageBoost=공허 포격기의 분광 광선을 재정렬하여, 중장갑 유닛을 상대로 한 공격력이 <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/>초 동안 <d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/>만큼 증가합니다. /// Realigns the Void Ray's Prismatic Beam to gain +<d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/> damage vs. armored units for <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/> seconds.
+Button/Tooltip/VoidSiphon=적 구조물로부터 광물을 흡수합니다. 초당 <d ref="Effect,OracleVoidSiphonDamage,Amount[0]"/>의 피해를 주고 <d ref="Effect,OracleVoidSiphonAddMinerals,Resources[Minerals]"/>의 광물을 생성합니다. /// Siphons minerals from an enemy structure, dealing <d ref="Effect,OracleVoidSiphonDamage,Amount[0]"/> damage and generating <d ref="Effect,OracleVoidSiphonAddMinerals,Resources[Minerals]"/> minerals every second.
+Button/Tooltip/VoidSiphonText=<s val="Kicker_Minerals">+<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[0]"/> </s> /// <s val="Kicker_Minerals">+<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[0]"/> </s>
+Button/Tooltip/VoidSwarmHostSpawnLocust=식충 2마리를 생성합니다. 식충은 <d ref="Behavior,LocustMPTimedLife,Duration"/>초의 시한 생명을 갖습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>
+Button/Tooltip/VortexKO=대상 유닛 주위에 강력한 중력장을 생성하여, 대상을 순간적으로 파괴합니다.<n/><n/><c val="#ColorAttackInfo">거대 유닛은 면역</c> /// Creates a field of intense gravity around the target unit that destroys it instantly.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>
+Button/Tooltip/WidowMine=로봇 지뢰입니다. 잠복 상태로 있다가 근처로 다가오는 적에게 미사일을 발사하여 대상과 그 주변 소규모 지역에 피해를 줍니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c> /// Robotic mine. Launches missiles at nearby enemy units while burrowed. Attacks deal splash damage in a small area around the target. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/WidowMineBioSplash=가까이 접근하는 적 지상 및 공중 유닛에 미사일을 발사합니다. 미사일은 주 대상에게 <d ref="Effect,WidowMineExplodeDirect,Amount"/> (보호막에는 추가 35)의 피해를 주고 주위 유닛에게 <d ref="Effect,WidowMineExplodeSplash,Amount"/>(보호막에는 +<d ref="Effect,WidowMineExplodeSplashShields,VitalBonus[Shields]"/>)의 방사 피해를 줍니다.<n/><n/><c val="#ColorAttackInfo">재사용 대기시간: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/>초</c> /// Attacks by launching missiles at enemy ground and air units that get too close. Missiles deal <d ref="Effect,WidowMineExplodeDirect,Amount"/> (+35 vs. shields) damage to their primary target, and <d ref="Effect,WidowMineExplodeSplash,Amount"/> (+<d ref="Effect,WidowMineExplodeSplashShields,VitalBonus[Shields]"/> vs. shields) splash damage to units nearby.<n/><n/><c val="#ColorAttackInfo">Cooldown: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/> seconds.</c>
+Button/Tooltip/WidowMineUnburrow=땅거미 지뢰를 잠복 해제하고 무기를 비활성화시켜 이동할 수 있게 합니다. /// Unburrows the Widow Mine and deactivates its weapon, allowing it to move.
+CantTargetCreepTumor=점막을 대상으로 할 수 없습니다. /// Can't target Creep Tumors
+Error/CantTargetRecalling=귀환 중인 유닛을 대상으로 할 수 없습니다. /// Can't target recalling units
+Error/MothershipCorePurifyNexus=부착된 모선핵을 대상으로 할 수 없습니다. /// Can't target attached Mothership Core
+Error/PulsarRequiresMoreEnergy=에너지가 부족합니다. /// Not enough Energy.
+LoadingScreen/Help35=공허 포격기의 분광 정렬 능력을 사용하면 잠시 동안 중장갑 유닛에 추가 피해를 줄 수 있습니다. 구조물과 중장갑 적을 상대할 땐 이 능력을 활성화하여 피해를 극대화하십시오. /// The Void Ray's Prismatic Alignment ability grants them additional damage vs. armored units for a short period.  Activate it to deal maximum damage against structures and armored enemies.
+RequirementNode/Tooltip/CountUnitArmoryCompleteOnly609241497TechTreeCheat=무기고 /// Armory
+RequirementNode/Tooltip/CountUnitHiveCompleteOnly1229866228=군락 /// Hive
+RequirementNode/Tooltip/CountUnitLairCompleteOnly1515591279=번식지 /// Lair
+RequirementNode/Tooltip/CountUpgradeFlyingLocustsCompleteOnly3740435714=감염 구덩이에서 비행 식충 진화
+RequirementNode/Tooltip/CountUpgradeTransformationServosCompleteOnly3716496382TechTreeCheat=군수공장 기술실에서 변신 제어 장치 연구 /// Research Transformation Servos at the Factory Tech Lab
+RequirementNode/Tooltip/Eq1256514689CountUpgradeTerranVehicleAndShipWeaponsLevel1CompleteOnly1=테란 차량 및 우주선 무기 1단계 /// Terran Vehicle And Ship Weapons Level 1
+RequirementNode/Tooltip/Eq2326683880CountUpgradeTerranVehicleAndShipArmorsLevel2CompleteOnly1=테란 차량 및 우주선 장갑 2단계 /// Terran Vehicle And Ship Plating Level 2
+RequirementNode/Tooltip/Eq514164946CountUpgradeTerranVehicleAndShipWeaponsLevel2CompleteOnly1=테란 차량 및 우주선 무기 2단계 /// Terran Vehicle And Ship Weapons Level 2
+RequirementNode/Tooltip/Eq611800619CountUpgradeTerranVehicleAndShipArmorsLevel1CompleteOnly1=테란 차량 및 우주선 장갑 1단계 /// Terran Vehicle And Ship Plating Level 1
+RequirementNode/Tooltip/GTE3238024024CountBehaviorArmorpiercingModeCompleteOnlyAtUnit1=폭약 미사일 사용 안 함 /// Not using Explosive Missiles
+RequirementNode/Tooltip/LT2314084817CountBehaviorArmorpiercingModeCompleteOnlyAtUnit1=관통 미사일 사용 안 함 /// Not using Armor-piercing Missiles
+RequirementNode/Tooltip/Or1515591279=번식지 /// Lair
+RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=번식지
+RequirementNode/Tooltip/Or1515591279TechTreeCheatCountUnitLairCompleteOnly1515591279CountUnitHiveCompleteOnly1229866228=번식지 /// Lair
+Unit/Name/CollapsibleRockTower=바위탑 /// Rock Tower
+Unit/Name/CollapsibleRockTowerDebris=바위 /// Rocks
+Unit/Name/CollapsibleRockTowerDiagonal=바위 탑 /// Rock Tower
+Unit/Name/CollapsibleRockTowerDoubleWide=바위 탑 /// Rock Tower
+Unit/Name/CollapsibleRockTowerPushUnit=바위 /// Rocks
+Unit/Name/CreepBlocker4x4=동적 점막 방해물 4x4 /// Dynamic Creep Blocker 4x4
+Unit/Name/CreepBlocker8x8=동적 점막 방해물 8x8 /// Dynamic Creep Blocker 8x8
+Unit/Name/DesertPlanetSearchlight=탐조등 /// Searchlight
+Unit/Name/DesertPlanetStreetlight=가로등 /// Streetlight
+Unit/Name/DestructibleCityDebris2x4Horizontal=잔해 /// Debris
+Unit/Name/DestructibleCityDebris2x4Vertical=잔해 /// Debris
+Unit/Name/DestructibleCityDebris2x6Horizontal=잔해 /// Debris
+Unit/Name/DestructibleCityDebris2x6Vertical=잔해 /// Debris
+Unit/Name/DestructibleCityDebris4x4=잔해 /// Debris
+Unit/Name/DestructibleCityDebris6x6=잔해 /// Debris
+Unit/Name/DestructibleCityDebrisHugeDiagonalBLUR=잔해 /// Debris
+Unit/Name/DestructibleCityDebrisHugeDiagonalULBR=잔해 /// Debris
+Unit/Name/DestructibleDebris4x4=잔해 /// Debris
+Unit/Name/DestructibleDebris6x6=잔해 /// Debris
+Unit/Name/DestructibleDebrisRampDiagonalHugeBLUR=잔해 /// Debris
+Unit/Name/DestructibleDebrisRampDiagonalHugeULBR=잔해 /// Debris
+Unit/Name/DestructibleIce2x4Horizontal=얼음 /// Ice
+Unit/Name/DestructibleIce2x4Vertical=얼음 /// Ice
+Unit/Name/DestructibleIce2x6Horizontal=얼음 /// Ice
+Unit/Name/DestructibleIce2x6Vertical=얼음 /// Ice
+Unit/Name/DestructibleIce4x4=얼음 /// Ice
+Unit/Name/DestructibleIce6x6=얼음 /// Ice
+Unit/Name/DestructibleIceDiagonalHugeBLUR=얼음 /// Ice
+Unit/Name/DestructibleIceDiagonalHugeULBR=얼음 /// Ice
+Unit/Name/DestructibleIceHorizontalHuge=얼음 /// Ice
+Unit/Name/DestructibleIceVerticalHuge=얼음덩어리
+Unit/Name/DestructibleRampDiagonalHugeBLUR=바위 /// Rocks
+Unit/Name/DestructibleRampDiagonalHugeULBR=바위 /// Rocks
+Unit/Name/DestructibleRampHorizontalHuge=바위 /// Rocks
+Unit/Name/DestructibleRampVerticalHuge=바위 /// Rocks
+Unit/Name/DestructibleRock2x4Horizontal=바위 /// Rocks
+Unit/Name/DestructibleRock2x4Vertical=바위 /// Rocks
+Unit/Name/DestructibleRock2x6Horizontal=바위 /// Rocks
+Unit/Name/DestructibleRock2x6Vertical=바위 /// Rocks
+Unit/Name/DestructibleRock4x4=바위 /// Rocks
+Unit/Name/DestructibleRock6x6=바위 /// Rocks
+Unit/Name/DestructibleRock6x6Weak=바위 /// Rocks
+Unit/Name/DestructibleRockEx12x4Horizontal=바위 /// Rocks
+Unit/Name/DestructibleRockEx12x4Vertical=바위 /// Rocks
+Unit/Name/DestructibleRockEx12x6Horizontal=바위 /// Rocks
+Unit/Name/DestructibleRockEx12x6Vertical=바위 /// Rocks
+Unit/Name/DestructibleRockEx14x4=바위 /// Rocks
+Unit/Name/DestructibleRockEx16x6=바위 /// Rocks
+Unit/Name/DestructibleRockEx1DiagonalHugeBLUR=바위 /// Rocks
+Unit/Name/DestructibleRockEx1DiagonalHugeULBR=바위 /// Rocks
+Unit/Name/DestructibleRockEx1HorizontalHuge=바위 /// Rocks
+Unit/Name/DestructibleRockEx1VerticalHuge=바위 /// Rocks
+Unit/Name/DestructibleStatue4x4=동상 /// Statue
+Unit/Name/DestructibleStatueRubble=잡석 /// Rubble
+Unit/Name/DestructibleWall45=통로 /// Walkway
+Unit/Name/DestructibleWall45GateEast=통로 /// Walkway
+Unit/Name/DestructibleWall45GateWest=통로 /// Walkway
+Unit/Name/DestructibleWall45Inner=통로 /// Walkway
+Unit/Name/DestructibleWall45Outer=통로 /// Walkway
+Unit/Name/DestructibleWall45Ramp=통로 /// Walkway
+Unit/Name/DestructibleWall90=통로 /// Walkway
+Unit/Name/DestructibleWall90Inner=통로 /// Walkway
+Unit/Name/DestructibleWall90Outer=통로 /// Walkway
+Unit/Name/DestructibleZerusTree=나무 /// Tree
+Unit/Name/HellionTank=화염기갑병 /// Hellbat
+Unit/Name/LocustMPFlying=식충
+Unit/Name/OracleWeapon=예언자 무기 /// Oracle Weapon
+Unit/Name/RepulsorCannonWeapon=에너지 포 무기 /// Repulsor Cannon Weapon
+Unit/Name/SeekerMissile=추적 미사일 /// Seeker Missile
+Unit/Name/ShakurasDestructible1x1=바위 /// Rock
+Unit/Name/ShakurasDestructible1x2=바위 /// Rock
+Unit/Name/ShakurasDestructible2x2=바위 /// Rock
+Unit/Name/TempestWeaponGround=폭풍함 무기 (지상) /// Tempest Weapon (Ground)
+Unit/Name/ThorAALance=토르 대공 (랜스) /// Thor AA (Lance)
+Unit/Name/UnbuildableBricksDestructible=벽돌 /// Bricks
+Unit/Name/UnbuildableBricksDestructibleHighlightTooltip=공격하여 파괴할 수 있습니다. /// Attack this to destroy it
+Unit/Name/UnbuildablePlatesDestructible=금속판 /// Plates
+Unit/Name/UnbuildablePlatesDestructibleHighlightTooltip=공격하여 파괴할 수 있습니다. /// Attack this to destroy it
+Unit/Name/UnbuildableRocksDestructible=바위 /// Rocks
+Unit/Name/UnbuildableRocksDestructibleHighlightTooltip=공격하여 파괴할 수 있습니다. /// Attack this to destroy it
+Upgrade/Name/AnionPulseCrystals=음이온 수정 /// Anion Pulse Crystals
+Upgrade/Name/DrillClaws=천공 발톱 /// Drilling Claws
+Upgrade/Name/FlyingLocusts=비행 식충
+Upgrade/Name/TempestRangeUpgrade=양자 반응로 /// Quantum Reactor
+Upgrade/Name/TerranVehicleAndShipArmors=테란 차량 및 우주선 장갑 /// Terran Vehicle And Ship Plating
+Upgrade/Name/TerranVehicleAndShipArmorsLevel1=테란 차량 및 우주선 장갑 1단계 /// Terran Vehicle And Ship Plating Level 1
+Upgrade/Name/TerranVehicleAndShipArmorsLevel2=테란 차량 및 우주선 장갑 2단계 /// Terran Vehicle And Ship Plating Level 2
+Upgrade/Name/TerranVehicleAndShipArmorsLevel3=테란 차량 및 우주선 장갑 3단계 /// Terran Vehicle And Ship Plating Level 3
+Upgrade/Name/TerranVehicleAndShipWeapons=테란 차량 및 우주선 무기 /// Terran Vehicle And Ship Weapons
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel1=테란 차량 및 우주선 무기 1단계 /// Terran Vehicle And Ship Weapons Level 1
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel2=테란 차량 및 우주선 무기 2단계 /// Terran Vehicle And Ship Weapons Level 2
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel3=테란 차량 및 우주선 무기 3단계 /// Terran Vehicle And Ship Weapons Level 3
+Upgrade/Name/TransformationServos=변신 제어 장치 /// Transformation Servos
+Weapon/Name/LanceMissileLaunchers=250mm 천벌포 /// 250mm Punisher Cannons
+Weapon/Name/LocustMPFlyingSwoopWeapon=식충 MP 비행 급강하 무기
+Weapon/Name/MothershipCoreWeapon=광자 과충전 /// Photon Overcharge
+Weapon/Name/MothershipPurifyWeapon=광자 과충전 /// Photon Overcharge
+Weapon/Name/Oracle=펄서 광선 /// Pulsar Beam
+Weapon/Name/RepulsorCannon=에너지 포 /// Repulsor Cannon
+Weapon/Name/RipField=펄서 광선 /// Pulsar Beam
+Weapon/Name/TempestGround=공진 코일 /// Resonance Coil
+Weapon/Name/VoidRaySwarm=분광 광선 /// Prismatic Beam
+Weapon/Name/VoidRaySwarmDummy=분광 광선 /// Prismatic Beam
+Weapon/Name/VoidRaySwarmEnhanced=분광 광선 /// Prismatic Beam
+Weapon/Tip/PulsarCannon= /// 

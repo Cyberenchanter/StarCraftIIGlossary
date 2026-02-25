@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=Mod cooperativo de Starcraft 2 /// Starcraft 2 Co-op mod
+DocInfo/Name=Comandantes aliados /// Allied Commanders

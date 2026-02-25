@@ -1,0 +1,322 @@
+﻿Abil/Name/ArmorpiercingMissiles=Panzerbrechende Geschosse /// Armor-piercing Missiles
+Abil/Name/ArmoryResearchSwarm=Waffenlager - Forschung, Schwarm /// Armory Research Swarm
+Abil/Name/ExplosiveMissiles=Explosive Geschosse /// Explosive Missiles
+Abil/Name/LightofAiur=Klarsicht /// Envision
+Abil/Name/LocustMPFlyingMorphToGround=Locust MP Flying Morph To Ground
+Abil/Name/LocustMPFlyingSwoop=Locust MP Flying Swoop
+Abil/Name/LocustMPFlyingSwoopAttack=Locust MP Flying Swoop Attack
+Abil/Name/LocustMPMorphToAir=Locust MP Morph To Air
+Abil/Name/MorphToHellion=Zu Hellion transformieren /// Morph To Hellion
+Abil/Name/MorphToHellionTank=Zu Kampfhellion transformieren /// Morph To Hellbat
+Abil/Name/MothershipCorePurifyNexus=Mutterschiffkern - Nexus: Läutern /// Mothership Core - Purify Nexus
+Abil/Name/MothershipCorePurifyNexusCancel=Mutterschiffkern - Nexus: Läutern (Abbrechen) /// Mothership Core - Purify Nexus (Cancel)
+Abil/Name/MothershipMassRecall=Mutterschiff - Massenrückruf /// Mothership Mass Recall
+Abil/Name/OracleWeapon=Orakelwaffe /// Oracle Weapon
+Abil/Name/PhaseShield=Phasenschild /// Phase Shield
+Abil/Name/PulsarBeam=Pulsarstrahl /// Pulsar Beam
+Abil/Name/PulsarCannon=Pulsarbeschuss /// Pulsar Blast
+Abil/Name/SeekerDummyChannel=Zielsuchende Rakete - Dummy kanalisieren /// Seeker Dummy Channel
+Abil/Name/SpawnLocustsTargeted=Spawn Locusts Targeted
+Abil/Name/TemporalField=Zeitkrümmung /// Time Warp
+Abil/Name/ThorAPMode=Panzerbrechender Thor-Modus /// Thor APMode
+Abil/Name/ThorNormalMode=Normaler Thor-Modus /// Thor Normal Mode
+Abil/Name/UltraliskWeaponCooldown=Abklingzeit der Ultraliskenwaffe /// Ultralisk Weapon Cooldown
+Abil/Name/VoidRaySwarmDamageBoost=Phasengleiter - Schwarm, Schadenserhöhung /// Void Ray Swarm Damage Boost
+Abil/Name/VoidSiphon=Leerensog /// Void Siphon
+Abil/Name/VoidSwarmHostSpawnLocust=Void Swarm Host Spawn Locust
+Abil/Thor/ReArm=Bewaffnung /// Arming
+Behavior/Name/ArmorpiercingMode=Panzerbrechermodus /// Armor-piercing Mode
+Behavior/Name/ExplosiveMode=Explosiver Modus /// Explosive Mode
+Behavior/Name/LightofAiur=Klarsicht /// Envision
+Behavior/Name/LocustMPFlyingSwoopPrecursor=Schrecke - Mehrspieler, fliegend - Sturzflug, Vorgänger
+Behavior/Name/LocustMPFlyingSwoopUncommandable=Schrecke - Mehrspieler, fliegend - Sturzflug, nicht steuerbar
+Behavior/Name/MedivacSpeedBoost=Nachbrenner gezündet /// Afterburners Active
+Behavior/Name/MothershipCoreDeath=Mutterschiffkern (Tod) /// Mothership Core (Death)
+Behavior/Name/MothershipCorePurifyNexus=Mutterschiffkern - Nexus: Läutern /// Mothership Core - Purify Nexus
+Behavior/Name/MothershipDeath=Mutterschiff (Tod) /// Mothership (Death)
+Behavior/Name/MothershipRecalled=Mutterschiff - Zurückgerufen /// Mothership Recalled
+Behavior/Name/MothershipRecalling=Mutterschiff - Ruft zurück /// Mothership Recalling
+Behavior/Name/MothershipResetEnergy=Mutterschiff - Energie zurücksetzen /// Mothership Reset Energy
+Behavior/Name/NydusDetect=Nydusdetektor /// Nydus Detect
+Behavior/Name/OracleRevelationController=Steuerung für Enthüllung des Orakels /// Oracle Revelation Controller
+Behavior/Name/OracleWeapon=Pulsarstrahl /// Pulsar Beam
+Behavior/Name/PhaseShield=Phasenschild /// Phase Shield
+Behavior/Name/PulsarBeam=Pulsarstrahl /// Pulsar Beam
+Behavior/Name/Purify=Photonenüberladung /// Photon Overcharge
+Behavior/Name/ResourceStunDamage=Ressourcenbetäubung (Schaden) /// Resource Stun (Damage)
+Behavior/Name/SeekerMissile=Zielsuchende Rakete /// Seeker Missile
+Behavior/Name/TemporalField=Zeitkrümmung /// Time Warp
+Behavior/Name/TemporalFieldDecelerationBuff=Zeitkrümmung (Verlangsamungseffekt) /// Time Warp (Deceleration Buff)
+Behavior/Name/VoidRaySwarmDamageBoost=Prismatische Ausrichtung /// Prismatic Alignment
+Behavior/Name/VoidSiphon=Leerensog /// Void Siphon
+Behavior/Name/VortexKill=Vortex - Kill /// Vortex Kill
+Behavior/Name/WidowMineAnimationController=Animationssteuerung der Arachnomine /// Widow Mine Animation Controller
+Behavior/Name/WidowMineArmed=Muss aktiviert sein /// Must be Activated
+Behavior/Tooltip/LightofAiur=Deckt getarnte und eingegrabene Einheiten sowie Halluzinationen auf. /// Detecting cloaked, burrowed, and hallucinated units.
+Behavior/Tooltip/MedivacSpeedBoost=Die Bewegungsgeschwindigkeit dieser Einheit ist um 70% erhöht. /// This unit's movement speed is increased by 70%.
+Behavior/Tooltip/OracleRevelation=Diese Einheit oder dieses Gebäude gewährt dem Urheber Sicht. /// This unit or structure is providing vision for the caster.
+Behavior/Tooltip/OracleWeapon=Die Waffe des Orakels ist aktiviert. Bodeneinheiten können angegriffen werden. /// This Oracle's weapon is enabled and can attack ground units.
+Behavior/Tooltip/PhaseShield=Diese Einheit wird vor schädigenden Effekten geschützt. /// This unit is protected from harmful effects.
+Behavior/Tooltip/PulsarBeam=Kanalisiert einen Pulsarstrahl auf ein Gebäude. /// Channeling a Pulsar Beam at a structure.
+Behavior/Tooltip/Purify=Dieser Nexus hat einen mächtigen Distanzangriff. /// This Nexus has a powerful long-ranged attack.
+Behavior/Tooltip/ResourceStun=Dieses Mineralienfeld kann erst abgebaut werden, wenn der Mineralienschild zerstört wurde. /// This Mineral Field cannot be harvested until the Mineral Shield is destroyed.
+Behavior/Tooltip/SeekerMissile=Diese Einheit wird von einer zielsuchenden Rakete anvisiert. /// This unit is being targeted by a Seeker Missile.
+Behavior/Tooltip/TemporalField=Die Bewegungsgeschwindigkeit dieser Einheit ist um 50% verringert. /// This unit's movement speed is reduced by 50%.
+Behavior/Tooltip/VoidRaySwarmDamageBoost=Die Einheit fügt gepanzerten Zielen +6 Schaden zu. /// This unit deals an additional +6 damage to armored units.
+Behavior/Tooltip/VoidSiphon=Ein Orakel fügt diesem Gebäude Schaden zu und generiert Mineralien für den Gegner. /// An Oracle is damaging this structure and generating minerals for the enemy.
+Button/Name/ArmorpiercingMode=Panzerbrechende Sprengladung /// High Impact Payload
+Button/Name/BattlecruiserWeaponsIgnoreArmor=Panzerabwehrgeschütze /// Anti-armor Ordnance
+Button/Name/CombatAwareness=Kampfinstinkt /// Battlefield Awareness
+Button/Name/EvolveFlyingLocusts=Flügelschrecken entwickeln
+Button/Name/ExitPurifyMode=Läuterungmodus verlassen /// Exit Purify Mode
+Button/Name/ExplosiveMode=Explosive Sprengladung /// Explosive Payload
+Button/Name/FlyingLocusts=Flügelschrecken
+Button/Name/HellionTank=Kampfhellion bauen /// Build Hellbat
+Button/Name/LightofAiur=Klarsicht /// Envision
+Button/Name/LocustMPFlyingSwoop=Sturzflug
+Button/Name/MedivacSpeedBoost=Nachbrenner zünden /// Ignite Afterburners
+Button/Name/MorphToHellion=Hellion-Modus /// Hellion Mode
+Button/Name/MorphToHellionTank=Kampfhellion-Modus /// Hellbat Mode
+Button/Name/MothershipCoreMassRecall=Massenrückruf /// Mass Recall
+Button/Name/MothershipCoreWeapon=Photonenüberladung /// Photon Overcharge
+Button/Name/MothershipMassRecall=Massenrückruf /// Mass Recall
+Button/Name/MutaliskRegeneration=Geweberegeneration /// Tissue Regeneration
+Button/Name/OracleWeaponOff=Pulsarstrahl deaktivieren /// Deactivate Pulsar Beam
+Button/Name/OracleWeaponOn=Pulsarstrahl aktivieren /// Activate Pulsar Beam
+Button/Name/PhaseShield=Phasenschild /// Phase Shield
+Button/Name/PulsarCannon=Pulsarbeschuss /// Pulsar Blast
+Button/Name/ResearchDrillClaws=Bohrkrallen erforschen /// Research Drilling Claws
+Button/Name/ResearchLocustLifetimeIncrease=Langlebige Schrecken entwickeln /// Evolve Enduring Locusts
+Button/Name/ResearchMedivacEnergyUpgrade=Caduceus-Reaktor erforschen /// Research Caduceus Reactor
+Button/Name/ResearchTransformationServos=Transformationsservos erforschen /// Research Transformation Servos
+Button/Name/RipField=Pulsarstrahl /// Pulsar Beam
+Button/Name/TempestRangeUpgrade=Quantumreaktor erforschen /// Research Quantum Reactor
+Button/Name/TemporalField=Zeitkrümmung /// Time Warp
+Button/Name/TerranVehicleAndShipPlatingLevel1=Level-1-Upgrade für Fahrzeug- und Schiffspanzerung /// Upgrade Vehicle and Ship Plating Level 1
+Button/Name/TerranVehicleAndShipPlatingLevel2=Level-2-Upgrade für Fahrzeug- und Schiffspanzerung /// Upgrade Vehicle and Ship Plating Level 2
+Button/Name/TerranVehicleAndShipPlatingLevel3=Level-3-Upgrade für Fahrzeug- und Schiffspanzerung /// Upgrade Vehicle and Ship Plating Level 3
+Button/Name/TerranVehicleAndShipWeaponsLevel1=Level-1-Upgrade für Fahrzeug- und Schiffswaffen /// Upgrade Vehicle and Ship Weapons Level 1
+Button/Name/TerranVehicleAndShipWeaponsLevel2=Level-2-Upgrade für Fahrzeug- und Schiffswaffen /// Upgrade Vehicle and Ship Weapons Level 2
+Button/Name/TerranVehicleAndShipWeaponsLevel3=Level-3-Upgrade für Fahrzeug- und Schiffswaffen /// Upgrade Vehicle and Ship Weapons Level 3
+Button/Name/VoidRaySwarmDamageBoost=Prismatische Ausrichtung /// Prismatic Alignment
+Button/Name/VoidSiphon=Leerensog /// Void Siphon
+Button/Name/VoidSwarmHostSpawnLocust=Schrecke erschaffen
+Button/Name/VortexKO=Gravitationsbrunnen /// Gravity Well
+Button/Name/WidowMineBioSplash=Wächterraketen /// Sentinel Missiles
+Button/Tooltip/ArmorpiercingMode=Aktiviert die 250mm-Punisher-Kanonen des Thors. Die Punisher-Kanonen fügen einem einzelnen fliegenden Ziel schweren Schaden zu. /// Activates the Thor's 250mm Punisher Cannons. Punisher cannons strike a single air target for heavy damage.
+Button/Tooltip/Armory=Bietet Upgrademöglichkeiten für Waffen und Panzerung von Einheiten, die in der Fabrik oder im Raumhafen gebaut werden. <n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Kampfhellions in der Fabrik<n/>- Thore in der Fabrik /// Contains weapon and armor upgrades for Factory and Starport units. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellbat at the Factory<n/>- Thor at the Factory
+Button/Tooltip/BanelingNest=Bietet ein Upgrade für Berstlinge.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Berstlinge aus Zerglingen /// Contains an upgrade for Banelings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Banelings from Zerglings
+Button/Tooltip/Barracks=Ausbildungseinrichtung für Infanterie-Einheiten.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Space-Marines<n/>- Rächer<n/>- Bau von Bunkern durch WBFs<n/>- Satellitenzentralen aus Kommandozentralen /// Infantry-production facility.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marines<n/>- Reapers<n/>- Bunkers from SCVs<n/>- Orbital Commands from Command Centers
+Button/Tooltip/BlindingCloud=Erschafft eine Wolke, die <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> Sek. lang die Angriffsreichweite aller darunter befindlichen Bodeneinheiten und Gebäude auf Nahkampfreichweite verringert. /// Creates a cloud for <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> seconds that reduces attack range of ground units and structures underneath to melee range.
+Button/Tooltip/BuildTechLabFactory=Forschungseinrichtung für Fahrzeugverbesserungen. Tech-Labore können an jede Produktionseinrichtung angeschlossen werden.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Belagerungspanzer<n/>- Thore (mit Waffenlager) /// Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Thor with Armory
+Button/Tooltip/BurrowProtector=Erschafft eine Wolke, die <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> Sek. lang die Angriffsreichweite aller darunter befindlichen Bodeneinheiten auf Nahkampfreichweite verringert. /// Creates a cloud for <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> seconds that reduces attack range of ground units under it to melee range.
+Button/Tooltip/CollapsibleRockTower=Ein Felshaufen, der zerstört werden kann, um Zugriff auf neue Gebiete oder Ressourcenvorkommen zu verhindern. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerDebris=Eine Barriere, die zerstört werden kann, um Zugriff auf neue Gebiete zu erlangen. /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDebrisRampLeft=Eine Barriere, die zerstört werden kann, um Zugriff auf neue Gebiete zu erlangen. /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDebrisRampRight=Eine Barriere, die zerstört werden kann, um Zugriff auf neue Gebiete zu erlangen. /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDiagonal=Ein Felshaufen, der zerstört werden kann, um Zugriff auf neue Gebiete oder Ressourcenvorkommen zu verhindern. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerDoubleWide=Ein Felshaufen, der zerstört werden kann, um Zugriff auf neue Gebiete oder Ressourcenvorkommen zu verhindern. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerRampLeft=Ein Felshaufen, der zerstört werden kann, um Zugriff auf neue Gebiete oder Ressourcenvorkommen zu verhindern. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerRampRight=Ein Felshaufen, der zerstört werden kann, um Zugriff auf neue Gebiete oder Ressourcenvorkommen zu verhindern. /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CombatAwareness=Ermöglicht es Rächern, Klippen hinaufzusehen sowie durch Terrain hindurch, das normalerweise ihre Sicht blockieren würde. /// Allows Reapers to see up cliffs and through terrain that would normally block line of sight.
+Button/Tooltip/CombatDrugs=Regeneriert außerhalb des Kampfes schnell Trefferpunkte. /// Regenerates life quickly while out of combat.
+Button/Tooltip/CyberneticsCore=Bietet Upgrademöglichkeiten für Waffen und Panzerung von Protoss-Lufteinheiten sowie die Warptor-Technologie.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Hetzer im Warpknoten<n/>- Protektoren im Warpknoten<n/>- Mutterschiffkern im Nexus /// Contains weapon and armor upgrades for Protoss air units and the Warp Gate upgrade.<n/><n/><c val="ffff8a">Enables:</c><n/>- Stalkers at the Gateway<n/>- Sentries at the Gateway<n/>- Mothership Core at the Nexus
+Button/Tooltip/EvolutionChamber=Bietet Upgrademöglichkeiten für Zerg-Bodeneinheiten. /// Contains upgrades for Zerg ground units. 
+Button/Tooltip/EvolveFlyingLocusts=Gestattet es Schrecken, die vom Schwarmwirt erzeugt werden, zu fliegen. Flügelschrecken können die Fähigkeit "Sturzflug" einsetzen, um zu landen und anzugreifen.
+Button/Tooltip/ExitPurifyMode=Diese Einheit verlässt den Läuterungsmodus. /// This unit is exiting Purify mode.
+Button/Tooltip/ExplosiveMode=Aktiviert die Javelin-Kanonen des Thors. Die Javelin-Kanonen fügen fliegenden Zielen Flächenschaden zu sowie zusätzlichen Schaden gegen leicht gepanzerte Einheiten. /// Arms the Thor's Javelin missile launchers. Javelin missiles deal splash damage to nearby air units and additional damage vs. light units.
+Button/Tooltip/FaceEmbrace=Zieht die Zieleinheit zur Position der Viper. /// Pulls target unit to the location of the Viper.
+Button/Tooltip/Factory=Produktionseinrichtung für Fahrzeuge.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Hellions<n/>- Arachnominen /// Vehicle-production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellions<n/>- Widow Mines
+Button/Tooltip/FleetBeacon=Bietet Upgrademöglichkeiten für Phönixe und Träger.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Tempests im Raumportal<n/>- Träger im Raumportal<n/>- Mutterschiff aus dem Mutterschiffkern /// Contains upgrades for Phoenixes and Carriers.<n/><n/><c val="ffff8a">Enables:</c><n/>- Tempests at the Stargate</n>- Carriers at the Stargate<n/>- Mothership from the Mothership Core
+Button/Tooltip/FlyingLocusts=Schrecken, die vom Schwarmwirt erzeugt werden, können fliegen. Flügelschrecken können die Fähigkeit "Sturzflug" einsetzen, um zu landen und anzugreifen.
+Button/Tooltip/Frenzied=Immun gegen Verlangsamungs-, Betäubungs-, Kontroll- und bewegungsbeeinflussende Effekte. /// Immune to snare, stun, mind control, and movement altering effects.
+Button/Tooltip/FungalGrowth=Macht Zieleinheiten 4 Sek. lang bewegungsunfähig und verursacht insgesamt <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/> Schaden. Deckt getarnte und eingegrabene Einheiten auf. /// Immobilizes target units and causes <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/> damage over 4 seconds. Reveals cloaked and burrowed units.
+Button/Tooltip/GhostAcademy=Kann Nuklearraketen bauen, die von Ghosts eingesetzt werden. Bietet Upgrademöglichkeiten für Ghosts.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Ghosts in der Kaserne /// Contains an upgrade for Ghosts. Can build Nukes for Ghosts.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ghosts at the Barracks
+Button/Tooltip/HealUpgraded=Heilt ein verbündetes biologisches Ziel.<n/><n/><c val="f078ff">Heilt 5 Trefferpunkte pro 1 Energie.</c> /// Heals a friendly biological target.<n/><n/><c val="f078ff">Heals 5 life per 1 energy.</c>
+Button/Tooltip/Hive=Noch weiter entwickelte Version der Brutstätte, welche die Entwicklung weiterer Upgrades und den Bau weiterer Strukturen ermöglicht. Fungiert als Schöpfungsort aller Zerg-Einheiten und dient als Abgabestelle für abgebaute Ressourcen.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Vipern aus Larven /// Further evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/><c val="ffff8a">Enables:</c><n/>- Vipers from Larvae
+Button/Tooltip/HunterSeekerMissile=Entsendet eine zielsuchende Rakete, die nach <d ref="Mover,HunterSeekerMissile,MotionPhases[0].Timeout+Mover,HunterSeekerMissile,MotionPhases[1].Timeout"/> Sek. aktiviert wird und dem Ziel beim Einschlag <d ref="Effect,SeekerMissileDamage,Amount"/> Flächenschaden zufügt. /// Deploys a Seeker Missile which activates after <d ref="Mover,HunterSeekerMissile,MotionPhases[0].Timeout+Mover,HunterSeekerMissile,MotionPhases[1].Timeout"/> seconds and pursues the target unit, dealing <d ref="Effect,SeekerMissileDamage,Amount"/> splash damage upon contact.
+Button/Tooltip/Lair=Weiterentwickelte Version der Brutstätte, welche die Entwicklung weiterer Upgrades und den Bau weiterer Strukturen ermöglicht. Fungiert als Schöpfungsort aller Zerg-Einheiten und dient als Abgabestelle für abgebaute Ressourcen.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Overseer aus Overlords /// Evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/><c val="ffff8a">Enables:</c><n/>- Overseers from Overlords
+Button/Tooltip/LightofAiur=Ermöglicht es dem Orakel, 60 Sek. lang getarnte und eingegrabene Einheiten sowie Halluzinationen aufzudecken. /// Allows the Oracle to detect cloaked, burrowed, and hallucinated units for 60 seconds.
+Button/Tooltip/LocustMPFlying=Kreatur mit begrenzter Lebenszeit. Robust und gefährlich.<n/><n/><c val="#ColorAttackInfo">Kann Bodeneinheiten angreifen.</c>
+Button/Tooltip/LocustMPFlyingSwoop=Befiehlt der Schrecke, am Zielort zu landen, sodass sie angreifen kann.
+Button/Tooltip/Medivac=Lufttransporter. Heilt in der Nähe befindliche biologische Einheiten. Kann die Fähigkeit "Nachbrenner zünden" einsetzen. /// Air transport. Heals nearby biological units. Can use Afterburners.
+Button/Tooltip/MedivacSpeedBoost=Erhöht 8 Sek. lang die Bewegungsgeschwindigkeit des Medivacs um 70%. /// Increases the Medivac's movement speed by 70% for 8 seconds.
+Button/Tooltip/MorphToMothership=Zu Mutterschiff ausbauen. Kann die Fähigkeiten "Massenrückruf" und "Zeitkrümmung" einsetzen. Tarnt nahegelegene Einheiten und Gebäude. /// Upgrades into the Mothership. Can use Mass Recall and Time Warp. Cloaks nearby units and structures.
+Button/Tooltip/Mothership=Ultimatives Protoss-Schiff. Kann die Fähigkeiten "Massenrückruf" und "Zeitkrümmung" einsetzen.<n/><n/><c val="ffff8a">Kann Boden- und Lufteinheiten angreifen.</c> /// Ultimate Protoss vessel. Can use Mass Recall and Time Warp abilities.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/MothershipCore=Mobile fliegende Spezialeinheit. Kann die Fähigkeiten "Photonenüberladung", "Massenrückruf" und "Zeitkrümmung" einsetzen. Kann zum Mutterschiff ausgebaut werden.<n/><n/><c val="#ColorAttackInfo">Kann Bodeneinheiten angreifen.</c> /// Mobile Flying Caster. Can use Photon Overcharge, Mass Recall and Time Warp abilities. Can upgrade into the Mothership.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/MothershipCoreMassRecall=Teleportiert den Mutterschiffkern und alle in der Nähe befindlichen Einheiten des Spielers zum anvisierten Nexus. /// Teleports the Mothership Core and all nearby units owned by the player to the targeted Nexus.
+Button/Tooltip/MothershipCoreWeapon=Energetisiert den Khaydarin-Kristall des anvisierten Nexus und gewährt ihm <d ref="Behavior,Purify,Duration[0]"/> Sek. lang eine mächtige Distanzwaffe, die <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/> Schaden verursacht. /// Energizes the target Nexus's khaydarin crystal, turning it into a powerful long-range weapon for <d ref="Behavior,Purify,Duration[0]"/> seconds that deals <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/> damage.
+Button/Tooltip/MothershipMassRecall=Teleportiert das Mutterschiff und alle in der Nähe befindlichen Einheiten des Spielers zum anvisierten Nexus. /// Teleports the Mothership and all nearby units owned by the player to the targeted Nexus.
+Button/Tooltip/MutaliskRegeneration=Mutalisken regenerieren Trefferpunkte schneller als die meisten Zerg-Einheiten. /// The Mutalisk regenerates life faster than most zerg units.
+Button/Tooltip/NydusNetwork=Befreundete Bodeneinheiten können ein Nydusnetzwerk benutzen, um schnell zu einem anderen Nydusnetzwerk oder Nyduswurm des Spielers zu reisen.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Nyduswurm /// Friendly ground units can use the Nydus Network to instantly travel to any other Nydus Network or Nydus Worm owned by the player.<n/><n/><c val="ffff8a">Enables:</c><n/>- Nydus Worm
+Button/Tooltip/Oracle=Fliegende Spezialeinheit. Kann die Fähigkeiten "Enthüllung", "Pulsarstrahl" und "Klarsicht" einsetzen. /// Flying Caster. Can use Revelation, Envision, and Pulsar Beam.
+Button/Tooltip/OracleRevelation=Gegnerische und neutrale Einheiten und Gebäude im Zielbereich gewähren <d ref="Behavior,OracleRevelationController,Duration"/> Sek. lang Sicht. Getarnte Einheiten oder Gebäude oder eingegrabene Einheiten sind hiervon nicht betroffen. /// Causes enemy and neutral units and structures within the target area to grant vision for <d ref="Behavior,OracleRevelationController,Duration"/> seconds. Does not affect cloaked or burrowed units and structures.
+Button/Tooltip/OracleWeaponOff=Deaktiviert den Pulsarstrahl des Orakels und verhindert, dass es angreift. /// Deactivates the Oracle's Pulsar Beam and prevents it from attacking.
+Button/Tooltip/OracleWeaponOn=Lädt den Pulsarstrahl des Orakels auf und ermöglicht es ihm, gegnerische Bodeneinheiten anzugreifen.<n/><n/><c val="f078ff">Entzieht <d ref="-1 * (Behavior,OracleWeapon,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> Energie pro Sekunde.</c> /// Charges the Oracle's Pulsar Beam and allows it to attack enemy ground units.<n/><n/><c val="f078ff">Drains <d ref="-1 * (Behavior,OracleWeapon,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> energy per second.</c>
+Button/Tooltip/PhaseShield=Schützt verbündete Einheiten im Zielgebiet 5 Sek. lang vor schädigenden Effekten. /// Protects friendly units within target area from harmful effects for 5 seconds.
+Button/Tooltip/PointDefense=Automatischer Verteidigungslaser, der gegnerische Projektile abfängt.<n/><n/>Effektiv gegen Marodeure, Vikings, Banshees, Schwere Kreuzer, Thore, Raketentürme, Hetzer, Phönixe, Tempests, Photonenkanonen, Mutterschiffkerne, Nexus, Königinnen, Mutalisken, Schänder, Hydralisken, Schrecken und Sporenkrabbler.<n/><n/><c val="f078ff">Jeder Schuss verbraucht 10 Energie.</c> /// Automated defensive laser that intercepts enemy projectiles.<n/><n/>Effective against Marauders, Vikings, Banshees, Battlecruisers, Thors, Missile Turrets, Stalkers, Phoenixes, Tempests, Photon Cannons, Mothership Cores, Nexus, Queens, Mutalisks, Corruptors, Hydralisks, Locusts, and Spore Crawlers.<n/><n/><c val="f078ff">Each shot consumes 10 energy.</c>
+Button/Tooltip/PulsarCannon=Feuert einen konzentrierten Schub instabiler Neutronen auf eine gegnerische Bodeneinheit. Verursacht <d ref="Effect,PulsarShotDamage,Amount[0]"/> (<d ref="Effect,PulsarShotDamage,Amount[0]+Effect,PulsarShotDamage,AttributeBonus[Light]<n/>"/> gegen leichte Panzerung) Schaden. /// Fires a concentrated blast of unstable neutrons at an enemy ground unit. Deals <d ref="Effect,PulsarShotDamage,Amount[0]"/> (<d ref="Effect,PulsarShotDamage,Amount[0]+Effect,PulsarShotDamage,AttributeBonus[Light]<n/>"/> vs. Light) damage.
+Button/Tooltip/Raven=Fliegende Unterstützungseinheit. Kann die Fähigkeiten "Automatischer Geschützturm", "Verteidigungsdrohne" und "Zielsuchende Rakete" einsetzen.<n/><n/><c val="FFE303">Detektor</c> /// Aerial support unit. Can use Auto-Turret, Point Defense Drone, and Seeker Missile.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/Reaper=Kommandoeinheit. Kann Klippen hinauf- und herunterspringen. Regeneriert außerhalb des Kampfes schnell Trefferpunkte. <n/><n/><c val="#ColorAttackInfo">Kann Bodeneinheiten angreifen.</c> /// Raider. Can jump up and down cliffs. Regenerates life quickly while out of combat. <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/ReaperSpeed=Erhöht die Bewegungsgeschwindigkeit von Rächern. /// Increases the movement speed of Reapers.
+Button/Tooltip/ResearchDrillClaws=Ermöglicht es Arachnominen, sich dreimal so schnell einzugraben und zu aktivieren. /// Allows Widow Mines to burrow and activate three times as fast.
+Button/Tooltip/ResearchDurableMaterials=Verlängert die begrenzte Lebenszeit der automatischen Geschütztürme und Verteidigungsdrohnen von Raven. /// Extends the timed duration of Raven Auto-Turrets and Point Defense Drones.
+Button/Tooltip/ResearchHighCapacityBarrels=Verbessert den Flammenwerfer von Hellions um +5 Schaden gegen leichte Einheiten. Verbessert den Flammenwerfer von Kampfhellions um +12 Schaden gegen leichte Einheiten. /// Improves the Hellion's Infernal Flamethrower to deal +5 damage vs. light units and the Hellbat's Napalm Spray to deal +12 damage vs. light units.
+Button/Tooltip/ResearchLocustLifetimeIncrease=Erhöht die Lebenszeit von Schrecken um <d ref="Upgrade,LocustLifetimeIncrease,EffectArray[0].Value"/> Sek. /// Increases the lifetime of Locusts by <d ref="Upgrade,LocustLifetimeIncrease,EffectArray[0].Value"/> seconds.
+Button/Tooltip/ResearchMedivacEnergyUpgrade=Erhöht die Anfangsenergie von Medivacs um <d ref="Upgrade,MedivacCaduceusReactor,EffectArray[0].Value"/>. /// Increases the starting energy of Medivacs by <d ref="Upgrade,MedivacCaduceusReactor,EffectArray[0].Value"/>.
+Button/Tooltip/ResearchSeekerMissile=Rüstet Raven mit zielsuchenden Raketen aus. Diese Raketen aktivieren sich nach <d ref="Behavior,SeekerMissileTimeout,Duration[0]"/> Sek. und fügen dem Ziel <d ref="Effect,SeekerMissileDamage,Amount"/> Flächenschaden zu, wenn es sich noch in Reichweite befindet. /// Enables Ravens to use the Seeker Missile armament. This missile activates after <d ref="Behavior,SeekerMissileTimeout,Duration[0]"/> seconds, dealing <d ref="Effect,SeekerMissileDamage,Amount"/> AoE damage to the target if they are still within range.
+Button/Tooltip/ResearchTransformationServos=Ermöglicht es Hellions und Kampfhellions, frei zwischen den verschiedenen Modi zu wechseln. Im Hellion-Modus sind sie schnelle Aufklärer, im Kampfhellion-Modus werden sie zu Nahkampfeinheiten. /// Allows Hellions and Hellbats to transform between modes freely. In Hellion mode they are fast scouts, but by activating Hellbat mode they become close range combat units.
+Button/Tooltip/RipField=Greift Gebäude mit einem konzentrierten Strahl aus instabilen Neutronen an. Der Pulsarstrahl verursacht alle <d ref="Effect,RipFieldCreatePersistent,PeriodicPeriodArray[0]"/> Sek. <d ref="Effect,RipFieldDamage,Amount"/> Schaden.<n/><n/><c val="f078ff">Verbraucht <d ref="-1 * (Behavior,PulsarBeam,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> Energie pro Sekunde.</c> /// Attacks structures with a concentrated beam of unstable neutrons. The Pulsar Beam deals <d ref="Effect,RipFieldDamage,Amount"/> damage every <d ref="Effect,RipFieldCreatePersistent,PeriodicPeriodArray[0]"/> second.<n/><n/><c val="f078ff">Drains <d ref="-1 * (Behavior,PulsarBeam,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> energy per second.</c>
+Button/Tooltip/Sentry=Energiemanipulator. Kann die Fähigkeiten "Wächterschild", "Kraftfeld" und "Halluzination" einsetzen.<n/><n/><c val="#ColorAttackInfo">Kann Boden- und Lufteinheiten angreifen.</c> /// Energy-manipulator unit. Can use Force Field, Guardian Shield, and Hallucination.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/SiegeTank=Schwerer Panzer. Kann in den Belagerungsmodus wechseln, um zu einem Artilleriegeschütz zu werden.<n/><n/><c val="FFFF8A">Kann Bodeneinheiten angreifen.</c> /// Heavy tank. Can switch into Siege Mode to provide long-range artillery support.<n/><n/><c val="FFFF8A">Can attack ground units.</c>
+Button/Tooltip/Snipe=Ein gezielter Schuss, der <d ref="Effect,SnipeDamage,Amount"/> (<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/> gegen Psionisch) Schaden verursacht. Ignoriert Panzerung.<n/><n/><c val="#ColorAttackInfo">Kann nur biologische Einheiten zum Ziel haben.</c> /// A careful shot, dealing <d ref="Effect,SnipeDamage,Amount"/> (<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/> vs. Psionic) damage. Ignores armor.<n/><n/><c val="#ColorAttackInfo">Can only target biological units.</c>
+Button/Tooltip/SpawningPool=Bietet Upgrademöglichkeiten für Zerglinge.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Königinnen in der Brutstätte, im Bau oder im Schwarmstock<n/>- Zerglinge aus Larven<n/>- Stachelkrabbler aus Drohnen<n/>- Sporenkrabbler aus Drohnen /// Contains upgrades for Zerglings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Queens at the Hatchery, Lair, or Hive<n/>- Zerglings from Larvae<n/>- Spine Crawlers from Drones<n/>- Spore Crawlers from Drones
+Button/Tooltip/Stargate=Warpt Protoss-Lufteinheiten heran.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Phönixe<n/>- Phasengleiter<n/>- Orakel /// Warps in Protoss air units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Phoenixes<n/>- Void Rays<n/>- Oracles
+Button/Tooltip/SwarmHostMP=Belagerungseinheit, die mittels erschaffener Schrecken angreift.<n/><n/><c val="#ColorAttackInfo">Schrecken können Bodeneinheiten angreifen.</c>
+Button/Tooltip/TechLabBarracks=Forschungsgebäude für Infanterieverbesserungen. Tech-Labore können an jedes Produktionsgebäude angeschlossen werden.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Marodeure<n/>- Ghosts (mit Ghost-Akademie) /// Infantry-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marauders<n/>- Ghosts with Ghost Academy
+Button/Tooltip/TechLabFactory=Forschungseinrichtung für Fahrzeugverbesserungen. Tech-Labore können an jede Produktionseinrichtung angeschlossen werden.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Belagerungspanzer<n/>- Thore (mit Waffenlager) /// Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Thor with Armory
+Button/Tooltip/TempestRangeUpgrade=Verstärkt die Überladung der Tempest, um +30 Schaden gegen massive Einheiten zu verursachen. /// Hypercharges the Tempest's Overload to deal +30 damage vs. massive units.
+Button/Tooltip/TemporalField=Krümmt <d ref="Effect,TemporalFieldCreatePersistent,PeriodCount*Effect,TemporalFieldCreatePersistent,PeriodicPeriodArray[0]"/> Sek. lang die Raumzeit im Zielgebiet. Die Bewegungsgeschwindigkeit aller gegnerischen Bodeneinheiten im Feld wird um <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>% verringert. /// Warps spacetime within the target area for <d ref="Effect,TemporalFieldCreatePersistent,PeriodCount*Effect,TemporalFieldCreatePersistent,PeriodicPeriodArray[0]"/> seconds. Enemy ground units that enter the field have their movement speed reduced by <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel1=Verbessert die Panzerung von in der Fabrik oder im Raumhafen gebauten Einheiten. /// Upgrades the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel2=Verbessert die Panzerung von in der Fabrik oder im Raumhafen gebauten Einheiten noch weiter. /// Further upgrades the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel3=Maximiert die Panzerung von in der Fabrik oder im Raumhafen gebauten Einheiten. /// Maximizes the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel1=Erhöht den verursachten Schaden von in der Fabrik oder im Raumhafen gebauten Einheiten. /// Upgrades the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel2=Erhöht den verursachten Schaden von in der Fabrik oder im Raumhafen gebauten Einheiten noch weiter. /// Further upgrades the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel3=Maximiert den verursachten Schaden von in der Fabrik oder im Raumhafen gebauten Einheiten. /// Maximizes the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/Thor=Schwerer Angriffs-Kampfläufer. Kann mit panzerbrechenden oder explosiven Sprengladungen ausgerüstet werden.<n/><n/><c val="ffff8a">Kann Boden- und Lufteinheiten angreifen.</c> /// Heavy assault mech. Can alter between High Impact and Explosive Payloads.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Ultralisk=Schwere Angriffsbestie mit einem Flächenangriff.<n/><n/><c val="ffff8a">Kann Bodeneinheiten angreifen.</c> /// Heavy assault beast. Has an area-damage attack.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/UltraliskCavern=Bietet ein Upgrade für Ultralisken.<n/><n/><c val="ffff8a">Ermöglicht:</c><n/>- Ultralisken aus Larven /// Contains an upgrade for Ultralisks.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ultralisks from Larvae
+Button/Tooltip/ViperConsume=Entzieht der Zielstruktur bis zu <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/> Trefferpunkte und wandelt den verursachten Schaden in 2,5 Energiepunkte pro Sekunde um.<n/><n/><c val="#ColorAttackInfo">Kann keine verbündeten oder gegnerischen Strukturen anvisieren.</c> /// Latches onto the target structure, dealing <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/> damage and restoring 2.5 energy to the Viper every second.<n/><n/><c val="#ColorAttackInfo">Cannot target allied or enemy structures.</c>
+Button/Tooltip/VoidRay=Lufteinheit für präzise Angriffe.<n/><n/><c val="#ColorAttackInfo">Kann Boden- und Lufteinheiten angreifen.</c> /// Surgical strike craft.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/VoidRaySwarmDamageBoost=Richtet den Prismastrahl des Phasengleiters neu aus und erhöht <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/> Sek. lang den Schaden gegen gepanzerte Einheiten um <d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/>. /// Realigns the Void Ray's Prismatic Beam to gain +<d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/> damage vs. armored units for <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/> seconds.
+Button/Tooltip/VoidSiphon=Saugt Mineralien von einem gegnerischen Gebäude ab, verursacht <d ref="Effect,OracleVoidSiphonDamage,Amount[0]"/> Schaden und generiert pro Sekunde <d ref="Effect,OracleVoidSiphonAddMinerals,Resources[Minerals]"/> Mineralien. /// Siphons minerals from an enemy structure, dealing <d ref="Effect,OracleVoidSiphonDamage,Amount[0]"/> damage and generating <d ref="Effect,OracleVoidSiphonAddMinerals,Resources[Minerals]"/> minerals every second.
+Button/Tooltip/VoidSiphonText=<s val="Kicker_Minerals">+<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[0]"/> </s> /// <s val="Kicker_Minerals">+<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[0]"/> </s>
+Button/Tooltip/VoidSwarmHostSpawnLocust=Erschafft 2 Schrecken. Schrecken haben eine Lebenszeit von <d ref="Behavior,LocustMPTimedLife,Duration"/> Sek.<n/><n/><c val="#ColorAttackInfo">Kann Bodeneinheiten angreifen.</c>
+Button/Tooltip/VortexKO=Erschafft einen verheerendes Gravitationsfeld um die anvisierte Einheit, welches sie sofort tötet.<n/><n/><c val="#ColorAttackInfo">Massive Einheiten sind dagegen immun.</c> /// Creates a field of intense gravity around the target unit that destroys it instantly.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>
+Button/Tooltip/WidowMine=Robotische Mine. Schießt im eingegrabenen Zustand Raketen auf in der Nähe befindliche Gegner. Angriffe verursachen zusätzlich Flächenschaden in einem kleinen Bereich um das Ziel. <n/><n/><c val="#ColorAttackInfo">Kann Boden- und Lufteinheiten angreifen.</c> /// Robotic mine. Launches missiles at nearby enemy units while burrowed. Attacks deal splash damage in a small area around the target. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/WidowMineBioSplash=Greift mit Raketen gegnerische Boden- und Lufteinheiten an, die zu nahe kommen. Die Raketen fügen ihrem Hauptziel <d ref="Effect,WidowMineExplodeDirect,Amount"/> (+35 gegen Schilde) Schaden und in der Nähe befindlichen Einheiten <d ref="Effect,WidowMineExplodeSplash,Amount"/> (+<d ref="Effect,WidowMineExplodeSplashShields,VitalBonus[Shields]"/> gegen Schilde) Flächenschaden zu.<n/><n/><c val="#ColorAttackInfo">Abklingzeit: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/> Sek.</c>
+Button/Tooltip/WidowMineUnburrow=Gräbt die Arachnomine aus und deaktiviert die Waffensysteme, sodass sie sich bewegen kann. /// Unburrows the Widow Mine and deactivates its weapon, allowing it to move.
+CantTargetCreepTumor=Kann keine Kriechertumore anvisieren /// Can't target Creep Tumors
+Error/CantTargetRecalling=Kann keine Einheiten anvisieren, die zurückgerufen werden /// Can't target recalling units
+Error/MothershipCorePurifyNexus=Kann den angefügten Mutterschiffkern nicht anvisieren. /// Can't target attached Mothership Core
+Error/PulsarRequiresMoreEnergy=Nicht genügend Energie /// Not enough Energy.
+LoadingScreen/Help35=Die Fähigkeit "Prismatische Ausrichtung" gewährt Phasengleitern mehr Schadensleistung gegen gepanzerte Einheiten. Aktivieren sie diese, um maximalen Schaden an Gebäuden und gepanzerten Gegnern anzurichten. /// The Void Ray's Prismatic Alignment ability grants them additional damage vs. armored units for a short period.  Activate it to deal maximum damage against structures and armored enemies.
+RequirementNode/Tooltip/CountUnitArmoryCompleteOnly609241497TechTreeCheat=Waffenlager /// Armory
+RequirementNode/Tooltip/CountUnitHiveCompleteOnly1229866228=Schwarmstock /// Hive
+RequirementNode/Tooltip/CountUnitLairCompleteOnly1515591279=Bau /// Lair
+RequirementNode/Tooltip/CountUpgradeFlyingLocustsCompleteOnly3740435714=Flügelschrecken in der Verseuchergrube entwickeln
+RequirementNode/Tooltip/CountUpgradeTransformationServosCompleteOnly3716496382TechTreeCheat=Transformationsservos im Tech-Labor der Fabrik erforschen /// Research Transformation Servos at the Factory Tech Lab
+RequirementNode/Tooltip/Eq1256514689CountUpgradeTerranVehicleAndShipWeaponsLevel1CompleteOnly1=Level-1-Upgrade für Fahrzeug- und Schiffswaffen (Terraner) /// Terran Vehicle And Ship Weapons Level 1
+RequirementNode/Tooltip/Eq2326683880CountUpgradeTerranVehicleAndShipArmorsLevel2CompleteOnly1=Level-2-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner) /// Terran Vehicle And Ship Plating Level 2
+RequirementNode/Tooltip/Eq514164946CountUpgradeTerranVehicleAndShipWeaponsLevel2CompleteOnly1=Level-2-Upgrade für Fahrzeug- und Schiffswaffen (Terraner) /// Terran Vehicle And Ship Weapons Level 2
+RequirementNode/Tooltip/Eq611800619CountUpgradeTerranVehicleAndShipArmorsLevel1CompleteOnly1=Level-1-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner) /// Terran Vehicle And Ship Plating Level 1
+RequirementNode/Tooltip/GTE3238024024CountBehaviorArmorpiercingModeCompleteOnlyAtUnit1=Verwendet keine explosiven Geschosse /// Not using Explosive Missiles
+RequirementNode/Tooltip/LT2314084817CountBehaviorArmorpiercingModeCompleteOnlyAtUnit1=Verwendet keine panzerbrechenden Geschosse /// Not using Armor-piercing Missiles
+RequirementNode/Tooltip/Or1515591279=Bau /// Lair
+RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=Bau
+RequirementNode/Tooltip/Or1515591279TechTreeCheatCountUnitLairCompleteOnly1515591279CountUnitHiveCompleteOnly1229866228=Bau /// Lair
+Unit/Name/CollapsibleRockTower=Felshaufen /// Rock Tower
+Unit/Name/CollapsibleRockTowerDebris=Felsen /// Rocks
+Unit/Name/CollapsibleRockTowerDiagonal=Felshaufen /// Rock Tower
+Unit/Name/CollapsibleRockTowerDoubleWide=Felshaufen /// Rock Tower
+Unit/Name/CollapsibleRockTowerPushUnit=Felsen /// Rocks
+Unit/Name/CreepBlocker4x4=Dynamischer Kriecherblockierer 4x4 /// Dynamic Creep Blocker 4x4
+Unit/Name/CreepBlocker8x8=Dynamischer Kriecherblockierer 8x8 /// Dynamic Creep Blocker 8x8
+Unit/Name/DesertPlanetSearchlight=Suchscheinwerfer /// Searchlight
+Unit/Name/DesertPlanetStreetlight=Straßenbeleuchtung /// Streetlight
+Unit/Name/DestructibleCityDebris2x4Horizontal=Trümmer /// Debris
+Unit/Name/DestructibleCityDebris2x4Vertical=Trümmer /// Debris
+Unit/Name/DestructibleCityDebris2x6Horizontal=Trümmer /// Debris
+Unit/Name/DestructibleCityDebris2x6Vertical=Trümmer /// Debris
+Unit/Name/DestructibleCityDebris4x4=Trümmer /// Debris
+Unit/Name/DestructibleCityDebris6x6=Trümmer /// Debris
+Unit/Name/DestructibleCityDebrisHugeDiagonalBLUR=Trümmer /// Debris
+Unit/Name/DestructibleCityDebrisHugeDiagonalULBR=Trümmer /// Debris
+Unit/Name/DestructibleDebris4x4=Trümmer /// Debris
+Unit/Name/DestructibleDebris6x6=Trümmer /// Debris
+Unit/Name/DestructibleDebrisRampDiagonalHugeBLUR=Trümmer /// Debris
+Unit/Name/DestructibleDebrisRampDiagonalHugeULBR=Trümmer /// Debris
+Unit/Name/DestructibleIce2x4Horizontal=Eis /// Ice
+Unit/Name/DestructibleIce2x4Vertical=Eis /// Ice
+Unit/Name/DestructibleIce2x6Horizontal=Eis /// Ice
+Unit/Name/DestructibleIce2x6Vertical=Eis /// Ice
+Unit/Name/DestructibleIce4x4=Eis /// Ice
+Unit/Name/DestructibleIce6x6=Eis /// Ice
+Unit/Name/DestructibleIceDiagonalHugeBLUR=Eis /// Ice
+Unit/Name/DestructibleIceDiagonalHugeULBR=Eis /// Ice
+Unit/Name/DestructibleIceHorizontalHuge=Eis /// Ice
+Unit/Name/DestructibleIceVerticalHuge=Kinetisches Eis /// Icekinetic
+Unit/Name/DestructibleRampDiagonalHugeBLUR=Felsen /// Rocks
+Unit/Name/DestructibleRampDiagonalHugeULBR=Felsen /// Rocks
+Unit/Name/DestructibleRampHorizontalHuge=Felsen /// Rocks
+Unit/Name/DestructibleRampVerticalHuge=Felsen /// Rocks
+Unit/Name/DestructibleRock2x4Horizontal=Felsen /// Rocks
+Unit/Name/DestructibleRock2x4Vertical=Felsen /// Rocks
+Unit/Name/DestructibleRock2x6Horizontal=Felsen /// Rocks
+Unit/Name/DestructibleRock2x6Vertical=Felsen /// Rocks
+Unit/Name/DestructibleRock4x4=Felsen /// Rocks
+Unit/Name/DestructibleRock6x6=Felsen /// Rocks
+Unit/Name/DestructibleRock6x6Weak=Felsen /// Rocks
+Unit/Name/DestructibleRockEx12x4Horizontal=Felsen /// Rocks
+Unit/Name/DestructibleRockEx12x4Vertical=Felsen /// Rocks
+Unit/Name/DestructibleRockEx12x6Horizontal=Felsen /// Rocks
+Unit/Name/DestructibleRockEx12x6Vertical=Felsen /// Rocks
+Unit/Name/DestructibleRockEx14x4=Felsen /// Rocks
+Unit/Name/DestructibleRockEx16x6=Felsen /// Rocks
+Unit/Name/DestructibleRockEx1DiagonalHugeBLUR=Felsen /// Rocks
+Unit/Name/DestructibleRockEx1DiagonalHugeULBR=Felsen /// Rocks
+Unit/Name/DestructibleRockEx1HorizontalHuge=Felsen /// Rocks
+Unit/Name/DestructibleRockEx1VerticalHuge=Felsen /// Rocks
+Unit/Name/DestructibleStatue4x4=Statue /// Statue
+Unit/Name/DestructibleStatueRubble=Geröll /// Rubble
+Unit/Name/DestructibleWall45=Weg /// Walkway
+Unit/Name/DestructibleWall45GateEast=Weg /// Walkway
+Unit/Name/DestructibleWall45GateWest=Weg /// Walkway
+Unit/Name/DestructibleWall45Inner=Weg /// Walkway
+Unit/Name/DestructibleWall45Outer=Weg /// Walkway
+Unit/Name/DestructibleWall45Ramp=Weg /// Walkway
+Unit/Name/DestructibleWall90=Weg /// Walkway
+Unit/Name/DestructibleWall90Inner=Weg /// Walkway
+Unit/Name/DestructibleWall90Outer=Weg /// Walkway
+Unit/Name/DestructibleZerusTree=Baum /// Tree
+Unit/Name/HellionTank=Kampfhellion /// Hellbat
+Unit/Name/LocustMPFlying=Schrecke
+Unit/Name/OracleWeapon=Orakelwaffe /// Oracle Weapon
+Unit/Name/RepulsorCannonWeapon=Schubkanone - Waffe /// Repulsor Cannon Weapon
+Unit/Name/SeekerMissile=Zielsuchende Rakete /// Seeker Missile
+Unit/Name/ShakurasDestructible1x1=Fels /// Rock
+Unit/Name/ShakurasDestructible1x2=Fels /// Rock
+Unit/Name/ShakurasDestructible2x2=Fels /// Rock
+Unit/Name/TempestWeaponGround=Tempestwaffe (Boden) /// Tempest Weapon (Ground)
+Unit/Name/ThorAALance=Thor - Luftabwehr (Lanze) /// Thor AA (Lance)
+Unit/Name/UnbuildableBricksDestructible=Ziegelsteine /// Bricks
+Unit/Name/UnbuildableBricksDestructibleHighlightTooltip=Angreifen, um das Hindernis zu zerstören /// Attack this to destroy it
+Unit/Name/UnbuildablePlatesDestructible=Platten /// Plates
+Unit/Name/UnbuildablePlatesDestructibleHighlightTooltip=Angreifen, um das Hindernis zu zerstören /// Attack this to destroy it
+Unit/Name/UnbuildableRocksDestructible=Felsen /// Rocks
+Unit/Name/UnbuildableRocksDestructibleHighlightTooltip=Angreifen, um das Hindernis zu zerstören /// Attack this to destroy it
+Upgrade/Name/AnionPulseCrystals=Anionen-Impulskristalle /// Anion Pulse Crystals
+Upgrade/Name/DrillClaws=Bohrkrallen /// Drilling Claws
+Upgrade/Name/FlyingLocusts=Flügelschrecken
+Upgrade/Name/TempestRangeUpgrade=Quantumreaktor /// Quantum Reactor
+Upgrade/Name/TerranVehicleAndShipArmors=Terranische Fahrzeug- und Schiffspanzerung /// Terran Vehicle And Ship Plating
+Upgrade/Name/TerranVehicleAndShipArmorsLevel1=Level-1-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner) /// Terran Vehicle And Ship Plating Level 1
+Upgrade/Name/TerranVehicleAndShipArmorsLevel2=Level-2-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner) /// Terran Vehicle And Ship Plating Level 2
+Upgrade/Name/TerranVehicleAndShipArmorsLevel3=Level-3-Upgrade für Fahrzeug- und Schiffspanzerung (Terraner) /// Terran Vehicle And Ship Plating Level 3
+Upgrade/Name/TerranVehicleAndShipWeapons=Terranische Fahrzeug- und Schiffswaffen /// Terran Vehicle And Ship Weapons
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel1=Level-1-Upgrade für terranische Fahrzeug- und Schiffswaffen /// Terran Vehicle And Ship Weapons Level 1
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel2=Level-2-Upgrade für terranische Fahrzeug- und Schiffswaffen /// Terran Vehicle And Ship Weapons Level 2
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel3=Level-3-Upgrade für terranische Fahrzeug- und Schiffswaffen /// Terran Vehicle And Ship Weapons Level 3
+Upgrade/Name/TransformationServos=Transformationsservos /// Transformation Servos
+Weapon/Name/LanceMissileLaunchers=250mm-Punisher-Kanonen /// 250mm Punisher Cannons
+Weapon/Name/LocustMPFlyingSwoopWeapon=Schrecke - Mehrspieler, fliegend - Sturzflug, Waffe
+Weapon/Name/MothershipCoreWeapon=Photonenüberladung /// Photon Overcharge
+Weapon/Name/MothershipPurifyWeapon=Photonenüberladung /// Photon Overcharge
+Weapon/Name/Oracle=Pulsarstrahl /// Pulsar Beam
+Weapon/Name/RepulsorCannon=Schubkanone /// Repulsor Cannon
+Weapon/Name/RipField=Pulsarstrahl /// Pulsar Beam
+Weapon/Name/TempestGround=Resonanzspule /// Resonance Coil
+Weapon/Name/VoidRaySwarm=Prismastrahl /// Prismatic Beam
+Weapon/Name/VoidRaySwarmDummy=Prismastrahl /// Prismatic Beam
+Weapon/Name/VoidRaySwarmEnhanced=Prismastrahl /// Prismatic Beam
+Weapon/Tip/PulsarCannon=

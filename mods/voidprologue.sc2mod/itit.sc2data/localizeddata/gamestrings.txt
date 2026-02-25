@@ -1,0 +1,521 @@
+﻿Abil/Name/BlinkShadowOfTheVoid=Blink
+Abil/Name/ChargeShadowOfTheVoid=Charge
+Abil/Name/ConsumeDNAKnockback=Consume DNA (Knockback)
+Abil/Name/ErrisTempleDoor=Erris Temple Door
+Abil/Name/ErrisTempleDoorClose=Erris Temple Door Close
+Abil/Name/ErrisTempleDoorDownURDL=Erris Temple Door Down
+Abil/Name/ErrisTempleDoorOpen=Erris Temple Door Open
+Abil/Name/ErrisTempleDoorULDR=Erris Temple Door
+Abil/Name/ErrisTempleDoorULDROpened=Erris Temple Door
+Abil/Name/ErrisTempleDoorURDL=Erris Temple Door
+Abil/Name/ErrisTempleDoorURDLOpened=Erris Temple Door
+Abil/Name/ErrisTempleDoorUpURDL=Erris Temple Door Up
+Abil/Name/GasCanisterGather=Gas Canister Gather
+Abil/Name/ImmortalBarrierBase=Barrier
+Abil/Name/LightningShooter=Lightning Shooter
+Abil/Name/LightningShooterDummy=Lightning Shooter Dummy
+Abil/Name/MalashChannel=Malash Channel
+Abil/Name/PrologueFissureBreach=Prologue Fissure Breach
+Abil/Name/PrologueFissureUnbreach=Prologue Fissure Unbreach
+Abil/Name/ProloguePylonOverchargeAttack=Prologue Pylon Overcharge Attack
+Abil/Name/ProloguePylonOverchargeStop=Prologue Pylon Overcharge Stop
+Abil/Name/PrologueVoidArmor=Prologue Void Armor
+Abil/Name/ShadowBlade=Shadow Blade
+Abil/Name/ShadowMissile=Shadow Missile
+Abil/Name/VoidCatalystStage2=Void Catalyst Morph to Stage 2
+Abil/Name/VoidCatalystStage3=Void Catalyst Morph to Stage 3
+Abil/Name/VoidRaySwarmDamageBoost=Void Ray Swarm Damage Boost
+Abil/Name/VoidSentryShieldRepair=Shield Repair
+Abil/Name/ZHybridPsychicClonesShadowOfTheVoid=Separation
+Achievement/Category/WhispersCampaign/Prologue=Sussurri di Oblio
+ArmyCategory/Name/Archon=Arconte
+ArmyCategory/Name/Carrier=Portastormo
+ArmyCategory/Name/Colossus=Colosso
+ArmyCategory/Name/DarkTemplar=Templare oscuro
+ArmyCategory/Name/HighTemplar=Alto templare
+ArmyCategory/Name/Immortal=Immortale
+ArmyCategory/Name/Observer=Osservatore
+ArmyCategory/Name/Oracle=Oracolo
+ArmyCategory/Name/Phoenix=Fenice
+ArmyCategory/Name/PhotonCannon=Cannone fotonico
+ArmyCategory/Name/PrologueArmyCategory=Prologo - Categoria armata
+ArmyCategory/Name/Sentry=Sentinella
+ArmyCategory/Name/Stalker=Persecutore
+ArmyCategory/Name/Tempest=Tempesta
+ArmyCategory/Name/VoidRay=Lancia del Vuoto
+ArmyCategory/Name/WarpGate=Portale dimensionale
+ArmyCategory/Name/WarpPrism=Prisma dimensionale
+ArmyCategory/Name/Zealot=Zelota
+Behavior/Name/ConsumeDNAKnockback=Consuma DNA - Respinta 
+Behavior/Name/GasCanisterGatherCaster=Bombola di gas - Origine raccolta
+Behavior/Name/GasCanisterGatherSearch=Bombola di gas - Ricerca raccolta
+Behavior/Name/GasCanisterGatherTarget=Bombola di gas - Bersaglio raccolta
+Behavior/Name/ImmortalBarrierBase=Barriera protettiva
+Behavior/Name/LightningShooterPsiStorm=Cannoniere Lampo - Tempesta psionica
+Behavior/Name/PrologueHarnessedEnergies=Prologo - Energie raccolte
+Behavior/Name/PrologueHarnessingEnergies=Prologo - Raccolta di energie
+Behavior/Name/PrologueInvisibleGasHarvester=Prologo - Estrattore gas invisibile
+Behavior/Name/PrologueVoidArmor=Scudo del Vuoto
+Behavior/Name/TerranWarpIn=Evocazione terran
+Behavior/Name/VoidRaySwarmDamageBoost=Incremento danni Lancia del Vuoto Swarm
+Behavior/Name/ZHybridPsychicClonesCasterShadowOfTheVoid=Clone psichico
+Behavior/Name/ZHybridPsychicClonesSpawnShadowOfTheVoid=Clone psichico
+Behavior/Name/ZergDoorInfestation=Zerg - Infestazione porta
+Behavior/Tooltip/ImmortalBarrierBase=Questa unità assorbe i danni subiti.
+Button/Name/CarrierPassive=Portastormo
+Button/Name/ColossusPassive=Colosso
+Button/Name/DarkTemplarPassive=Templare oscuro
+Button/Name/HighTemplarPassive=Alto templare
+Button/Name/ImmortalBarrierBase=Barriera protettiva
+Button/Name/LightningShooter=Cannoniere Lampo
+Button/Name/LightningShooterDummy=Cannoniere Lampo - Simulazione
+Button/Name/MalashChannel=Malash - Incanalamento
+Button/Name/PrologueFissureBreach=Prologo - Apertura fuoriuscita
+Button/Name/PrologueFissureUnbreach=Prologo - Chiusura fuoriuscita
+Button/Name/PrologueVoidArmor=Scudo del Vuoto
+Button/Name/SentryPassive=Sentinella
+Button/Name/ShadowBlade=Affondo dell'ombra
+Button/Name/ShadowMissile=Proiettile dell'Ombra
+Button/Name/StalkerPassive=Persecutore
+Button/Name/TempestPassive=Tempesta
+Button/Name/VoidCatalystStage2=Catalizzatore del Vuoto - Trasforma in fase 2
+Button/Name/VoidCatalystStage3=Catalizzatore del Vuoto - Trasforma in fase 3
+Button/Name/VoidRayPrismaticAlignmentBase=Allineamento prismatico
+Button/Name/VoidRaySwarmDamageBoost=Allineamento prismatico
+Button/Name/VoidSentryShieldRepair=Ricarica scudo
+Button/Tooltip/Biodome=Distruggi il dispositivo di contenimento dei Piloni per riappropriarti di essi.
+Button/Tooltip/CarrierPassive=Il Faro della flotta consente di evocare le Portastormo.
+Button/Tooltip/ColossusPassive=Il Laboratorio robotico consente di evocare i Colossi.
+Button/Tooltip/CyberneticsCore=Contiene potenziamenti di armi e corazze per le unità aeree protoss.<n/><n/><c val="ffff8a">Consente:</c><n/>- Persecutori al Portale<n/>- Sentinelle al Portale
+Button/Tooltip/DarkShrine=<c val="ffff8a">Consente:</c><n/>- Templari oscuri al Portale
+Button/Tooltip/DarkTemplar=Letale guerriero-assassino. L'occultamento permanente lo rende invisibile ai nemici che non usano l'individuazione. Può fondersi in un Arconte.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+Button/Tooltip/DarkTemplarPassive=Il Santuario oscuro consente di evocare Templari oscuri.
+Button/Tooltip/FleetBeacon=<c val="ffff8a">Consente:</c><n/>- Tempeste al Portale stellare<n/>- Portastormo al Portale stellare
+Button/Tooltip/HighTemplar=Potente maestro psionico. Può usare Contrappasso e Tempesta psionica. Può fondersi in un Arconte.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+Button/Tooltip/HighTemplarPassive=L'Archivio dei Templari consente di evocare gli Alti templari.
+Button/Tooltip/Immortal=Camminatore d'assalto. Può usare Barriera protettiva per assorbire i danni.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+Button/Tooltip/ImmortalBarrierBase=Assorbe fino a <d ref="Behavior,ImmortalBarrierBase,DamageResponse.ModifyLimit"/> danni. Dura <d ref="Behavior,ImmortalBarrierBase,Duration"/> secondi.
+Button/Tooltip/Nexus=Struttura primaria. Usata per ricevere le risorse raccolte. Può usare l'abilità Accelerazione temporale.<n/><n/><c val="ffff8a">Consente:</c><n/>- Sonde
+Button/Tooltip/PrologueVoidArmor=Fornisce <d ref="Behavior,PrologueVoidArmor,Modification.VitalMaxArray[Shields]"/> scudi aggiuntivi per <d ref="Behavior,PrologueVoidArmor,Duration"/> secondi alle unità alleate circostanti.
+Button/Tooltip/RoboticsBay=<c val="ffff8a">Consente:</c><n/>- Colossi alla Fabbrica robotica
+Button/Tooltip/RoboticsFacility=Evoca unità robotiche protoss.<n/><n/><c val="ffff8a">Consente:</c><n/>- Immortali
+Button/Tooltip/Sentry=Unità in grado di manipolare l'energia. Può usare le abilità Ricarica scudo, Scudo guardiano e Campo di forza.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree e terrestri.</c>
+Button/Tooltip/SentryPassive=Il Centro cibernetico consente di evocare le Sentinelle.
+Button/Tooltip/ShadowBlade=Colpisce un nemico, infliggendo 500 danni.<n/><n/><c val="ffff8a">Può colpire unità terrestri.</c>
+Button/Tooltip/ShadowMissile=[ph] ZAP
+Button/Tooltip/ShadowOfTheVoidArchon=Potente attaccante psionico.<n/><n/><c val="ffff8a">Può attaccare unità terrestri e aeree.</c>
+Button/Tooltip/ShadowOfTheVoidHybrid=Mostruosa creatura nata da un incrocio di DNA zerg e protoss, in grado di sferrare potenti attacchi.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree e terrestri.</c><n/><c val="FFE303">Individuatore</c>
+Button/Tooltip/ShadowOfTheVoidHybridDominator=Potente attaccante psionico.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree o terrestri.</c><n/><c val="FFE303">Individuatore</c>
+Button/Tooltip/ShadowOfTheVoidStalker=Camminatore da supporto a distanza.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>
+Button/Tooltip/ShadowOfTheVoidZealot=Potente guerriero da mischia.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+Button/Tooltip/StalkerPassive=Il Centro cibernetico consente di evocare i Persecutori.
+Button/Tooltip/Stargate=Evoca unità aeree protoss.<n/><n/><c val="ffff8a">Consente:</c><n/>- Fenici<n/>- Lance del Vuoto
+Button/Tooltip/TempestPassive=Il Faro della flotta consente di evocare le Portastormo.
+Button/Tooltip/TemplarArchive=<c val="ffff8a">Consente:</c><n/>- Alti templari al Portale
+Button/Tooltip/TwilightCouncil=<c val="ffff8a">Consente:</c><n/>- Santuario oscuro dalle Sonde<n/>- Archivio dei Templari dalle Sonde.
+Button/Tooltip/VoidRayPrismaticAlignmentBase=I danni causati dalla Lancia del Vuoto aumentano se questa infierisce su un singolo bersaglio, infliggendo fino a 4 danni aggiuntivi alle unità corazzate.
+Button/Tooltip/VoidRaySwarmDamageBoost=Riallinea il raggio prismatico della Lancia del Vuoto e infligge <d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/> danni aggiuntivi alle unità corazzate per <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/> secondi.
+Button/Tooltip/VoidSentryShieldRepair=Ricarica gli scudi di un'unità protoss alleata. <n/><n/><c val="f078ff">Ripristina <d ref="Effect,VoidSentryShieldRepair,RechargeVitalRate*Effect,VoidSentryShieldRepair,DrainVitalCostFactor"/> punti scudo per 1 punto energia.</c>
+Button/Tooltip/XelNagaTempleDoorURDLPrologue=Pesante porta a protezione del Tempio di Erris.
+Character/Attitude/DarkVoice=Arrogant, Self-Righteous, Prideful, Powerful, 
+Character/Attitude/FamiliarVoice=Wise, Benevolent, Godlike, Alien
+Character/Attitude/HighTemplar=Already Cast - High Templar
+Character/Attitude/Malash=Intelligent, Calculating, Proud, In Charge
+Character/Attitude/Marine01=Frigtening, Horror, Eldritch, Insane
+Character/Attitude/Marine02=Frigtening, Horror, Eldritch, Insane
+Character/Attitude/RescuedTemplar=Hot-headed, Direct, Strong, Commanding
+Character/Attitude/TaldarimStalker=Proud, Strong, Subservient
+Character/Attitude/TaldarimZealot=Proud, Strong, Subservient
+Character/Attitude/TaldarimZealot2=Proud, Strong, Subservient
+Character/Attitude/Valkyrie=Frigtening, Horror, Eldritch, Insane
+Character/Attitude/Zealot=Determined
+Character/Attitude/Zeratul=Wise
+Character/Description/DarkVoice=Already Cast
+Character/Description/FamiliarVoice=Already Cast
+Character/Description/HighTemplar=(Already Cast)
+Character/Description/Malash=The Highlord of the Tal'darim a fanatical faction of the protoss that worships the Dark God Amon. Ma'lash fought his way through their society slaughtering all who stood in his way. He is cold and calculating, and incredibly intimidating.
+Character/Description/Marine01=Mind controlled and dominated slave to the hybrid. Speaks in a very horror movie / lovecraftian manner. Dark and frightening
+Character/Description/Marine02=Mind controlled and dominated slave to the hybrid. Speaks in a very horror movie / lovecraftian manner. Dark and frightening
+Character/Description/RescuedTemplar=Talis is a high ranking officer of the Protoss, and a fearsome warrior. She is direct and fearless, a peerless example of what all Zealots strive to be. This can also lead her to thinking too directly or believing violence can solve all her problems. She is a true believer in Artanis's vision and valuable ally to Zeratul.
+Character/Description/TaldarimStalker=A zealot who follows the commands of the Tal'darim Highlord Ma'lash.
+Character/Description/TaldarimZealot=A zealot who follows the commands of the Tal'darim Highlord Ma'lash
+Character/Description/TaldarimZealot2=A stalker who follows the commands of the Tal'darim Highlord Ma'lash.
+Character/Description/Valkyrie=(Already Cast)
+Character/Description/Zealot=Unit - (Already Cast) Deeply religious and determined. Unwilling to falter in his fight to defend the protoss.
+Character/Description/Zeratul=(Already Cast) Wise and troubled by his past, Zeratul has cast aside the leadership of the Dark Tempalr in order to fully pursue the salvation of the universe. He has grown weary over time and seeks out Artanis to warn him of the impending doom.
+Character/Dialect/DarkVoice=None
+Character/Dialect/FamiliarVoice=None
+Character/Dialect/HighTemplar=None
+Character/Dialect/Malash=None
+Character/Dialect/Marine01=Southern
+Character/Dialect/Marine02=Southern
+Character/Dialect/RescuedTemplar=None
+Character/Dialect/TaldarimStalker=None
+Character/Dialect/TaldarimZealot=None
+Character/Dialect/TaldarimZealot2=None
+Character/Dialect/Valkyrie=Southern
+Character/Dialect/Zealot=None
+Character/Dialect/Zeratul=None
+Character/Name/Ascendant=Ascendente
+Character/Name/DarkVoice=Voce oscura
+Character/Name/FamiliarVoice=Voce familiare
+Character/Name/HighTemplar=Alto templare
+Character/Name/Malash=Ma'lash
+Character/Name/Marine01=Marine della Moebius
+Character/Name/Marine01/Var1=1
+Character/Name/Marine01/Var2=2
+Character/Name/Marine01/Var3=3
+Character/Name/Marine01/Var4=4
+Character/Name/Marine01/Var5=5
+Character/Name/Marine01/Var6=6
+Character/Name/Marine01/Var7=7
+Character/Name/Marine01/Var8=8
+Character/Name/Marine01/Var9=9
+Character/Name/Marine02=Marine della Moebius
+Character/Name/Marine02/Var1=1
+Character/Name/Marine02/Var2=2
+Character/Name/Marine02/Var3=3
+Character/Name/Marine02/Var4=4
+Character/Name/Marine02/Var5=5
+Character/Name/Marine02/Var6=6
+Character/Name/Marine02/Var7=7
+Character/Name/Marine02/Var8=8
+Character/Name/Marine02/Var9=9
+Character/Name/RescuedTemplar=Talis
+Character/Name/TaldarimStalker=Persecutore dei Tal'darim
+Character/Name/TaldarimZealot=Zelota dei Tal'darim
+Character/Name/TaldarimZealot2=Persecutore dei Tal'darim
+Character/Name/Valkyrie=Viking della Divisione Moebius
+Character/Name/Viking=Viking della Moebius
+Character/Name/Zealot=Zelota
+Character/Name/Zeratul=Zeratul
+Character/Race/DarkVoice=
+Character/Race/FamiliarVoice=
+Character/Timbre/DarkVoice=Low
+Character/Timbre/FamiliarVoice=Low
+Character/Timbre/HighTemplar=Medium/Low
+Character/Timbre/Malash=Medium/Low
+Character/Timbre/Marine01=Medium
+Character/Timbre/Marine02=Medium
+Character/Timbre/RescuedTemplar=Medium/Low
+Character/Timbre/TaldarimStalker=Medium/Low
+Character/Timbre/TaldarimZealot=Medium/Low
+Character/Timbre/TaldarimZealot2=Medium/Low
+Character/Timbre/Valkyrie=Medium
+Character/Timbre/Zealot=Medium/Low
+Character/Timbre/Zeratul=Low
+Character/VoiceRef/DarkVoice=Rick Wasserman
+Character/VoiceRef/FamiliarVoice=Michael Dorn
+Character/VoiceRef/HighTemplar=Already Cast - High Templar
+Character/VoiceRef/Malash=David Shaughnessy
+Character/VoiceRef/RescuedTemplar=Laura Bailey
+Character/VoiceRef/TaldarimStalker=Jamieson Price
+Character/VoiceRef/TaldarimZealot=Jamieson Price
+Character/VoiceRef/TaldarimZealot2=Stalker Voice Actor
+Character/VoiceRef/Valkyrie=Already Cast - Viking
+Character/VoiceRef/Zealot=Jamieson Price
+Character/VoiceRef/Zeratul=Fred Tatasciore
+Conversation/pMission_VoidPrologue02/Group00001=Mission_Prologue02
+Conversation/pMission_VoidPrologue03/Group00001=Mission_Prologue03
+Conversation/vpMission_VoidPrologue01/Group00001=Mission_Prologue01
+DocInfo/DescShort=Qualunque
+DocInfo/Name=Prologo Void
+Effect/Name/HighTemplarWeaponDamage=High Templar Weapon Damage
+Effect/Name/HighTemplarWeaponLM=High Templar Weapon LM
+Effect/Name/HybridReaverDamage=Hybrid Reaver Damage
+Map/LoadingBody/VoidPrologue01=<s val="VoidLoadingIntroScreenBody">È un'era di grande incertezza. Il Dio Oscuro, Amon, è rinato su un mondo sconosciuto e ora minaccia l'esistenza di tutte le forme di vita nel settore.<n/><n/>Prima di tornare dal suo popolo per affrontarne il giudizio, Zeratul perlustra la galassia in cerca di un modo per fermare l'oscurità, alla ricerca degli ultimi frammenti di un'antica profezia che potrebbero fornire un barlume di speranza.</s>
+Map/LoadingHelp/VoidPrologue01=È possibile assegnare fino a 3 Sonde a un giacimento minerario o un geyser di vespene. Disporre di abbastanza lavoratori è fondamentale per creare una potente armata.
+Map/LoadingHelp/VoidPrologue02=Colloca dei Cannoni fotonici a difesa delle rampe d'ingresso della base. Sono il posto migliore per respingere gli attacchi nemici.
+Map/LoadingHelp/VoidPrologue03=Zeratul è una potente unità eroica dotata di abilità speciali. Potrai selezionarlo premendo il tasto <c val="ffff00">F3</c> o cliccando sulla sua icona, nell'angolo in alto a sinistra dello schermo.
+Map/LoadingHelpRestart/VoidPrologue01=Ordinando alle unità di attaccare un punto del terreno, queste attaccheranno tutti i nemici incontrati lungo la strada. Questa manovra è detta "movimento d'attacco".
+Map/LoadingHelpRestart/VoidPrologue02=È possibile evocare altri Portali, Fabbriche robotiche e Portali stellari per produrre più unità contemporaneamente.
+Map/LoadingHelpRestart/VoidPrologue03=Un corretto uso delle abilità di Zeratul è fondamentale. Sfrutta Scudo del Vuoto per proteggere i Persecutori e Lama dell'Ombra per eliminare bersagli pericolosi come gli ibridi.
+Map/LoadingTitle/VoidPrologue01=<s val="VoidLoadingIntroScreenTitle">SUSSURRI DI OBLIO</s>
+Map/Name/PrologueStory=Storia del prologo
+Map/Name/VoidPrologue01=Sussurri oscuri
+Map/Name/VoidPrologue02=Fantasmi nella nebbia
+Map/Name/VoidPrologue03=Il risveglio del Male
+Map/PrimaryObjectiveText/VoidPrologue01=Libera i Templari prigionieri
+Map/PrimaryObjectiveText/VoidPrologue02=Oltrepassa le forze Tal'darim
+Map/PrimaryObjectiveText/VoidPrologue03=Entra nel tempio
+Map/Summary/VoidPrologue01=I Templari prigionieri sono stati liberati dalla Divisione Moebius. Ora la missione di Zeratul lo conduce sul pianeta dimenticato di Atrias, e nel tempio xel'naga qui nascosto.
+Map/Summary/VoidPrologue02=I Tal'darim hanno ceduto alla potenza dei Templari e dei Nerazim. Nel frattempo, Zeratul si prepara a penetrare nelle profondità del tempio.
+Map/Summary/VoidPrologue03=Il costo è stato elevato, ma l'ultimo frammento della profezia è stato rivelato. La Stele Ancestrale xel'naga può condurre i protoss alla speranza. Ora che ha ottenuto queste informazioni, Zeratul deve fare ritorno al suo popolo e avvisare Artanis, Gerarca dei protoss, prima che sia troppo tardi.<n/><n/>La missione di Zeratul prosegue in Legacy of the Void, il capitolo finale della trilogia di StarCraft II.
+Moebius Corps Viking=Viking della Moebius
+Objective/Description/PPrologue01Bonus01=La Divisione Moebius si è appropriata di diversi Piloni all'interno del complesso. Riconquistali, e sarà possibile evocare dei rinforzi sfruttando i loro campi energetici.
+Objective/Description/PPrologue01Primary01=Distruggi il recinto di contenimento per liberare i Templari prigionieri.
+Objective/Description/PPrologue01Primary02=Distruggi il recinto di contenimento per liberare i Templari prigionieri.
+Objective/Description/PPrologue01Primary03=Distruggi il recinto di contenimento per liberare gli ultimi Templari.
+Objective/Description/PPrologue01Primary04=Kerrigan sta assediando il complesso. Libera i Templari prima che lo Sciame distrugga la stazione.
+Objective/Description/PPrologue02Bonus01=Distruggi le formazioni rocciose e la Cercatore del Vuoto potrà estrarre vespene dai crateri naturali sotto di esse.
+Objective/Description/PPrologue02Primary01=Oltrepassa lo sbarramento dei Tal'darim e assedia il Tempio di Erris.
+Objective/Description/PPrologue03Bonus01=Distruggere i cannoni a particelle dei Tal'darim consentirà a Talis di inviare dei rinforzi.
+Objective/Description/PPrologue03Primary01=La chiave della profezia si trova all'interno di questo tempio. Zeratul deve trovarla.
+Objective/Description/PPrologue03Primary02=Distruggi il Catalizzatore del Vuoto per interrompere il legame fra i Tal'darim e Amon.
+Objective/Description/PPrologue03Primary04=Fuggi dal tempio o Zeratul verrà sepolto vivo.
+Objective/Description/PPrologue03Primary05=Il destino della galassia dipende da Zeratul. Non lasciare che muoia.
+Objective/Name/PPrologue01Bonus01=Distruggi i dispositivi di contenimento dei Piloni
+Objective/Name/PPrologue01Primary01=Libera il primo gruppo di protoss
+Objective/Name/PPrologue01Primary02=Libera il secondo gruppo di protoss
+Objective/Name/PPrologue01Primary03=Libera l'ultimo gruppo di protoss
+Objective/Name/PPrologue01Primary04=Il reattore non deve essere distrutto
+Objective/Name/PPrologue02Bonus01=Distruggi le formazioni rocciose
+Objective/Name/PPrologue02Primary01=Distruggi l'ingresso del tempio
+Objective/Name/PPrologue03Bonus01=Distruggi i cannoni a particelle
+Objective/Name/PPrologue03Primary01=Esplora il tempio
+Objective/Name/PPrologue03Primary02=Distruggi il Catalizzatore del Vuoto
+Objective/Name/PPrologue03Primary04=Fuggi dal tempio
+Objective/Name/PPrologue03Primary05=Zeratul deve sopravvivere
+Param/Expression/lib_A3DDD02B_0334FCBD=~A~</ignore>
+Param/Expression/lib_A3DDD02B_0386BD51=Stiamo caricando le sezioni della missione ~A~
+Param/Expression/lib_A3DDD02B_05E157D1=<c val="32cd32">CONSIGLIO</c> - ~A~
+Param/Expression/lib_A3DDD02B_0A349CF7=~A~ Vittoria
+Param/Expression/lib_A3DDD02B_11F142F1=<s val="~Style~">~A~</s>
+Param/Expression/lib_A3DDD02B_1221812A=~A~ missione ~B~ se ~C~
+Param/Expression/lib_A3DDD02B_15AB0274=~NAME~
+Param/Expression/lib_A3DDD02B_1D409BFB=~A~<s val="~B~">
+Param/Expression/lib_A3DDD02B_2E30CC8D=~A~</s><IMG path="~B~" height="24" width="24"/>
+Param/Expression/lib_A3DDD02B_36788E6C=<c val="87ceeb">NUOVA TECNOLOGIA DISPONIBILE</c><n/>~A~
+Param/Expression/lib_A3DDD02B_3E6EDBB0=~CurrentEnergy~/~MaxEnergy~
+Param/Expression/lib_A3DDD02B_429F7B07=<s val="~A~">+~B~
+Param/Expression/lib_A3DDD02B_43F48F90=~CurrentLife~/~MaxLife~
+Param/Expression/lib_A3DDD02B_484CBB38=~A~</s>
+Param/Expression/lib_A3DDD02B_4AD982DB=<s val="@@UnitInfoSubTip">~A~</s>
+Param/Expression/lib_A3DDD02B_7106A1DB=~A~</s><IMG path="Assets\Textures\icon-mineral-zerg.dds" height="20" width="20"/>
+Param/Expression/lib_A3DDD02B_79DF468D=~CurrentShields~/~MaxShields~
+Param/Expression/lib_A3DDD02B_79F7F239=~A~ ~B~
+Param/Expression/lib_A3DDD02B_7C1B795A=~A~
+Param/Expression/lib_A3DDD02B_7EAE4F74=~A~ (~B~
+Param/Expression/lib_A3DDD02B_8767B2BC=~A~</s><IMG path="Assets\Textures\icon-gas-zerg.dds" height="20" width="20"/>
+Param/Expression/lib_A3DDD02B_8A9543B1=<s val="@@UnitInfoTip">~A~</s>
+Param/Expression/lib_A3DDD02B_8CBDD654=~A~ (~B~)
+Param/Expression/lib_A3DDD02B_8EFD9D26=~A~ ~B~
+Param/Expression/lib_A3DDD02B_903D3715=Nuovi consigli ~A~
+Param/Expression/lib_A3DDD02B_9C52A85A=<s val="~Style~">~A~</s>
+Param/Expression/lib_A3DDD02B_A25AEEB9=~A~/~B~
+Param/Expression/lib_A3DDD02B_A269CF22=<c val="87ceeb">DISPONIBILE NUOVA STRUTTURA</c><n/>~A~
+Param/Expression/lib_A3DDD02B_A67804BB=<c val="87ceeb">ACQUISITA NUOVA UNITÀ</c><n/>~A~
+Param/Expression/lib_A3DDD02B_B75FC165=~A~ ~B~
+Param/Expression/lib_A3DDD02B_BFEDF31D=<s val="~A~">+~B~
+Param/Expression/lib_A3DDD02B_C8310DD7=Aggiungi tipo di unità alla finestra aiuto unità ~A~ Memoria storia = ~B~
+Param/Expression/lib_A3DDD02B_CEE1F9DE=Transizione a: ~A~
+Param/Expression/lib_A3DDD02B_D04E5B32=<c val="ffcc00">MISSIONE FALLITA</c><n/>~A~
+Param/Expression/lib_A3DDD02B_DC150B08=<ignore s="strip" c="strip">~A~
+Param/Expression/lib_A3DDD02B_DCF14620=Impresa "~A~" sbloccata (~B~)<n/>~C~
+Param/Expression/lib_A3DDD02B_DF210163=<ignore s="strip" c="strip">~A~</ignore>
+Param/Expression/lib_A3DDD02B_E1EDAD1C=<s val="CampaignPanelLastMissionTitle">PROLOGO COMPLETATO!</s><n/><n/><s val="CampaignPanelLastMissionDescription">~SUMMARY~</s><n/><n/><n/><s val="CampaignPanelItemTitle">MISSIONI COMPIUTE:</s> <s val="CampaignPanelItemText">~MISSIONSCOMPLETE~</s><n/><n/><s val="CampaignPanelItemTitle">DIFFICOLTÀ�:</s> <s val="CampaignPanelItemText">~DIFFICULTY~</s>
+Param/Expression/lib_A3DDD02B_E48EBCCC=<s val="~A~">+~B~
+Param/Expression/lib_A3DDD02B_E5BD385E=<c val="ff0000">~A~
+Param/Expression/lib_A3DDD02B_EC86CC32=<s val="CampaignPanelLastMission">ULTIMA MISSIONE</s><n/><n/><s val="CampaignPanelLastMissionTitle">~D~</s><n/><n/><s val="CampaignPanelLastMissionDescription">~A~</s><n/><n/><n/><s val="CampaignPanelItemTitle">MISSIONI COMPIUTE:</s> <s val="CampaignPanelItemText">~B~</s><n/><n/><s val="CampaignPanelItemTitle">DIFFICOLTÀ:</s> <s val="CampaignPanelItemText">~C~</s>
+Param/Expression/lib_A3DDD02B_ED480A7B=<c val="ffcc00">SEGRETO SCOPERTO</c><n/>~A~
+Param/Expression/lib_A3DDD02B_F0AEE206=~NAME~
+Param/Expression/lib_A3DDD02B_F1566AC5=~MISSIONTITLE~ - ~DIFFICULTYTITLE~
+Param/Expression/lib_A3DDD02B_F19B810A=~A~ ~B~
+Param/Expression/lib_A3DDD02B_F1AA9791=<c val="87ceeb">DISPONIBILE NUOVA UNITÀ</c><n/>~A~
+Param/Expression/lib_A3DDD02B_F3369DF0=~A~)
+Param/Expression/lib_A3DDD02B_F5E6F81E=<s val="@@UnitInfoSubTipDetail">~A~</s>
+Param/Expression/lib_A3DDD02B_FDF0DFC6=<s val="@@UnitInfoTip">~A~</s>
+Param/Value/lib_A3DDD02B_00CB1CEE={Kerrigan è stata uccisa}
+Param/Value/lib_A3DDD02B_026E3CA7=Carica banco campagna
+Param/Value/lib_A3DDD02B_0567AF67=<k val="MenuHelp"/>
+Param/Value/lib_A3DDD02B_0AB254F1=
+Param/Value/lib_A3DDD02B_0D01B8AD=Nessuna mappa
+Param/Value/lib_A3DDD02B_0EC80158=Sussurri di Oblio
+Param/Value/lib_A3DDD02B_13D3AE1E=Opzioni gioco avanzato
+Param/Value/lib_A3DDD02B_1A7C23AB=Opzioni interfaccia
+Param/Value/lib_A3DDD02B_2015A005=<min2/>:<sec2/>
+Param/Value/lib_A3DDD02B_2AD3369D=Aggiornamento dati campagna
+Param/Value/lib_A3DDD02B_2C050394=<s val="StoryModeQuitToLobby">Abbandonare la campagna?</s>
+Param/Value/lib_A3DDD02B_2E28A610=<k val="HeroSelect0"/>
+Param/Value/lib_A3DDD02B_2E4E132D=Seleziona armata (F2)
+Param/Value/lib_A3DDD02B_3484C8CE={Carro d'assedio} -- Adesso puoi costruire un {Carro d'assedio} da {Fabbrica}.
+Param/Value/lib_A3DDD02B_3C05C26E=Caricamento dati...
+Param/Value/lib_A3DDD02B_3D4F09CA=Seleziona armata (F2)
+Param/Value/lib_A3DDD02B_3FE3B4E6=<h/>Torna all'Archivio
+Param/Value/lib_A3DDD02B_40AF78D2=[%1%]
+Param/Value/lib_A3DDD02B_4447B2D4=Guida
+Param/Value/lib_A3DDD02B_47A5386C=Sblocca
+Param/Value/lib_A3DDD02B_513DE2BE=
+Param/Value/lib_A3DDD02B_532FD538=5 giorni
+Param/Value/lib_A3DDD02B_5B1A5BD8=[%3%]
+Param/Value/lib_A3DDD02B_5DB1F6D2=
+Param/Value/lib_A3DDD02B_606ECC4E=Usa qualunque unità di terra per raccogliere
+Param/Value/lib_A3DDD02B_61C047EF=Nessuna mappa
+Param/Value/lib_A3DDD02B_62C7FA0A=Tutte le tue strutture sono state distrutte.
+Param/Value/lib_A3DDD02B_63503F21=Hellion (26 uccisioni)
+Param/Value/lib_A3DDD02B_6C9FA21E=Vittoria campagna
+Param/Value/lib_A3DDD02B_77867D52=Artanis
+Param/Value/lib_A3DDD02B_7A06BBD5=Nessun banco di dati trovato, impostazioni predefinite
+Param/Value/lib_A3DDD02B_7DB98140=
+Param/Value/lib_A3DDD02B_969F6414= d
+Param/Value/lib_A3DDD02B_97EB67D7=[%2%]
+Param/Value/lib_A3DDD02B_980657DB=<k val="HeroSelect1"/>
+Param/Value/lib_A3DDD02B_9C86C198=
+Param/Value/lib_A3DDD02B_A340302F=
+Param/Value/lib_A3DDD02B_A97B3861=Tipo di unità con più uccisioni:
+Param/Value/lib_A3DDD02B_ACF08304={Carro d'assedio} -- {Carro armato pesante. Artiglieria a lunga gittata in assetto d'assedio.}
+Param/Value/lib_A3DDD02B_B6DC76CA=/
+Param/Value/lib_A3DDD02B_BB62DA99=<hour/>:<min2/>:<sec2/>
+Param/Value/lib_A3DDD02B_C20A69CF=VITTORIA!
+Param/Value/lib_A3DDD02B_CEEAA171=Errore: nessun interludio attivo.
+Param/Value/lib_A3DDD02B_D265BD06=<c val="ff0000">Nessuna registrazione della ripresa. Richiama l'azione attivatrice "Archivia registrazione ripresa" nell'attivatore Inizializzazione mappa della mappa.</c>
+Param/Value/lib_A3DDD02B_D4EA7C13=<s val="ModCenterSize32Bold">DEBUG</s>
+Param/Value/lib_A3DDD02B_D8912FAC=Applica tecnologia
+Param/Value/lib_A3DDD02B_DD0CEBA7={Assetto d'assedio} -- {In assetto d'assedio, i carri d'assedio hanno una lunghissima gittata e infliggono danni ad area.}
+Param/Value/lib_A3DDD02B_DD209DEC=MISSIONE COMPIUTA
+Param/Value/lib_A3DDD02B_DDB188FB=Giorni impiegati per compiere la missione:
+Param/Value/lib_A3DDD02B_DF3A05B3=Blocca
+Param/Value/lib_A3DDD02B_E59ABB37=(F12)
+Param/Value/lib_A3DDD02B_EBECA6C5=[%4%]
+Param/Value/lib_A3DDD02B_ED876F0C=Carica banco dati
+Param/Value/lib_A3DDD02B_EFE89162=
+Param/Value/lib_A3DDD02B_F6C861D2=
+Param/Value/lib_A3DDD02B_F74FC874=Carica sezioni della missione
+Param/Value/lib_A3DDD02B_F7C4BD98=
+Param/Value/lib_A3DDD02B_FEA82454=Boss
+Param/Value/lib_A3DDD02B_FEAD4B3A=
+Reward/Name/PPrologue01_01=PPrologue01_01
+Reward/Name/PPrologue01_02=PPrologue01_02
+Reward/Name/PPrologue01_03=PPrologue01_03
+Reward/Name/PPrologue02_01=PPrologue02_01
+Reward/Name/PPrologue02_02=PPrologue02_02
+Reward/Name/PPrologue02_03=PPrologue02_03
+Reward/Name/PPrologue03_01=PPrologue03_01
+Reward/Name/PPrologue03_02=PPrologue03_02
+Reward/Name/PPrologue03_03=PPrologue03_03
+Reward/Name/WhispersOfOblivion_Achievements=Perfezionista Sussurri di Oblio
+Reward/Name/WhispersOfOblivion_Achievements2=Sussurri di Oblio
+Reward/Name/WhispersOfOblivion_Bonus=Obiettivi bonus: Sussurri di Oblio
+UI/HelpMenuDialogTechVoidPrologueCampaign=SUSSURRI DI OBLIO
+UI/PrologueLaunch=A<h/>VVIA
+UI/PrologueQuit=ABBANDONA
+UI/StoryArchiveBackTooltip=Torna alla Lancia di Adun.
+UI/StoryArchiveQuitTooltip=Abbandona l'Archivio principale.
+UI/StoryMissionArchivesSubtitle=Seleziona una missione
+UI/StoryMissionArchivesTitle=Archivio principale
+UI/VoidArchiveArmy=PANNELLO DI ADUNANZA
+UI/VoidArchiveShip=LANCIA DI ADUN
+UI/VoidScoreScreen/NewChampionTitle=Non utilizzato
+UI/VoidScoreScreen/NewFactionTitle=Nuova fazione
+UI/VoidStoryBack=<h/>INDIETRO
+UI/VoidStoryLaunch=A<h/>VVIA
+UI/VoidStoryQuit=A<h/>BBANDONA
+Unit/Category/ShadowOfTheVoidHybridUnits=Ibrido
+Unit/LifeArmorName/ShadowOfTheVoidHybridArmor=Corazza dell'Ibrido
+Unit/Name/ErrisTempleDoorULDR=Ingresso del Tempio di Erris
+Unit/Name/ErrisTempleDoorULDROpened=Ingresso del Tempio di Erris
+Unit/Name/ErrisTempleDoorURDL=Ingresso del Tempio di Erris
+Unit/Name/ErrisTempleDoorURDLOpened=Ingresso del Tempio di Erris
+Unit/Name/HighTemplarWeapon=Alto templare - Arma
+Unit/Name/LightningShooter=Cannoniere Lampo
+Unit/Name/MoebiusLabArmoredGenerator=Generatore
+Unit/Name/NaturalGasEX2=Vespene
+Unit/Name/PowerGridTransformer=Reattore della stazione
+Unit/Name/PrisonZealot=Zelota
+Unit/Name/PrologueFissureBreach=Prologo - Apertura fuoriuscita
+Unit/Name/PrologueFissureBreachDead=Prologo - Apertura fuoriuscita - Morta
+Unit/Name/PrologueInvisibleGasHarvester=Prologo - Estrattore gas invisibile
+Unit/Name/PrologueMalash=Ma'lash
+Unit/Name/PrologueZeratul=Zeratul
+Unit/Name/PylonContainmentUnit=Dispositivo di contenimento Pilone
+Unit/Name/ResidualVortex=Vortice residuo
+Unit/Name/ShadowMissileWeapon=Proiettile dell'Ombra - Arma
+Unit/Name/ShadowOfTheVoidArchon=Ombra del Vuoto
+Unit/Name/ShadowOfTheVoidHybrid=Ombra del Vuoto
+Unit/Name/ShadowOfTheVoidHybridDominator=Ombra del Vuoto
+Unit/Name/ShadowOfTheVoidStalker=Ombra del Vuoto
+Unit/Name/ShadowOfTheVoidZealot=Ombra del Vuoto
+Unit/Name/StalkerWeaponShadowOfTheVoid=Persecutore
+Unit/Name/VoidCatalyst=Catalizzatore del Vuoto
+Unit/Name/XelNagaPyramidTempleDoor=Ingresso del tempio
+Unit/Name/XelNagaTempleDoorURDLPrologue=Ingresso del tempio xel'naga
+Unit/ShieldArmorName/ShadowOfTheVoidHybridShields=Scudi dell'Ibrido
+Upgrade/Name/VoidRayBeamCanCharge=Lancia del Vuoto - Carica raggio
+UserData/CampaignTips/BewareZerg_Description=Le forze zerg sono innumerevoli e non possono essere fermate. Fa' attenzione ai loro attacchi e cerca di evitarle.
+UserData/CampaignTips/BewareZerg_Name=Attenzione agli zerg
+UserData/CampaignTips/BewareZerg_Prefix=Meccanica
+UserData/CampaignTips/Carrier_Description=Potentissimo velivolo in grado di creare e lanciare all'attacco gli Intercettori.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>
+UserData/CampaignTips/Carrier_Name=Portastormo
+UserData/CampaignTips/Carrier_Prefix=Unità
+UserData/CampaignTips/Colossus_Description=Camminatore da battaglia con potente attacco ad area. Sale o scende dai dislivelli camminando. Può essere colpito da armi antiaeree.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+UserData/CampaignTips/Colossus_Name=Colosso
+UserData/CampaignTips/Colossus_Prefix=Unità
+UserData/CampaignTips/Dark Templar_Description=Letale guerriero-assassino. L'occultamento permanente lo rende invisibile ai nemici che non usano l'individuazione. Può fondersi in un Arconte.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+UserData/CampaignTips/Dark Templar_Name=Templare oscuro
+UserData/CampaignTips/Dark Templar_Prefix=Unità
+UserData/CampaignTips/DarkTemplar_Description=Letale guerriero-assassino. L'occultamento permanente lo rende invisibile ai nemici che non usano l'individuazione. Può fondersi in un Arconte.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+UserData/CampaignTips/DarkTemplar_Name=Templare oscuro
+UserData/CampaignTips/DarkTemplar_Prefix=Unità
+UserData/CampaignTips/HighTemplar_Description=Potente maestro psionico. Può usare Contrappasso e Tempesta psionica. Può fondersi in un Arconte.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+UserData/CampaignTips/HighTemplar_Name=Alto templare
+UserData/CampaignTips/HighTemplar_Prefix=Unità
+UserData/CampaignTips/Immortal_Description=Camminatore d'assalto. I suoi scudi deflettono gli attacchi ad alto potenziale.<n/><n/><c val="FFFF8A">Può attaccare unità terrestri.</c>
+UserData/CampaignTips/Immortal_Name=Immortale
+UserData/CampaignTips/Immortal_Prefix=Unità
+UserData/CampaignTips/NaturalGas_Description=Quando si verifica un'eruzione di vespene, compariranno delle riserve naturali di gas. Muovi un'unità di terra su di esse per raccoglierle, e otterrai 100 gas vespene.
+UserData/CampaignTips/NaturalGas_Name=Gas naturale
+UserData/CampaignTips/NaturalGas_Prefix=Meccanica
+UserData/CampaignTips/Phoenix_Description=Potente caccia per combattimenti aerei.<n/><n/><c val="ffff8a">Può attaccare unità aeree.</c>
+UserData/CampaignTips/Phoenix_Name=Fenice
+UserData/CampaignTips/Phoenix_Prefix=Unità
+UserData/CampaignTips/Sentry_Description=Unità in grado di manipolare l'energia. Può usare le abilità Ricarica scudo, Scudo guardiano e Campo di forza.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree e terrestri.</c>
+UserData/CampaignTips/Sentry_Name=Sentinella
+UserData/CampaignTips/Sentry_Prefix=Unità
+UserData/CampaignTips/ShadowBlade_Description=Colpisce un nemico, infliggendo 500 danni.<n/><n/><c val="ffff8a">Può colpire unità terrestri.</c>
+UserData/CampaignTips/ShadowBlade_Name=Lama dell'Ombra
+UserData/CampaignTips/ShadowBlade_Prefix=Abilità
+UserData/CampaignTips/ShadowStrike_Description=Colpisce un nemico, infliggendo 500 danni.<n/><n/><c val="ffff8a">Può colpire unità terrestri.</c>
+UserData/CampaignTips/ShadowStrike_Name=Affondo dell'ombra
+UserData/CampaignTips/ShadowStrike_Prefix=Abilità
+UserData/CampaignTips/Stalker_Description=Camminatore da supporto a distanza.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>
+UserData/CampaignTips/Stalker_Name=Persecutore
+UserData/CampaignTips/Stalker_Prefix=Unità
+UserData/CampaignTips/Tempest_Description=Unità d'assedio volante. Attacca da grande distanza.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>
+UserData/CampaignTips/Tempest_Name=Tempesta
+UserData/CampaignTips/Tempest_Prefix=Unità
+UserData/CampaignTips/VoidArmor_Description=Zeratul fornisce <d ref="Behavior,PrologueVoidArmor,Modification.VitalMaxArray[Shields]"/> scudi aggiuntivi per <d ref="Behavior,PrologueVoidArmor,Duration"/> secondi alle unità alleate circostanti.
+UserData/CampaignTips/VoidArmor_Name=Scudo del Vuoto
+UserData/CampaignTips/VoidArmor_Prefix=Abilità
+UserData/CampaignTips/VoidRay_Description=Unità per attacchi di precisione. I danni causati aumentano in rapporto al tempo che la Lancia del Vuoto passa sul bersaglio.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree e terrestri.</c>
+UserData/CampaignTips/VoidRay_Name=Lancia del Vuoto
+UserData/CampaignTips/VoidRay_Prefix=Unità
+UserData/CampaignTips/Zealot_Description=Potente guerriero da mischia.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+UserData/CampaignTips/Zealot_Name=Zelota
+UserData/CampaignTips/Zealot_Prefix=Unità
+UserData/CampaignTips/Zeratul_Description=Zeratul è un mistico Templare oscuro con potenti abilità psioniche, tempra eccezionale e notevoli capacità offensive.
+UserData/CampaignTips/Zeratul_Name=Zeratul
+UserData/CampaignTips/Zeratul_Prefix=Eroe
+UserData/ConversationTimestamps/Prologue02Travel_Description=Pianeta Atrias
+UserData/ConversationTimestamps/Prologue02Travel_Title=QUADRANTE SIGMA
+UserData/Maps/VoidPrologue01_NameLowerCase=Sussurri oscuri
+UserData/Maps/VoidPrologue02_NameLowerCase=Fantasmi nella nebbia
+UserData/Maps/VoidPrologue03_NameLowerCase=Il risveglio del Male
+UserData/Scenes/PrologueEnd_Name=Profezia rivelata
+UserData/Scenes/PrologueIntro_Name=Scia di segreti
+UserData/TechUnit/Archon_Name=Arconte
+UserData/TechUnit/Carrier_Name=Portastormo
+UserData/TechUnit/Colossus_Name=Colosso
+UserData/TechUnit/DarkTemplar_Name=Templare oscuro
+UserData/TechUnit/HighTemplar_Name=Alto templare
+UserData/TechUnit/Immortal_Name=Immortale
+UserData/TechUnit/Observer_Name=Osservatore
+UserData/TechUnit/Oracle_Name=Oracolo
+UserData/TechUnit/Phoenix_Name=Fenice
+UserData/TechUnit/PhotonCannon_Name=Cannone fotonico
+UserData/TechUnit/Sentry_Name=Sentinella
+UserData/TechUnit/Stalker_Name=Persecutore
+UserData/TechUnit/Tempest_Name=Tempesta
+UserData/TechUnit/VoidRay_Name=Lancia del Vuoto
+UserData/TechUnit/WarpGate_Name=Portale dimensionale
+UserData/TechUnit/WarpPrism_Name=Prisma dimensionale
+UserData/TechUnit/Zealot_Name=Zelota
+Weapon/Name/HighTemplarWeapon=Assalto psionico /// Psi Blast
+Weapon/Name/ParticleDisruptorsShadowOfTheVoid=Disgregatori particellari
+Weapon/Name/PrologueMalash=Prologo - Ma'lash
+Weapon/Name/ProloguePylonOvercharge=Prologo - Sovraccarico piloni
+Weapon/Name/PrologueZeratul=Lame superiori del Vuoto /// Master Warp Blade
+Weapon/Name/PsiBladesShadowOfTheVoid=Lame Psioniche
+Weapon/Name/PsionicShockwaveShadowOfTheVoid=Onda d'urto Psionica
+Weapon/Name/VoidRayChargeBeamBase=Raggio prismatico /// Prismatic Beam
+Weapon/Name/VoidRaySwarm=Lancia del Vuoto - Sciame
+Weapon/Name/ZHybridShadowOfTheVoid=Assalto Psionico

@@ -1,0 +1,6 @@
+﻿UI/GameMenuAbortMission_Hotkey=T
+UI/Hotkey/StoryClose=F
+UI/Hotkey/StoryClose_NRS=F
+UI/Hotkey/StoryClose_SC1=F
+UI/Hotkey/StoryClose_USD=F
+UI/Hotkey/StoryClose_USDL=F

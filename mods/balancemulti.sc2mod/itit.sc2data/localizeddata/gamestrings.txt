@@ -1,0 +1,652 @@
+﻿Abil/Name/AmorphousArmorcloud=Protezione informe
+Abil/Name/BatteryOvercharge=
+Abil/Name/BattlecruiserAttack=Battlecruiser Attack
+Abil/Name/BattlecruiserAttackEvaluator=Battlecruiser Attack Evaluator
+Abil/Name/BattlecruiserMove=Battlecruiser Move
+Abil/Name/BattlecruiserStop=Battlecruiser Stop
+Abil/Name/BattlecruiserStopEvaluator=Battlecruiser Stop Evaluator
+Abil/Name/BypassArmor=Bypass Armor
+Abil/Name/BypassArmorDroneCU=Bypass Armor Drone CU
+Abil/Name/ChannelSnipe=Channel Snipe
+Abil/Name/ChronoBoostEnergyCost=Chrono Boost Energy Cost
+Abil/Name/DarkShrineResearch=Dark Shrine Research
+Abil/Name/DarkTemplarBlink=Dark Templar Blink
+Abil/Name/InfestationPitResearch=Infestation Pit Research
+Abil/Name/InfestorEnsnare=Infestor Ensnare
+Abil/Name/LaunchInterceptors=Launch Interceptors
+Abil/Name/LockOnAir=Lock On Air
+Abil/Name/LocustMPFlyingSwoopAttack=Locust MP Flying Swoop Attack
+Abil/Name/LurkerDenResearch=Lurker Den Research
+Abil/Name/LurkerRemoveHoldFire=Lurker Remove Hold Fire
+Abil/Name/MorphToTransportOverlord=Morph To Transport Overlord
+Abil/Name/NexusMassRecall=Nexus Mass Recall
+Abil/Name/NexusShieldOvercharge=Nexus Shield Overcharge
+Abil/Name/NexusShieldOverchargeOff=Nexus Shield Overcharge Off
+Abil/Name/NexusShieldRecharge=Nexus Shield Recharge
+Abil/Name/NexusShieldRechargeOnPylon=Nexus Shield Recharge On Pylon
+Abil/Name/ObserverMorphtoObserverSiege=Observer Morph to Observer Siege
+Abil/Name/ObserverSiegeMorphtoObserver=Observer Siege Morph to Observer
+Abil/Name/OverseerMorphtoOverseerSiegeMode=Overseer Morph to Overseer Siege Mode
+Abil/Name/OverseerSiegeModeMorphtoOverseer=Overseer Siege Mode Morph to Overseer
+Abil/Name/PurificationNovaTargetted=Purification Nova Targetted
+Abil/Name/RavenRepairDrone=Repair Drone
+Abil/Name/RavenRepairDroneHeal=Repair
+Abil/Name/RavenScramblerMissile=Scrambler Missile
+Abil/Name/RavenShredderMissile=Shredder Missile
+Abil/Name/SC2_Battery=
+Abil/Name/ShieldBatteryRechargeChanneled=Shield Recharge
+Abil/Name/ShieldBatteryRechargeEx5=
+Abil/Name/SpawnInterceptors=Spawn Interceptors
+Abil/Name/SpawnLocustsTargeted=Spawn Locusts Targeted
+Abil/Name/TempestDisruptionBlast=Disruption Blast
+Abil/TargetMessage/attack=<IMG path="Assets\Textures\tutorialmouseleftbuttondown.dds" alignment="absolutemiddle"/>   Attacco automatico<n/><IMG path="Assets\Textures\tutorialmouserightbuttondown.dds" alignment="absolutemiddle"/>   Annulla
+AchievementTerm/Name/Combat_Mechanic_KillTransport_TransportOverlord=Combat_Mechanic_KillTransport_TransportOverlord
+AchievementTerm/Name/Combat_Spells_PhasePrism_Adept=Combat_Spells_PhasePrism_Adept
+Behavior/Name/AmorphousArmorcloud=Manto microbico
+Behavior/Name/BatteryOvercharge=Sovraccarico batteria
+Behavior/Name/BypassArmorDebuffOne=Riduzione corazza
+Behavior/Name/BypassArmorDebuffThree=Riduzione corazza
+Behavior/Name/BypassArmorDebuffTwo=Riduzione corazza
+Behavior/Name/ChannelSnipeCombat=Mira salda
+Behavior/Name/ChronoBoostEnergyCost=Accelerazione temporale
+Behavior/Name/DisableInterceptors=Disabilita Intercettori
+Behavior/Name/InfestorEnsnare=Intralcia
+Behavior/Name/InterceptorTimedLife=Intercettori - Vita a tempo
+Behavior/Name/InterceptorWander=Intercettori - Allontanamento
+Behavior/Name/NeuralParasiteChildren=Vittima di Parassita neurale
+Behavior/Name/NexusShieldOvercharge=Sovraccarico scudo Nexus
+Behavior/Name/NexusShieldRechargeOnPylonBehavior=Campo ristoratore
+Behavior/Name/NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget=Campo ristoratore
+Behavior/Name/PowerUserWarpable=Evocazione
+Behavior/Name/PurificationNovaPost=In fase
+Behavior/Name/RavenScramblerMissile=Matrice d'interferenza
+Behavior/Name/RavenShredderMissileArmorReduction=Riduzione corazza
+Behavior/Name/RavenShredderMissileArmorReductionUISubtruct=Riduzione corazza /// Armor Reduction
+Behavior/Name/RavenShredderMissileTint=Puntamento Missile anti-blindatura
+Behavior/Name/ResonatingGlaivesPhaseShift=Balestra risonante
+Behavior/Name/TempestDisruptionBlastStunBehavior=Scarica disgregante
+Behavior/Name/Transfusion=Trasfusione
+Behavior/Tooltip/AmorphousArmorcloud=Danni delle unità aeree ridotti del <d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>%.
+Behavior/Tooltip/BatteryOvercharge=Velocità di ripristino aumentata. Non consuma energia.
+Behavior/Tooltip/BypassArmorDebuffOne=La corazza dell'unità è ridotta.
+Behavior/Tooltip/BypassArmorDebuffThree=La corazza dell'unità è ridotta.
+Behavior/Tooltip/BypassArmorDebuffTwo=La corazza dell'unità è ridotta.
+Behavior/Tooltip/ChannelSnipeCombat=Questa unità sta prendendo la mira.
+Behavior/Tooltip/ChronoBoostEnergyCost=Questa struttura è in stato di accelerazione.
+Behavior/Tooltip/FungalGrowth=Il bersaglio è soggetto a Crescita fungina, è individuato e i suoi movimenti sono limitati.
+Behavior/Tooltip/InfestorEnsnare=Questa unità è bloccata al suolo e le sue armi sono disabilitate.
+Behavior/Tooltip/MedivacSpeedBoost=La velocità di movimento di questa unità è aumentata.
+Behavior/Tooltip/NeuralParasiteChildren=Questa unità è sotto il controllo di un Infestatore.
+Behavior/Tooltip/NexusShieldRechargeOnPylonBehavior=Questo Pilone ripristina gli scudi delle unità alleate vicine.
+Behavior/Tooltip/NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget=Gli scudi dell'unità bersaglio vengono ripristinati.
+Behavior/Tooltip/PurificationNovaPost=Questa unità è invulnerabile e può oltrepassare altre unità.
+Behavior/Tooltip/Purify=Questo Pilone dispone di un potente attacco a lungo raggio.
+Behavior/Tooltip/RavenScramblerMissile=Armi e abilità sono disattivate.
+Behavior/Tooltip/RavenShredderMissileArmorReduction=La corazza di questa unità è ridotta.
+Behavior/Tooltip/RavenShredderMissileArmorReductionUISubtruct=La corazza di questa unità è ridotta. /// This unit has reduced armor.
+Behavior/Tooltip/RavenShredderMissileTint=Questa unità è stata presa di mira da un Missile perforante.
+Behavior/Tooltip/ResonatingGlaivesPhaseShift=Velocità d'attacco delle Adepte aumentata del <d ref="(Behavior,ResonatingGlaivesPhaseShift,Modification.AttackSpeedMultiplier-1)*100"/>%.
+Behavior/Tooltip/TempestDisruptionBlastStunBehavior=Questa unità è stordita.
+Behavior/Tooltip/TemporalField=La velocità d'attacco e di movimento di questa unità è ridotta del 50%.
+Behavior/Tooltip/Transfusion=Questa unità sta rigenerando punti vita.
+Button/Name/ActivateStasisWard=Trappola di stasi
+Button/Name/AdeptPiercingUpgrade=Balestra risonante
+Button/Name/AdeptResearchPiercingUpgrade=Ricerca Balestra risonante
+Button/Name/AdeptShieldUpgrade=Scudo amplificato
+Button/Name/AmorphousArmorcloud=Manto microbico
+Button/Name/BatteryOvercharge=Sovraccarico batteria
+Button/Name/CarrierCapacity=Portastormo ampliata
+Button/Name/CarrierLeashRangeUpgrade=Sistema di comunicazioni avanzate
+Button/Name/ChronoBoostEnergyCost=Accelerazione temporale
+Button/Name/CycloneLockOnAir=Puntamento terra-aria
+Button/Name/CycloneRapidFireLaunchers=Lanciamissili dinamico
+Button/Name/CycloneResearchLockOnAir=Ricerca Acceleratore di campo magnetico
+Button/Name/DarkTemplarBlink=Passo dell'ombra
+Button/Name/DrillClaws=Artigli meccanici /// Drilling Claws
+Button/Name/EnhancedShockwaves=Onda d'urto migliorata
+Button/Name/EvolveAmorphousArmorcloud=Evolvi Manto microbico
+Button/Name/EvolveDiggingClaws=Evolvi Artigli adattivi
+Button/Name/EvolveGroovedSpines=Evolvi Aculei scanalati
+Button/Name/EvolveMuscularAugments=Evolvi Potenziamento muscolare
+Button/Name/EvolvePropulsivePeristalsis=Evolvi Peristalsi propulsiva
+Button/Name/HydraliskIncreasedAttackRange=Portata d'attacco estesa
+Button/Name/HydraliskIncreasedMovementSpeed=Velocità di movimento aumentata
+Button/Name/InfestorEnsnare=Intralcia
+Button/Name/KD8Charge=Carica KD8
+Button/Name/Larva=Seleziona Larve
+Button/Name/LockOnAir=Aggancio aereo
+Button/Name/MagFieldLaunchers=Lanciamissili a campo magnetico
+Button/Name/MorphtoObserver=Assetto Osservatore
+Button/Name/MorphtoObserverSiege=Assetto di sorveglianza
+Button/Name/MorphtoOverlordTransport=Evolvi Sacche ventrali
+Button/Name/MorphtoOverseerNormal=Annulla Supervisione
+Button/Name/MorphtoOverseerSiege=Supervisione
+Button/Name/NexusMassRecall=Richiamo strategico
+Button/Name/NexusShieldOvercharge=Sovraccarico scudo Nexus
+Button/Name/NexusShieldOverchargeOff=Disattiva Sovraccarico scudo Nexus
+Button/Name/NexusShieldRecharge=Ricarica scudi
+Button/Name/NexusShieldRechargeOnPylon=Campo ristoratore
+Button/Name/NydusWormIncreasedArmorPassive=Scaglie sotterranee
+Button/Name/PsionicSurge=Picco psionico
+Button/Name/PurificationNovaTargeted=Supernova purificante
+Button/Name/RapidReignitionSystem=Sistema d'iniezione rapido /// Rapid Reignition System
+Button/Name/Ravager=Trasforma in Laceratore
+Button/Name/RavenEnhancedMunitionsPassive=Munizioni potenziate
+Button/Name/RavenRecalibratedExplosives=Esplosivi ricalibrati /// Recalibrated Explosives
+Button/Name/RavenRepairDrone=Costruisci Drone riparatore
+Button/Name/RavenRepairDroneHeal=Ripara
+Button/Name/RavenResearchEnhancedMunitions=Ricerca Munizioni potenziate
+Button/Name/RavenScramblerMissile=Matrice d'interferenza
+Button/Name/RavenShredderMissile=Missile anti-blindatura
+Button/Name/ResearchAdeptShieldUpgrade=Ricerca Scudo amplificato
+Button/Name/ResearchAmplifiedShielding=Ricerca Scudi amplificati
+Button/Name/ResearchArmorPiercingRockets=Ricerca Razzi perforanti
+Button/Name/ResearchCarrierCapacity=Ricerca Portastormo ampliata
+Button/Name/ResearchCarrierLeashRangeUpgrade=Ricerca Sistema di comunicazioni avanzate
+Button/Name/ResearchCycloneRapidFireLaunchers=Ricerca Lanciamissili dinamico
+Button/Name/ResearchDarkTemplarBlink=Ricerca Passo dell'ombra
+Button/Name/ResearchEnhancedShockwaves=Ricerca Onda d'urto migliorata
+Button/Name/ResearchMagFieldLaunchers=Ricerca Lanciamissili a campo magnetico
+Button/Name/ResearchPsionicAmplifiers=Ricerca Amplificatori psionici
+Button/Name/ResearchPsionicSurge=Ricerca Picco psionico
+Button/Name/ResearchRapidReignitionSystem=Ricerca Sistema d'iniezione rapido /// Research Rapid Reignition System
+Button/Name/ResearchRavenRecalibratedExplosives=Ricerca Esplosivi ricalibrati /// Research Recalibrated Explosives
+Button/Name/ResearchSmartServos=Ricerca Servocomponenti ottimizzati
+Button/Name/ShieldBattery=Evoca Batteria di scudi
+Button/Name/ShieldBatteryRecharge=Ripristina
+Button/Name/ShieldBatteryRechargeEx5=Ricarica
+Button/Name/TempestDisruptionBlast=Scarica disgregante
+Button/Name/TempestGroundAttackUpgrade=Destabilizzatori tettonici
+Button/Name/TempestResearchGroundAttackUpgrade=Ricerca Destabilizzatori tettonici
+Button/Name/UpgradeBuildingArmorLevel1=Potenzia Corazza in neo-acciaio
+Button/Name/WidowMineConcealment=Occultamento
+Button/Name/hydraliskspeed=Evolvi Potenziamento muscolare
+Button/Tooltip/ActivateStasisWard=Mette in stasi i nemici circostanti per <d ref="Behavior,OracleStasisTrapTarget,Duration"/> secondi. Le unità in stasi non possono essere attaccate né colpite dalle abilità.
+Button/Tooltip/AdeptPiercingUpgrade=Aumenta del 45% la velocità di attacco delle Adepte.
+Button/Tooltip/AdeptResearchPiercingUpgrade=Aumenta del 45% la velocità di attacco delle <c val="ffff8a">Adepte</c>.
+Button/Tooltip/AmorphousArmorcloud=Crea un manto che protegge le unità terrestri sottostanti, riducendo del <d ref="Behavior,AmorphousArmorcloud,DamageResponse.ModifyFraction*100" precision="1"/>% i danni che subiscono dalle unità aeree. Dura <d ref="Effect,AmorphousArmorcloudCP,PeriodCount*Effect,AmorphousArmorcloudCP,PeriodicPeriodArray[0]"/> secondi.
+Button/Tooltip/AnionPulseCrystals=Estende di <d ref="$UpgradeEffectArrayValue:PhoenixRangeUpgrade:Weapon,IonCannons,Range$"/> la portata d'attacco delle <c val="ffff8a">Fenici</c>.
+Button/Tooltip/Armory=Contiene potenziamenti per armi e corazze per le unità prodotte da Fabbrica e Spazioporto.<n/><n/><c val="ffff8a">Consente:</c><n/>- Hellbat nella Fabbrica<n/>- Thor nella Fabbrica
+Button/Tooltip/Barracks=Struttura per la produzione di fanteria.<n/><n/><c val="ffff8a">Consente:</c><n/>- Marine<n/>- Mietitori<n/>- Bunker dagli SCV<n/>- Comandi orbitali dai Centri di comando
+Button/Tooltip/BatteryOvercharge=Sovraccarica una Batteria di scudi bersaglio vicino a un Nexus, aumentandone la velocità di ripristino degli scudi del 100% e permettendole di ripristinare scudi senza consumare energia per <d ref="Behavior,BatteryOvercharge,Duration"/> secondi.
+Button/Tooltip/BuildTechLabFactory=Struttura di ricerca per veicoli. Il Modulo tecnologico è adattabile a qualunque struttura di produzione.<n/><n/><c val="ffff8a">Consente:</c><n/>- Cyclone<n/>- Carri d'assedio<n/>- Thor con Armeria
+Button/Tooltip/BypassArmorDrone=Concentra contro le unità nemiche un raggio che riduce la loro corazza di 3.<n/>Si disattiva dopo <d ref="Behavior,BypassArmorDroneTimedLife,Duration"/> secondi.
+Button/Tooltip/CalldownMULE=Sgancia un minatore robotico sperimentale MULE sul giacimento minerario selezionato. I MULE raccolgono minerali più velocemente degli SCV. <n/><n/>I MULE rimangono in campo <d ref="Behavior,MULETimedLife,Duration"/> secondi prima che il loro sistema vada in avaria.
+Button/Tooltip/CarrierCapacity=Aumenta da 8 a 10 il numero massimo di Intercettori per ogni Portastormo.
+Button/Tooltip/CarrierLeashRangeUpgrade=Estende di <d ref="$UpgradeEffectArrayValue:CarrierLeashRangeUpgrade:Abil,CarrierHangar,Leash$"/> la portata di trascinamento degli <c val="ffff8a">Intercettori</c>.
+Button/Tooltip/Charge=Aumenta la velocità degli Zeloti e consente loro di intercettare i nemici nelle vicinanze. L'abilità può essere usata solo una volta ogni <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/> secondi.
+Button/Tooltip/ChronoBoostEnergyCost=Assoggetta la struttura bersaglio ad Accelerazione temporale, facendola operare più velocemente del <d ref="(((Behavior,ChronoBoostEnergyCost,Modification.RateMultiplierArray[Progress])-1)*100)" precision="1"/>% per <d ref="Behavior,ChronoBoostEnergyCost,Duration"/> secondi.
+Button/Tooltip/CollapsiblePurifierTowerDebris=Barriera che si può abbattere per accedere a nuove zone.
+Button/Tooltip/CollapsiblePurifierTowerDiagonal=Torre che si può distruggere per impedire l'accesso a nuove zone o a concentrazioni di risorse.
+Button/Tooltip/CyberneticsCore=Contiene potenziamenti di armi e corazze per le unità aeree protoss e il potenziamento Portale dimensionale.<n/><n/><c val="ffff8a">Consente:</c><n/>- Sentinelle al Portale<n/>- Persecutori al Portale<n/>- Adepte al Portale<n/>- Batterie di scudi dalle Sonde
+Button/Tooltip/Cyclone=Unità da assalto mobile. Può usare Aggancio per sparare rapidamente in movimento.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri.</c>
+Button/Tooltip/CycloneLockOnAir=Consente al Cyclone di puntare su unità aeree con l'arma e l'abilità Aggancio.
+Button/Tooltip/CycloneRapidFireLaunchers=Potenzia Aggancio, consentendo di emettere i primi 12 colpi in rapida successione.
+Button/Tooltip/CycloneResearchLockOnAir=Consente al Cyclone di puntare su unità aeree con la batteria di missili Typhoon e l'abilità Aggancio.
+Button/Tooltip/CycloneResearchLockOnDamageUpgrade=Aumenta i danni di Aggancio del <c val="ffff8a">Cyclone</c>. Infligge 400 danni (+400 contro corazzate) in <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/> secondi ai bersagli terrestri.
+Button/Tooltip/CycloneUpgrade=Unità da assalto mobile. Può usare Aggancio per sparare rapidamente in movimento.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree e terrestri.</c>
+Button/Tooltip/DarkShrine=Contiene un potenziamento per il Templare oscuro.<n/><n/><c val="ffff8a">Consente:</c><n/>- Templare oscuro al Portale<n/>- Fusione Arconte da Templare oscuro
+Button/Tooltip/DarkTemplarBlink=Teletrasporta il Templare oscuro in una zona vicina. L'abilità può essere usata solo una volta ogni <d ref="Abil,DarkTemplarBlink,Cost[0].Cooldown.TimeUse"/> secondi.
+Button/Tooltip/Disruptor=Unità robotica di disturbo. Può usare Supernova purificante per infliggere ingenti danni ad area.
+Button/Tooltip/DisruptorPhased=Energia solare altamente concentrata. Esplode dopo <d ref="Behavior,PurificationNovaTargettedTarget,Duration"/> s, infliggendo danni ad area.
+Button/Tooltip/DrillClaws=L'unità si rintana più velocemente.
+Button/Tooltip/EnhancedShockwaves=Estende il raggio di Proiettile elettromagnetico dei <c val="ffff8a">Fantasmi</c> di <d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>.
+Button/Tooltip/EvolveAmorphousArmorcloud=Consente agli <c val="ffff8a">Infestatori</c> di usare l'abilità Manto microbico.
+Button/Tooltip/EvolveAnabolicSynthesis2=Aumenta la velocità di movimento delle <c val="ffff8a">Ultralische</c> fuori dal biostrato.
+Button/Tooltip/EvolveCentrificalHooks=Aumenta la velocità di movimento dei <c val="ffff8a">Baneling</c> e aumenta di 5 la loro vita.
+Button/Tooltip/EvolveChitinousPlating=Aumenta di <d ref="$UpgradeEffectArrayValue:ChitinousPlating:Unit,Ultralisk,LifeArmor$"/> la corazza delle <c val="ffff8a">Ultralische</c>.
+Button/Tooltip/EvolveDiggingClaws=Riduce il tempo necessario al rintanamento delle <c val="ffff8a">Criptolische</c> da <d time="2.5" precision="1"/> a <d time="1" precision="1"/> e aumenta la loro velocità di movimento.
+Button/Tooltip/EvolveGroovedSpines=Estende la portata d'attacco delle <c val="ffff8a">Idralische</c> di <d ref="$UpgradeEffectArrayValue:EvolveGroovedSpines:Weapon,NeedleSpines,Range$"/>.
+Button/Tooltip/EvolveMuscularAugments=Aumenta la velocità di movimento delle <c val="ffff8a">Idralische</c>.
+Button/Tooltip/EvolvePropulsivePeristalsis=Estende la <c val="ffff8a">Rete Nydus</c> e aumenta la velocità di carico e scarico dei <c val="ffff8a">Vermi Nydus</c>.
+Button/Tooltip/EvolveTunnelingClaws=Consente alle <c val="ffff8a">Blatte</c> di muoversi da rintanate.
+Button/Tooltip/ExplosiveShrapnelShells=Aumenta del 30% i danni delle Torrette automatiche dei Raven e dei Missili a ricerca.
+Button/Tooltip/Factory=Struttura per la produzione di veicoli.<n/><n/><c val="ffff8a">Consente:</c><n/>- Hellion<n/>- Mine Widow<n/>- Cyclone
+Button/Tooltip/Feedback=Prosciuga tutta l'energia del bersaglio. Infligge <d ref="(Effect,Feedback,VitalFractionCurrent[Energy])" Precision="2"/> punto danno per punto energia.
+Button/Tooltip/FleetBeacon=Contiene potenziamenti per Fenici e Lance del Vuoto.<n/><n/><c val="ffff8a">Consente:</c><n/>- Tempeste al Portale stellare</n>- Portastormo al Portale stellare<n/>- Nave madre al Nexus
+Button/Tooltip/Frenzied=Immune agli effetti di rallentamento, stordimento, controllo mentale e del movimento.
+Button/Tooltip/FungalGrowth=I bersagli subiscono <d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/> danni in <d time="4"/> secondi e la loro velocità di movimento è ridotta del <d ref="(1-Behavior,FungalGrowthSlowMovement,Modification.MoveSpeedMultiplier)*100"/>%. Rivela le unità occultate e rintanate. Le unità colpite non possono usare Traslazione né accedere a trasporti o strutture.
+Button/Tooltip/FusionCore=Contiene potenziamenti per Navette mediche, Liberatori e Incrociatori.<n/><n/><c val="ffff8a">Consente:</c><n/>- Incrociatori allo Spazioporto /// Contains Medivac, Liberator, and Battlecruiser upgrades. <n/><n/><c val="ffff8a">Enables:</c><n/>- Battlecruisers at the Starport
+Button/Tooltip/Ghost=Cecchino. Può usare Mira salda, Proiettile elettromagnetico e si può potenziare per usare Occultamento. Può richiedere un Attacco nucleare tattico all'Accademia dei Fantasmi.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri e aeree.</c>
+Button/Tooltip/GhostAcademy=Contiene potenziamenti per i Fantasmi.<n/><n/><c val="ffff8a">Consente:</c><n/>- Fantasmi alla Caserma /// Contains upgrades for Ghosts. Can build Nukes for Ghosts.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ghosts at the Barracks
+Button/Tooltip/GuardianShield=Crea un'aura di ampiezza <d ref="Effect,GuardianShieldSearch,AreaArray[0].Radius" precision="1"/> che riduce di 2 i danni inflitti alle unità amiche dai colpi a distanza. Dura <d time="15"/>. /// Creates a range <d ref="Effect,GuardianShieldSearch,AreaArray[0].Radius" precision="1"/> aura that reduces incoming ranged damage to friendly units by 2. Lasts <d time="15"/>.
+Button/Tooltip/Heal=Cura un bersaglio biologico alleato.<n/><n/><c val="f078ff">Rigenera <d ref="Effect,MedivacHeal,RechargeVitalRate*Effect,MedivacHeal,DrainVitalCostFactor"/> punti vita per ogni punto energia.</c>
+Button/Tooltip/HighCapacityFuelTanks=Aumenta le riserve di carburante della Navetta medica, prolungando del 50% la durata di Postbruciatori.
+Button/Tooltip/HighTemplar=Potente maestro psionico. Può usare Contrappasso e si può potenziare per usare Tempesta psionica. Può fondersi in un Arconte.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>
+Button/Tooltip/HydraliskDen=Contiene potenziamenti per le Idralische.<n/><n/><c val="ffff8a">Consente:</c><n/>- Idralische dalle Larve
+Button/Tooltip/ImmortalOverload=Assorbe fino a <d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/> danni. Dura <d ref="Behavior,ImmortalOverload,Duration"/> secondi. Questo effetto non può verificarsi più di una volta ogni <d ref="Abil,ImmortalOverload,Cost[0].Cooldown.TimeUse"/> secondi.
+Button/Tooltip/InfestationPit=Contiene potenziamenti per gli Infestatori.<n/><n/><c val="ffff8a">Consente:</c><n/>- Infestatori dalle Larve<n/>- Ospiti dello Sciame dalle Larve
+Button/Tooltip/InfestedTerrans=Genera un Terran infestato. I Terran infestati durano <d ref="Behavior,InfestedTerranTimedLife,Duration"/> secondi.<n/><n/><c val="ffff8a">Può essere usata da rintanati.</c>
+Button/Tooltip/Infestor=Specialista di infestazioni. Può usare le abilità Crescita fungina, Manto microbico e Parassita neurale.
+Button/Tooltip/InfestorEnsnare=Porta al suolo un'unità aerea nemica per <d ref="Behavior,InfestorEnsnare,Duration"/> secondi, disabilitandone le armi e consentendo di attaccarla come se fosse un'unità terrestre.
+Button/Tooltip/KD8Charge=Esplode dopo un breve ritardo, infliggendo <d ref="Effect,KD8ChargeExplodeDamage,Amount"/> danni e respingendo le unità circostanti.
+Button/Tooltip/LiberatorAGRangeUpgrade=Estende di <d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/> la portata dei Liberatori in Assetto difensore.
+Button/Tooltip/LockOn=Le armi del Cyclone si agganciano all'unità bersaglio, infliggendo <d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/> danni in <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/> secondi a bersagli aerei e terrestri. Permette di sparare in movimento. Si annulla se il bersaglio si sposta fuori portata.
+Button/Tooltip/LockOnAir=Le armi del Cyclone si agganciano all'unità aerea bersaglio, infliggendo <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/> danni in <d ref="Effect,LockOnAirCP,PeriodCount * Effect,LockOnAirCP,PeriodicPeriodArray[0]"/> secondi. Permette di sparare in movimento. Si annulla se il bersaglio si sposta fuori portata.
+Button/Tooltip/LockOnArmorPiercingUpgrade=Le armi del Cyclone si agganciano all'unità o struttura aerea bersaglio, infliggendo <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/> danni (+<d ref="Effect,LockOnAirCP,PeriodCount * $UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamage,AttributeBonus[Armored]$"/> contro corazzate) in <d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/> secondi. Emette i primi quattro colpi in rapida successione. Permette di sparare in movimento. Si annulla se il bersaglio si sposta fuori portata.<n/><n/><c val="#ColorAttackInfo">Non può colpire unità o strutture di terra.</c>
+Button/Tooltip/LockOnRapidFireLaunchers=Le armi del Cyclone si agganciano all'unità o struttura aerea bersaglio, infliggendo <d ref="Effect,LockOnAirCP,PeriodCount*Effect,CycloneAirWeaponDamage,Amount"/> danni in <d ref="Effect,LockOnAirCP,PeriodicPeriodArray[0] + Effect,LockOnAirCP,PeriodicPeriodArray[1] + Effect,LockOnAirCP,PeriodicPeriodArray[2] + Effect,LockOnAirCP,PeriodicPeriodArray[3] + Effect,LockOnAirCP,PeriodicPeriodArray[4] + Effect,LockOnAirCP,PeriodicPeriodArray[5] + Effect,LockOnAirCP,PeriodicPeriodArray[6] + Effect,LockOnAirCP,PeriodicPeriodArray[7] + Effect,LockOnAirCP,PeriodicPeriodArray[8] + Effect,LockOnAirCP,PeriodicPeriodArray[9] + Effect,LockOnAirCP,PeriodicPeriodArray[10] + Effect,LockOnAirCP,PeriodicPeriodArray[11] + Effect,LockOnAirCP,PeriodicPeriodArray[12] + Effect,LockOnAirCP,PeriodicPeriodArray[13] + Effect,LockOnAirCP,PeriodicPeriodArray[14] + Effect,LockOnAirCP,PeriodicPeriodArray[15] + Effect,LockOnAirCP,PeriodicPeriodArray[16] + Effect,LockOnAirCP,PeriodicPeriodArray[17] + Effect,LockOnAirCP,PeriodicPeriodArray[18] + Effect,LockOnAirCP,PeriodicPeriodArray[19] + Effect,LockOnAirCP,PeriodicPeriodArray[20] + Effect,LockOnAirCP,PeriodicPeriodArray[21] + Effect,LockOnAirCP,PeriodicPeriodArray[22]"/> secondi. Emette i primi <c val="#ColorAttackInfo">12</c> colpi in rapida successione. Permette di sparare in movimento. Si annulla se il bersaglio si sposta fuori portata.<n/><n/><c val="#ColorAttackInfo">Non può colpire unità o strutture di terra.</c>
+Button/Tooltip/LockOnUpgraded=Le armi del Cyclone si agganciano all'unità bersaglio, infliggendo <d ref="Effect,LockOnCP,PeriodCount*Effect,CycloneWeaponDamage,Amount"/> danni (+400 contro corazzate) in <d ref="Effect,LockOnCP,PeriodCount * Effect,LockOnCP,PeriodicPeriodArray[0]"/> secondi a unità terrestri e aeree. Permette di sparare in movimento. Si annulla se il bersaglio si sposta fuori portata.
+Button/Tooltip/LurkerDenMP=Contiene un potenziamento per le Criptolische.<n/><n/><c val="ffff8a">Consente:</c><n/>- Criptolische dalle Idralische
+Button/Tooltip/MULE=Prototipo di unità da estrazione. Raccoglie minerali più velocemente degli SCV. I MULE rimangono in campo <d time="90"/> prima che il loro sistema vada in avaria.
+Button/Tooltip/MagFieldLaunchers=Estende la portata d'attacco dei <c val="ffff8a">Cyclone</c> di <d ref="$UpgradeEffectArrayValue:MagFieldLaunchers:Weapon,TyphoonMissilePod,Range$"/>.
+Button/Tooltip/MassRecall=Richiama alla Nave madre tutte le unità del giocatore in una zona.
+Button/Tooltip/MedivacSpeedBoost=Aumenta la velocità di movimento della Navetta medica per <d ref="Behavior,MedivacSpeedBoost,Duration"/> secondi. /// Increases the Medivac's movement speed for <d ref="Behavior,MedivacSpeedBoost,Duration"/> seconds.
+Button/Tooltip/MorphMorphalisk=Il Vivaio, la Tana o l'Alveare selezionato genera <d ref="Effect,SpawnMutantLarvaApplySpawnBehavior,Count"/> Larve in <d ref="Behavior,QueenSpawnLarvaTimer,Duration"/> secondi. Se il Vivaio, la Tana o l'Alveare ha più di 3 Larve in un dato momento, la normale produzione di Larve si blocca finché il loro numero non diminuisce. L'effetto si accumula in coda se il bersaglio sta già generando Larve aggiuntive.
+Button/Tooltip/MorphToMothership=Diventa una Nave madre. Può usare Sovraccarico fotonico, Richiamo di massa e Distorsione temporale. Occulta le unità e le strutture alleate circostanti.
+Button/Tooltip/MorphtoObserver=Ripristina il normale assetto dell'Osservatore. L'Osservatore può muoversi ma la sua visuale è ridotta.
+Button/Tooltip/MorphtoObserverSiege=Mette l'Osservatore in Assetto di sorveglianza. La sua visuale è estesa del <d ref="(Unit,ObserverSiegeMode,Sight/Unit,Observer,Sight-1)*100"/>%, ma non può muoversi.
+Button/Tooltip/MorphtoOverlordTransport=Consente al Sorvegliante di trasportare unità.
+Button/Tooltip/MorphtoOverseerNormal=Consente ai Custodi di muoversi e ripristina la loro normale visuale.
+Button/Tooltip/MorphtoOverseerSiege=Aumenta del <d ref="(Unit,OverseerSiegeMode,Sight/Unit,Overseer,Sight-1)*100"/>% la visuale dei Custodi, ma ne impedisce il movimento. L'abilità può essere annullata dopo l'attivazione.
+Button/Tooltip/Mothership=Nave ammiraglia protoss. Può usare le abilità Richiamo strategico e Distorsione temporale. Occulta le unità e le strutture alleate circostanti.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>
+Button/Tooltip/MothershipCoreWeapon=Infonde energia al cristallo khaydarin del Pilone selezionato, trasformandolo per <d ref="Behavior,Purify,Duration[0]"/> secondi in una potente arma a lungo raggio che infligge <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/> danni.
+Button/Tooltip/MutateintoLurkerDen=Contiene un potenziamento per le Criptolische.<n/><n/><c val="ffff8a">Consente:</c><n/>- Criptolische da Idralische
+Button/Tooltip/NeuralParasite=L'unità colpita viene dominata dall'Infestatore per <d ref="Behavior,NeuralParasite,Duration"/> secondi: l'Infestatore non può compiere altre azioni finché controlla un'unità nemica.<n/><n/><c val="ffff8a">Abilità incanalata. Può essere usata da rintanati.</c><n/><c val="#ColorAttackInfo">Le unità eroiche sono immuni.</c>
+Button/Tooltip/Nexus=Struttura primaria. Può ricevere le risorse raccolte. Può usare Accelerazione temporale e Richiamo di massa.<n/><n/><c val="ffff8a">Consente:</c><n/>- Sonde<n/>- Navi madre
+Button/Tooltip/NexusMassRecall=Richiama al Nexus tutte le unità del giocatore in una zona.
+Button/Tooltip/NexusShieldOvercharge=Il Nexus utilizza automaticamente energia per ripristinare gli scudi delle unità circostanti.
+Button/Tooltip/NexusShieldOverchargeOff=Il Nexus non seleziona più automaticamente le unità alleate.
+Button/Tooltip/NexusShieldRecharge=Ripristina gli scudi dell'unità o struttura selezionate.<n/><n/><c val="ffff8a">Costa 1 punto energia per ogni <d ref="Effect,NexusShieldRechargeShield,VitalArray[Shields].Change"/> punti scudo ripristinati.</c>
+Button/Tooltip/NexusShieldRechargeOnPylon=Infonde energia al cristallo khaydarin del Pilone selezionato, trasformandolo per <d ref="Behavior,NexusShieldRechargeOnPylonBehavior,Duration[0]"/> secondi in una struttura che ripristina gli scudi delle unità alleate.
+Button/Tooltip/NydusWormIncreasedArmorPassive=I Vermi Nydus hanno <d ref="Behavior,NydusWormArmor,Modification.LifeArmorBonus+1"/> corazza quando emergono dal suolo.
+Button/Tooltip/OracleBuildStasisTrap=Piazza sul terreno una Guardia di stasi occultata che dura <d ref="Behavior,StasisWardTimedLife,Duration"/> secondi. Una volta attivata da un'unità terrestre nemica, la guardia intrappola i nemici circostanti mettendoli in stasi per <d ref="Behavior,OracleStasisTrapTarget,Duration"/> secondi. Le unità intrappolate non possono essere attaccate né colpite dalle abilità.
+Button/Tooltip/Overseer=Osservatore aereo avanzato. Mantiene il limite di unità ottenuto grazie al Sorvegliante. Può usare le abilità Supervisione, Genera Mutaforma e Contaminazione.<n/><n/><c val="FFE303">Individuatore</c>
+Button/Tooltip/ParasiticBomb=Crea una nube parassitaria che infligge <d ref="Behavior,ParasiticBomb,Duration/Behavior,ParasiticBomb,Period*Effect,ParasiticBombDotDamage,Amount"/> danni in <d ref="Behavior,ParasiticBomb,Duration"/> secondi al bersaglio e alle unità aeree nemiche vicine. Se il bersaglio muore, la nube resta in aria fino alla scadenza nel punto in cui il nemico è morto.<n/><n/><c val="#ColorAttackInfo">Non può colpire unità di terra o strutture.</c>
+Button/Tooltip/PointDefense=Laser di difesa automatico che intercetta i proiettili nemici. Non intercetta gli attacchi speciali.<n/><n/><c val="f078ff">Ogni colpo consuma 10 energia.</c>
+Button/Tooltip/PsionicSurge=Potenzia Carica degli Zeloti, consentendo di infliggere <d ref="Effect,ChargingDamage,Amount"/> danni al bersaglio.
+Button/Tooltip/PurificationNova=Spara una sfera d'energia che dura <d ref="Behavior,PurificationNovaTargettedTarget,Duration"/> secondi ed emette una potente esplosione che infligge <d ref="Effect,PurificationNovaDamage,Amount"/> danni radiali oltre a <d ref="Effect,PurificationNovaDamage,ShieldBonus"/> danni agli scudi alle unità terrestri e alle strutture vicine. Il Disgregatore rimane immobile durante il processo.
+Button/Tooltip/RapidReignitionSystem=Riduce di <d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/> il tempo di recupero di Postbruciatori delle Navette mediche e aumenta la velocità di movimento.
+Button/Tooltip/Raven=Unità di supporto aereo. Può usare Torretta automatica, Matrice d'interferenza e Missile anti-blindatura.<n/><n/><c val="FFE303">Individuatore</c>
+Button/Tooltip/RavenEnhancedMunitionsPassive=Estende del 20% il raggio dell'esplosione di Missile anti-blindatura dei Raven e ne estende del 50% la portata di acquisizione dei bersagli.
+Button/Tooltip/RavenRecalibratedExplosives=Aumenta del 30% i danni di Missile a ricerca e ne estende del 50% la portata di acquisizione dei bersagli. /// Increases the Seeker Missile's damage by 30% and its tracking range by 50%.
+Button/Tooltip/RavenRepairDrone=Ripara le unità meccaniche alleate vicine per <d ref="Behavior,RavenRepairDroneTimedLife,Duration"/> secondi.
+Button/Tooltip/RavenRepairDroneHeal=Ripara un'unità meccanica alleata.<n/><n/><c val="f078ff">Cura <d ref="Effect,RavenRepairDroneHeal,RechargeVitalRate*Effect,RavenRepairDroneHeal,DrainVitalCostFactor"/> punti vita per 1 punto energia.</c>
+Button/Tooltip/RavenResearchEnhancedMunitions=Estende del 20% il raggio dell'esplosione di Missile anti-blindatura dei <c val="ffff8a">Raven</c> e ne estende del 50% la portata di acquisizione dei bersagli.
+Button/Tooltip/RavenScramblerMissile=Disabilita l'unità selezionata, impedendole di attaccare o usare abilità per <d ref="Behavior,RavenScramblerMissile,Duration"/> secondi. Rivela le unità occultate.<n/><n/><c val="#ColorAttackInfo">Utilizzabile su unità meccaniche e psioniche.</c>
+Button/Tooltip/RavenShredderMissile=Lancia un missile che insegue il bersaglio e all'impatto ne riduce corazza e scudi di <d ref="Behavior,RavenShredderMissileArmorReduction,DamageResponse.ModifyAmount"/> per <d ref="Behavior,RavenShredderMissileArmorReduction,Duration"/> secondi.
+Button/Tooltip/ResearchAdeptShieldUpgrade=Aumenta di 50 gli scudi delle <c val="ffff8a">Adepte</c>.
+Button/Tooltip/ResearchAmplifiedShielding=Aumenta gli scudi dell'<c val="ffff8a">Adepta</c> di <d ref="$UpgradeEffectArrayValue:AmplifiedShielding:Unit,Adept,ShieldsMax$"/>.
+Button/Tooltip/ResearchArmorPiercingRockets=Migliora l'abilità Aggancio del <c val="ffff8a">Cyclone</c>, che infligge <d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$"/> danni aggiuntivi contro le unità corazzate per colpo. Bonus totale ai danni: <d ref="$UpgradeEffectArrayValue:ArmorPiercingRockets:Effect,CycloneAirWeaponDamageAlternative,AttributeBonus[Armored]$*Effect,LockOnAirCP,PeriodCount"/>.
+Button/Tooltip/ResearchBallisticRange=Estende di <d ref="$UpgradeEffectArrayValue:LiberatorAGRangeUpgrade:Weapon,LiberatorAGWeapon,Range$"/> la portata dei <c val="ffff8a">Liberatori</c> in Assetto difensore.
+Button/Tooltip/ResearchCarrierCapacity=Aumenta da 8 a 10 il numero massimo di Intercettori per <c val="ffff8a">Portastormo</c>.
+Button/Tooltip/ResearchCarrierLeashRangeUpgrade=Estende di <d ref="$UpgradeEffectArrayValue:CarrierLeashRangeUpgrade:Abil,CarrierHangar,Leash$"/> la portata di trascinamento degli <c val="ffff8a">Intercettori</c>.
+Button/Tooltip/ResearchCharge=Aumenta la velocità degli <c val="ffff8a">Zeloti</c> e consente loro di intercettare i nemici nelle vicinanze. L'abilità può essere usata solo una volta ogni <d ref="Abil,Charge,Cost.Cooldown.TimeUse"/> secondi.
+Button/Tooltip/ResearchCycloneRapidFireLaunchers=Aumenta la velocità dei primi 12 colpi di Aggancio del <c val="ffff8a">Cyclone</c>.
+Button/Tooltip/ResearchDarkTemplarBlink=Consente ai <c val="ffff8a">Templari oscuri</c> di teletrasportarsi in zone vicine.
+Button/Tooltip/ResearchDrillClaws=Consentono di triplicare la velocità di rintanamento e di attivazione delle <c val="ffff8a">Mine Widow</c>.
+Button/Tooltip/ResearchEnhancedShockwaves=Estende il raggio di Proiettile elettromagnetico dei <c val="ffff8a">Fantasmi</c> di <d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>.
+Button/Tooltip/ResearchExplosiveShrapnelShells=Aumenta del 30% i danni delle <c val="ffff8a">Torrette automatiche</c> e dei <c val="ffff8a">Missili a ricerca</c> dei Raven.
+Button/Tooltip/ResearchExtendedThermalLance=Aumenta di <d ref="$UpgradeEffectArrayValue:ExtendedThermalLance:Weapon,ThermalLances,Range$"/> la portata dell'arma del <c val="ffff8a">Colosso</c>.
+Button/Tooltip/ResearchHiSecAutoTracking=Aumenta di 1 la portata di <c val="ffff8a">Torrette lanciamissili</c>, <c val="ffff8a">Torrette automatiche</c> e <c val="ffff8a">Fortezze planetarie</c>.
+Button/Tooltip/ResearchHighCapacityBarrels=Migliora il lanciafiamme dell'<c val="ffff8a">Hellion</c> e l'arma al napalm dell'<c val="ffff8a">Hellbat</c> in modo che infliggano rispettivamente +5 e +12 danni contro le unità leggere.
+Button/Tooltip/ResearchHighCapacityFuelTanks=Aumenta le scorte di carburante della <c val="ffff8a">Navetta medica</c>, prolungando del 50% la durata di Postbruciatori.
+Button/Tooltip/ResearchLockOnRangeUpgrade=Estende la portata di Aggancio del Cyclone da 6 a 9 e la portata con bersagli agganciati da 12 a 15.
+Button/Tooltip/ResearchLurkerRange=Estende di <d ref="$UpgradeEffectArrayValue:LurkerRange:Weapon,LurkerMP,Range$"/> la portata d'attacco delle <c val="ffff8a">Criptolische</c>.
+Button/Tooltip/ResearchMagFieldLaunchers=Estende la portata d'attacco dei <c val="ffff8a">Cyclone</c> di <d ref="$UpgradeEffectArrayValue:MagFieldLaunchers:Weapon,TyphoonMissilePod,Range$"/>.
+Button/Tooltip/ResearchPsionicAmplifiers=Estende di <d ref="$UpgradeEffectArrayValue:PsionicAmplifiers:Weapon,Adept,Range$"/> la portata d'attacco dell'<c val="ffff8a">Adepta</c>.
+Button/Tooltip/ResearchPsionicSurge=Potenzia Carica degli <c val="ffff8a">Zeloti</c>, consentendo di infliggere <d ref="Effect,ChargingDamage,Amount"/> danni al bersaglio.
+Button/Tooltip/ResearchRapidReignitionSystem=Riduce di <d time="[d ref='$UpgradeEffectArrayValue:MedivacIncreaseSpeedBoost:Abil,MedivacSpeedBoost,Cost[0].Cooldown.TimeUse$'/]"/> il tempo di recupero di Postbruciatori delle <c val="ffff8a">Navette mediche</c> e aumenta la velocità di movimento.
+Button/Tooltip/ResearchRavenRecalibratedExplosives=Aumenta del 30% i danni di <c val="ffff8a">Missile a ricerca</c> e ne estende del 50% la portata di acquisizione dei bersagli. /// Increases the <c val="ffff8a">Seeker Missile's</c> damage by 30% and its tracking range by 50%.
+Button/Tooltip/ResearchSmartServos=Consente a <c val="ffff8a">Hellion</c>, <c val="ffff8a">Hellbat</c>, <c val="ffff8a">Viking</c> e <c val="ffff8a">Thor</c> di cambiare assetto più velocemente.
+Button/Tooltip/RoachWarren=Contiene potenziamenti per le Blatte.<n/><n/><c val="ffff8a">Consente:</c><n/>- Blatte dalle Larve<n/>- Laceratori dalle Larve
+Button/Tooltip/ShieldBatteryRecharge=Rigenera gli scudi dell'unità o struttura bersaglio.
+Button/Tooltip/ShieldBatteryRechargeEx5=Ricarica gli scudi dell'unità o struttura selezionata.<n/><n/><c val="f078ff">Ripristina 3 punti scudo per 1 punto energia.</c><n/><n/><c val="#ColorAttackInfo">L'uso automatico seleziona esclusivamente unità e strutture difensive.</c>
+Button/Tooltip/ShieldBatteryRechargeNotOvercharged=<n/><n/><c val="f078ff">Rigenera fino a 72 scudi al secondo.</c>
+Button/Tooltip/ShieldBatteryRechargeNotOverchargedConstantText=<n/><n/><c val="#ColorAttackInfo">L'uso automatico seleziona esclusivamente unità e strutture difensive.</c>
+Button/Tooltip/ShieldBatteryRechargeOvercharged=<n/><n/><c val="f078ff">Rigenera fino a 36 scudi al secondo. Ogni 3 scudi rigenerati consuma 1 energia dalla Batteria di scudi.</c>
+Button/Tooltip/Starport=Struttura di produzione unità aeree. <n/><n/><c val="ffff8a">Consente:</c><n/>- Viking<n/>- Navette mediche<n/>- Liberatori
+Button/Tooltip/SwarmHostMP=Unità d'assedio che attacca generando Locuste.<n/><n/><c val="#ColorAttackInfo">Le Locuste possono attaccare le unità terrestri.</c>
+Button/Tooltip/TechLabFactory=Struttura di ricerca per veicoli. Il Modulo tecnologico è adattabile a qualunque struttura di produzione.<n/><n/><c val="ffff8a">Consente:</c><n/>- Cyclone<n/>- Carri d'assedio<n/>- Thor con Armeria
+Button/Tooltip/Tempest=Unità d'assedio volante. Attacca da grande distanza.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>
+Button/Tooltip/TempestDisruptionBlast=Incanala l'abilità per <d ref="Abil,TempestDisruptionBlast,CastIntroTime[0]"/> secondi, poi stordisce le unità e strutture terrestri nemiche nell'area bersaglio per <d ref="Behavior,TempestDisruptionBlastStunBehavior,Duration"/> secondi.
+Button/Tooltip/TempestDisruptionSphereMissile=L'effetto dura <d ref="(Effect,TempestDeathBallCP,PeriodCount)*(Effect,TempestDeathBallCP,PeriodicPeriodArray[0])"/> secondi e infligge fino a <d ref="(Effect,TempestDeathBallCP,PeriodCount)*(Effect,TempestDeathBallCP,PeriodicPeriodArray[0])/(Behavior,TempestDeathBall,Period)*(Effect,TempestDeathBallDamage,Amount)"/> danni a unità e strutture nemiche terrestri nell'area bersaglio.
+Button/Tooltip/TempestGroundAttackUpgrade=Migliora la Spira risonante della Tempesta per infliggere <d ref="$UpgradeEffectArrayValue:TempestGroundAttackUpgrade:Effect,TempestDamageGround,AttributeBonus[Structure]$"/> danni aggiuntivi alle strutture.
+Button/Tooltip/TempestResearchGroundAttackUpgrade=Migliora la Spira risonante della <c val="ffff8a">Tempesta</c> per infliggere <d ref="$UpgradeEffectArrayValue:TempestGroundAttackUpgrade:Effect,TempestDamageGround,AttributeBonus[Structure]$"/> danni aggiuntivi alle strutture.
+Button/Tooltip/TemporalField=Dopo un ritardo di <d ref="(Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldGrowingBubbleCreatePersistent,PeriodicPeriodArray[0])"/> secondi, distorce lo spaziotempo nell'area d'effetto per <d ref="Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodCount*Effect,TemporalFieldAfterBubbleCreatePersistent,PeriodicPeriodArray[0]"/> secondi. La velocità d'attacco e di movimento delle unità e strutture nemiche all'interno del campo è rallentata del <d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%.
+Button/Tooltip/TimeWarp=Assoggetta la struttura bersaglio ad Accelerazione temporale, facendola operare più velocemente del <d ref="(((Behavior,TimeWarpProduction,Modification.TimeScale)-1)*100)" precision="1"/>%.
+Button/Tooltip/Transfusion=Cura istantaneamente di <d ref="Effect,Transfusion,VitalArray[Life].Change"/> punti vita l'unità o struttura biologica selezionata. Rigenera altri <d ref="Behavior,Transfusion,Duration/Behavior,Transfusion,Period*Effect,TransfusionHealTick,VitalArray[Life].Change"  precision="3"/> punti vita in <d ref="Behavior,Transfusion,Duration"/> secondi.
+Button/Tooltip/UltraliskCavern=Contiene potenziamenti per le Ultralische.<n/><n/><c val="ffff8a">Consente:</c><n/>- Ultralische dalle Larve
+Button/Tooltip/UpgradeBuildingArmorLevel1=Potenzia di 2 la corazza delle <c val="ffff8a">strutture</c>. Aumenta di 2 lo spazio carico dei <c val="ffff8a">Bunker</c>. Fornisce anche spazio carico aggiuntivo per <c val="ffff8a">Centri di comando</c> e <c val="ffff8a">Fortezze planetarie</c>.
+Button/Tooltip/ViperConsume=La Vipera si aggancia alla struttura bersaglio, infliggendole <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/> danni e recuperando <d ref="(Effect,ViperConsumeStructureModifyCaster,VitalArray[2].Change / Behavior,TimeScaleConversionBehavior,Duration)" precision="1"/> punti energia al secondo. Dura <d time="20"/>.<n/><n/><c val="#ColorAttackInfo">Non può puntare su strutture alleate o nemiche.</c>
+Button/Tooltip/VoidRaySwarmDamageBoost=Riallinea il raggio prismatico della Lancia del Vuoto e infligge <d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/> danni aggiuntivi alle unità corazzate per <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/> secondi. Durante l'effetto, la velocità di movimento è ridotta.
+Button/Tooltip/WarpPrism=Trasporto aereo. Può caricare unità a distanza e venire schierato per generare un campo d'energia.
+Button/Tooltip/WarpPrismLoad=Carica nella matrice del Prisma dimensionale unità situate a una distanza massima di <d ref="Abil,WarpPrismTransport,Range"/>.
+Button/Tooltip/WarpPrismPhasing=Fonte d'energia immobile. Può caricare unità a distanza. Può diventare un trasporto mobile.
+Button/Tooltip/WidowMine=Mina robotica. Lancia missili contro le unità nemiche da rintanata. Gli attacchi infliggono danni radiali a tutti i nemici vicini al bersaglio. Le Mine Widow sono rivelate durante il tempo di recupero di Missile sentinella.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità aeree e terrestri.</c> /// Robotic mine. Launches missiles at nearby enemy units while burrowed. Attacks deal splash damage in a small area around the target. Widow Mine is revealed when Sentinel Missile is on cooldown. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/WidowMineBioSplash=Attacca le unità aeree e terrestri vicine, infliggendo <d ref="Effect,WidowMineExplodeDirect,Amount"/> danni (+<d ref="Effect,WidowMineExplodeDirect,ShieldBonus"/> contro gli scudi) al bersaglio principale e <d ref="Effect,WidowMineExplodeSplash,Amount"/> danni radiali (+<d ref="Effect,WidowMineExplodeSplash,ShieldBonus"/> contro gli scudi) alle unità vicine. Questa unità è rivelata durante la ricarica.<n/><n/><c val="#ColorAttackInfo">Tempo di recupero: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/> secondi.</c> /// Attacks air and ground units in proximity dealing <d ref="Effect,WidowMineExplodeDirect,Amount"/> (+<d ref="Effect,WidowMineExplodeDirect,ShieldBonus"/> vs. shields) damage to their primary target and <d ref="Effect,WidowMineExplodeSplash,Amount"/> (+<d ref="Effect,WidowMineExplodeSplash,ShieldBonus"/> vs. shields) splash damage to units nearby. This unit is revealed while reloading.<n/><n/><c val="#ColorAttackInfo">Cooldown: <d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/> seconds.</c>
+Button/Tooltip/WidowMineConcealment=L'unità non è più rivelata durante la ricarica.
+Button/Tooltip/YamatoGun=Colpisce il bersaglio con un devastante cannone al plasma, infliggendo <d ref="Effect,YamatoU,Amount"/> danni.
+Button/Tooltip/hydraliskspeed=Aumenta del 25% la velocità di movimento delle <c val="ffff8a">Idralische</c> e ne estende la portata di attacco di <d ref="$UpgradeEffectArrayValue:hydraliskspeed:Weapon,NeedleSpines,Range$"/>.
+DataCollection/Name/ShieldBatteryRechargeEx5=Ricarica Batteria di scudi Ex5
+Effect/Name/90mmCannonsDummy=90mm Cannons Dummy
+Effect/Name/AdeptPiercingDamage=Piercing Damage
+Effect/Name/AdeptPiercingInitialPersistent=Piercing Initial Persistent
+Effect/Name/AdeptPiercingSearch=Piercing Search
+Effect/Name/AdeptPiercingSet=Piercing Set
+Effect/Name/AmorphousArmorcloudAB=
+Effect/Name/AmorphousArmorcloudCP=
+Effect/Name/AmorphousArmorcloudSearch=
+Effect/Name/ApplyNeuralAcquireToAllChildren=
+Effect/Name/AutoMorphtoWarpGate=
+Effect/Name/BarrierIssueOrder=Barrier Issue Order
+Effect/Name/BatteryOverchargeAB=
+Effect/Name/BatteryOverchargeCreateHealer=
+Effect/Name/BattlecruiserAttackTrackerAB=BattlecruiserAttackTrackerAB
+Effect/Name/BattlecruiserAttackTrackerCP=BattlecruiserAttackTrackerCP
+Effect/Name/BattlecruiserAttackTrackerDP=BattlecruiserAttackTrackerDP
+Effect/Name/BattlecruiserAttackTrackerOrderAttack=BattlecruiserAttackTrackerOrderAttack
+Effect/Name/BattlecruiserAttackTrackerOrderStop=BattlecruiserAttackTrackerOrderStop
+Effect/Name/BattlecruiserAttackTrackerPointSet=BattlecruiserAttackTrackerPointSet
+Effect/Name/BattlecruiserAttackTrackerStopSet=BattlecruiserAttackTrackerStopSet
+Effect/Name/BattlecruiserAttackTrackerSwitch=BattlecruiserAttackTrackerSwitch
+Effect/Name/BattlecruiserAttackTrackerUnitSet=BattlecruiserAttackTrackerUnitSet
+Effect/Name/BattlecruiserChasingAB=BattlecruiserChasingAB
+Effect/Name/BattlecruiserChasingRB=BattlecruiserChasingRB
+Effect/Name/BattlecruiserDamageCP=BattlecruiserDamageCP
+Effect/Name/BattlecruiserDamageSet=BattlecruiserDamageSet
+Effect/Name/BattlecruiserDamageSwitch=
+Effect/Name/BattlecruiserTacticalJumpCD=
+Effect/Name/BattlecruiserTargetTriggerHyperJumpCD=
+Effect/Name/BattlecruiserTransientTrackerAB=BattlecruiserTransientTrackerAB
+Effect/Name/BattlecruiserTransientTrackerSwitch=BattlecruiserTransientTrackerSwitch
+Effect/Name/BattlecruiserTransientTrackerThreatAB=BattlecruiserTransientTrackerThreatAB
+Effect/Name/BattlecruiserYamatoCD=
+Effect/Name/BattlecrusierDisableWeaponsAB=
+Effect/Name/BatttlecruiserAttackTrackerRB=BatttlecruiserAttackTrackerRB
+Effect/Name/BypassArmorABSet=Bypass Armor AB Set
+Effect/Name/BypassArmorCU=Bypass Armor CU
+Effect/Name/BypassArmorCreatePersistent=Bypass Armor Create Persistent
+Effect/Name/BypassArmorDebuffDamageDummy=Bypass Armor Debuff Damage Dummy
+Effect/Name/BypassArmorDebuffOneAB=Bypass Armor Debuff One AB
+Effect/Name/BypassArmorDebuffOneRB=Bypass Armor Debuff One RB
+Effect/Name/BypassArmorDebuffOneSet=Bypass Armor Debuff One Set
+Effect/Name/BypassArmorDebuffThreeAB=Bypass Armor Debuff Three AB
+Effect/Name/BypassArmorDebuffThreeRB=Bypass Armor Debuff Three RB
+Effect/Name/BypassArmorDebuffThreeSet=Bypass Armor Debuff Three Set
+Effect/Name/BypassArmorDebuffTwoAB=Bypass Armor Debuff Two AB
+Effect/Name/BypassArmorDebuffTwoRB=Bypass Armor Debuff Two RB
+Effect/Name/BypassArmorDebuffTwoSet=Bypass Armor Debuff Two Set
+Effect/Name/BypassArmorDestroyPersistent=Bypass Armor Destroy Persistent
+Effect/Name/BypassArmorDroneMove=Bypass Armor Drone Move
+Effect/Name/BypassArmorMovementDebuffAB=Bypass Armor Movement Debuff AB
+Effect/Name/BypassArmorRBSet=Bypass Armor RB Set
+Effect/Name/BypassArmorStunAB=Bypass Armor Stun AB
+Effect/Name/BypassArmorStunRB=Bypass Armor Stun RB
+Effect/Name/CalldownMULEIssueOrderSecondary=
+Effect/Name/ChannelSnipeCombat=Channel Snipe Combat
+Effect/Name/ChannelSnipeCombatBeamDummy=Channel Snipe Combat Beam Dummy
+Effect/Name/ChannelSnipeCombatRB=Channel Snipe Combat RB
+Effect/Name/ChannelSnipeCreatePersistent=Channel Snipe Create Persistent
+Effect/Name/ChannelSnipeDamage=Channel Snipe Damage
+Effect/Name/ChannelSnipeDamageSet=Channel Snipe Damage Set
+Effect/Name/ChannelSnipeInitialSet=Channel Snipe Initial Set
+Effect/Name/ChannelingCausticSprayAB=Channeling Caustic Spray AB
+Effect/Name/ChannelingCausticSprayRB=Channeling Caustic Spray RB
+Effect/Name/ChargeAttackApplyBuff=Charge Attack (Apply Buff)
+Effect/Name/ChargeAttackRemoveBuff=Charge Attack Remove Buff
+Effect/Name/ChargeCheckApplyBuff=Charge Check (Apply Buff)
+Effect/Name/ChargeCheckRemoveBuff=Charge Check Remove Buff
+Effect/Name/ChargingDamage=Charging Damage
+Effect/Name/ChargingDamageSecondary=Charging Damage Secondary
+Effect/Name/ChargingPrimaryDamageSet=Charging Primary Damage Set
+Effect/Name/ChronoBoostEnergyCostAB=Chrono Boost Energy Cost
+Effect/Name/CommandCenterKnockbackSE=Command Center Knockback SE
+Effect/Name/CycloneAirWeaponDamage=Cyclone Air Weapon Damage
+Effect/Name/CycloneAirWeaponLaunchMissileLeft=Cyclone Air Weapon Launch Missile Left
+Effect/Name/CycloneAirWeaponLaunchMissileLeftSet=Cyclone Air Weapon Launch Missile Left Set
+Effect/Name/CycloneAirWeaponLaunchMissileRight=Cyclone Air Weapon Launch Missile Right
+Effect/Name/CycloneAirWeaponLaunchMissileRightSet=Cyclone Air Weapon Launch Missile Right Set
+Effect/Name/CycloneAirWeaponLaunchMissileSwitch=Cyclone Air Weapon Launch Missile Switch
+Effect/Name/CycloneAttackWeaponDamage=Cyclone Attack Weapon Damage
+Effect/Name/CycloneAttackWeaponLaunchMissileLeft=Cyclone Attack Weapon Launch Missile Left
+Effect/Name/CycloneAttackWeaponLaunchMissileLeftSet=Cyclone Attack Weapon Launch Missile Left Set
+Effect/Name/CycloneAttackWeaponLaunchMissileRight=Cyclone Attack Weapon Launch Missile Right
+Effect/Name/CycloneAttackWeaponLaunchMissileRightSet=Cyclone Attack Weapon Launch Missile Right Set
+Effect/Name/CycloneAttackWeaponLaunchMissileSwitch=Cyclone Attack Weapon Launch Missile Switch
+Effect/Name/CycloneWeaponLaunchMissileLeftSetNew=Cyclone Weapon Launch Missile Left Set New
+Effect/Name/CycloneWeaponLaunchMissileRightSetNew=Cyclone Weapon Launch Missile Right Set New
+Effect/Name/CycloneWeaponTurretClearLook=Cyclone Weapon Turret Clear Look
+Effect/Name/CycloneWeaponTurretLook=Cyclone Weapon Turret Look
+Effect/Name/DamageTakenBarrieAutocastAB=Damage Taken Barrie Autocast AB
+Effect/Name/DamageTakenBarrierAutocastSet=Damage Taken Barrier Autocast Set
+Effect/Name/DarkTemplarBlink=Dark Templar Blink
+Effect/Name/DisruptorTransportUnloadPurificationNovaCooldownReset=Disruptor Transport Unload Purification Nova Cooldown Reset
+Effect/Name/FungalGrowthSlowMovementApplyBehavior=Fungal Growth Slow Movement Apply Behavior
+Effect/Name/FungalGrowthTargetOnCreepSwitch=Fungal Growth Target On Creep Switch
+Effect/Name/HighTemplarWeaponDamage=High Templar Weapon Damage
+Effect/Name/HighTemplarWeaponLM=High Templar Weapon LM
+Effect/Name/HighTemplarWeaponSet=High Templar Weapon Set
+Effect/Name/HyperjumpInitialCP=
+Effect/Name/HyperjumpInitialDelaySuppressWeaponAB=
+Effect/Name/HyperjumpInitialDelaySuppressWeaponRB=
+Effect/Name/ImmortalBarrierSupressedApplyBehavior=Immortal Barrier Supressed Apply Behavior
+Effect/Name/InfestedAcidSpines=Infested Acid Spines
+Effect/Name/InfestedAcidSpinesLM=Infested Acid Spines LM
+Effect/Name/IssueOrderMorphtoWarpGate=
+Effect/Name/LockOnAirCP=Lock On Air CP
+Effect/Name/LockOnAirFireSet=Lock On Air Fire Set
+Effect/Name/LockOnAirInitialSet=Lock On Air Initial Set
+Effect/Name/LockOnAirTurretStart=Lock On Air Turret Start
+Effect/Name/LockOnGroundAirSet=Lock On Ground Air Set
+Effect/Name/LockOnInitialSetNew=Lock On Initial Set New
+Effect/Name/LocustMPFlyingSwoopAttackIssueOrder=Locust MP Flying Swoop Attack Issue Order
+Effect/Name/LocustMPFlyingSwoopCreatePrecursorOffset=Locust MP Flying Swoop Create Precursor Offset
+Effect/Name/LocustMPFlyingUncommandableAB=Locust MP Flying Uncommandable AB
+Effect/Name/LocustMPIssueOrder=Locust MP Issue Order
+Effect/Name/LurkerMPCU=
+Effect/Name/LurkerMPDestroyPersistent=
+Effect/Name/LurkerMPSearchSet=
+Effect/Name/LurkerMPWeaponRangeSwitch=
+Effect/Name/MedivacUnloadCargoSetEffect=Medivac Unload Cargo Set Effect
+Effect/Name/MorphToGhostAlternate=MorphToGhostAlternate
+Effect/Name/MorphToGhostNova=MorphToGhostNova
+Effect/Name/NeuralParasiteChildren=
+Effect/Name/NexusChronoBoostIssueOrder=Chrono Boost Issue Order
+Effect/Name/NexusMassRecallPhased=Nexus Mass Recall Phased
+Effect/Name/NexusMassRecallSearch=Nexus Mass Recall Search
+Effect/Name/NexusMassRecallTeleport=Nexus Mass Recall Teleport
+Effect/Name/NexusMassRecallWarpOutAB=Nexus Mass Recall Warp Out 
+Effect/Name/NexusShieldOverchargeAB=Nexus Shield Overcharge AB
+Effect/Name/NexusShieldOverchargeEnergy=Nexus Shield Overcharge Energy
+Effect/Name/NexusShieldOverchargeRB=Nexus Shield Overcharge RB
+Effect/Name/NexusShieldOverchargeSearch=Nexus Shield Overcharge Search
+Effect/Name/NexusShieldOverchargeSet=Nexus Shield Overcharge Set
+Effect/Name/NexusShieldOverchargeShield=Nexus Shield Overcharge Shield
+Effect/Name/NexusShieldRecharge=Nexus Shield Recharge
+Effect/Name/NexusShieldRechargeEnergy=Nexus Shield Recharge Energy
+Effect/Name/NexusShieldRechargeOnPylonAB=Nexus Shield Recharge On Pylon AB
+Effect/Name/NexusShieldRechargeOnPylonABSecondaryOnTarget=Nexus Shield Recharge On Pylon AB Secondary On Target
+Effect/Name/NexusShieldRechargeOnPylonModifyUnit=Nexus Shield Recharge On Pylon Modify Unit
+Effect/Name/NexusShieldRechargeOnPylonMorph=Nexus Shield Recharge On Pylon Morph
+Effect/Name/NexusShieldRechargeOnPylonMorphBack=Nexus Shield Recharge On Pylon Morph Back
+Effect/Name/NexusShieldRechargeOnPylonSearch=Nexus Shield Recharge On Pylon Search
+Effect/Name/NexusShieldRechargeSet=Nexus Shield Recharge Set
+Effect/Name/NexusShieldRechargeShield=Nexus Shield Recharge Shield
+Effect/Name/OrbitalCommandCreateMuleOffsetCP=
+Effect/Name/OrbitalCommandCreateMuleSearchTownHall=
+Effect/Name/OrbitalCommandCreateMuleSwitch=
+Effect/Name/PhaseMothershipCoreRecalledRemove=Phase Mothership Core Recalled Remove
+Effect/Name/PhaseMothershipCoreRecallingRemove=Phase Mothership Core Recalling Remove
+Effect/Name/PhaseShiftRemoveRecall=Phase Shift Remove Recall
+Effect/Name/PhaseShiftTimerCancelSet=Phase Shift Timer Cancel Set
+Effect/Name/PiercingLM=Piercing LM
+Effect/Name/PunisherGrenadesLMLeft=Punisher Grenades LM Left
+Effect/Name/PunisherGrenadesLMRight=Punisher Grenades LM Right
+Effect/Name/PunisherGrenadesLaunchSet=Punisher Grenades Launch Set
+Effect/Name/PurificationNovaDetonateRBCaster=Purification Nova Detonate RB Caster
+Effect/Name/PurificationNovaDetonateRBTarget=Purification Nova Detonate RB Target
+Effect/Name/PurificationNovaDetonateSearch=Purification Nova Detonate Search
+Effect/Name/PurificationNovaDetonateSearchSiegedSiegeTank=Purification Nova Detonate Search Sieged Siege Tank
+Effect/Name/PurificationNovaDetonateSet=Purification Nova Detonate Set
+Effect/Name/PurificationNovaMorphBackFromTransport=Purification Nova Morph Back From Transport
+Effect/Name/PurificationNovaPeriodicSet=Purification Nova Periodic Set
+Effect/Name/PurificationNovaPhaseRB=Purification Nova Phase RB
+Effect/Name/PurificationNovaPostApply=Purification Nova Post (Apply)
+Effect/Name/PurificationNovaPostPhaseRB=Purification Nova Post Phase RB
+Effect/Name/PurificationNovaSpeedRB=Purification Nova Speed RB
+Effect/Name/PurificationNovaTargettedCU=Purification Nova Targetted CU
+Effect/Name/PurificationNovaTargettedCasterAB=Purification Nova Targetted Caster AB
+Effect/Name/PurificationNovaTargettedCasterRB=Purification Nova Targetted Caster RB
+Effect/Name/PurificationNovaTargettedInitialSet=Purification Nova Targetted Initial Set
+Effect/Name/PurificationNovaTargettedIssueOrder=Purification Nova Targetted Issue Order
+Effect/Name/PurificationNovaTargettedSearch=Purification Nova Targetted Search
+Effect/Name/PurificationNovaTargettedSearchSet=Purification Nova Targetted Search Set
+Effect/Name/PurificationNovaTargettedSpawnAB=Purification Nova Targetted Spawn AB
+Effect/Name/PurificationNovaTargettedSpawnSet=Purification Nova Targetted Spawn Set
+Effect/Name/PurificationNovaTargettedTimerSpawnAB=Purification Nova Targetted Timer Spawn AB
+Effect/Name/PurificationNovaTransportPickupSet=Purification Nova Transport Pickup Set
+Effect/Name/RavenScramblerDummy=
+Effect/Name/RavenScramblerSwitchInitial=
+Effect/Name/RavenShredderMissileArmorReductionUIAdd=
+Effect/Name/RavenShredderMissileArmorReductionUISubtruct=
+Effect/Name/RavenShredderMissileSearchImpactSet=
+Effect/Name/ReleaseInterceptorCreateUnit=Release Interceptor (Create Unit)
+Effect/Name/ReleaseInterceptorLaunchMissile=Release Interceptor (Launch Missile)
+Effect/Name/ReleaseInterceptorLaunchSet=Release Interceptor (Launch Set)
+Effect/Name/ReleaseInterceptorPersistent=Release Interceptor (Persistent)
+Effect/Name/ReleaseInterceptorSet=Release Interceptor (Set)
+Effect/Name/ReleaseInterceptorTimedLife=Release Interceptor (Timed Life)
+Effect/Name/ResonatingGlaivesPhaseShiftAB=
+Effect/Name/ShieldBatteryRechargeEx5=
+Effect/Name/ShieldBatteryRechargeEx5@DamageDummy=
+Effect/Name/ShieldBatteryRechargeEx5@RevealSearch=
+Effect/Name/SiegeTankMorphDisableDummyWeaponAB=Siege Tank Morph Disable Dummy Weapon AB
+Effect/Name/SiegeTankUnloadDelayAB=Siege Tank Unload Delay AB
+Effect/Name/SiegeTankUnmorphDisableDummyWeaponAB=Siege Tank Unmorph Disable Dummy Weapon AB
+Effect/Name/SpawnInterceptorsCreateUnit=Spawn Interceptors (Create Unit)
+Effect/Name/SpawnInterceptorsSearchDummy=Spawn Interceptors (Search Dummy)
+Effect/Name/SpawnLarvaDelay=Spawn Larva Delay
+Effect/Name/SpawnLarvaExpireSet=Spawn Larva Expire Set
+Effect/Name/SpawnLarvaSet=Spawn Larva Set
+Effect/Name/SpawnMutantLarvaHiddenAB=Spawn Mutant Larva Hidden AB
+Effect/Name/SpawnMutantLarvaRemoveHiddenBehavior=Spawn Mutant Larva Remove Hidden Behavior
+Effect/Name/TempestDeathBallCP=Tempest Death Ball 
+Effect/Name/TempestDisruptionBlastAB=Tempest Disruption Blast AB
+Effect/Name/TempestDisruptionBlastInitialWarningDamage=Tempest Disruption Blast Initial Warning Damage
+Effect/Name/TempestDisruptionBlastInitialWarningSearch=Tempest Disruption Blast Initial Warning Search
+Effect/Name/TempestDisruptionBlastSearch=Tempest Disruption Blast Search
+Effect/Name/TempestDisruptionBlastSecondaryWarningDamage=Tempest Disruption Blast Secondary Warning Damage
+Effect/Name/TempestDisruptionBlastSecondaryWarningSearch=Tempest Disruption Blast Secondary Warning Search
+Effect/Name/TempestDisruptionBlastSet=Tempest Disruption Blast Set
+Effect/Name/TemporalFieldAfterBubbleCreatePersistent=Temporal Field After Bubble Create Persistent
+Effect/Name/TemporalFieldAfterBubbleSearchArea=Temporal Field After Bubble Search Area
+Effect/Name/TemporalFieldCreatePersistentGrowingBubble=Temporal Field Create Persistent Growing Bubble
+Effect/Name/TemporalFieldGrowingBubbleCreatePersistent=Temporal Field Growing Bubble (Create Persistent)
+Effect/Name/TemporalFieldGrowingBubbleSearchArea=Temporal Field Growing Bubble (Search Area)
+Effect/Name/TerranBuildingKnockBack2Set=TerranBuildingKnockBack2Set
+Effect/Name/TerranStructuresKnockbackSE=Terran Structures Knockback SE
+Effect/Name/ThermalBeamDamage=Thermal Beam (Damage)
+Effect/Name/ThermalBeamPersistent=Thermal Beam (Persistent)
+Effect/Name/ThermalBeamSet=Thermal Beam (Set)
+Effect/Name/TransfusionAB=Transfusion AB
+Effect/Name/TransfusionHealTick=Transfusion Heal Tick
+Effect/Name/TransfusionImpactSet=Transfusion Impact Set
+Effect/Name/UpgradeToWarpGateAutoCastDisabler=Upgrade To Warp Gate Auto Cast Disabler
+Effect/Name/UpgradeToWarpGateAutoCastOff=Upgrade To Warp Gate Auto Cast Off
+Effect/Name/VoidRayWeaponTimeWarpSwitch=VoidRayWeaponTimeWarpSwitch
+Effect/Name/WarpPrismUnloadCargoSetEffect=Warp Prism Unload Cargo Set Effect
+Effect/Name/WidowMineTargetingBeamDummy=Widow Mine Targeting Beam Dummy
+Error/AddOnIsWorking=Impossibile durante la ricerca
+Error/AlreadyChronoBoosted=Il bersaglio è già accelerato
+Error/BatteryMustBeNearNexus=La Batteria di scudi deve trovarsi vicino a un Nexus
+Error/CantBlinkWhileRooted=Impossibile sotto gli effetti di Crescita fungina
+Error/CantTargetBattlecruiserHyperjump=Impossibile puntare su un'unità con Salto tattico.
+Error/CantTargetEggUnit=Impossibile puntare sulle uova
+Error/CantTargetOverchargedShieldBattery=La Batteria di scudi è già sovraccarica.
+Error/CantTargetShieldBattery=Non può attaccare Batteria di scudi.
+Error/MustTargetMechanicalorPsionic=Devi puntare su un'unità meccanica o psionica
+Error/MustTargetShieldBattery=Devi puntare su una Batteria di scudi.
+Error/TargetIsUnpowered=Il bersaglio è depotenziato
+LoadingScreen/Help40=Gli Immortali sono dotati di una barriera che assorbe <d ref="Behavior,ImmortalOverload,DamageResponse.ModifyLimit"/> danni.
+Requirement/Name/LearnBansheeRange=Learn Banshee Range
+RequirementNode/Tooltip/CountUnitAlias_TechLabCompleteOnlyAtUnit2589852481TechTreeCheat=Modulo tecnologico collegato
+RequirementNode/Tooltip/CountUnitLairCompleteOnly1515591279TechTreeCheat=Tana
+RequirementNode/Tooltip/CountUpgradeAdeptPiercingAttackCompleteOnly543136321=Ricerca di Balestra risonante al Concilio del crepuscolo
+RequirementNode/Tooltip/CountUpgradeAnabolicSynthesisCompleteOnly463276968=Evoluzione di Sintesi anabolica alla Caverna delle Ultralische
+RequirementNode/Tooltip/CountUpgradeCarrierCarrierCapacityCompleteOnly3850636404=Ricerca di Portastormo ampliata al Faro della flotta
+RequirementNode/Tooltip/CountUpgradeCarrierLeashRangeUpgradeCompleteOnly3097273746=Ricerca di Sistema di comunicazioni avanzate al Faro della flotta
+RequirementNode/Tooltip/CountUpgradeChargeCompleteOnly137519211TechTreeCheat=Ricerca Carica al Concilio del Crepuscolo
+RequirementNode/Tooltip/CountUpgradeCycloneAirUpgradeCompleteOnly3809174891=Ricerca di Puntamento Terra-Aria al Modulo tecnologico della Fabbrica
+RequirementNode/Tooltip/CountUpgradeCycloneLockOnDamageUpgradeCompleteOnly114637382=Ricerca di Acceleratore di campo magnetico al Modulo tecnologico della Fabbrica
+RequirementNode/Tooltip/CountUpgradeCycloneRapidFireLaunchersCompleteOnly403155563=Ricerca di Lanciamissili dinamico al Modulo tecnologico della Fabbrica
+RequirementNode/Tooltip/CountUpgradeDarkTemplarBlinkUpgradeCompleteOnly3445645436TechTreeCheat=Ricerca di Passo dell'ombra al Santuario oscuro
+RequirementNode/Tooltip/CountUpgradeDrillClawsCompleteOnly1396043293=Ricerca di Artigli meccanici al Modulo tecnologico della Fabbrica
+RequirementNode/Tooltip/CountUpgradeEnhancedShockwavesCompleteOnly2618611756TechTreeCheat=Ricerca Onda d'urto migliorata all'Accademia dei Fantasmi
+RequirementNode/Tooltip/CountUpgradeLiberatorAGRangeUpgradeCompleteOnly2325880491=Ricerca di Balistica avanzata al Nucleo di fusione
+RequirementNode/Tooltip/CountUpgradeLiberatorMorphCompleteOnly4015118574TechTreeCheat=Ricerca di Assetto difensore al Modulo tecnologico dello Spazioporto
+RequirementNode/Tooltip/CountUpgradeMagFieldLaunchersCompleteOnly4115927287=Ricerca di Lanciamissili a campo magnetico al Modulo tecnologico della Fabbrica
+RequirementNode/Tooltip/CountUpgradeMedivacIncreaseSpeedBoostCompleteOnly20648635=Ricerca di Sistema d'iniezione rapido al Nucleo di fusione
+RequirementNode/Tooltip/CountUpgradeMedivacRapidDeploymentCompleteOnly1198155126=Ricerca di Schieramento rapido al Modulo tecnologico dello Spazioporto
+RequirementNode/Tooltip/CountUpgradeMicrobialShroudCompleteOnly3803934920TechTreeCheat=Evoluzione di Manto microbico alla Fossa d'infestazione
+RequirementNode/Tooltip/CountUpgradeNeuralParasiteCompleteOnly1444946120TechTreeCheat=Evoluzione di Parassita neurale alla Fossa d'infestazione
+RequirementNode/Tooltip/CountUpgradeRavagerRangeCompleteOnly4292606879=Ricerca di Ghiandole pressurizzate alla Colonia di Blatte
+RequirementNode/Tooltip/CountUpgradeRavenDamageUpgradeCompleteOnly1937328235=Ricerca di Shrapnel esplosivi al Modulo tecnologico dello Spazioporto
+RequirementNode/Tooltip/CountUpgradeRavenEnhancedMunitionsCompleteOnly807727127=Ricerca di Munizioni potenziate al Modulo tecnologico dello Spazioporto
+RequirementNode/Tooltip/CountUpgradeRavenRecalibratedExplosivesCompleteOnly2020753493=Ricerca di Esplosivi ricalibrati al Modulo tecnologico dello Spazioporto /// Research Recalibrated Explosives at the Starport Tech Lab
+RequirementNode/Tooltip/CountUpgradeSunderingImpactCompleteOnly1226141447TechTreeCheat=Ricerca Impatto disgregante al Concilio del Crepuscolo
+RequirementNode/Tooltip/CountUpgradeTempestGroundAttackUpgradeCompleteOnly788113278=Ricerca Destabilizzatori tettonici al Faro della flotta
+RequirementNode/Tooltip/LT4164600185CountUnitInterceptorQueuedOrBetterAtUnit10=La Portastormo deve avere meno di 10 Intercettori.
+RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=Tana
+UI/Morphing=Trasformazione
+Unit/Category/TerranUnits=Terran
+Unit/Name/AdeptPiercingWeapon=Adepta - Arma perforante
+Unit/Name/BypassArmorDrone=Drone di riduzione corazza
+Unit/Name/CarrierInterceptorDummy=Intercettore - Simulazione
+Unit/Name/CorrosiveParasiteWeapon=Parassita corrosivo
+Unit/Name/DisruptorPhased=Globo purificante
+Unit/Name/HighTemplarWeaponMissile=Alto templare - Missile Arma
+Unit/Name/InfestedAcidSpinesWeapon=Aculei acidi infestati
+Unit/Name/InterceptorProjectile=Intercettore - Proiettile
+Unit/Name/InterceptorVoid=Intercettore
+Unit/Name/LurkerDenMP=Antro delle Criptolische
+Unit/Name/OverseerSiegeMode=Custode
+Unit/Name/RavenRepairDrone=Drone riparatore
+Unit/Name/SpyDrone=Drone Spia
+Unit/Name/TempestDisruptionSphereMissile=Tempesta - Sfera distruttiva - Missile
+Upgrade/Name/AdeptPiercingAttack=Balestra risonante
+Upgrade/Name/AmplifiedShielding=Scudi amplificati
+Upgrade/Name/ArmorPiercingRockets=Razzi perforanti
+Upgrade/Name/BansheeSpeed=Rotori di ipervolo
+Upgrade/Name/CarrierCarrierCapacity=Portastormo ampliata
+Upgrade/Name/CarrierLeashRangeUpgrade=Potenziamento distanza di trascinamento Portastormo
+Upgrade/Name/CycloneLockOnDamageUpgrade=Acceleratore di campo magnetico
+Upgrade/Name/CycloneRapidFireLaunchers=Lanciamissili dinamico
+Upgrade/Name/DarkTemplarBlinkUpgrade=Passo dell'ombra
+Upgrade/Name/DiggingClaws=Artigli adattivi
+Upgrade/Name/EnhancedShockwaves=Onda d'urto migliorata
+Upgrade/Name/EvolveGroovedSpines=Aculei scanalati
+Upgrade/Name/EvolveMuscularAugments=Potenziamento muscolare
+Upgrade/Name/GhostAlternate=Fantasma
+Upgrade/Name/HighCapacityBarrels=Pre-iniettore Inferno
+Upgrade/Name/LiberatorAGRangeUpgrade=Balistica avanzata
+Upgrade/Name/LiberatorMorph=Assetto difensore
+Upgrade/Name/LurkerRange=Aculei sismici
+Upgrade/Name/MagFieldLaunchers=Lanciamissili a campo magnetico
+Upgrade/Name/MedivacIncreaseSpeedBoost=Sistema d'iniezione rapido
+Upgrade/Name/MedivacRapidDeployment=Schieramento rapido
+Upgrade/Name/MicrobialShroud=Manto microbico
+Upgrade/Name/PsionicAmplifiers=Amplificatori psionici
+Upgrade/Name/RavagerRange=Laceratore - Portata
+Upgrade/Name/RavenDamageUpgrade=Shrapnel esplosivi
+Upgrade/Name/RavenEnhancedMunitions=Munizioni potenziate
+Upgrade/Name/RavenRecalibratedExplosives=Esplosivi ricalibrati /// Recalibrated Explosives
+Upgrade/Name/RavenSeekerMissileRecalibratedExplosives=Esplosivi ricalibrati /// Recalibrated Explosives
+Upgrade/Name/SecretedCoating=Secrezione protettiva
+Upgrade/Name/SmartServos=Servocomponenti ottimizzati
+Upgrade/Name/SunderingImpact=Impatto disgregante
+Upgrade/Name/TempestGroundAttackUpgrade=Destabilizzatori tettonici
+Upgrade/Name/TerranBuildingArmor=Corazza in neo-acciaio
+Upgrade/Name/TerranVehicleAndShipArmorsLevel1=Blindatura mezzi e navi terran livello 1
+Upgrade/Name/TerranVehicleAndShipArmorsLevel2=Blindatura mezzi e navi terran livello 2
+Upgrade/Name/TerranVehicleAndShipArmorsLevel3=Blindatura mezzi e navi terran livello 3
+Upgrade/Name/hydraliskspeed=Potenziamento muscolare
+Weapon/Name/90mmCannonsFake=Cannoni da 90mm - Finto
+Weapon/Name/BattlecruiserWeaponSwitch=BattlecruiserWeaponSwitch
+Weapon/Name/BypassArmorDroneWeapon=Drone di riduzione corazza - Arma
+Weapon/Name/CycloneLockOnDummy=Aggancio simulato
+Weapon/Name/DisruptionBeamDisplayDummy=Raggio disgregante
+Weapon/Name/InfestedAcidSpines=Missili infestati
+Weapon/Name/OracleDisplayDummy=Raggio Pulsar
+Weapon/Name/PsiBlast=Assalto Psionico
+Weapon/Name/ThermalBeam=Raggio Termico
+Weapon/Name/VoidRaySwarmDisplayDummy=Raggio prismatico

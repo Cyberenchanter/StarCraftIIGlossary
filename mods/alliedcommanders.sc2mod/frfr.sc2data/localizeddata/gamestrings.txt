@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=Mod coop de StarCraft II
+DocInfo/Name=Commandants alliés

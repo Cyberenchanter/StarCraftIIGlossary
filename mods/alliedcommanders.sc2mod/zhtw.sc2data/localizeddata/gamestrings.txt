@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=星海爭霸II合作模式
+DocInfo/Name=同盟指揮官

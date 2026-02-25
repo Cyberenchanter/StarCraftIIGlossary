@@ -1,0 +1,2 @@
+﻿DocInfo/DescLong=Co-op-Mod von StarCraft II
+DocInfo/Name=Verbündete Kommandanten

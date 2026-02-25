@@ -1,0 +1,322 @@
+﻿Abil/Name/ArmorpiercingMissiles=護甲穿透飛彈 /// Armor-piercing Missiles
+Abil/Name/ArmoryResearchSwarm=兵工廠 - 研發 - 蟲群 /// Armory Research Swarm
+Abil/Name/ExplosiveMissiles=爆裂飛彈 /// Explosive Missiles
+Abil/Name/LightofAiur=預見 /// Envision
+Abil/Name/LocustMPFlyingMorphToGround=蝗蟲 - 多人對戰 - 飛行單位變形為地面單位
+Abil/Name/LocustMPFlyingSwoop=蝗蟲 - 多人對戰 - 飛行俯衝
+Abil/Name/LocustMPFlyingSwoopAttack=蝗蟲 - 多人對戰 - 飛行俯衝 - 攻擊
+Abil/Name/LocustMPMorphToAir=蝗蟲 - 多人對戰 - 變形為空中單位
+Abil/Name/MorphToHellion=變形為惡狼 /// Morph To Hellion
+Abil/Name/MorphToHellionTank=變形為戰狼 /// Morph To Hellbat
+Abil/Name/MothershipCorePurifyNexus=母艦核心 - 淨化星核 /// Mothership Core - Purify Nexus
+Abil/Name/MothershipCorePurifyNexusCancel=母艦核心 - 淨化星核（取消） /// Mothership Core - Purify Nexus (Cancel)
+Abil/Name/MothershipMassRecall=聖母艦 - 群體召喚 /// Mothership Mass Recall
+Abil/Name/OracleWeapon=先知艦 - 武器 /// Oracle Weapon
+Abil/Name/PhaseShield=相位罩 /// Phase Shield
+Abil/Name/PulsarBeam=脈衝光束 /// Pulsar Beam
+Abil/Name/PulsarCannon=脈衝砲 /// Pulsar Blast
+Abil/Name/SeekerDummyChannel=導引飛彈 - 模型 - 引導 /// Seeker Dummy Channel
+Abil/Name/SpawnLocustsTargeted=孵化蝗蟲指定目標
+Abil/Name/TemporalField=時空扭曲 /// Time Warp
+Abil/Name/ThorAPMode=雷神高衝擊彈模式 /// Thor APMode
+Abil/Name/ThorNormalMode=雷神爆炸彈模式 /// Thor Normal Mode
+Abil/Name/UltraliskWeaponCooldown=雷獸 - 武器 - 冷卻 /// Ultralisk Weapon Cooldown
+Abil/Name/VoidRaySwarmDamageBoost=虛空艦 - 蟲群 - 傷害 - 增效 /// Void Ray Swarm Damage Boost
+Abil/Name/VoidSiphon=虛空虹吸 /// Void Siphon
+Abil/Name/VoidSwarmHostSpawnLocust=虛空之遺 - 百生獸孵化蝗蟲
+Abil/Thor/ReArm=裝填中 /// Arming
+Behavior/Name/ArmorpiercingMode=護甲穿透模式 /// Armor-piercing Mode
+Behavior/Name/ExplosiveMode=爆破模式 /// Explosive Mode
+Behavior/Name/LightofAiur=預見 /// Envision
+Behavior/Name/LocustMPFlyingSwoopPrecursor=蝗蟲 - 多人對戰 - 飛行俯衝 - 前置
+Behavior/Name/LocustMPFlyingSwoopUncommandable=蝗蟲 - 多人對戰 - 飛行俯衝 - 無法指揮
+Behavior/Name/MedivacSpeedBoost=後燃器啟用中 /// Afterburners Active
+Behavior/Name/MothershipCoreDeath=母艦核心（死亡） /// Mothership Core (Death)
+Behavior/Name/MothershipCorePurifyNexus=母艦核心 - 淨化星核 /// Mothership Core - Purify Nexus
+Behavior/Name/MothershipDeath=聖母艦（死亡） /// Mothership (Death)
+Behavior/Name/MothershipRecalled=聖母艦 - 已召喚 /// Mothership Recalled
+Behavior/Name/MothershipRecalling=聖母艦 - 召喚中 /// Mothership Recalling
+Behavior/Name/MothershipResetEnergy=聖母艦重設能量 /// Mothership Reset Energy
+Behavior/Name/NydusDetect=地下 - 偵測 /// Nydus Detect
+Behavior/Name/OracleRevelationController=先知艦 - 天啟控制器 /// Oracle Revelation Controller
+Behavior/Name/OracleWeapon=脈衝光束 /// Pulsar Beam
+Behavior/Name/PhaseShield=相位罩 /// Phase Shield
+Behavior/Name/PulsarBeam=脈衝光束 /// Pulsar Beam
+Behavior/Name/Purify=光子充能 /// Photon Overcharge
+Behavior/Name/ResourceStunDamage=資源阻絕（傷害） /// Resource Stun (Damage)
+Behavior/Name/SeekerMissile=導引飛彈 /// Seeker Missile
+Behavior/Name/TemporalField=時空扭曲 /// Time Warp
+Behavior/Name/TemporalFieldDecelerationBuff=時空扭曲（減速增益） /// Time Warp (Deceleration Buff)
+Behavior/Name/VoidRaySwarmDamageBoost=稜鏡校準 /// Prismatic Alignment
+Behavior/Name/VoidSiphon=虛空虹吸 /// Void Siphon
+Behavior/Name/VortexKill=漩渦 - 擊殺 /// Vortex Kill
+Behavior/Name/WidowMineAnimationController=寡婦詭雷 - 動畫控制器 /// Widow Mine Animation Controller
+Behavior/Name/WidowMineArmed=必須被啟動。 /// Must be Activated
+Behavior/Tooltip/LightofAiur=正在偵測匿蹤、遁地及幻影單位。 /// Detecting cloaked, burrowed, and hallucinated units.
+Behavior/Tooltip/MedivacSpeedBoost=此單位的移動速度已提高70%。 /// This unit's movement speed is increased by 70%.
+Behavior/Tooltip/OracleRevelation=此單位或建築提供視野給施放者。 /// This unit or structure is providing vision for the caster.
+Behavior/Tooltip/OracleWeapon=先知艦的武器已開啟，可以攻擊地面單位。 /// This Oracle's weapon is enabled and can attack ground units.
+Behavior/Tooltip/PhaseShield=此單位不受到任何有害效果的影響。 /// This unit is protected from harmful effects.
+Behavior/Tooltip/PulsarBeam=引導脈衝光束攻擊建築。 /// Channeling a Pulsar Beam at a structure.
+Behavior/Tooltip/Purify=此星核擁有強大的遠距攻擊力。 /// This Nexus has a powerful long-ranged attack.
+Behavior/Tooltip/ResourceStun=在晶礦罩被摧毀掉之前，無法採集此晶礦場的晶礦。 /// This Mineral Field cannot be harvested until the Mineral Shield is destroyed.
+Behavior/Tooltip/SeekerMissile=此單位已被導引飛彈鎖定。 /// This unit is being targeted by a Seeker Missile.
+Behavior/Tooltip/TemporalField=此單位的移動速度降低50%。 /// This unit's movement speed is reduced by 50%.
+Behavior/Tooltip/VoidRaySwarmDamageBoost=此單位對重甲單位造成的傷害提高6點。 /// This unit deals an additional +6 damage to armored units.
+Behavior/Tooltip/VoidSiphon=先知艦正在破壞敵方建築並將其轉化為晶礦。 /// An Oracle is damaging this structure and generating minerals for the enemy.
+Button/Name/ArmorpiercingMode=高衝擊彈 /// High Impact Payload
+Button/Name/BattlecruiserWeaponsIgnoreArmor=反裝甲砲 /// Anti-armor Ordnance
+Button/Name/CombatAwareness=戰鬥意識 /// Battlefield Awareness
+Button/Name/EvolveFlyingLocusts=進化飛行蝗蟲
+Button/Name/ExitPurifyMode=退出淨化模式 /// Exit Purify Mode
+Button/Name/ExplosiveMode=爆炸彈 /// Explosive Payload
+Button/Name/FlyingLocusts=飛行蝗蟲
+Button/Name/HellionTank=建造戰狼 /// Build Hellbat
+Button/Name/LightofAiur=預見 /// Envision
+Button/Name/LocustMPFlyingSwoop=飛行俯衝
+Button/Name/MedivacSpeedBoost=啟動後燃器 /// Ignite Afterburners
+Button/Name/MorphToHellion=惡狼模式 /// Hellion Mode
+Button/Name/MorphToHellionTank=戰狼模式 /// Hellbat Mode
+Button/Name/MothershipCoreMassRecall=群體召喚 /// Mass Recall
+Button/Name/MothershipCoreWeapon=光子充能 /// Photon Overcharge
+Button/Name/MothershipMassRecall=群體召喚 /// Mass Recall
+Button/Name/MutaliskRegeneration=再生組織 /// Tissue Regeneration
+Button/Name/OracleWeaponOff=關閉脈衝光束 /// Deactivate Pulsar Beam
+Button/Name/OracleWeaponOn=啟動脈衝光束 /// Activate Pulsar Beam
+Button/Name/PhaseShield=相位罩 /// Phase Shield
+Button/Name/PulsarCannon=脈衝砲 /// Pulsar Blast
+Button/Name/ResearchDrillClaws=研發鑽地爪 /// Research Drilling Claws
+Button/Name/ResearchLocustLifetimeIncrease=進化耐久蝗蟲 /// Evolve Enduring Locusts
+Button/Name/ResearchMedivacEnergyUpgrade=研發醫療反應爐 /// Research Caduceus Reactor
+Button/Name/ResearchTransformationServos=研發變形伺服系統 /// Research Transformation Servos
+Button/Name/RipField=脈衝光束 /// Pulsar Beam
+Button/Name/TempestRangeUpgrade=研發量子反應爐 /// Research Quantum Reactor
+Button/Name/TemporalField=時空扭曲 /// Time Warp
+Button/Name/TerranVehicleAndShipPlatingLevel1=升級載具和船艦的合金板等級1 /// Upgrade Vehicle and Ship Plating Level 1
+Button/Name/TerranVehicleAndShipPlatingLevel2=升級載具和船艦的合金板等級2 /// Upgrade Vehicle and Ship Plating Level 2
+Button/Name/TerranVehicleAndShipPlatingLevel3=升級載具和船艦的合金板等級3 /// Upgrade Vehicle and Ship Plating Level 3
+Button/Name/TerranVehicleAndShipWeaponsLevel1=升級載具和船艦的武器等級1 /// Upgrade Vehicle and Ship Weapons Level 1
+Button/Name/TerranVehicleAndShipWeaponsLevel2=升級載具和船艦的武器等級2 /// Upgrade Vehicle and Ship Weapons Level 2
+Button/Name/TerranVehicleAndShipWeaponsLevel3=升級載具和船艦的武器等級3 /// Upgrade Vehicle and Ship Weapons Level 3
+Button/Name/VoidRaySwarmDamageBoost=稜鏡校準 /// Prismatic Alignment
+Button/Name/VoidSiphon=虛空虹吸 /// Void Siphon
+Button/Name/VoidSwarmHostSpawnLocust=孵化蝗蟲
+Button/Name/VortexKO=重力井 /// Gravity Well
+Button/Name/WidowMineBioSplash=哨兵飛彈
+Button/Tooltip/ArmorpiercingMode=啟用雷神的250毫米制裁者加農砲，可對單一的空中單位造成重大傷害。 /// Activates the Thor's 250mm Punisher Cannons. Punisher cannons strike a single air target for heavy damage.
+Button/Tooltip/Armory=提供軍工廠和星際港單位的武器和裝甲升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓軍工廠可建造戰狼<n/>- 讓軍工廠可建造雷神 /// Contains weapon and armor upgrades for Factory and Starport units. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellbat at the Factory<n/>- Thor at the Factory
+Button/Tooltip/BanelingNest=提供毒爆蟲的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓異化蟲可變形為毒爆蟲 /// Contains an upgrade for Banelings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Banelings from Zerglings
+Button/Tooltip/Barracks=步兵生產設施。<n/><n/><c val="ffff8a">功能：</c><n/>- 可生產陸戰隊<n/>- 可生產死神<n/>- 讓太空工程車可建造碉堡<n/>- 讓指揮中心可升級為星軌指揮總部 /// Infantry-production facility.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marines<n/>- Reapers<n/>- Bunkers from SCVs<n/>- Orbital Commands from Command Centers
+Button/Tooltip/BlindingCloud=製造一片可持續<d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/>秒的毒霧，在毒霧中的地面單位和建築的攻擊範圍降低為近戰範圍。 /// Creates a cloud for <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> seconds that reduces attack range of ground units and structures underneath to melee range.
+Button/Tooltip/BuildTechLabFactory=研發載具科技的建築。科技實驗室適用於任何生產類建築。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造攻城坦克<n/>- 可建造雷神，需具備兵工廠 /// Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Thor with Armory
+Button/Tooltip/BurrowProtector=製造一片可持續<d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/>秒的毒霧，在毒霧中的地面單位攻擊射程降低為近戰範圍。 /// Creates a cloud for <d ref="(Effect,BlindingCloudCP,PeriodCount + 1) * Effect,BlindingCloudCP,PeriodicPeriodArray[0]"/> seconds that reduces attack range of ground units under it to melee range.
+Button/Tooltip/CollapsibleRockTower=可被摧毀的石堆，可用以截斷通往新的區域或資源地點的進出路徑。 /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerDebris=摧毀此障礙物後可前往新的區域。 /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDebrisRampLeft=摧毀此障礙物後可前往新的區域。 /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDebrisRampRight=摧毀此障礙物後可前往新的區域。 /// A barrier that can be destroyed to allow access to new areas.
+Button/Tooltip/CollapsibleRockTowerDiagonal=可被摧毀的石堆，可用以截斷通往新的區域或資源地點的進出路徑。 /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerDoubleWide=可被摧毀的石堆，可用以截斷通往新的區域或資源地點的進出路徑。 /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerRampLeft=可被摧毀的石堆，可用以截斷通往新的區域或資源地點的進出路徑。 /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CollapsibleRockTowerRampRight=可被摧毀的石堆，可用以截斷通往新的區域或資源地點的進出路徑。 /// A tower that can be destroyed to prevent access to new areas or resource locations.
+Button/Tooltip/CombatAwareness=讓死神的視野可遍及山崖上方和被地形遮擋住的地方。 /// Allows Reapers to see up cliffs and through terrain that would normally block line of sight.
+Button/Tooltip/CombatDrugs=脫離戰鬥後可迅速恢復生命值。 /// Regenerates life quickly while out of combat.
+Button/Tooltip/CyberneticsCore=提供神族空中單位的武器與裝甲升級，以及空間之門的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓傳送門可躍傳追獵者<n/>- 讓傳送門可躍傳哨衛<n/>- 讓星核可躍傳母艦核心 /// Contains weapon and armor upgrades for Protoss air units and the Warp Gate upgrade.<n/><n/><c val="ffff8a">Enables:</c><n/>- Stalkers at the Gateway<n/>- Sentries at the Gateway<n/>- Mothership Core at the Nexus
+Button/Tooltip/EvolutionChamber=提供蟲族地面單位的升級。 /// Contains upgrades for Zerg ground units. 
+Button/Tooltip/EvolveFlyingLocusts=讓百生獸孵化出來的蝗蟲具備飛行能力。飛行蝗蟲可以使用俯衝降落地面展開攻擊。
+Button/Tooltip/ExitPurifyMode=此單位正退出淨化模式。 /// This unit is exiting Purify mode.
+Button/Tooltip/ExplosiveMode=雷神將搭載標槍飛彈發射器，標槍飛彈可對附近的空中單位造成擴散傷害，並且可對輕甲單位造成額外傷害。 /// Arms the Thor's Javelin missile launchers. Javelin missiles deal splash damage to nearby air units and additional damage vs. light units.
+Button/Tooltip/FaceEmbrace=將目標單位拉到飛蟒的所在位置。 /// Pulls target unit to the location of the Viper.
+Button/Tooltip/Factory=載具生產設施。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造惡狼<n/>- 可建造寡婦詭雷 /// Vehicle-production facility. <n/><n/><c val="ffff8a">Enables:</c><n/>- Hellions<n/>- Widow Mines
+Button/Tooltip/FleetBeacon=提供鳳凰戰機和航空母艦的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓星際之門可躍傳暴風艦</n>- 讓星際之門可躍傳航空母艦<n/>- 讓母艦核心可升級為聖母艦 /// Contains upgrades for Phoenixes and Carriers.<n/><n/><c val="ffff8a">Enables:</c><n/>- Tempests at the Stargate</n>- Carriers at the Stargate<n/>- Mothership from the Mothership Core
+Button/Tooltip/FlyingLocusts=百生獸孵化出來的蝗蟲具備飛行能力。飛行蝗蟲可以使用俯衝降落地面展開攻擊。
+Button/Tooltip/Frenzied=對緩速、昏迷、心靈控制及移動變更效果免疫。
+Button/Tooltip/FungalGrowth=使目標單位無法移動並在4秒內造成<d ref="(Behavior,FungalGrowth,Duration / Behavior,FungalGrowth,Period) * Effect,FungalGrowthDamage,Amount"/>點傷害。可使匿蹤或遁地的單位現形。
+Button/Tooltip/GhostAcademy=可建造幽靈特務使用的核彈。提供幽靈特務的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓兵營可訓練幽靈特務
+Button/Tooltip/HealUpgraded=治療一名友方生物目標。<n/><n/><c val="f078ff">每1點能量治療5點生命值。</c>
+Button/Tooltip/Hive=高度進化後的孵化所，可使用更多升級和建造更多建築，同時還可孵化所有蟲族單位，以及接收採集的資源。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓幼蟲可變形為飛蟒 /// Further evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/><c val="ffff8a">Enables:</c><n/>- Vipers from Larvae
+Button/Tooltip/HunterSeekerMissile=部署導引飛彈，飛彈會在<d ref="Mover,HunterSeekerMissile,MotionPhases[0].Timeout+Mover,HunterSeekerMissile,MotionPhases[1].Timeout"/>秒後啟動，追擊目標單位，擊中時可造成<d ref="Effect,SeekerMissileDamage,Amount"/>點擴散傷害。 /// Deploys a Seeker Missile which activates after <d ref="Mover,HunterSeekerMissile,MotionPhases[0].Timeout+Mover,HunterSeekerMissile,MotionPhases[1].Timeout"/> seconds and pursues the target unit, dealing <d ref="Effect,SeekerMissileDamage,Amount"/> splash damage upon contact.
+Button/Tooltip/Lair=進化後的孵化所，可使用更多升級和建造更多建築，同時還可孵化所有蟲族單位，以及接收採集的資源。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓王蟲可變形為監察王蟲 /// Evolved version of the Hatchery that allows additional upgrades and structures to be produced. Also spawns all Zerg units and receives gathered resources.<n/><n/><c val="ffff8a">Enables:</c><n/>- Overseers from Overlords
+Button/Tooltip/LightofAiur=讓先知艦可偵測匿蹤、遁地及幻影單位，持續60秒。 /// Allows the Oracle to detect cloaked, burrowed, and hallucinated units for 60 seconds.
+Button/Tooltip/LocustMPFlying=生命短暫但是相當強韌的危險生物。<n/><n/><c val="#ColorAttackInfo">可攻擊地面單位。</c>
+Button/Tooltip/LocustMPFlyingSwoop=命令蝗蟲降落在目標地點，展開攻擊。
+Button/Tooltip/Medivac=空中運輸單位。可治療附近的生物單位，以及使用後燃器。 /// Air transport. Heals nearby biological units. Can use Afterburners.
+Button/Tooltip/MedivacSpeedBoost=醫療艇的移動速度提高70%，持續8秒。 /// Increases the Medivac's movement speed by 70% for 8 seconds.
+Button/Tooltip/MorphToMothership=升級至聖母艦。可使用群體召喚和時空扭曲，並且可使附近的單位和建築進入匿蹤狀態。 /// Upgrades into the Mothership. Can use Mass Recall and Time Warp. Cloaks nearby units and structures.
+Button/Tooltip/Mothership=終極的神族戰艦。可使用群體召喚及時空扭曲。 <n/><n/><c val="ffff8a">可攻擊地面及空中單位。 </c> /// Ultimate Protoss vessel. Can use Mass Recall and Time Warp abilities.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/MothershipCore=機動飛行單位。可使用光子充能、群體召喚以及時空扭曲。<n/> <n/>可升級為聖母艦。<n/><n/><c val="#ColorAttackInfo">可攻擊地面單位。</c> /// Mobile Flying Caster. Can use Photon Overcharge, Mass Recall and Time Warp abilities. Can upgrade into the Mothership.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/MothershipCoreMassRecall=將母艦核心和其周圍屬於玩家的所有單位傳送至目標星核。 /// Teleports the Mothership Core and all nearby units owned by the player to the targeted Nexus.
+Button/Tooltip/MothershipCoreWeapon=為目標星核的凱達林水晶充能，將其轉化為一個威力強大的遠程武器，該武器可持續<d ref="Behavior,Purify,Duration[0]"/>秒，並且造成<d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/>點傷害。 /// Energizes the target Nexus's khaydarin crystal, turning it into a powerful long-range weapon for <d ref="Behavior,Purify,Duration[0]"/> seconds that deals <d ref="Effect,MothershipCoreWeaponDamage,Amount[0]"/> damage.
+Button/Tooltip/MothershipMassRecall=將聖母艦和其周圍屬於玩家的所有單位傳送至目標星核。 /// Teleports the Mothership and all nearby units owned by the player to the targeted Nexus.
+Button/Tooltip/MutaliskRegeneration=飛螳恢復生命值的速度比大多數的蟲族單位來得快。 /// The Mutalisk regenerates life faster than most zerg units.
+Button/Tooltip/NydusNetwork=友方地面單位可使用蟲殖地網，立即前往該玩家擁有的其他地下蠕蟲或蟲殖地網所在地點。<n/><n/><c val="ffff8a">功能：</c><n/>- 可召喚地下蠕蟲 /// Friendly ground units can use the Nydus Network to instantly travel to any other Nydus Network or Nydus Worm owned by the player.<n/><n/><c val="ffff8a">Enables:</c><n/>- Nydus Worm
+Button/Tooltip/Oracle=可施放技能的空中單位，能使用天啟、預見和脈衝光束。 /// Flying Caster. Can use Revelation, Envision, and Pulsar Beam.
+Button/Tooltip/OracleRevelation=獲得目標區域中敵方和中立單位及建築的視野，持續<d ref="Behavior,OracleRevelationController,Duration"/>秒。匿蹤或遁地的單位和建築則不受影響。 /// Causes enemy and neutral units and structures within the target area to grant vision for <d ref="Behavior,OracleRevelationController,Duration"/> seconds. Does not affect cloaked or burrowed units and structures.
+Button/Tooltip/OracleWeaponOff=關閉先知艦的脈衝光束，使其無法攻擊。 /// Deactivates the Oracle's Pulsar Beam and prevents it from attacking.
+Button/Tooltip/OracleWeaponOn=為先知艦的脈衝光束充能，使其能攻擊敵方地面單位。<n/><n/><c val="f078ff">每秒消耗<d ref="-1 * (Behavior,OracleWeapon,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/>點能量。</c> /// Charges the Oracle's Pulsar Beam and allows it to attack enemy ground units.<n/><n/><c val="f078ff">Drains <d ref="-1 * (Behavior,OracleWeapon,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> energy per second.</c>
+Button/Tooltip/PhaseShield=保護目標區域中的友方單位，使其免於有害效果的影響，持續5秒。 /// Protects friendly units within target area from harmful effects for 5 seconds.
+Button/Tooltip/PointDefense=自動化防禦雷射，可攔截敵方的砲彈。<n/><n/>可有效對抗：掠奪者、維京戰機、女妖轟炸機、戰巡艦、雷神、飛彈砲台、追獵者、鳳凰戰機、暴風艦、光子加農砲、母艦核心、星核、后蟲、飛螳、腐化飛蟲、刺蛇、蝗蟲及孢子爬行蟲。<n/><n/><c val="f078ff">每發消耗10點能量。</c> /// Automated defensive laser that intercepts enemy projectiles.<n/><n/>Effective against Marauders, Vikings, Banshees, Battlecruisers, Thors, Missile Turrets, Stalkers, Phoenixes, Tempests, Photon Cannons, Mothership Cores, Nexus, Queens, Mutalisks, Corruptors, Hydralisks, Locusts, and Spore Crawlers.<n/><n/><c val="f078ff">Each shot consumes 10 energy.</c>
+Button/Tooltip/PulsarCannon=發射一道不穩定的中子集束脈衝光攻擊一個敵方地面單位，造成<d ref="Effect,PulsarShotDamage,Amount[0]"/>點（對輕甲單位+<d ref="Effect,PulsarShotDamage,Amount[0]+Effect,PulsarShotDamage,AttributeBonus[Light]<n/>"/>點）傷害。 /// Fires a concentrated blast of unstable neutrons at an enemy ground unit. Deals <d ref="Effect,PulsarShotDamage,Amount[0]"/> (<d ref="Effect,PulsarShotDamage,Amount[0]+Effect,PulsarShotDamage,AttributeBonus[Light]<n/>"/> vs. Light) damage.
+Button/Tooltip/Raven=空中支援單位。可部署自動砲台、定點防禦無人機和導引飛彈。<n/><n/><c val="FFE303">偵測單位</c> /// Aerial support unit. Can use Auto-Turret, Point Defense Drone, and Seeker Missile.<n/><n/><c val="FFE303">Detector</c>
+Button/Tooltip/Reaper=突擊兵，可跳上或跳下山崖。在非戰鬥狀態下可迅速恢復生命值。<n/><n/><c val="#ColorAttackInfo">可攻擊地面單位。 </c> /// Raider. Can jump up and down cliffs. Regenerates life quickly while out of combat. <n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>
+Button/Tooltip/ReaperSpeed=提高死神的移動速度。 /// Increases the movement speed of Reapers.
+Button/Tooltip/ResearchDrillClaws=讓寡婦詭雷遁地啟動的速度為原來的3倍。 /// Allows Widow Mines to burrow and activate three times as fast.
+Button/Tooltip/ResearchDurableMaterials=延長渡鴉自動砲台和定點防禦無人機的持續時間。 /// Extends the timed duration of Raven Auto-Turrets and Point Defense Drones.
+Button/Tooltip/ResearchHighCapacityBarrels=改良惡狼的地獄火焰發射器，對輕甲單位的傷害提高5點。戰狼的烈焰噴射對輕甲單位的傷害提高12點。 /// Improves the Hellion's Infernal Flamethrower to deal +5 damage vs. light units and the Hellbat's Napalm Spray to deal +12 damage vs. light units.
+Button/Tooltip/ResearchLocustLifetimeIncrease=蝗蟲的生命延長<d ref="Upgrade,LocustLifetimeIncrease,EffectArray[0].Value"/>秒。 /// Increases the lifetime of Locusts by <d ref="Upgrade,LocustLifetimeIncrease,EffectArray[0].Value"/> seconds.
+Button/Tooltip/ResearchMedivacEnergyUpgrade=提高醫療艇的初始能量值<d ref="Upgrade,MedivacCaduceusReactor,EffectArray[0].Value"/>點。 /// Increases the starting energy of Medivacs by <d ref="Upgrade,MedivacCaduceusReactor,EffectArray[0].Value"/>.
+Button/Tooltip/ResearchSeekerMissile=讓渡鴉可使用導引飛彈。導引飛彈會在<d ref="Behavior,SeekerMissileTimeout,Duration[0]"/>秒後啟動，若目標仍位於射程範圍內，會對其造成<d ref="Effect,SeekerMissileDamage,Amount"/>點傷害。 /// Enables Ravens to use the Seeker Missile armament. This missile activates after <d ref="Behavior,SeekerMissileTimeout,Duration[0]"/> seconds, dealing <d ref="Effect,SeekerMissileDamage,Amount"/> AoE damage to the target if they are still within range.
+Button/Tooltip/ResearchTransformationServos=可自由切換惡狼模式或戰狼模式。變形為惡狼模式時，是行動迅速的偵察單位；變形為戰狼模式時，則是近程戰鬥單位。 /// Allows Hellions and Hellbats to transform between modes freely. In Hellion mode they are fast scouts, but by activating Hellbat mode they become close range combat units.
+Button/Tooltip/RipField=以脈衝光束攻擊建築，這種不穩定的中子光束每<d ref="Effect,RipFieldCreatePersistent,PeriodicPeriodArray[0]"/>秒會造成<d ref="Effect,RipFieldDamage,Amount"/>點傷害。<n/><n/><c val="f078ff">每秒消耗<d ref="-1 * (Behavior,PulsarBeam,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/>點能量。</c> /// Attacks structures with a concentrated beam of unstable neutrons. The Pulsar Beam deals <d ref="Effect,RipFieldDamage,Amount"/> damage every <d ref="Effect,RipFieldCreatePersistent,PeriodicPeriodArray[0]"/> second.<n/><n/><c val="f078ff">Drains <d ref="-1 * (Behavior,PulsarBeam,Modification.VitalRegenArray[2] + Unit,Oracle,EnergyRegenRate)" precision="1"/> energy per second.</c>
+Button/Tooltip/Sentry=能量操控單位。可使用力場及守衛者護盾和產生幻影分身。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Energy-manipulator unit. Can use Force Field, Guardian Shield, and Hallucination.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/SiegeTank=重型坦克，可轉換為攻城模式以提供遠距離砲火支援。<n/><n/><c val="FFFF8A">可攻擊地面單位。</c> /// Heavy tank. Can switch into Siege Mode to provide long-range artillery support.<n/><n/><c val="FFFF8A">Can attack ground units.</c>
+Button/Tooltip/Snipe=精準一擊，造成<d ref="Effect,SnipeDamage,Amount"/>點（對幽能單位造成<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/>點）傷害，無視裝甲。<n/><n/><c val="#ColorAttackInfo">只能以生物單位為目標。</c> /// A careful shot, dealing <d ref="Effect,SnipeDamage,Amount"/> (<d ref="Effect,SnipeDamage,Amount + Effect,SnipeDamage,AttributeBonus[5]"/> vs. Psionic) damage. Ignores armor.<n/><n/><c val="#ColorAttackInfo">Can only target biological units.</c>
+Button/Tooltip/SpawningPool=提供異化蟲的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓孵化所、蟲穴或蟲巢可生產后蟲<n/>- 讓幼蟲可變形為異化蟲<n/>- 讓工蟲可突變為孢子爬行蟲<n/>- 讓工蟲可突變為脊刺爬行蟲 /// Contains upgrades for Zerglings.<n/><n/><c val="ffff8a">Enables:</c><n/>- Queens at the Hatchery, Lair, or Hive<n/>- Zerglings from Larvae<n/>- Spine Crawlers from Drones<n/>- Spore Crawlers from Drones
+Button/Tooltip/Stargate=可躍傳神族的空中單位。<n/><n/><c val="ffff8a">功能：</c><n/>- 可躍傳鳳凰戰機<n/>- 可躍傳虛空艦<n/>- 可躍傳先知艦 /// Warps in Protoss air units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Phoenixes<n/>- Void Rays<n/>- Oracles
+Button/Tooltip/SwarmHostMP=攻城單位，可以孵化蝗蟲來攻擊敵人。<n/><n/><c val="#ColorAttackInfo">蝗蟲可以攻擊地面單位。</c>
+Button/Tooltip/TechLabBarracks=研發步兵科技的建築。科技實驗室適用於任何生產類建築。<n/><n/><c val="ffff8a">功能：</c><n/>- 可訓練掠奪者<n/>- 如有幽靈特務學院則可訓練幽靈特務 /// Infantry-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Marauders<n/>- Ghosts with Ghost Academy
+Button/Tooltip/TechLabFactory=研發載具科技的建築。科技實驗室適用於任何生產類建築。<n/><n/><c val="ffff8a">功能：</c><n/>- 可建造攻城坦克<n/>- 可建造雷神，需具備兵工廠 /// Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Thor with Armory
+Button/Tooltip/TempestRangeUpgrade=讓暴風艦能量超載，提高對重甲單位的傷害30點。 /// Hypercharges the Tempest's Overload to deal +30 damage vs. massive units.
+Button/Tooltip/TemporalField=扭曲目標區域的時空，持續<d ref="Effect,TemporalFieldCreatePersistent,PeriodCount*Effect,TemporalFieldCreatePersistent,PeriodicPeriodArray[0]"/>秒。進入該力場的敵方地面單位其移動速度會降低<d ref="(1-Behavior,TemporalField,Modification.MoveSpeedMultiplier)*100"/>%。
+Button/Tooltip/TerranVehicleAndShipPlatingLevel1=升級軍工廠和星際港所建造單位的裝甲。 /// Upgrades the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel2=進一步升級軍工廠和星際港所建造單位的裝甲。 /// Further upgrades the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipPlatingLevel3=使軍工廠和星際港所建造單位的裝甲達最大值。 /// Maximizes the armor of units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel1=升級軍工廠和星際港所建造單位的傷害。 /// Upgrades the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel2=進一步升級軍工廠和星際港所建造單位的攻擊傷害。 /// Further upgrades the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/TerranVehicleAndShipWeaponsLevel3=使軍工廠和星際港所建造單位的攻擊傷害達最大值。 /// Maximizes the damage dealt by units built at a Factory or Starport.
+Button/Tooltip/Thor=重型突擊機械，其飛彈發射器可發射高衝擊彈或爆炸彈。<n/><n/><c val="ffff8a">可攻擊地面和空中單位。</c> /// Heavy assault mech. Can alter between High Impact and Explosive Payloads.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
+Button/Tooltip/Ultralisk=重型突擊獸。具備範圍攻擊能力。<n/><n/><c val="ffff8a">可攻擊地面單位。</c> /// Heavy assault beast. Has an area-damage attack.<n/><n/><c val="ffff8a">Can attack ground units.</c>
+Button/Tooltip/UltraliskCavern=提供雷獸的升級。<n/><n/><c val="ffff8a">功能：</c><n/>- 讓幼蟲可變形為雷獸 /// Contains an upgrade for Ultralisks.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ultralisks from Larvae
+Button/Tooltip/ViperConsume=附著在目標建築上，造成<d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/>點傷害，每秒為飛螳恢復2.5點能量值。<n/><n/><c val="#ColorAttackInfo">無法以盟友或敵方的建築為目標。</c> /// Latches onto the target structure, dealing <d ref="-1 * (Effect,ViperConsumeStructureModifyTarget,VitalArray[0].Change * Effect,ViperConsumeStructureCreatePersistent,PeriodCount)"/> damage and restoring 2.5 energy to the Viper every second.<n/><n/><c val="#ColorAttackInfo">Cannot target allied or enemy structures.</c>
+Button/Tooltip/VoidRay=擅長執行精準打擊的飛行單位。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Surgical strike craft.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/VoidRaySwarmDamageBoost=重新校準虛空艦的稜鏡光束，使其對重甲單位造成的傷害提高<d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/>點，持續<d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/>秒。 /// Realigns the Void Ray's Prismatic Beam to gain +<d ref="Behavior,VoidRaySwarmDamageBoost,Modification[0].DamageDealtAttributeScaled[Armored]"/> damage vs. armored units for <d ref="Behavior,VoidRaySwarmDamageBoost,Duration[0]"/> seconds.
+Button/Tooltip/VoidSiphon=從敵方建築虹吸晶礦，對該建築造<d ref="Effect,OracleVoidSiphonDamage,Amount[0]"/>點傷害，且每秒可製造<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[Minerals]"/>個單位的晶礦 /// Siphons minerals from an enemy structure, dealing <d ref="Effect,OracleVoidSiphonDamage,Amount[0]"/> damage and generating <d ref="Effect,OracleVoidSiphonAddMinerals,Resources[Minerals]"/> minerals every second.
+Button/Tooltip/VoidSiphonText=<s val="Kicker_Minerals">+<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[0]"/> </s> /// <s val="Kicker_Minerals">+<d ref="Effect,OracleVoidSiphonAddMinerals,Resources[0]"/> </s>
+Button/Tooltip/VoidSwarmHostSpawnLocust=孵化2隻蝗蟲，蝗蟲只能生存<d ref="Behavior,LocustMPTimedLife,Duration"/>秒。<n/><n/><c val="#ColorAttackInfo">可攻擊地面單位。</c>
+Button/Tooltip/VortexKO=在目標單位所在位置產生一個強烈的重力力場，可立即摧毀目標。<n/><n/><c val="#ColorAttackInfo">對巨型單位無效。</c> /// Creates a field of intense gravity around the target unit that destroys it instantly.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>
+Button/Tooltip/WidowMine=機械詭雷，可在遁地狀態下發射飛彈至附近的敵方單位，並對目標周圍的一小片範圍造成擴散傷害。<n/><n/><c val="#ColorAttackInfo">可攻擊地面及空中單位。</c> /// Robotic mine. Launches missiles at nearby enemy units while burrowed. Attacks deal splash damage in a small area around the target. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>
+Button/Tooltip/WidowMineBioSplash=會對過於靠近的敵方地面及空中單位發射飛彈攻擊。飛彈會對主要目標造成<d ref="Effect,WidowMineExplodeDirect,Amount"/>點（對護盾＋<d ref="Effect,WidowMineExplodeSplashShields,VitalBonus[Shields]"/>點）傷害，對附近的單位造成<d ref="Effect,WidowMineExplodeSplash,Amount"/>點擴散傷害。<n/><n/><c val="#ColorAttackInfo">冷卻時間：<d ref="Abil,WidowMineAttack,Cost[0].Cooldown[0].TimeUse[0]"/>秒。</c>
+Button/Tooltip/WidowMineUnburrow=讓寡婦詭雷關閉武器系統鑽出地面，然後恢復移動能力。 /// Unburrows the Widow Mine and deactivates its weapon, allowing it to move.
+CantTargetCreepTumor=無法以蟲苔瘤為目標 /// Can't target Creep Tumors
+Error/CantTargetRecalling=無法以召喚中的單位為目標 /// Can't target recalling units
+Error/MothershipCorePurifyNexus=無法以附加於建築上的母艦核心為目標。 /// Can't target attached Mothership Core
+Error/PulsarRequiresMoreEnergy=能量不足。 /// Not enough Energy.
+LoadingScreen/Help35=虛空艦的「稜鏡校準」能力可讓它們在短時間內對重甲單位造成的傷害提高。使用這個技能將你對建築物和重甲類型敵人造成的傷害最大化。 /// The Void Ray's Prismatic Alignment ability grants them additional damage vs. armored units for a short period.  Activate it to deal maximum damage against structures and armored enemies.
+RequirementNode/Tooltip/CountUnitArmoryCompleteOnly609241497TechTreeCheat=兵工廠 /// Armory
+RequirementNode/Tooltip/CountUnitHiveCompleteOnly1229866228=蟲巢 /// Hive
+RequirementNode/Tooltip/CountUnitLairCompleteOnly1515591279=蟲穴 /// Lair
+RequirementNode/Tooltip/CountUpgradeFlyingLocustsCompleteOnly3740435714=在感染巢進化飛行蝗蟲。
+RequirementNode/Tooltip/CountUpgradeTransformationServosCompleteOnly3716496382TechTreeCheat=在軍工廠的科技實驗室研發變形伺服系統 /// Research Transformation Servos at the Factory Tech Lab
+RequirementNode/Tooltip/Eq1256514689CountUpgradeTerranVehicleAndShipWeaponsLevel1CompleteOnly1=人類載具和船艦的武器等級1 /// Terran Vehicle And Ship Weapons Level 1
+RequirementNode/Tooltip/Eq2326683880CountUpgradeTerranVehicleAndShipArmorsLevel2CompleteOnly1=人類載具和船艦的合金板等級2 /// Terran Vehicle And Ship Plating Level 2
+RequirementNode/Tooltip/Eq514164946CountUpgradeTerranVehicleAndShipWeaponsLevel2CompleteOnly1=人類載具和船艦的武器等級2 /// Terran Vehicle And Ship Weapons Level 2
+RequirementNode/Tooltip/Eq611800619CountUpgradeTerranVehicleAndShipArmorsLevel1CompleteOnly1=人類載具和船艦的合金板等級1 /// Terran Vehicle And Ship Plating Level 1
+RequirementNode/Tooltip/GTE3238024024CountBehaviorArmorpiercingModeCompleteOnlyAtUnit1=未使用爆裂飛彈 /// Not using Explosive Missiles
+RequirementNode/Tooltip/LT2314084817CountBehaviorArmorpiercingModeCompleteOnlyAtUnit1=未使用護甲穿透飛彈 /// Not using Armor-piercing Missiles
+RequirementNode/Tooltip/Or1515591279=蟲穴 /// Lair
+RequirementNode/Tooltip/Or1515591279CountUnitLairCompleteOnlyTechTreeCheatCountUnitHiveCompleteOnlyTechTreeCheat=蟲穴
+RequirementNode/Tooltip/Or1515591279TechTreeCheatCountUnitLairCompleteOnly1515591279CountUnitHiveCompleteOnly1229866228=蟲穴 /// Lair
+Unit/Name/CollapsibleRockTower=石堆 /// Rock Tower
+Unit/Name/CollapsibleRockTowerDebris=岩石 /// Rocks
+Unit/Name/CollapsibleRockTowerDiagonal=石堆 /// Rock Tower
+Unit/Name/CollapsibleRockTowerDoubleWide=石堆 /// Rock Tower
+Unit/Name/CollapsibleRockTowerPushUnit=岩石 /// Rocks
+Unit/Name/CreepBlocker4x4=動態蟲苔障礙物 4x4 /// Dynamic Creep Blocker 4x4
+Unit/Name/CreepBlocker8x8=動態蟲苔障礙物 8x8 /// Dynamic Creep Blocker 8x8
+Unit/Name/DesertPlanetSearchlight=探照燈 /// Searchlight
+Unit/Name/DesertPlanetStreetlight=路燈 /// Streetlight
+Unit/Name/DestructibleCityDebris2x4Horizontal=碎塊 /// Debris
+Unit/Name/DestructibleCityDebris2x4Vertical=碎塊 /// Debris
+Unit/Name/DestructibleCityDebris2x6Horizontal=碎塊 /// Debris
+Unit/Name/DestructibleCityDebris2x6Vertical=碎塊 /// Debris
+Unit/Name/DestructibleCityDebris4x4=碎塊 /// Debris
+Unit/Name/DestructibleCityDebris6x6=碎塊 /// Debris
+Unit/Name/DestructibleCityDebrisHugeDiagonalBLUR=碎塊 /// Debris
+Unit/Name/DestructibleCityDebrisHugeDiagonalULBR=碎塊 /// Debris
+Unit/Name/DestructibleDebris4x4=碎塊 /// Debris
+Unit/Name/DestructibleDebris6x6=碎塊 /// Debris
+Unit/Name/DestructibleDebrisRampDiagonalHugeBLUR=碎塊 /// Debris
+Unit/Name/DestructibleDebrisRampDiagonalHugeULBR=碎塊 /// Debris
+Unit/Name/DestructibleIce2x4Horizontal=冰岩 /// Ice
+Unit/Name/DestructibleIce2x4Vertical=冰岩 /// Ice
+Unit/Name/DestructibleIce2x6Horizontal=冰岩 /// Ice
+Unit/Name/DestructibleIce2x6Vertical=冰岩 /// Ice
+Unit/Name/DestructibleIce4x4=冰岩 /// Ice
+Unit/Name/DestructibleIce6x6=冰岩 /// Ice
+Unit/Name/DestructibleIceDiagonalHugeBLUR=冰岩 /// Ice
+Unit/Name/DestructibleIceDiagonalHugeULBR=冰岩 /// Ice
+Unit/Name/DestructibleIceHorizontalHuge=冰岩 /// Ice
+Unit/Name/DestructibleIceVerticalHuge=冰岩動能 /// Icekinetic
+Unit/Name/DestructibleRampDiagonalHugeBLUR=岩石 /// Rocks
+Unit/Name/DestructibleRampDiagonalHugeULBR=岩石 /// Rocks
+Unit/Name/DestructibleRampHorizontalHuge=岩石 /// Rocks
+Unit/Name/DestructibleRampVerticalHuge=岩石 /// Rocks
+Unit/Name/DestructibleRock2x4Horizontal=岩石 /// Rocks
+Unit/Name/DestructibleRock2x4Vertical=岩石 /// Rocks
+Unit/Name/DestructibleRock2x6Horizontal=岩石 /// Rocks
+Unit/Name/DestructibleRock2x6Vertical=岩石 /// Rocks
+Unit/Name/DestructibleRock4x4=岩石 /// Rocks
+Unit/Name/DestructibleRock6x6=岩石 /// Rocks
+Unit/Name/DestructibleRock6x6Weak=岩石 /// Rocks
+Unit/Name/DestructibleRockEx12x4Horizontal=岩石 /// Rocks
+Unit/Name/DestructibleRockEx12x4Vertical=岩石 /// Rocks
+Unit/Name/DestructibleRockEx12x6Horizontal=岩石 /// Rocks
+Unit/Name/DestructibleRockEx12x6Vertical=岩石 /// Rocks
+Unit/Name/DestructibleRockEx14x4=岩石 /// Rocks
+Unit/Name/DestructibleRockEx16x6=岩石 /// Rocks
+Unit/Name/DestructibleRockEx1DiagonalHugeBLUR=岩石 /// Rocks
+Unit/Name/DestructibleRockEx1DiagonalHugeULBR=岩石 /// Rocks
+Unit/Name/DestructibleRockEx1HorizontalHuge=岩石 /// Rocks
+Unit/Name/DestructibleRockEx1VerticalHuge=岩石 /// Rocks
+Unit/Name/DestructibleStatue4x4=雕像 /// Statue
+Unit/Name/DestructibleStatueRubble=瓦礫 /// Rubble
+Unit/Name/DestructibleWall45=通道 /// Walkway
+Unit/Name/DestructibleWall45GateEast=通道 /// Walkway
+Unit/Name/DestructibleWall45GateWest=通道 /// Walkway
+Unit/Name/DestructibleWall45Inner=通道 /// Walkway
+Unit/Name/DestructibleWall45Outer=通道 /// Walkway
+Unit/Name/DestructibleWall45Ramp=通道 /// Walkway
+Unit/Name/DestructibleWall90=通道 /// Walkway
+Unit/Name/DestructibleWall90Inner=通道 /// Walkway
+Unit/Name/DestructibleWall90Outer=通道 /// Walkway
+Unit/Name/DestructibleZerusTree=樹 /// Tree
+Unit/Name/HellionTank=戰狼 /// Hellbat
+Unit/Name/LocustMPFlying=蝗蟲
+Unit/Name/OracleWeapon=先知艦 - 武器 /// Oracle Weapon
+Unit/Name/RepulsorCannonWeapon=驅逐加農砲 - 武器 /// Repulsor Cannon Weapon
+Unit/Name/SeekerMissile=導引飛彈 /// Seeker Missile
+Unit/Name/ShakurasDestructible1x1=岩石 /// Rock
+Unit/Name/ShakurasDestructible1x2=岩石 /// Rock
+Unit/Name/ShakurasDestructible2x2=岩石 /// Rock
+Unit/Name/TempestWeaponGround=暴風艦 - 武器（對地） /// Tempest Weapon (Ground)
+Unit/Name/ThorAALance=雷神 - 對空（長矛飛彈） /// Thor AA (Lance)
+Unit/Name/UnbuildableBricksDestructible=磚塊 /// Bricks
+Unit/Name/UnbuildableBricksDestructibleHighlightTooltip=攻擊此物即可將其摧毀 /// Attack this to destroy it
+Unit/Name/UnbuildablePlatesDestructible=金屬板 /// Plates
+Unit/Name/UnbuildablePlatesDestructibleHighlightTooltip=攻擊此物即可將其摧毀 /// Attack this to destroy it
+Unit/Name/UnbuildableRocksDestructible=岩石 /// Rocks
+Unit/Name/UnbuildableRocksDestructibleHighlightTooltip=攻擊此物即可將其摧毀 /// Attack this to destroy it
+Upgrade/Name/AnionPulseCrystals=負離子脈衝水晶 /// Anion Pulse Crystals
+Upgrade/Name/DrillClaws=鑽地爪 /// Drilling Claws
+Upgrade/Name/FlyingLocusts=飛行蝗蟲
+Upgrade/Name/TempestRangeUpgrade=量子反應爐 /// Quantum Reactor
+Upgrade/Name/TerranVehicleAndShipArmors=人類載具和船艦的合金板 /// Terran Vehicle And Ship Plating
+Upgrade/Name/TerranVehicleAndShipArmorsLevel1=人類載具和船艦的合金板等級1 /// Terran Vehicle And Ship Plating Level 1
+Upgrade/Name/TerranVehicleAndShipArmorsLevel2=人類載具和船艦的合金板等級2 /// Terran Vehicle And Ship Plating Level 2
+Upgrade/Name/TerranVehicleAndShipArmorsLevel3=人類載具和船艦的合金板等級3 /// Terran Vehicle And Ship Plating Level 3
+Upgrade/Name/TerranVehicleAndShipWeapons=人類載具和船艦的武器 /// Terran Vehicle And Ship Weapons
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel1=人類載具和船艦的武器等級1 /// Terran Vehicle And Ship Weapons Level 1
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel2=人類載具和船艦的武器等級2 /// Terran Vehicle And Ship Weapons Level 2
+Upgrade/Name/TerranVehicleAndShipWeaponsLevel3=人類載具和船艦的武器等級3 /// Terran Vehicle And Ship Weapons Level 3
+Upgrade/Name/TransformationServos=變形伺服系統 /// Transformation Servos
+Weapon/Name/LanceMissileLaunchers=250毫米制裁者加農砲 /// 250mm Punisher Cannons
+Weapon/Name/LocustMPFlyingSwoopWeapon=蝗蟲 - 多人對戰 - 飛行俯衝 - 武器
+Weapon/Name/MothershipCoreWeapon=光子充能 /// Photon Overcharge
+Weapon/Name/MothershipPurifyWeapon=光子充能 /// Photon Overcharge
+Weapon/Name/Oracle=脈衝光束 /// Pulsar Beam
+Weapon/Name/RepulsorCannon=驅逐加農砲 /// Repulsor Cannon
+Weapon/Name/RipField=脈衝光束 /// Pulsar Beam
+Weapon/Name/TempestGround=共振旋砲 /// Resonance Coil
+Weapon/Name/VoidRaySwarm=稜鏡光束 /// Prismatic Beam
+Weapon/Name/VoidRaySwarmDummy=稜鏡光束 /// Prismatic Beam
+Weapon/Name/VoidRaySwarmEnhanced=稜鏡光束 /// Prismatic Beam
+Weapon/Tip/PulsarCannon=
