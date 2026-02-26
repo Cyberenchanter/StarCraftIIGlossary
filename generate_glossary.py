@@ -57,6 +57,9 @@ def parse_file(filename, lang_code):
     print(f"Parsed {idx} terms from {filename}")
 
 if __name__ == "__main__":
+    if OUTPUT_FORMAT not in ["ini", "tsv"]:
+        print(f"Error: Invalid output format {OUTPUT_FORMAT}. Must be 'ini' or 'tsv'.")
+        exit(1)
     for mod in MOD_LIST:
         path = os.path.join("mods", mod, f"{SOURCE_LANGUAGE}.sc2data", "localizeddata", "gamestrings.txt")
         if not os.path.exists(path):
@@ -73,6 +76,8 @@ if __name__ == "__main__":
             parse_file(path, lang)
     
     output_path = f"glossary_{SOURCE_LANGUAGE}"
+    if OUTPUT_FORMAT == "tsv":
+        output_path += "_tsv"
     if TERM_ONLY:
         output_path += "_term_only"
     if ALLOW_DUPLICATE_SOURCE:
@@ -86,10 +91,17 @@ if __name__ == "__main__":
     else:
         os.mkdir(output_path)
 
-    for lang in LANGUAGE_LIST:
-        with open(os.path.join(output_path, f"{lang}.ini"), 'w', encoding='utf-8') as f:
-            f.write("[default]\n")
-            for id, translations in glossary.items():
-                if lang in translations:
-                    f.write(f"{id}={translations[lang]}\n")
+    if OUTPUT_FORMAT == "tsv":
+        for lang in LANGUAGE_LIST:
+            with open(os.path.join(output_path, f"{lang}.tsv"), 'w', encoding='utf-8') as f:
+                for id, translations in glossary.items():
+                    if lang in translations:
+                        f.write(f"{translations[SOURCE_LANGUAGE]}\t{translations[lang]}\n")
+    elif OUTPUT_FORMAT == "ini":
+        for lang in LANGUAGE_LIST:
+            with open(os.path.join(output_path, f"{lang}.ini"), 'w', encoding='utf-8') as f:
+                f.write("[default]\n")
+                for id, translations in glossary.items():
+                    if lang in translations:
+                        f.write(f"{id}={translations[lang]}\n")
 
