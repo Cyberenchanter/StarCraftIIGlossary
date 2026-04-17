@@ -1,0 +1,1019 @@
+恢复	Restitution	1
+恢复	Restore	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Mobile assault vehicle. Can use Lock On to quickly fire while moving.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Mobile assault vehicle. Can use Lock On to quickly fire while moving.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	1
+<c val="ffff8a">幽灵</c>的EMP弹的范围扩大+<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>。	Increases the radius of <c val="ffff8a">Ghost's</c> EMP Round by +<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>.	1
+<c val="ffff8a">幽灵</c>的EMP弹的范围扩大+<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>。	Increases the <c val="ffff8a">Ghost's</c> EMP Round radius by +<d ref="$UpgradeEffectArrayValue:EnhancedShockwaves:Effect,EMPSearch,AreaArray[0].Radius$" precision="1"/>.	1
+拦截机	Interceptors	3
+拦截机	Interceptor	1
+人类战车和舰船钢板等级2	Terran Vehicle And Ship Plating Level 2	1
+人类战车和舰船钢板等级2	Terran Vehicle and Ship Plating Level 2	1
+猎杀飞弹	Seeker Missile	3
+猎杀飞弹	Seeker	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Allows <c val="ffff8a">Locusts</c> spawned by Swarm Hosts to fly. Flying Locusts can use Swoop to land and attack.	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Locusts spawned by the Swarm Host can fly. Flying Locusts can use Swoop to land and attack.	1
+岩石	Rocks	12
+岩石	Rock	6
+阴离子脉冲水晶	Anion Pulse Crystals	1
+阴离子脉冲水晶	Anion Pulse-Crystals	1
+联合指挥官	Allied Commanders	1
+联合指挥官	ALLIED COMMANDERS	20
+研发	Research	2
+研发	RESEARCH	2
+攻城模式	Siege	1
+攻城模式	Siege Mode	1
+建造	Construct	1
+建造	Build	1
+迷宫式隐形迷彩	Pyrokinetic Immolation	1
+迷宫式隐形迷彩	Labyrinth Cloak	2
+研究战场辅助瞄准系统	Research Field-Assist Targeting System	1
+研究战场辅助瞄准系统	Reserach Field-Assist Targeting System	1
+导弹塔	Missile Turret	5
+导弹塔	MissileTurret	1
+大和炮	Yamato Gun	1
+大和炮	Yamato Master Blaster	2
+大和炮	Yamato Cannon	1
+大和炮	Yamato	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Powerful Royal Guard warship. Can use Yamato Cannon and Tactical Jump.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Powerful Royal Guard warship. Can use Yamato Cannon and Tactical Jump. Built from the Starport.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Warped in over a Vespene Geyser to allow harvesting of vespene gas.	2
+建造在瓦斯气泉上，用于采集高能瓦斯。	Mutated over a Vespene Geyser to allow harvesting of vespene gas.	2
+建造在瓦斯气泉上，用于采集高能瓦斯。	Built over a Vespene Geyser to allow harvesting of vespene gas.	2
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Specialized anti-air attacker. Can switch to a Laborer suit.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Specialized anti-infantry attacker. Can switch to a Laborer suit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	1
++~A~%	+~A~%	43
++~A~%	+ ~A~%	1
++~A~%	+~A~ Percent	1
+利爪	Talons	3
+利爪	Claws	5
+冲锋	Charging	1
+冲锋	Charge	2
+研究机械飞蝗截击机舱室	Research Mecha Locusceptor Bays	1
+研究机械飞蝗截击机舱室	Research Mecha Locusceptor Bay	1
+取消	Cancel	10
+取消	CANCEL	4
+爆炸	Explode	2
+爆炸	Blast	1
+回收机械雷兽	Recycle Mecha Ultralisk	1
+回收机械雷兽	Recycle Mecha Utralisk	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Further evolved version of the Mecha Hatchery that allows additional upgrades and structures to be produced. Also spawns all Mecha Zerg units and receives gathered resources.	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Evolved version of the Mecha Hatchery that allows additional upgrades and structures to be produced. Also spawns all Mecha Zerg units and receives gathered resources.	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	Allows Stetzones to grant Stetmann's units <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> Egonergy regeneration per second. Allied units gain <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> energy regeneration per second.	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	Stetzones grant Stetmann's units <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> Egonergy regeneration per second. Allied units gain <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> energy regeneration per second.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。	Allows Stetzones to grant Stetmann's units <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> life regeneration per second. Allied units gain <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> life regeneration per second.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。	Stetzones grant Stetmann's units <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> life regeneration per second. Allied units gain <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> life regeneration per second.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	Allows Stetzones to grant Stetmann's units <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% increased movement speed. Allied units gain <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>% increased movement speed.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	Stetzones grant Stetmann's units <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% increased movement speed. Allied units gain <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>% increased movement speed.	1
+在机械刺蛇巢中研究博学飞弹发射器	Research Erudition Missile Launchers at the Mecha Hydralisk Den	1
+在机械刺蛇巢中研究博学飞弹发射器	Research Erduition Missile Launchers at the Mecha Hydralisk Den	1
+机械飞蝗截击机	Mecha Locusceptor	1
+机械飞蝗截击机	Mecha Locusceptors	1
+-~A~秒	-~A~ Seconds	7
+-~A~秒	-~A~ sec	3
+-~A~秒	-~A~ seconds	2
+制造共生体	Create Symbiote	1
+制造共生体	Create Symbiotes	1
+高级建造	Advanced Construction	4
+高级建造	Advanced Build	1
+仆从机	Servitors	1
+仆从机	Servitor	1
+脉冲手雷	Pulse Grenade	2
+脉冲手雷	Pulse Grenades	1
+超级强化剂	Super Stimpack	1
+超级强化剂	Super Stim	1
+灵能风暴	Psi Storm	1
+灵能风暴	Psionic Storm	3
+支配	Domination	2
+支配	Dominate	1
+史克比的天使	Skibis Angels	3
+史克比的天使	Skibi's Angels	3
+召唤休伯利安号	Summon Hyperion	1
+召唤休伯利安号	Calls in the Hyperion	1
+巢虫领主	Broodlord	1
+巢虫领主	Brood Lord	2
+航母艾尔	Carrier Aiur	1
+航母艾尔	Colossus Aiur	1
+吞噬者	Devouring One	2
+吞噬者	Devourer	1
+维京战机	Viking	5
+维京战机	Viking Fighter	1
+凯莫瑞安工人	Kel Morian Workers	1
+凯莫瑞安工人	Kel-Morian Worker	3
+孢子爬虫	Spore Crawler	3
+孢子爬虫	Spore Crawler Weapon	1
+跳虫	Zergling	6
+跳虫	Zerglings	1
+返回主腔体。	Return to Main Chamber.	1
+返回主腔体。	Return to main chamber.	1
+求生无路	Night 2 Die	1
+求生无路	Dead of Night	1
+相位护甲	Phase Armor	1
+相位护甲	Phasing Armor	3
+隐形	Cloaking	1
+隐形	Cloaked	1
+黑暗圣堂武士召回	Dark Templar Recalling	1
+黑暗圣堂武士召回	Dark Templar Recall	1
+焦油炸弹	Tar Bomb	1
+焦油炸弹	Tar Bombs	3
+狂暴	Frenzy	2
+狂暴	Frenzied	1
+默哀	Moment of Silence	1
+默哀	Moment Of Silence	1
+生命吸取	[ph] Life Leech	2
+生命吸取	Life Leech	1
+该单位已隐形，只能被侦测单位或侦测效果发现。	This unit is cloaked and will only be revealed by detectors or effects.	2
+该单位已隐形，只能被侦测单位或侦测效果发现。	This unit is cloaked unless revealed by detectors or effects.	1
+攻击和移动速度降低。	Attack and movement speeds are slowed.	8
+攻击和移动速度降低。	Attack and movement speed reduced.	2
+攻击速度降低。	Attack speeds are slowed.	1
+攻击速度降低。	Attack speed reduced.	1
+该单位的护甲提高了。	This unit's armor is increased.	1
+该单位的护甲提高了。	This unit has increased armor.	1
+攻击速度提高。	Attack speed increased.	1
+攻击速度提高。	[PH] Attack speed increased.	1
+330毫米口径弹幕火炮	330mm Barrage Cannon	1
+330毫米口径弹幕火炮	330mm Barrage Cannons	1
+热能射线枪	Thermal Lances	7
+热能射线枪	Thermal Lance	1
+潜地冲锋	Burrow Charge	3
+潜地冲锋	Burrow Charging	1
+折跃母舰	Train Mothership	1
+折跃母舰	Warp In Mothership	1
+进化美杜莎之刃	Evolve Medusa Blades	2
+进化美杜莎之刃	Evolve Medusas Blades	1
+培育爆蚊	Scourge Incubation	1
+培育爆蚊	Incubate Scourge	1
+切割之爪	Slicing Glave	3
+切割之爪	Slicing Glaive	1
+喷气背包加力	Jet Pack Overdrive	3
+喷气背包加力	Jetpack Overdrive	1
+折跃晋升者	Warp In Ascendant	1
+折跃晋升者	Warp In Ascendent	1
+神器强化：无尽虚空	Artifact Enhancement: Infinity Void	1
+神器强化：无尽虚空	Artifact Enhancement: Infinite Void	2
+加载	Load	2
+加载	LOAD	1
+美杜莎之刃	Medusas Blades	1
+美杜莎之刃	Medusa Blades	1
+孵化虫后	Train Queen	1
+孵化虫后	Birth Queen	1
+折跃萨尔纳加禁绝者	Warp In Xel'Naga Abrogator	3
+折跃萨尔纳加禁绝者	Warp In XelNaga Abrogator	1
+修理太阳锻炉	Repair Solar Forge	1
+修理太阳锻炉	Repairs the Solar Forge.	1
+研究后燃充能	Research Afterburners	3
+研究后燃充能	Research Ares-Class Targeting System	1
+研究漩流弹	Research Maelstrom Rounds	1
+研究漩流弹	Research Maelstorm Rounds	1
+研究超级强化剂	Research Super Stim	1
+研究超级强化剂	Research Super Stimpack	2
+研究福波斯武器系统	Research Phobos Weapons System	1
+研究福波斯武器系统	Research Phobos Weapon System	1
+执政官战甲	Praetor Armor Suit	1
+执政官战甲	Praetor Armor Suit Active	1
+削铁刃虫	Severing Glave	1
+削铁刃虫	Severing Glaves	1
+暴龙兽	Torrasque	2
+暴龙兽	Tyrannozor	1
+喷射胆汁轰炸目标区域，伤害区域内的地面和空中单位。	Bombards target locations with bile, damaging ground and air units in the area.	1
+喷射胆汁轰炸目标区域，伤害区域内的地面和空中单位。	Bombards target location with bile, damaging ground and air units in the area.	1
+空中单位研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 被感染的女妖<n/>- 虫巢女王	Aircraft-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Infested Banshees<n/>- Queen	1
+空中单位研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 被感染的女妖<n/>- 虫巢女王	Aircraft-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Infested Banshees<n/>- Queens	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	NOT USED. An advanced Refinery that harvests gas from underground and sends refined vespene gas straight to the Command Center via short-range warp fields.<n/><n/><c val="FFFF8A">Does not need to be constructed on a Vespene Geyser.</c>	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	An advanced Refinery that harvests gas from underground and sends refined vespene gas straight to the Command Center via short-range warp fields.<n/><n/><c val="FFFF8A">Does not need to be constructed on a Vespene Geyser.</c>	1
+传送到附近的目标区域。	Teleport to a nearby target location.	1
+传送到附近的目标区域。	Teleport to target nearby location.	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Long-range anti-ground flyer. <n/><n/><c val="ffff8a">Can attack ground units.</c>	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Long range anti-ground flier.<n/><n/><c val="ffff8a">Can attack ground units.</c>	1
+蜘蛛雷会对进入范围的敌方单位进行追击，引爆后可造成大量范围伤害。潜地的蜘蛛雷只能被敌人的侦测单位发现。	Spider Mines pursue enemy units that come in range, and detonate for heavy area damage. Buried Spider Mines can only be seen by enemy detectors.	1
+蜘蛛雷会对进入范围的敌方单位进行追击，引爆后可造成大量范围伤害。潜地的蜘蛛雷只能被敌人的侦测单位发现。	Spider Mines pursue enemy units that come in range, and detonate for heavy area damage. Buried Spider Mines can only be seen by enemy Detectors.	1
+冷却时间：<d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>向目标位置发射攻击战斗机，对该位置的敌方地面单位造成<d ref="Effect,HHBomberAreaBombDamage,Amount"/> (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/>对非英雄建筑) 点伤害。	Cooldown: <d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>Launches the Strike Fighter to the target location, where it deals <d ref="Effect,HHBomberAreaBombDamage,Amount"/> (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/> to non-Heroic structures) damage to enemy ground units in the target area.	1
+冷却时间：<d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>向目标位置发射攻击战斗机，对该位置的敌方地面单位造成<d ref="Effect,HHBomberAreaBombDamage,Amount"/> (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/>对非英雄建筑) 点伤害。	Cooldown: <d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>Sends a Strike Fighter to the target location, where it deals <d ref="Effect,HHBomberAreaBombDamage,Amount"/> (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/> to non-Heroic structures) damage to enemy ground units in the target area.	1
+<n/><n/><c val="FFFF8A">精通：</c>冷却时间缩短<c val="FFFF8A"><d ref="Effect,MasteryZeratulAvatarCooldownDisplayDummy,Amount" player="current"/></c>秒。	<n/><n/><c val="FFFF8A">Mastery:</c> Reduces cooldown by <c val="FFFF8A"><d ref="Effect,MasteryZeratulAvatarCooldownDisplayDummy,Amount" player="current"/></c>.	1
+<n/><n/><c val="FFFF8A">精通：</c>冷却时间缩短<c val="FFFF8A"><d ref="Effect,MasteryZeratulAvatarCooldownDisplayDummy,Amount" player="current"/></c>秒。	<n/><n/><c val="FFFF8A">Mastery:</c> Reduces cooldown by <c val="FFFF8A"><d ref="Effect,MasteryZeratulAvatarCooldownDisplayDummy,Amount" player="current"/></c> seconds.	1
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Primary defensive structure.<n/><n/><c val="ffff8a">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>	4
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Primary defensive structure. <n/><n/><c val="ffff8a">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>	1
+自毁型单位。死亡时造成小范围的伤害。有<d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>秒的持续时间。<n/><n/><c val="ffff8a">可以对地。</c>	Suicide unit. Does damage over a small area on death. Has a duration of <d ref="Behavior,SIBarracksTrainTimedLife,Duration"/> seconds.<n/><n/><c val="ffff8a">Can attack ground units.</c>	1
+自毁型单位。死亡时造成小范围的伤害。有<d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>秒的持续时间。<n/><n/><c val="ffff8a">可以对地。</c>	Suicide unit. Does damage over a small area on death. Has a duration of <d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>seconds.<n/><n/><c val="ffff8a">Can attack ground units.</c>	1
+发射超声波能量脉冲，持续<d ref="Effect,TychusSpectreUltrasonicPulseCPLv1,PeriodCount+1"/>秒，对目标区域内的敌方单位每秒造成<d ref="Effect,TychusSpectreUltrasonicDamageLv1,Amount"/>点伤害。不会对友方单位造成伤害。最多保留3层充能。	Fires pulses of ultrasonic energy that last <d ref="Effect,TychusSpectreUltrasonicPulseCPLv1,PeriodCount+1"/> seconds, causing <d ref="Effect,TychusSpectreUltrasonicDamageLv1,Amount"/> damage/second to enemy units in the target area. Does not damage friendly units. Holds up to 3 charges.	1
+发射超声波能量脉冲，持续<d ref="Effect,TychusSpectreUltrasonicPulseCPLv1,PeriodCount+1"/>秒，对目标区域内的敌方单位每秒造成<d ref="Effect,TychusSpectreUltrasonicDamageLv1,Amount"/>点伤害。不会对友方单位造成伤害。最多保留3层充能。	Fire pulses of ultrasonic energy that last <d ref="Effect,TychusSpectreUltrasonicPulseCPLv1,PeriodCount+1"/> seconds, causing <d ref="Effect,TychusSpectreUltrasonicDamageLv1,Amount"/> damage/second to enemy units in the target area. Does not damage friendly units. Holds up to 3 charges.	1
+使阴影投射的冷却时间缩短<d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%。暗影屏障吸收的伤害量提高<d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%。	Decreases the cooldown of Shade Projection by <d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%. Increases the damage absorbed of Shade Barrier by <d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%.	1
+使阴影投射的冷却时间缩短<d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%。暗影屏障吸收的伤害量提高<d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%。	Decreases the cooldown of Shade Projection by <d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%. Increases the damage absorbed by Shade Barrier by <d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Projects the Tesseract Monolith to a target location for <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> seconds, transferring all of its shields and its weapon. The Tesseract Monolith is deactivated while this ability is active.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Projects the Tesseract Cannon to a target location for <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> seconds, transferring all of its shields and its weapon. The Tesseract Cannon is deactivated while this ability is active.	1
+Karax Void Coop SOA Energy Recharge Set	Karax Void Coop SOA Energy Recharge Set	1
+Karax Void Coop SOA Energy Recharge Set	Karax Void Coop SOA Energy Recharge Target AB	1
+升级	UPGRADE	1
+升级	Upgrades	1
+升级	Level Up	2
+升级	Rank Up	1
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Your hero has died.</c>	2
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Your hero has revived.</c>	1
+杀戮机器人	Kill Bot	3
+杀戮机器人	Kill Bots	1
+同化体	Propagator	2
+同化体	Propagators	2
+NYI	This is the same voice as the Dominion Officer in the Terran tutorial mission. (Already cast). He is a little more cocky and sarcastic this time.	1
+NYI	Already cast	1
+确认	Confirm	1
+确认	CONFIRM	1
+关闭	Off	5
+关闭	Close	4
+关闭	CLOSE	2
+胜利	Win	1
+胜利	VICTORY!	1
+返回	Resume	1
+返回	Back	1
+返回	BACK	1
+返回	GO BACK	2
+被感染的人类	Infested Terrans	2
+被感染的人类	Infested Terran	2
+空	null	1
+空	Empty	1
+开始游戏	Start Game	2
+开始游戏	START GAME	1
+休闲	CASUAL	1
+休闲	Casual	1
+普通	Medium	1
+普通	NORMAL	1
+普通	Normal	6
+困难	Hard	3
+困难	HARD	1
+残酷	BRUTAL	1
+残酷	Brutal	1
+任务	Mission	2
+任务	MISSION	1
+任务	Quests	1
+人类步兵护甲	Terran Infantry Armor	1
+人类步兵护甲	Terran Infantry Armors	1
+异虫飞行生物甲壳	Zerg Flyer Carapace	1
+异虫飞行生物甲壳	Zerg Flyer Armors	1
+异虫地面单位甲壳	Zerg Ground Carapace	1
+异虫地面单位甲壳	Zerg Ground Armors	1
+信标	Beacon	2
+信标	BEACON	1
+萃取设施	Extraction Device	1
+萃取设施	Extraction Devices	1
+攻击型无人机	Assault Drone	1
+攻击型无人机	Assault Drones	2
+麦格天雷	Mag Mine	2
+麦格天雷	Magnetic Mine	1
+虚空重生者	Void Reanimator	1
+虚空重生者	Void Reanimators	1
+短视症	Short Sighted	1
+短视症	Shortsighted	1
+基地	DROPOFF	1
+基地	DropOffs	1
+时空提速速度	Chrono boost speed	1
+时空提速速度	Chrono Boost speed	1
+时空提速速度	Chrono Boost Speed	2
+消耗战	Attrition Warfare	1
+消耗战	[PH] Battle of Attrition	1
+暴雪嘉年华挑战	The Blizzcon Challenge	1
+暴雪嘉年华挑战	Blizzcon Challenge	1
+舒特	Schutter	1
+舒特	Shute	1
+少校	Lt. Commander	2
+少校	Major	2
+自定义	Custom	2
+自定义	CUSTOM	1
+地狱火喷射器	Infernal Flame Thrower	4
+地狱火喷射器	Infernal Flamethrower	2
+虚空辉光舰机库	Voidray Hangar	1
+虚空辉光舰机库	Void Ray Hanger	1
+折跃	Warping in	1
+折跃	Warp In	2
+放置灵能发射器	Place Psi Emitter	1
+放置灵能发射器	Place Psi-Emitter	1
+侦测无人机隐形场	Sensor Drone Cloaking Field	1
+侦测无人机隐形场	Sensor Drone Cloak Field	2
+D-8型炸药	D8 Charge	2
+D-8型炸药	D-8 Charge	3
+悬浮恶蝠模式	Hover Hellbat Mode	1
+悬浮恶蝠模式	Hover Hellion Mode	1
+使用猎杀飞弹武器替换猎杀飞弹技能，可自动攻击敌方单位且不会消耗能量。	Replaces the Seeker Missile ability with a Hunter-Seeker Missile weapon that automatically attacks enemy units and does not cost energy.	1
+使用猎杀飞弹武器替换猎杀飞弹技能，可自动攻击敌方单位且不会消耗能量。	Replaces the Seeker Missile ability with a Seeker Missile weapon that automatically attacks enemy units and does not cost energy.	1
+头像	Portrait	1
+头像	Portraits	1
+人类舰船钢板	Terran Ship Plating	1
+人类舰船钢板	Terran Ship Armors	1
+人类战车钢板	Terran Vehicle Plating	1
+人类战车钢板	Terran Vehicle Armors	1
+补给箱	Resupply Crate	1
+补给箱	Supply Crate	1
+英雄	Hero	2
+英雄	Heroes	2
+马拉什	Ma'lash	1
+马拉什	Malash	1
+Already Cast	Already Cast	1
+Already Cast	Blair Bess	1
+在隐形潜入任务中，诺娃的停火<k val="Ghost,GhostHoldFire,1,2"/>技能非常有用，可以防止她自动攻击敌方目标。	During stealth infiltration missions, it can be helpful to use Nova’s Hold Fire<k val="Ghost,GhostHoldFire,1,2"/> ability to keep her from automatically acquiring enemy targets.	1
+在隐形潜入任务中，诺娃的停火<k val="Ghost,GhostHoldFire,1,2"/>技能非常有用，可以防止她自动攻击敌方目标。	During stealth infiltration missions, it can be helpful to use Nova's Hold Fire<k val="Ghost,GhostHoldFire,1,2"/> ability to keep her from automatically acquiring enemy targets.	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Unit selections made during flashbacks determine which types of enemies you will encounter. Choose wisely.	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Decisions made during Nova's flashbacks determine the types of zerg you will face throughout the mission. Make your choices wisely.	1
+逮捕戴维斯将军	Apprehend General Davis	1
+逮捕戴维斯将军	Arrest General Davis	1
+播放	PLAY	1
+播放	Play	2
+科技可用	Technology Available	1
+科技可用	Technology available	1
+单位	Unit	1
+单位	Units	2
+否	No	2
+否	NO	1
+成就	Achievements	1
+成就	Achievement	1
+成就	ACHIEVEMENTS	1
+奖励	Reward	1
+奖励	Rewards	1
+关闭(<h/>C)	<h/>CLOSE	2
+关闭(<h/>C)	<h/>Close	1
+退出(<h/>Q)	<h/>Quit	1
+退出(<h/>Q)	<h/>QUIT	1
+给女妖装备冲击波导弹巢，提升他们的攻击能力，对一条直线上的多个目标造成伤害。	Equips Banshees with Shockwave Missile Batteries, upgrading their attacks to damage multiple units in a straight line.	1
+给女妖装备冲击波导弹巢，提升他们的攻击能力，对一条直线上的多个目标造成伤害。	Equips Banshees with a Shockwave Missile Battery, upgrading their attacks to damage multiple units in a straight line.	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	You do not need to control your army while Nova is conducting a solo operation. Battlefield conditions will remain stable until her return.	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	You do not need to control your army while Nova is conducting a solo operation. Battlefield conditions will remain as they are until her return.	1
+湮灭低语	Whispers of Oblivion	1
+湮灭低语	WHISPERS OF OBLIVION	1
+摧毁关押室，救出其中被俘的圣堂武士。	Destroy the Holding Pen to free the captive Templar held inside.	2
+摧毁关押室，救出其中被俘的圣堂武士。	Destroy the Holding Pen to free the last of the captive Templar.	1
+帮助	Help	4
+帮助	HELP	2
+任务完成	MISSION COMPLETE	1
+任务完成	Quests Completed	1
+退出	Exit	1
+退出	Quit	3
+退出	QUIT	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retracted	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extended	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retracted	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extended	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extended	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extended	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extended	1
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	This hallucinated copy functions like the original unit, but it cannot use active abilities, cannot deal damage, and dies more easily. Hallucinations last <d time="60"/> before they disappear.	6
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	These hallucinated copies function like the original unit, but they cannot use active abilities, cannot deal damage, and die more easily. Hallucinations last <d time="60"/> before they disappear.	3
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	These hallucinated copies function like the original unit, but they cannot use active abilities, deal damage, warp in structures, or gather resources, and they die more easily. Hallucinations last <d time="60"/> before they disappear.	1
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Air unit. Bounces its shot to strike multiple targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	2
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Air Unit. Bounces its shot to strike multiple targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	1
+默认	Default	4
+默认	Defaults	1
+常规	General	1
+常规	Normal	3
+潜地冲锋 返回 D	Burrow Charge Rev D	1
+潜地冲锋 返回 D	Burrow Charging Rev D	1
+菌毯喷溅	Spray Creep	1
+菌毯喷溅	Creep Spray	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	ExtendingBridge - NE - Height 10 - Wide - Retract	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	Extending Bridge - NE - Height 10 - Wide - Retracted	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	ExtendingBridge - NE - Height 10 - Wide - Extend	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	Extending Bridge - NE - Height 10 - Wide - Extended	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	ExtendingBridge - NE - Height 12 - Wide - Retract	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	Extending Bridge - NE - Height 12 - Wide - Retracted	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	ExtendingBridge - NE - Height 12 - Wide - Extend	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	Extending Bridge - NE - Height 12 - Wide - Extended	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	ExtendingBridge - NE - Height 8 - Wide - Retract	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	Extending Bridge - NE - Height 8 - Wide - Retracted	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	ExtendingBridge - NE - Height 8 - Wide - Extend	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	Extending Bridge - NE - Height 8 - Wide - Extended	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	ExtendingBridge - NW - Height 10 - Wide - Retract	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	Extending Bridge - NW - Height 10 - Wide - Retracted	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	ExtendingBridge - NW - Height 10 - Wide - Extend	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	Extending Bridge - NW - Height 10 - Wide - Extended	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	ExtendingBridge - NW - Height 12 - Wide - Retract	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	Extending Bridge - NW - Height 12 - Wide - Retracted	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	ExtendingBridge - NW - Height 12 - Wide - Extend	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	Extending Bridge - NW - Height 12 - Wide - Extended	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	ExtendingBridge - NW - Height 8 - Wide - Retract	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	Extending Bridge - NW - Height 8 - Wide - Retracted	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	ExtendingBridge - NW - Height 8 - Wide - Extend	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	Extending Bridge - NW - Height 8 - Wide - Extended	1
+最大推力	Maxium Thrust	1
+最大推力	Maximum Thrust	2
+虫后飞行	Queen Fly	2
+虫后飞行	Queen Flying	1
+狙杀DoT	Snipe DoT	1
+狙杀DoT	Snipe Do	1
+萨尔纳加圣殿	Xel Naga Healing Shrine	2
+萨尔纳加圣殿	Xel'Naga Healing Shrine	1
+停止	stop	1
+停止	Stop	2
+停止	STOP	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Extend Bridge Extending Bridge NE Wide 10 Out	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Extend Bridge Extending Bridge NW Wide 10 Out	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Extend Bridge Extending Bridge NE Wide 12 Out	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Extend Bridge Extending Bridge NW Wide 12 Out	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Extend Bridge Extending Bridge NE Wide 8 Out	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Extend Bridge Extending Bridge NW Wide 8 Out	1
+隐藏	Hidden	3
+隐藏	Hide	2
+奥丁矩阵 虚拟	Odin Matrix Dummy	1
+奥丁矩阵 虚拟	Odin Matrix	1
+移除	Kick	2
+移除	Remove	2
+信徒	Neophyte	1
+信徒	Disciple	1
+残骸	Debris	3
+残骸	Wreckage	1
+电脑	AI	1
+电脑	Computer	1
+制造	Build	1
+制造	Train	1
+瓦解建筑	Sap Structure	1
+瓦解建筑	Attack Structure	1
+移动	move	1
+移动	Move	3
+游戏大厅	Arcade	2
+游戏大厅	ARCADE	1
+教程一	Guide One	1
+教程一	GUIDE ONE	1
+教程二	Guide Three	1
+教程二	GUIDE TWO	1
+教程三	Guide Two	1
+教程三	GUIDE THREE	1
+实力功勋	Feats of Strength	1
+实力功勋	FEATS OF STRENGTH	1
+竞技	Competitive	1
+竞技	COMPETITIVE	1
+对战	Melee	2
+对战	VERSUS	1
+自定义游戏	Custom Game	1
+自定义游戏	Custom	2
+自定义游戏	Custom Games	1
+派遣侦察单位。	Sending a scout.	1
+派遣侦察单位。	Sending scout.	1
+隐秘行动	Covert Ops	1
+隐秘行动	COVERT OPS	1
+隐秘行动	Covert Operative	3
+标准	Standard	2
+标准	STANDARD	1
+虚空先驱	Herald of the Void	1
+虚空先驱	Early Adopter	1
+幻像	Hallucination	2
+幻像	Hallucinations	1
+暂停	Halt	1
+暂停	Pau	1
+暂停	Paused	1
+暂停	Pause	2
+建造建筑	Build Structure	1
+建造建筑	Structures Built	2
+核弹天劫降下的战术飞弹数量从20枚提高至40枚。	Increased the number of Tactical Missiles dropped by Nuclear Annihilation from 20 to 40.	1
+核弹天劫降下的战术飞弹数量从20枚提高至40枚。	Increases the number of Tactical Missiles dropped by Nuclear Annihilation from 20 to 40.	1
+该物种的雄性个体通常长有兽角和较大的獠牙。	Males of the species are often hunted for their horns and ferocious tusks.	1
+该物种的雄性个体通常长有兽角和较大的獠牙。	Males of this species are often hunted for their horns and ferocious tusks.	1
+高亮度探照灯。常用于帝国的军事及关押设施。	High-intensity searchlight. Commonly used in Dominion military and penal facilities.	1
+高亮度探照灯。常用于帝国的军事及关押设施。	High-intensity search light. Commonly used in Dominion military and penal facilities.	1
+高级空中侦察单位。 能够维持王虫形态时所控制的单位上限。能够孵化拟态雏虫，并可以使用污染技能。<n/><n/><c val="FFE303">侦测单位</c>	Advanced aerial observer. Provides the same supply as an Overlord. Can use the Spawn Changeling and Contaminate abilities.<n/><n/><c val="FFE303">Detector</c>	1
+高级空中侦察单位。 能够维持王虫形态时所控制的单位上限。能够孵化拟态雏虫，并可以使用污染技能。<n/><n/><c val="FFE303">侦测单位</c>	Advanced aerial observer. Maintains the unit cap set by the Overlord. Can use the Spawn Changeling and Contaminate abilities.<n/><n/><c val="FFE303">Detector</c>	1
+将指挥中心升级为行星要塞，大大提升其护甲值并为其配备强大的防御炮塔。自体不可升空。<n/><n/><c val="ffff8a">可以对地。</c>	Upgrades Command Center to a Planetary Fortress, greatly increasing its armor and arming it with a powerful defensive turret. Cannot lift off.<n/><n/><c val="ffff8a">Can attack ground units.</c>	1
+将指挥中心升级为行星要塞，大大提升其护甲值并为其配备强大的防御炮塔。自体不可升空。<n/><n/><c val="ffff8a">可以对地。</c>	Upgrades Command Center to a Planetary Fortress, greatly increasing its armor and arming it with a powerful defensive turret. Can not lift off.<n/><n/><c val="ffff8a">Can attack ground units.</c>	1
+高	High	5
+高	Height	1
+重试	Retry	1
+重试	TRY AGAIN	1
+特战队	Special Forces	66
+特战队	Special Force	1
+是	Yes	2
+是	YES	1
+颜色	Colors	1
+颜色	Color	1
+快捷键	Hotkey	1
+快捷键	HOTKEYS	1
+快捷键	Hotkeys	2
+在星港的科技实验室中研发猎杀飞弹	Research Seeker Missiles at the Starport Tech Lab	1
+在星港的科技实验室中研发猎杀飞弹	Research Seeker Missile at the Starport Tech Lab	1
+在兵营的科技实验室中研发震荡弹	Research Concussive Shells at the Barracks Tech  Lab	1
+在兵营的科技实验室中研发震荡弹	Research Concussive Shells at the Barracks Tech Lab	1
+合作任务中等难度50	Coop Commander Difficulty Hard50	1
+合作任务中等难度50	Coop Commander Difficulty Normal50	1
+合作任务中等难度500	Coop Commander Difficulty Hard500	1
+合作任务中等难度500	Coop Commander Difficulty Normal500	1
+合作任务中等难度75	Coop Commander Difficulty Hard75	1
+合作任务中等难度75	Coop Commander Difficulty Normal75	1
+食腐鸟	Urubu	2
+食腐鸟	Carrion Bird	1
+虚空之遗	Legacy of the Void	2
+虚空之遗	LEGACY OF THE VOID	1
+2021 IEM冠军Reynor	2021 IEM Champion Reynor	1
+2021 IEM冠军Reynor	IEM Champion 2021 Reynor	1
+经典刺蛇	Classic Hydralisk	2
+经典刺蛇	Classic Hydralisks	1
+神器	ARTIFACTS	1
+神器	Artifacts	2
+部队规模	Army Size	1
+部队规模	ARMY SIZE	1
+建造顺序	Build Order	1
+建造顺序	BUILD ORDER	1
+图表	Graphs	1
+图表	GRAPHS	1
+建筑	Structures	2
+建筑	Building	1
+建筑	Structure	2
+资源采集	RESOURCE COLLECTION	1
+资源采集	Resource Collection	1
+消灭的人口	Food Made Killed	1
+消灭的人口	Food Used Killed	1
+损失的人口	Food Made Lost	1
+损失的人口	Food Used Lost	1
+已采集晶体矿	Minerals Gathered	1
+已采集晶体矿	Minerals Collected	1
+已送出的晶体矿	Minerals Traded Away	1
+已送出的晶体矿	Minerals Traded Out	1
+高能瓦斯平均储量	Average Minerals Stockpiled	1
+高能瓦斯平均储量	Average Vespene Stockpiled	1
+单位生产用资源	Total Resource Value of Army	1
+单位生产用资源	Army Value	1
+消灭敌方单位	Enemy Units Killed	1
+消灭敌方单位	Killed Unit Count	1
+已采集的高能瓦斯	Vespene Gathered	1
+已采集的高能瓦斯	Vespene Collected	1
+已送出的高能瓦斯	Vespene Traded Away	1
+已送出的高能瓦斯	Vespene Traded Out	1
+基础刺蛇巢	Hydralisk Den Base	1
+基础刺蛇巢	HydraliskDenBase	1
+基础潜伏者巢穴	Luker Den Base	1
+基础潜伏者巢穴	Lurker Den Base	1
+基础虫道网络	Nydus Canal Base	1
+基础虫道网络	Nydus Network Base	1
+《星际争霸II》	StarCraft II	5
+《星际争霸II》	STARCRAFT II	1
+机械化部队(经济)	GateImmortal (Economic)	1
+机械化部队(经济)	Mech (Economic)	1
+提速区域发生器	Acceleration Zone Generators	1
+提速区域发生器	Acceleration Zone Generator	1
+高产瓦斯气泉	Rich Vespene Geysers	1
+高产瓦斯气泉	Rich Vespene Geyser	1
+瓦斯气泉	Vespene Geysers	1
+瓦斯气泉	Vespene Geyser	1
+萨尔纳加瞭望塔	Xel'Naga Towers	1
+萨尔纳加瞭望塔	Xel'Naga Tower	1
+AI清除所有	A.I. Clear All	1
+AI清除所有	A.I. ClearAll	1
+二十面体	Icosahedron	1
+二十面体	Icosohedron	1
+八面体	Octahedron	1
+八面体	Octohedron	1
+足球	Football	2
+足球	Soccerball	1
+中国	China	2
+中国	CHINA	1
+欧洲	Europe	3
+欧洲	EUROPE	1
+东南亚	Southeast Asia	1
+东南亚	SOUTHEAST ASIA	1
+挑战任务	Challenges	2
+挑战任务	CHALLENGE	1
+挑战任务	Challenge Game	1
+挑战任务	Challenge	2
+挑战任务	CHALLENGES	1
+探索	Exploration	1
+探索	EXPLORATION	1
+快速比赛	Quick Match	4
+快速比赛	QUICKMATCH	1
+战役	CAMPAIGN	3
+战役	Campaign	6
+战役	Campaigns	1
+动画	Animation	2
+动画	Cinematic	1
+动画	CINEMATIC	1
+动画	Anim	1
+音效	Sound	2
+音效	SOUND	2
+音效	Sound Effects	1
+队伍颜色	Team Color	2
+队伍颜色	TeamColor	1
+镜面光颜色倍数	Specular Color Multiplier	1
+镜面光颜色倍数	Color Multiplier - Specular	1
+移动速度	Movespeed	1
+移动速度	Move Speed	1
+时间	Time	4
+时间	Age	1
+单位链接	Unit Link	1
+单位链接	UnitLink	1
+变量	Variant	1
+变量	Variable	2
+变量	Variables	1
+盟友	Ally	1
+盟友	Alliance	1
+盟友	Allies	1
+敌人	Enemy	1
+敌人	Enemies	1
+自动	Auto	1
+自动	Automatic	1
+正在搜寻%queueName%	SEARCHING %queueName%	1
+正在搜寻%queueName%	Searching %queueName%	1
+观战者	Observer	4
+观战者	Observers	3
+录像	Replay	3
+录像	Watch	1
+用户界面	UI	1
+用户界面	User Interface	1
+回格键	Backspace	1
+回格键	Bck	1
+浏览器后退	Browser Back	1
+浏览器后退	BBk	1
+浏览器前进	Browser Forward	1
+浏览器前进	Fwd	1
+大写锁定	Caps Lock	1
+大写锁定	CL	1
+删除键	Delete	1
+删除键	Del	1
+方向键下	Down	1
+方向键下	Dwn	1
+起始键	Home	1
+起始键	Hom	1
+插入键	Insert	1
+插入键	Ins	1
+方向键左	Left	1
+方向键左	Lft	1
+媒体键音量提高	Media Channel Down	1
+媒体键音量提高	MUp	1
+媒体键音量降低	MDn	1
+媒体键音量降低	Media Channel Up	1
+媒体键快放	Media Fast Forward	1
+媒体键快放	MFF	1
+媒体键下一曲	Media Next Track	1
+媒体键下一曲	MNx	1
+媒体键暂停	Media Pause	1
+媒体键暂停	MPa	1
+媒体键播放	Media Play	1
+媒体键播放	MPl	1
+媒体键暂停播放	Media Play Pause	1
+媒体键暂停播放	MPP	1
+媒体键上一曲	Media Prev Track	1
+媒体键上一曲	MPT	1
+媒体键倒回	Media Rewind	1
+媒体键倒回	MRR	1
+媒体键停止	Media Stop	1
+媒体键停止	MSt	1
+下页键	Page Down	1
+下页键	PDn	1
+上页键	Page Up	1
+上页键	PUp	1
+截屏键	Print Screen	1
+截屏键	PSc	1
+方向键右	Right	1
+方向键右	Rgt	1
+滚动锁定键	Scroll Lock	1
+滚动锁定键	SL	1
+空格键	Space	1
+空格键	Spc	1
+间隔呼叫	Interal Call	1
+间隔呼叫	Internal Calls	1
+线程	Thread	1
+线程	Threads	1
+触发器	Trigger	1
+触发器	Triggers	1
+正在等待	Waiting For	1
+正在等待	Waiting	1
+全局	Global	3
+全局	Globals	2
+本地	Locals	2
+本地	Local	1
+专化	Specialize	1
+专化	Specializing	1
+1分钟	1 minute	1
+1分钟	1min	1
+活动	Activity	1
+活动	Active	1
+活动	EVENTS	2
+消灭	Kills	2
+消灭	Killed	2
+生命值	Life	2
+生命值	Vitality	1
+生命值	Health Points	1
+最大生命值	Life Max	1
+最大生命值	Vitality Max	1
+生命值%	Life %	1
+生命值%	Vitality %	1
+冷却时间：%1秒	Cooldown: %1 second	1
+冷却时间：%1秒	Cooldown: %1 seconds	1
+接受	Accept	2
+接受	ACCEPT	1
+添加好友	Add Friend	4
+添加好友	ADD FRIEND	1
+战队	Clan	2
+战队	Clans	2
+房间	Lobby	1
+房间	Lobbies	1
+队伍	Party	3
+队伍	Teams	1
+队伍	Team	1
+添加电脑	Add A.I.	1
+添加电脑	Add Computer	1
+添加电脑	Fill A.I.	1
+邀请	Invite	3
+邀请	INVITE	1
+离开游戏	Leave Game	1
+离开游戏	Leave game	1
+只有房主才能开始游戏	Only the host may start the game	1
+只有房主才能开始游戏	Only the host can start the game	1
+电脑（%difficulty%）	A.I. (%difficulty%)	1
+电脑（%difficulty%）	Computer (%difficulty%)	1
+暴雪游戏	Blizzard	1
+暴雪游戏	BLIZZARD	1
+合作任务	Co-op Missions	2
+合作任务	CO-OP	1
+单人游戏	Single Player	1
+单人游戏	Singleplayer	2
+设置好友备注	Set Friend Note	1
+设置好友备注	SET FRIEND NOTE	1
+移除好友	Remove Friend	1
+移除好友	REMOVE FRIEND	1
+举报玩家	Report Player	1
+举报玩家	REPORT PLAYER	1
+请求加入队伍	Request to Join Party	1
+请求加入队伍	Request to Join	1
+密语	Whisper	1
+密语	Whispers	1
+特别感谢	SPECIAL THANKS	3
+特别感谢	SPECIAL THANKS TO	1
+继续	CONTINUE	1
+继续	Continue	1
+继续	Cont.	1
+教学模式	TUTORIALS	1
+教学模式	Tutorials	3
+教学模式	Tutorial	1
+取消(<h/>C)	<h/>CANCEL	1
+取消(<h/>C)	<h/>Cancel	2
+创建战队	Create a Clan	1
+创建战队	Create Clan	1
+创建	Create	1
+创建	CREATE	2
+讨论组	Groups	2
+讨论组	Group	1
+保存	SAVE	2
+保存	Save	2
+用户及技术服务经理	ACCOUNT AND TECHICAL SERVICES MANAGERS	1
+用户及技术服务经理	ACCOUNT AND TECHNICAL SERVICES MANAGER	1
+其他音乐制作人员	ADDITIONAL MUSIC BY	1
+其他音乐制作人员	ADDITIONAL MUSIC	1
+行政助理	ADMINISTRATIVE ASSISTANT	2
+行政助理	ADMINISTRATIVE ASSISTANTS	1
+分析师	ANALYSTS	1
+分析师	ANALYST	1
+美术	ART	1
+美术	ARTIST	1
+设计师	ARTISTS	1
+设计师	DESIGNERS	2
+首席设计师	ART LEADS	1
+首席设计师	LEAD ARTIST	1
+首席设计师	LEAD DESIGNER	1
+首席设计师	LEAD DESIGNERS	1
+助理经理	ASSISTANT MANAGER	2
+助理经理	ASSISTANT MANAGERS	2
+助理制作人	ASSOCIATE PRODUCER	1
+助理制作人	ASSOCIATE PRODUCERS	1
+指挥	CHOIRMASTER	2
+指挥	CONDUCTED BY	1
+合唱表演	CHORAL PERFORMANCE BY	1
+合唱表演	CHORAL PERFORMANCE	1
+单簧管	CLARINET	1
+单簧管	CLARINETS	1
+客户支持组经理	CUSTOMER SUPPORT GROUP MANAGERS	2
+客户支持组经理	CUSTOMER SUPPORT GROUP MANAGER	1
+部门主管	DEPARTMENT LEADS	1
+部门主管	DEPARTMENT SUPERVISORS	2
+总监	DIRECTOR	2
+总监	DIRECTORS	1
+编辑	EDITOR	2
+编辑	EDITORS	2
+编辑	Edit	1
+工程师	ENGINEER	1
+工程师	ENGINEERS	1
+执行助理	EXECUTIVE ASSISTANTS	2
+执行助理	EXECUTIVE ASSISTANT	1
+内部事务代表	INTERNAL AFFAIRS REPRESENTATIVES	2
+内部事务代表	INTERNAL AFFAIRS REPRESENTATIVE	1
+首席制作人	LEAD PRODUCER	2
+首席制作人	LEAD PRODUCERS	2
+首席程序员	LEAD PROGRAMMER	2
+首席程序员	LEAD PROGRAMMERS	2
+首席网页设计师	LEAD WEB DESIGNER	1
+首席网页设计师	LEAD WEB DESIGNERS	1
+首席文档工程师	LEAD WRITERS	1
+首席文档工程师	LEAD WRITER	1
+培训与拓展专员	LEARNING AND DEVELOPMENT SPECIALIST	2
+培训与拓展专员	LEARNING AND DEVELOPMENT SPECIALISTS	2
+经理	MANAGER	1
+经理	MANAGERS	2
+音乐	MUSIC	2
+音乐	Music	2
+暴雪娱乐总裁兼首席执行官	PRESIDENT & CEO OF BLIZZARD ENTERTAINMENT	1
+暴雪娱乐总裁兼首席执行官	PRESIDENT & CEO, BLIZZARD ENTERTAINMENT	1
+制作人	PRODUCER	2
+制作人	PRODUCERS	2
+项目总监	PROJECT DIRECTOR	2
+项目总监	PROJECTS DIRECTOR	1
+高级经理	SENIOR MANAGER	2
+高级经理	SENIOR MANAGERS	1
+高级制作人	SENIOR PRODUCER	2
+高级制作人	SENIOR PRODUCERS	1
+服务质量协调团队经理	SERVICE LEVEL COORDINATORS TEAM MANAGER	2
+服务质量协调团队经理	SERVICE LEVEL COORDINATOR TEAM MANAGER	2
+支持信息资深工作人员	SUPPORT INFORMATION SENIOR	1
+支持信息资深工作人员	SUPPORT INFORMATION SENIORS	1
+团队组长	TEAM LEAD	1
+团队组长	TEAM LEADS	1
+技术总监	TECHNICAL DIRECTOR	2
+技术总监	TECHNICAL DIRECTORS	1
+技术文档工程师	TECHNICAL WRITER	1
+技术文档工程师	TECHNICAL WRITERS	1
+全球人力资源副总裁	VICE PRESIDENT OF GLOBAL HUMAN RESOURCES	1
+全球人力资源副总裁	VICE PRESIDENT, GLOBAL HUMAN RESOURCES	1
+配音	VOICE-OVER	1
+配音	VOICE OVER	1
+助理编辑	ASSISTANT EDITOR	1
+助理编辑	ASSISTANT EDITORS	1
+助理编辑	ASSOCIATE EDITOR	1
+全球营销执行副总裁	EVP, GLOBAL MARKETING	1
+全球营销执行副总裁	EXECUTIVE VICE PRESIDENT, GLOBAL MARKETING	1
+混音师	FOLEY MIXERS	1
+混音师	STEM MIXES BY	1
+实习生	INTERN	1
+实习生	INTERNS	1
+韩国	KOREA	1
+韩国	Korea	2
+培训专员	LEARNING SPECIALIST	1
+培训专员	LEARNING SPECIALISTS	1
+运营总监	OPERATION DIRECTOR	1
+运营总监	OPERATIONS DIRECTOR	1
+项目经理	PROJECT MANAGER	1
+项目经理	PROJECT MANAGERS	1
+区域经理	REGIONAL MANAGER	1
+区域经理	REGIONAL MANAGERS	1
+主管	SUPERVISOR	1
+主管	SUPERVISORS	1
+支持信息管理员	SUPPORT INFORMATION ADMINISTRATOR	1
+支持信息管理员	SUPPORT INFORMATION ADMINISTRATORS	1
+台湾	TAIWAN	1
+台湾	Taiwan	1
+网站制作人	WEB PRODUCER	1
+网站制作人	WEB PRODUCERS	1
+删除	DELETE	2
+删除	Delete	3
+选择难度	SELECT DIFFICULTY	1
+选择难度	Select your difficulty	2
+玩家	Player	2
+玩家	Players	1
+在文件夹中显示	Show In Folder	1
+在文件夹中显示	Show in Folder	1
+贴图	Tiled	1
+贴图	Textures	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Show in Finder - will minimize your game and navigate to the currently selected file.	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Show in Folder - will minimize your game and navigate to the currently selected file.	1
+加载录像	LOAD REPLAY	1
+加载录像	REPLAYS	1
+多人游戏	Multiplayer game	1
+多人游戏	Multiplayer	3
+保存录像	SAVE REPLAY	1
+保存录像	Save Replay	2
+模拟战	Versus A.I.	3
+模拟战	VERSUS A.I.	1
+战败	Loss	1
+战败	DEFEAT!	1
+平局	Tie	1
+平局	TIED!	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">Select All Larvae:</c><n/>When enabled, selecting a single Larva will select all attached to the same Hatchery.	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">Select All Larvae:</c><n/>When enabled, selecting a single larva will select all larvae for that Hatchery.	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Some of your gameplay options require a game restart to take effect.  Would you like to restart now?	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Some of your graphics options require a game restart to take effect.  Would you like to restart now?	1
+地区	Regional	1
+地区	Region	2
+欢迎	Welcome	1
+欢迎	WELCOME	1
+开始教学模式	LAUNCH TUTORIAL	1
+开始教学模式	PLAY TUTORIAL	1
+（升级英雄进行解锁）	(Level Up Hero to Unlock)	1
+（升级英雄进行解锁）	(Level Up a Hero to Unlock)	1
+%level%级	Level %level%	4
+%level%级	level %level%	1
+刺杀型	Assassins	2
+刺杀型	Assassin	1
+专业型	Specialists	2
+专业型	Specialist	1
+战斗型	Warriors	2
+战斗型	Warrior	1
+设定为观战者	Make Observer	1
+设定为观战者	Set Spectator	1
+坐骑	Mount	1
+坐骑	Mounts	3
+选择坐骑	Select a Mount	1
+选择坐骑	CHOOSE A MOUNT	1
+皮肤	Skin	2
+皮肤	Skins	5
+推荐	SUGGEST	2
+推荐	Featured	2
+推荐	Suggest	1
+生命值：	Hitpoints:	1
+生命值：	Life:	1
+重放	Restart	1
+重放	Replay	1
+录制视频	Record to Video	1
+录制视频	Recording	1
+使用该选项前必须启用系统中的辅助功能。请勾选通用辅助系统设置（Universal Access System Preferences）面板中的“启用辅助设备访问”（Enable access for assistive devices）选项。您现在是否要打开系统设置面板？	In order to use this option accessibility needs to be in enabled. Please check the option "Enable access for assistive devices" in the Universal Access System Preferences panel.  Would you like to open the System Preferences now?	1
+使用该选项前必须启用系统中的辅助功能。请勾选通用辅助系统设置（Universal Access System Preferences）面板中的“启用辅助设备访问”（Enable access for assistive devices）选项。您现在是否要打开系统设置面板？	In order to use this option accessibility needs to be in enabled. Please check the option "Enable access for assistive devices" in the Universal Access System Preferences panel. Would you like to open the System Preferences now?	1
+正在加载	Loading	2
+正在加载	LOADING	1
+显示警告信息	Show Warning Messages	1
+显示警告信息	Show Alerts	1
+寻求组队	Looking For Party	2
+寻求组队	Looking for Party	1
+超大型	Epic	1
+超大型	Mega	1
+登录	Log In	1
+登录	Login	1
+选项	Options	3
+选项	OPTIONS	2
+已雇佣	HIRED	1
+已雇佣	Hired	1
+消息记录	Message Log	1
+消息记录	MESSAGE LOG	1
+任务：	Mission:	1
+任务：	MISSION:	1
+视野	VISION	1
+视野	Vision	1
+确定	Ok	2
+确定	OK	2
+正在游戏	In-Game	1
+正在游戏	In Game	1
+奖励目标：	BONUS OBJECTIVE:	1
+奖励目标：	Bonus Objective:	1
+任务目标：	MISSION OBJECTIVE:	1
+任务目标：	Mission Objective:	1
+奖励：	REWARD:	2
+奖励：	Reward:	2
+开始游戏(<h/>P)	<h/>Play	2
+开始游戏(<h/>P)	<h/>Play Game	1
+获取控制	TAKE COMMAND	1
+获取控制	Take Command	1
+支付	PAY NOW	1
+支付	Payment	1
+搜索英雄	Search Collection	1
+搜索英雄	Search Heroes	1
+统计	Statistics	1
+统计	Stats	1
+购买	Purchase	1
+购买	PURCHASE	1
+播报员	Announcer	2
+播报员	Announcers	1
+正在重新连接游戏，请稍候。	Please wait as we reconnect you to your game.	1
+正在重新连接游戏，请稍候。	Please wait as we try to reconnect you back into the game.	1
+观看录像	Replay	1
+观看录像	View Replay	1
+关于	About	3
+关于	ABOUT	1
+商城暂时不可用，请稍后再试。	The store is currently unavailable. Please try again later.	1
+商城暂时不可用，请稍后再试。	The store is not currently available. Please try again later.	1
+试用	Try	2
+试用	TRY	1
+首页	Home	1
+首页	HOME	1
+离开	Leave	1
+离开	Away	2
+强化	Stimpacks	1
+强化	POWERUP	1
+%val%秒	%val% second	1
+%val%秒	%val% seconds	1
+%val%秒	%val% <lang rule="plural" val="%val%">second,seconds</lang>	1
+%val%秒	%val%sec	1
+忙碌	busy	1
+忙碌	Busy	2
+语音	Voices	1
+语音	Voice	1
+消耗	Spend	1
+消耗	Spent	1
+紫色	Purple	1
+紫色	Violet	1
+%val%天	%val% <lang rule="plural" val="%val%">day,days</lang>	1
+%val%天	%val%d	1
+%val%小时	%val% <lang rule="plural" val="%val%">hour,hours</lang>	1
+%val%小时	%val%h	1
+%val%分钟	%val% <lang rule="plural" val="%val%">minute,minutes</lang>	1
+%val%分钟	%val%min	1
+%val%周	%val% <lang rule="plural" val="%val%">week,weeks</lang>	1
+%val%周	%val% wk.	1
+%val%年	%val% <lang rule="plural" val="%val%">year,years</lang>	1
+%val%年	%val% yr.	1
+能量：	Energy:	1
+能量：	Power:	1
+等级：	Level:	1
+等级：	Rank:	1
+[观战者]	[Observers]	1
+[观战者]	[Spectators]	1

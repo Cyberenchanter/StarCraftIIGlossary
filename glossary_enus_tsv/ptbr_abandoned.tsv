@@ -1,0 +1,729 @@
+Chrono Boost	Reforço temporal	3
+Chrono Boost	Reforço Temporal	2
+This unit has reduced armor.	Esta unidade tem blindagem reduzida.	1
+This unit has reduced armor.	Esta unidade está com a blindagem reduzida.	1
+KD8 Charge	KD8 Charge	2
+KD8 Charge	Carga de KD8	1
+KD8 Charge	Carga KD8	1
+Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Cyclones<n/>- Siege Tanks<n/>- Thor with Armory	Estrutura de pesquisa veicular. O Laboratório Técnico pode ser anexado a qualquer estrutura de produção.<n/><n/><c val="ffff8a">Ativa:</c><n/>- Cclones<n/>- Tanques de Cerco<n/>- Thor com Arsenal	1
+Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Cyclones<n/>- Siege Tanks<n/>- Thor with Armory	Estrutura de pesquisa veicular. O Laboratório Técnico pode ser anexado a qualquer estrutura de produção.<n/><n/><c val="ffff8a">Ativa:</c><n/> - Ciclones<n/>- Tanques de Cerco<n/>- Thor com Arsenal	1
+Disruption Beam	Feixe de Distúrbio	2
+Disruption Beam	Feixe de distúrbio	1
+Prismatic Beam	Feixe prismático	2
+Prismatic Beam	Feixe Prismático	15
+Energy Recharge	Recarga de Energia	2
+Energy Recharge	Recarregar energia	1
+Ultralisk Weapon Cooldown	Recarga do Armamento do Mammuthus	1
+Ultralisk Weapon Cooldown	Recarga do armamento do Mammuthus	1
+Mass Recall	Convocação em massa	2
+Mass Recall	Convocação em Massa	5
+Volatile Burst	Explosão Volátil	3
+Volatile Burst	Explosão volátil	2
+Acid Spines	Espinhos Ácidos	2
+Acid Spines	Espinhos ácidos	1
+Weapons Free	Abrir fogo	2
+Weapons Free	Abrir Fogo	1
+Missile Turret	Torre de Mísseis	3
+Missile Turret	Torre de mísseis	2
+This upgrade is locked by your Commander Prestige.	Este aprimoramento está travado pelo seu Prestígio de Comandante.	3
+This upgrade is locked by your Commander Prestige.	Esta aprimoramento está travado pelo seu Prestígio de Comandante.	1
+Built over a Vespene Geyser to allow harvesting of vespene gas.	Construída sobre uma fonte de gás vespeno para possibilitar a extração do gás.	1
+Built over a Vespene Geyser to allow harvesting of vespene gas.	Construída sobre um gêiser de vespeno para possibilitar a extração do gás.	1
+ATA Laser Battery	Bateria Laser ATA	2
+ATA Laser Battery	Bateria laser ATA	2
+ATS Laser Battery	Bateria Laser ATS	2
+ATS Laser Battery	Bateria laser ATS	2
+C-10 Canister Rifle	Rifle de Cilindro C-10	1
+C-10 Canister Rifle	Rifle C-10	1
+Siege Tank	Tanque de cerco	4
+Siege Tank	Tanque de Cerco	1
+Longbolt Missile	Míssil Relâmpago	3
+Longbolt Missile	Míssil relâmpago	2
+Punisher Grenades	Granadas de Punição	4
+Punisher Grenades	Granadas de punição	2
+Ultralisk Mechanical Life Leech	Drenagem de Vida Mecânica de Mammuthus	1
+Ultralisk Mechanical Life Leech	Mammuthus - Drenagem de Vida Mecânica	1
+Suicide unit. Does damage over a small area on death. <n/><n/><c val="ffff8a">Can attack ground units.</c>	Unidade suicida. Causa danos sobre uma área pequena quando morre. <n/><n/><c val="ffff8a">Ataca unidades terrestres.</c>	1
+Suicide unit. Does damage over a small area on death. <n/><n/><c val="ffff8a">Can attack ground units.</c>	Unidade suicida. Causa danos numa área pequena quando morre.<n/><n/><c val="ffff8a">Ataca unidades terrestres.</c>	1
+Suicide unit. Does damage over a small area on death. <n/><n/><c val="ffff8a">Can attack ground units.</c>	Unidade suicida. Causa dano em uma área pequena quando morre. <n/><n/><c val="ffff8a">Ataca unidades terrestres.</c>	1
+Ranged attacker.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Agressor de longo alcance.<n/><n/><c val="ffff8a">Ataca unidades aéreas e terrestres.</c>	1
+Ranged attacker.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Agressor de longo alcance.<n/><n/><c val="ffff8a">Ataca unidades terrestres e aéreas.</c>	3
+Anti-air defensive structure. <n/><n/><c val="ffff8a">Can attack air units.</c><n/><c val="FFE303">Detector</c>	Estrutura de defesa antiaérea.<n/><n/><c val="ffff8a">Ataca unidades aéreas.</c><n/><c val="FFE303">Detector</c>	2
+Anti-air defensive structure. <n/><n/><c val="ffff8a">Can attack air units.</c><n/><c val="FFE303">Detector</c>	Estrutura de defesa antiaérea. <n/><n/><c val="ffff8a">Ataca unidades aéreas.</c><n/><c val="FFE303">Detector</c>	1
+Needle Claws	Garras de Agulha	1
+Needle Claws	Garras de agulha	1
+Parasite Spore	Esporo de Parasita	2
+Parasite Spore	Esporo de parasita	2
+Research Mecha Locusceptor Bays at the Mecha Greater Spire	Pesquise Polos de Gafanhoceptores Mecanoides no Grande Pináculo Mecanoide	1
+Research Mecha Locusceptor Bays at the Mecha Greater Spire	Pesquisa Polos de Gafanhoceptores Mecanoides no Grande Pináculo Mecanoide	1
+<c val="#ColorAttackInfo">Must be burrowed to attack.</c>	<c val="#ColorAttackInfo">É preciso estar Entocado para atacar.</c>	1
+<c val="#ColorAttackInfo">Must be burrowed to attack.</c>	<c val="#ColorAttackInfo">É preciso estar entocado para atacar.</c>	1
+Advanced Construction	Construção Avançada	3
+Advanced Construction	Construção avançada	1
+Broken Drakken Laser Drill	Broken Drakken Laser Drill	1
+Broken Drakken Laser Drill	Furadeira Laser Drakken Quebrada	1
+Cloaking Field	Campo de camuflagem	2
+Cloaking Field	Campo de invisibilidade	2
+Cloaking Field	Campo de Camuflagem	1
+Drakken Laser Drill Attack	Drakken Laser Drill Attack	2
+Drakken Laser Drill Attack	Ataque da Furadeira Laser Drakken	1
+Nuke	Arma Nuclear	5
+Nuke	Arma nuclear	1
+Fungal Growth	Crescimento fúngico	4
+Fungal Growth	Crescimento Fúngico	3
+Stukov Infested Wild Mutation	Stukov Infested Wild Mutation	1
+Stukov Infested Wild Mutation	Mutação Selvagem Infestada de Stukov	1
+Nuclear Strike	Ataque nuclear	1
+Nuclear Strike	Ataque Nuclear	1
+Void Shard ACDeath Grip	Void Shard ACDeath Grip	1
+Void Shard ACDeath Grip	Fragmento do Vazio ACGuante da Morte	1
+Void Shard ACShockwave	Void Shard ACShockwave	1
+Void Shard ACShockwave	Fragmento do Vazio ACOnda de Choque	1
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	2
+Void Shard ACUnstable Energy	Fragmento do Vazio ACEnergia Instável	1
+Void Shard ACUnstable Energy	Fragmento do Vazio - CAEnergia Instável	1
+Void Shard ACVoid Zone	Void Shard ACVoid Zone	1
+Void Shard ACVoid Zone	Fragmento do Vazio ACZona do Vazio	1
+Void Shard ACVoid Zone	Fragmento do Vazio - CAZona do Vazio	2
+Battlecruiser	Cruzador de batalha	3
+Battlecruiser	Cruzador de Batalha	1
+Command Center	Central de Comando	1
+Command Center	Central de comando	1
+Dark Templar	Templário das trevas	2
+Dark Templar	Templário das Trevas	3
+Firebat	Morcego de fogo	1
+Firebat	Morcego de Fogo	1
+Reaper	Exterminador	8
+Reaper	Reaper	1
+High Templar	Templário supremo	3
+High Templar	Templário Supremo	1
+Observer	Espectador	2
+Observer	Observador	1
+Observer	Vigia	1
+Orbital Command	Comando orbital	2
+Orbital Command	Comando Orbital	1
+Photon Cannon	Canhão de fótons	2
+Photon Cannon	Canhão de Fótons	3
+Scout	Nave batedora	1
+Scout	Batedor	1
+Spine Crawler	Lagarta espinhosa	3
+Spine Crawler	Lagarta Espinhosa	1
+Spore Crawler	Lagarta de esporos	2
+Spore Crawler	Lagarta de Esporos	1
+Infested Armory	Arsenal infestado	3
+Infested Armory	Arsenal Infestado	1
+Infested Barracks	Quartel infestado	4
+Infested Barracks	Quartel Infestado	5
+Infested Factory	Fábrica infestada	4
+Infested Factory	Fábrica Infestada	1
+Infested Marine	Soldado infestado	1
+Infested Marine	Soldado Infestado	1
+Infested Starport	Estaleiro sideral infestado	3
+Infested Starport	Estaleiro Sideral Infestado	1
+Warp Prism	Prisma de Dobra	1
+Warp Prism	Prisma de dobra	2
+True	VERDADEIRO	1
+True	Verdadeiro	1
+Ricochet Glaive	Glaive Ricocheteadora	2
+Ricochet Glaive	Glaive Ricocheteador	3
+Dark Templar Recalling	Dark Templar Recalling	1
+Dark Templar Recalling	Templário das Trevas - Reconvocando	1
+Trigger Override	Ativar Substituição	10
+Trigger Override	Cancelar Ativador	3
+Laser Drill Tripod Overload	Laser Drill Tripod Overload	1
+Laser Drill Tripod Overload	Sonda Laser - Sobrecarga Tripé	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+On Death Vorazun Recall On Death Recently Recalled	Ao Morrer - Vorazun - Convocação ao Morrer - Convocado Recentemente	1
+Infested Swarm	Enxame Infestado	1
+Infested Swarm	Enxame infestado	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+Void Shard ACDamage Field Debuff	Fragmento do Vazio - CADano - Penalidade Campo	1
+Armory Double Queue	Armory Double Queue	1
+Armory Double Queue	Fila Dupla do Arsenal	1
+Biomass Gathered	Biomassa coletada	3
+Biomass Gathered	Biomassa Coletada	2
+Locked	Travado	4
+Locked	Bloqueado	2
+Research Defensive Matrix	Pesquisar Matriz Defensiva	1
+Research Defensive Matrix	Pesquisar Matriz de Defesa	2
+Research Multi-Lock Weapons System	Pesquisar Sistemas de Mira de Trava Múltipla	1
+Research Multi-Lock Weapons System	Pesquisar Sistemas de Mira de Conexão Múltipla	2
+Neural Parasite	Parasita neural	6
+Neural Parasite	Parasita Neural	1
+Advanced Repair Systems	Sistemas de Reparo Avançados	1
+Advanced Repair Systems	Sistemas de Conserto Avançados	1
+Singularity Charge	Carga de singularidade	1
+Singularity Charge	Carga de Singularidade	1
+Warps in Protoss robotic units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Immortals<n/>- Observers	Transdobra unidades protoss robóticas.<n/><n/><c val="ffff8a">Ativa:</c><n/>- Imortais<n/>- Vigias	2
+Warps in Protoss robotic units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Immortals<n/>- Observers	Transdobra unidades protoss robóticas.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Imortais<n/>- Vigias	1
+Contains upgrades for Observers, Immortals and Colossi.<n/><n/><c val="ffff8a">Enables:</c><n/>- Colossi at the Robotics Facility	Contém aprimoramentos para Vigias, Imortais e Colossos.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Colossos na Central de Robótica	1
+Contains upgrades for Observers, Immortals and Colossi.<n/><n/><c val="ffff8a">Enables:</c><n/>- Colossi at the Robotics Facility	Contém aprimoramentos para Vigia, Imortal e Colosso.<n/><n/><c val="ffff8a">Ativa:</c><n/>- Colosso na Central de Robótica	1
+Projects an invulnerable Shade that can move but cannot attack.<n/><n/>The Adept teleports to the Shade's location <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> seconds after activation.<n/><n/>Can be canceled after activation.	Projeta um Vulto invulnerável que pode se movimentar, mas não atacar.<n/><n/>A Adepta se teleporta para a posição do Vulto <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> segundos após a ativação.<n/><n/>Pode ser cancelado após a ativação.	1
+Projects an invulnerable Shade that can move but cannot attack.<n/><n/>The Adept teleports to the Shade's location <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> seconds after activation.<n/><n/>Can be canceled after activation.	Projeta um Vulto invulnerável que se movimenta, mas não ataca.<n/><n/>A Adepta se teleporta para a posição do Vulto <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> segundos após a ativação.<n/><n/>Pode ser cancelado após a ativação.	1
+Warped in over a Vespene Geyser to allow harvesting of vespene gas.	Transdobrado sobre uma fonte de gás vespeno para possibilitar a extração do gás.	1
+Warped in over a Vespene Geyser to allow harvesting of vespene gas.	Transdobrado sobre um gêiser de vespeno para possibilitar a extração do gás.	1
+Enables additional research options for Horner's units.	Habilita opções de pesquisa adicionais para as unidades de Horner.	1
+Enables additional research options for Horner's units.	Habilita opções de pesquisa adicional para as unidades de Horner.	1
+Powerful psionic attacker.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Poderoso atacante psiônico.<n/><n/><c val="ffff8a">Ataca unidades aéreas e terrestres.</c>	1
+Powerful psionic attacker.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Atacante psiônico poderoso.<n/><n/><c val="ffff8a">Ataca unidades terrestres e aéreas.</c>	1
+Summons a powerful temporary defensive wurm that can detect cloaked and burrowed units.	Convoca um poderoso verme defensivo temporário que detecta unidades camufladas e entocadas.	1
+Summons a powerful temporary defensive wurm that can detect cloaked and burrowed units.	Convoca um poderoso verme defensivo temporário que detecta unidades entocadas e camufladas.	1
+Fast melee creature.<n/><n/><c val="FFFF8A">Can attack ground units.</c>	Criatura de luta corpo a corpo rápida.<n/><n/><c val="FFFF8A">Ataca unidades terrestres.</c>	1
+Fast melee creature.<n/><n/><c val="FFFF8A">Can attack ground units.</c>	Criatura de combate corpo a corpo veloz.<n/><n/><c val="FFFF8A">Ataca unidades terrestres.</c>	2
+Spawns a massive assault beast that dwarfs even the Ultralisk in size and strength. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	Gera um monstro de ataque gigantesco que faz até o Mammuthus parecer pequeno e fraco. <n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres e aéreas.</c>	1
+Spawns a massive assault beast that dwarfs even the Ultralisk in size and strength. <n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	Gera uma fera de ataque gigantesca que faz até o Mammuthus parecer pequeno e fraco. <n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres e aéreas.</c>	1
+The <c val="ffff8a">Mutalisk's</c> attack bounces three additional times, hitting up to six targets. Bounces also travel farther.	O ataque da <c val="ffff8a">Mutalisca</c> ricocheteia três vezes a mais, atingindo até seis alvos. Os ricochetes também têm um alcance maior.	1
+The <c val="ffff8a">Mutalisk's</c> attack bounces three additional times, hitting up to six targets. Bounces also travel farther.	O ataque da <c val="ffff8a">Mutalisca</c> ricocheteia três vezes a mais, atingindo até seis alvos. Os ricochetes têm maior alcance.	1
+All <c val="ffff8a">Viper</c> abilities gain +<d ref="Upgrade,ViperImprovedCastRange,EffectArray[0].Value"/> cast range.	Todas as habilidades da <c val="ffff8a">Víbora</c>  ganham +<d ref="Upgrade,ViperImprovedCastRange,EffectArray[0].Value"/> de alcance de lançamento.	1
+All <c val="ffff8a">Viper</c> abilities gain +<d ref="Upgrade,ViperImprovedCastRange,EffectArray[0].Value"/> cast range.	Todas as habilidades da <c val="ffff8a">Víbora</c> ganham +<d ref="Upgrade,ViperImprovedCastRange,EffectArray[0].Value"/> de alcance de lançamento.	1
+Houses AI personalities of Protoss champions. Once researched these AI personalities will automatically download into any available host unit.	Abriga personalidades em I.A. dos campeões Protoss. Ao serem pesquisadas, essas personalidades I.A. são baixadas automaticamente para qualquer unidade hospedeira disponível.	1
+Houses AI personalities of Protoss champions. Once researched these AI personalities will automatically download into any available host unit.	Abriga personalidades em I.A. dos campeões protoss. Ao serem pesquisadas, essas personalidades I.A. são baixadas automaticamente para qualquer unidade hospedeira disponível.	1
+Contains upgrades for Nova.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ghosts at the Barracks<n/>- Tac Nuke Strike on Nova	Contém aprimoramentos para Nova.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Fantasmas no Quartel<n/>- Ataque nuclear tático em Nova	1
+Contains upgrades for Nova.<n/><n/><c val="ffff8a">Enables:</c><n/>- Ghosts at the Barracks<n/>- Tac Nuke Strike on Nova	Contém aprimoramentos para Nova.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Fantasmas no Quartel<n/>- Ataque Nuclear Tático em Nova	1
+Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>	Faz a unidade-alvo flutuar, desativando suas habilidades. O efeito dura até <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Unidades imensas são imunes.</c>	1
+Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>	Faz a unidade-alvo flutuar no ar, desativando suas habilidades. O efeito dura até <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Unidades imensas são imunes.</c>	1
+Fast scout. Has a grenade attack that slows enemy units. Can transform into a close range combat unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	Batedor ágil. Ataca com granadas que desaceleram as unidades inimigas. Pode se transformar em uma unidade de combate de curto alcance.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres.</c>	1
+Fast scout. Has a grenade attack that slows enemy units. Can transform into a close range combat unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	Batedor ágil. Ataca com granadas que desaceleram unidades inimigas. Pode se transformar em uma unidade de combate de curto alcance.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres.</c>	1
+Attacks bounce three additional times, hitting up to six targets. Bounces also travel farther.	Os ataques ricocheteiam três vezes a mais, atingindo até seis alvos. Os ricochetes também têm um alcance maior.	1
+Attacks bounce three additional times, hitting up to six targets. Bounces also travel farther.	Os ataques ricocheteiam três vezes a mais, atingindo até seis alvos. Os ricochetes têm maior alcance.	1
+Dominion covert operative. Can equip and use a variety of weapons and gear.<n/><n/><c val="#ColorAttackInfo">Can attack different enemy units based on weaponry.</c>	Agente secreta da Supremacia. Pode equipar e utilizar várias armas e equipamentos.<n/><n/><c val="#ColorAttackInfo">Ataca diferentes unidades, dependendo do armamento.</c>	1
+Dominion covert operative. Can equip and use a variety of weapons and gear.<n/><n/><c val="#ColorAttackInfo">Can attack different enemy units based on weaponry.</c>	Agente secreta da Supremacia. Pode equipar e utilizar várias armas e equipamentos.<n/><n/><c val="#ColorAttackInfo">Pode atacar diferentes unidades com base no armamento.</c>	1
+Primary defensive structure.<n/><n/><c val="ffff8a">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>	Estrutura de defesa principal.<n/><n/><c val="ffff8a">Ataca unidades terrestres e aéreas.</c><n/><c val="FFE303">Detector</c>	1
+Primary defensive structure.<n/><n/><c val="ffff8a">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>	Unidade defensiva primária.<n/><n/><c val="ffff8a">Ataca unidades terrestres e aéreas.</c><n/><c val="FFE303">Detector</c>	3
+Defensive unit. Can use Spawn Larvae, Spawn Creep Tumor, and Transfusion. Moves much faster on creep.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Unidade de defesa. Pode utilizar as habilidades Gerar Larvas, Gerar Tumor gosmento e Transfusão. Movimenta-se bem mais rápido sobre gosma.<n/><n/><c val="ffff8a">Ataca unidades aéreas e terrestres.</c>	2
+Defensive unit. Can use Spawn Larvae, Spawn Creep Tumor, and Transfusion. Moves much faster on creep.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Unidade de defesa. Pode utilizar as habilidades Gerar Larvas, Gerar Tumor Gosmento e Transfusão. Movimenta-se bem mais rápido sobre gosma.<n/><n/><c val="ffff8a">Ataca unidades aéreas e terrestres.</c>	1
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	2
+ACPirate Capital Ship Tractor Beam	CANau Capitânia Pirata - Raio de Tração	2
+~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	~time~ Jogador ~player~ - Dificuldade da onda de ataque ~diff~ Recursos Totais ~total~	1
+~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	~time~ Jogador ~player~ - Dificuldade da Onda de Ataque ~diff~ Recursos Totais ~total~	2
+Kills: ~A~/~B~	Mortes: ~A~/~B~	1
+Kills: ~A~/~B~	Abates: ~A~/~B~	1
+[Counter Units] Resources Used exceeds Resources Total in CoopAI_ConstructAttackWave	[Contadores de Unidade] Recursos Usados excedem Total de Recursos em CoopAI_ConstructAttackWave	1
+[Counter Units] Resources Used exceeds Resources Total in CoopAI_ConstructAttackWave	[Combate Unidades] Recursos Usados excedem Total de Recursos em CoopAI_ConstructAttackWave	1
+Kill Bot	Robô da Morte	1
+Kill Bot	Robô de Abate	2
+Evolve Vicious Glave at the Spire	Evoluir Espada Cruel no Pináculo	1
+Evolve Vicious Glave at the Spire	Evolua a Espada Cruel no Pináculo	1
+Terran Ship Weapons Level 2	Armamento aeroespacial terrano nível 2	1
+Terran Ship Weapons Level 2	Armas da nave terrana nível 2	1
+Terran Ship Plating Level 2	Revestimento aeroespacial terrano nível 2	1
+Terran Ship Plating Level 2	Revestimento aeroespacial terrana nível 2	1
+Terran Ship Weapons Level 1	Armamento aeroespacial terrano nível 1	1
+Terran Ship Weapons Level 1	Armas da nave terrana nível 1	1
+Carrier must have fewer than 8 Interceptors	A Transportadora deve ter menos de 8 Interceptores	1
+Carrier must have fewer than 8 Interceptors	A Transportadora precisa ter menos de 8 Interceptores	1
+Start Game	Iniciar Jogo	1
+Start Game	Iniciar jogo	1
+Normal	Normal	8
+Normal	NORMAL	1
+Beacon	Sinal	1
+Beacon	Sinalizador	1
+Auto-Turret	Torre de artilharia automatizada	1
+Auto-Turret	Torre de Artilharia Automatizada	1
++~A~ Seconds	+~A~ Segundos	2
++~A~ Seconds	+~A~ segundos	1
+-~A~ Seconds	-~A~ segundos	6
+-~A~ Seconds	-~A~ s	1
++~A~ Damage	+~A~ de Dano	2
++~A~ Damage	+~A~ de dano	1
+Backlash Rockets	Foguetes de Reação	3
+Backlash Rockets	Foguetes de retrocesso	2
+Psionic Shockwave	Onda de Choque Psiônica	1
+Psionic Shockwave	Onda de choque psiônica	1
+Psi Blades	Lâminas Psi	1
+Psi Blades	Lâminas psi	1
+Warp Blades	Lâminas de Transdobra	1
+Warp Blades	Lâminas de transdobra	1
+Spider Mines pursue enemy units that come in range, and detonate for heavy area damage. Buried Spider Mines can only be seen by enemy <c val="FFE303">Detectors</c>.	Minas-aranha perseguem unidades inimigas que entram na mira e detonam para provocar danos de área pesados. Minas-aranha plantadas só podem ser vistas por <c val="FFE303">Detectores</c> do inimigo.	1
+Spider Mines pursue enemy units that come in range, and detonate for heavy area damage. Buried Spider Mines can only be seen by enemy <c val="FFE303">Detectors</c>.	Minas-aranha perseguem unidades inimigas que entram no alcance e detonam para provocar danos de área pesados. Minas-aranha plantadas só podem ser vistas por <c val="FFE303">Detectores</c> do inimigo.	2
+Sniper. Can use Snipe, EMP Round, and be upgraded to use Cloak. Can call down Tactical Nukes built at the Ghost Academy.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	Atirador de elite. Usa Tiro de precisão, Munição PEM e pode ser aprimorado para usar Camuflagem. Pode convocar Armas nucleares táticas construídas na Academia fantasma.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres e aéreas.</c>	1
+Sniper. Can use Snipe, EMP Round, and be upgraded to use Cloak. Can call down Tactical Nukes built at the Ghost Academy.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	Atirador de elite. Usa Tiro de Precisão, Munição PEM e pode ser aprimorado para usar Camuflagem. Convoca Armas Nucleares Táticas construídas na Academia Fantasma.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres e aéreas.</c>	1
+General-purpose infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	Infantaria de uso geral.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres e aéreas.</c>	1
+General-purpose infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	Infantaria básica.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres e aéreas.</c>	1
+Already cast	Já lançado	1
+Already cast	Já contratado	1
+Already cast	NYI	1
+Already cast	Já contratada	1
+SM Model	Modelo SM	6
+SM Model	Modelo MA	1
+Rick Wasserman	Rubens Pimpim	1
+Rick Wasserman	Vagner Santos	1
+Patrick Seitz	Don Donini	1
+Patrick Seitz	Léo Martins	1
+Patrick Seitz	Maurício Berger	1
+Rachael MacFarlane	Leticia Quinto	1
+Rachael MacFarlane	Adriana Torres	1
+Fred Tatasciore	Guilherme Lopes	1
+Fred Tatasciore	Mauro Castro	1
+Fred Tatasciore	Guremberg Barros	1
+Robert Clotworthy	Tatá Guarnieri	1
+Robert Clotworthy	Márcio Simões	1
+Armin Shimerman	Marco Aurélio	1
+Armin Shimerman	Cláudio Satiro	1
+Armin Shimerman	Ricardo Schnetzer	1
+Josh Keaton	Sílvio Giraldi	1
+Josh Keaton	Thiago Fagundes	1
+Nika Futterman	Elisa Vilon	1
+Nika Futterman	Gilmara Sanches	1
+Nika Futterman	Ilka Pinheiro	1
+Far	Longe	1
+Far	Distante	1
+Play	Reproduzir replay	1
+Play	Jogar	2
+Play	Reproduzir	1
+All	Todos	1
+All	Tudo	2
+<h/>CLOSE	FE<h/>CHAR	1
+<h/>CLOSE	<h/>FECHAR	1
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	Explosivos acionáveis que perseguem unidades inimigas que entram no seu alcance de rastreamento e explodem, causando dano pesado em área.	2
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	Explosivos acionáveis que perseguem unidades inimigas que entram no seu alcance de rastreamento e explodem, causando dano pesado em área. Substituem os Mísseis Teleguiados.	1
+Air unit. Bounces its shot to strike multiple targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Unidade aérea. Ricocheteia seu tiro para acertar vários alvos.<n/><n/><c val="ffff8a">Ataca unidades aéreas e terrestres.</c>	1
+Air unit. Bounces its shot to strike multiple targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Unidade aérea. Ricocheteia seus tiros para atingir vários alvos.<n/><n/><c val="ffff8a">Ataca unidades aéreas e terrestres.</c>	1
+Tornado Missile	Míssil Tornado	1
+Tornado Missile	Tornado Míssil	1
+Disguise As Marine With Shield	Disfarçar de Soldado com escudo	1
+Disguise As Marine With Shield	Disfarçar de Soldado com Escudo	1
+Disguise As Marine Without Shield	Disfarçar de Soldado sem escudo	1
+Disguise As Marine Without Shield	Disfarçar de Soldado sem Escudo	1
+Disguise As Zergling With Wings	Disfarçar como Zergnídeo com asas	1
+Disguise As Zergling With Wings	Disfarçar de Zergnídeo com Asas	1
+Disguise As Zergling Without Wings	Disfarçar como Zergnídeo sem asas	1
+Disguise As Zergling Without Wings	Disfarçar de Zergnídeo sem Asas	1
+Force Field	Campo de força	3
+Force Field	Campo de Força	1
+Guardian Shield	Escudo guardião	3
+Guardian Shield	Escudo Guardião	3
+Infested Terrans	Terranos infestados	1
+Infested Terrans	Terranos Infestados	1
+Infested Terrans Lay Egg	Terranos infestados - Botar ovos	1
+Infested Terrans Lay Egg	Terranos Infestados - Botar Ovos	1
+Leech	Drenagem	4
+Leech	Sugar	6
+Wormhole Transit	Trânsito protônico	1
+Wormhole Transit	Trânsito Protônico	1
+Move	Mover	2
+Move	Deslocar-se	1
+Beep, Beep, Boom!	Bip, Bip, Boom!	1
+Beep, Beep, Boom!	Bipe, bipe, bum!	1
+Combat_Mechanic_KillTransport	Combate_Mecânico_MatarTransporte	1
+Combat_Mechanic_KillTransport	Combat_Mechanic_KillTransport	1
+Morph complete.	Transformação concluída.	3
+Morph complete.	Transmutação concluída.	1
+Contaminated	Contaminada	1
+Contaminated	Contaminado	1
+Spawn Larvae	Gerando Larva	1
+Spawn Larvae	Gerar Larvas	1
+Spire Upgrade Cache	Depósito de Aprimoramentos do Pináculo	1
+Spire Upgrade Cache	Aprimoramentos do Pináculo	1
+Fleet Beacon Upgrade Cache	Aprimoramentos do Laboratório Avançado	2
+Fleet Beacon Upgrade Cache	Pacote de Aprimoramentos do Laboratório Avançado	1
+Engineering Bay Upgrade Cache	Depósito de Aprimoramentos do Polo de Engenharia	2
+Engineering Bay Upgrade Cache	Aprimoramentos do Polo de Engenharia	1
+Point Defense Laser	Laser de defesa pontual	2
+Point Defense Laser	Laser de Defesa Pontual	6
+Aircraft-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Banshees<n/>- Ravens<n/>- Battlecruisers with Fusion Core	Estrutura de pesquisa aeroespacial. O Laboratório técnico pode ser anexado a qualquer edificação de produção.<n/><n/><c val="ffff8a">Ativa:</c><n/>- Vudus<n/>- Corvos<n/>- Cruzadores de batalha com o Núcleo de fusão	1
+Aircraft-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Banshees<n/>- Ravens<n/>- Battlecruisers with Fusion Core	Estrutura de pesquisa aeroespacial. O Laboratório técnico pode ser anexado a qualquer estrutura de produção.<n/><n/><c val="ffff8a">Ativa:</c><n/>- Vudus<n/>- Corvos<n/>- Cruzadores de batalha com Núcleo de fusão	1
+Sheep	Carneiro	3
+Sheep	Ovelha	1
+Females of this species differ markedly from the more aggressive males.	As fêmeas desta espécie são bem diferentes dos machos, mais agressivos.	1
+Females of this species differ markedly from the more aggressive males.	As fêmeas desta espécie são bem diferentes dos machos que são mais agressivos.	1
+Heavy assault infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	Infantaria de ataque pesado.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres.</c>	1
+Heavy assault infantry.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	Infantaria com artilharia pesada.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres.</c>	1
+Increases the speed gained from Chrono Boost.	Aumenta a velocidade ganha de Reforço Temporal.	4
+Increases the speed gained from Chrono Boost.	Aumenta a velocidade ganha do Reforço Temporal.	1
+Advanced aerial observer. Maintains the unit cap set by the Overlord.<n/><n/><c val="FFE303">Detector</c>	Vigia aéreo avançado. Mantém o limite de unidades definido pelo Suserano.<n/><n/><c val="FFE303">Detector</c>	1
+Advanced aerial observer. Maintains the unit cap set by the Overlord.<n/><n/><c val="FFE303">Detector</c>	Observador aéreo avançado. Mantém o limite de unidades definido pelo Suserano.<n/><n/><c val="FFE303">Detector</c>	1
+Orders selected units to cancel all orders and stop moving.	Ordena que as unidades selecionadas cancelem todas as ordens anteriores e parem de se deslocar.	1
+Orders selected units to cancel all orders and stop moving.	Ordena que as unidades selecionadas cancelem todas as ordens e parem de se deslocar.	3
+Powerful melee warrior. Can use Charge.<n/><n/><c val="ffff8a">Can attack ground units.</c>	Guerreiro de luta corpo a corpo poderoso. Pode usar Investida.<n/><n/><c val="ffff8a">Ataca unidades terrestres.</c>	1
+Powerful melee warrior. Can use Charge.<n/><n/><c val="ffff8a">Can attack ground units.</c>	Poderoso guerreiro corpo a corpo. Usa Investida.<n/><n/><c val="ffff8a">Ataca unidades terrestres.</c>	1
+Fast melee creature. Can morph into a Baneling.<n/><n/><c val="FFFF8A">Can attack ground units.</c>	Criatura rápida de luta corpo a corpo. Transmuta-se em Tatu-bomba.<n/><n/><c val="FFFF8A">Ataca unidades terrestres.</c>	1
+Fast melee creature. Can morph into a Baneling.<n/><n/><c val="FFFF8A">Can attack ground units.</c>	Criatura de combate corpo a corpo veloz. Transmuta-se em Tatu-bomba.<n/><n/><c val="FFFF8A">Ataca unidades terrestres.</c>	1
+Blair Bess	Valter Santos	1
+Blair Bess	Renato Márcio	2
+Forged	Forjado	77
+Forged	Forjada	16
+Overview	Visão geral	3
+Overview	Visão Geral	1
+Camera Control	Controle de câmera	1
+Camera Control	Controles de câmera	1
+Terran Unit Production	Unidade de produção terrana	1
+Terran Unit Production	Produção de unidade terrana	1
+Terran Supply	Suprimento terrano	1
+Terran Supply	Suprimentos terranos	1
+Ion Cannons	Canhões de Íon	3
+Ion Cannons	Canhões de íon	2
+Particle Beam	Feixe de Partículas	1
+Particle Beam	Feixe de partículas	1
+2012 BWC	BWC 2012	5
+2012 BWC	2012 BWC	1
+Corrupted Protoss	Protoss Corrompido	2
+Corrupted Protoss	Protoss corrompido	1
+EZPZ	EZPZ	1
+EZPZ	Molezinha	1
+Money Bag	Saco de Dinheiro	1
+Money Bag	Saco de dinheiro	1
+Rich Minerals	Minérios Ricos	1
+Rich Minerals	Minérios ricos	1
+Ok	OK	1
+Ok	Ok	1
+Covert Operative	Agente Secreta	2
+Covert Operative	Agente Secreto	1
+Umojan	Umojano	28
+Umojan	Umojana	4
+Mecha	Meca	1
+Mecha	Mecha	1
+Resource Collection	Coleta de Recursos	1
+Resource Collection	Coleta de recursos	1
+Idle Worker Time	Tempo ocioso de trabalhador	1
+Idle Worker Time	Tempo de trabalhador ocioso	1
+Completed	Concluído	1
+Completed	Completo	1
+Training	Treinamento	2
+Training	Treino	1
+Melee	Corpo a Corpo	1
+Melee	Corpo a corpo	3
+Americas	Américas	1
+Americas	América	1
+Quick Match	Partida Rápida	1
+Quick Match	Partida rápida	3
+Light	Luz	3
+Light	Leve	2
+Fade In	Fade In	1
+Fade In	Aparecimento gradual	1
+Off	Desligado	5
+Off	Desconto	1
+Very Hard	Muito difícil	2
+Very Hard	Muito Difícil	1
+Clear	Limpar	3
+Clear	Remover	1
+Control	Control	1
+Control	Controle	1
+Delete	Delete	1
+Delete	Excluir	2
+Delete	Apagar	1
+Home	Home	1
+Home	Página inicial	1
+<c val="ff0000">Cannot have more than	<c val="ff0000">Não pode ter mais de	3
+<c val="ff0000">Cannot have more than	<c val="ff0000">Não é possível ter mais que	1
+Paused	Em pausa	1
+Paused	Pausa	1
+,	,<sp/>	1
+,	,	3
+Watch	Observar	1
+Watch	Assistir	1
+Complete	Completo	1
+Complete	Concluído	1
+Complete	Completado	1
+Kills	Mortes	1
+Kills	Abates	1
+Add Friend	Adicionar Amigo	3
+Add Friend	Adicionar amigo	1
+Armor:	Blindagem:	1
+Armor:	Armadura:<sp/>	1
+Armored	Blindado	3
+Armored	Com armadura	1
+Party	Grupo	2
+Party	Equipe	1
+Invite to Clan	Convidar para o clã	1
+Invite to Clan	Convidar para o Clã	1
+Empty Slot	Posição vazia	1
+Empty Slot	Espaço vazio	1
+Enemy Team	Equipe inimiga	2
+Enemy Team	Equipe Inimiga	1
+Invite to Party	Convidar para o Grupo	2
+Invite to Party	Convidar	1
+ADDITIONAL DEVELOPMENT	DESENVOLVIMENTO EXTRA	3
+ADDITIONAL DEVELOPMENT	DESENVOLVIMENTO ADICIONAL	1
+STORY & FRANCHISE DEVELOPMENT	HISTÓRIA E DESENVOLVIMENTO DE FRANQUIA	2
+STORY & FRANCHISE DEVELOPMENT	DESENVOLVIMENTO DE HISTÓRIA E FRANQUIA	2
+INTERNATIONAL PUBLISHING & OPERATIONS MANAGEMENT	GERÊNCIA DE PUBLICAÇÕES E OPERAÇÕES INTERNACIONAIS	3
+INTERNATIONAL PUBLISHING & OPERATIONS MANAGEMENT	GERÊNCIA DE PUBLICAÇÃO E OPERAÇÕES INTERNACIONAIS	1
+ESPORTS	ESPORTS	2
+ESPORTS	E-SPORTS	1
+ESPORTS	eSPORTS	1
+ESPORTS	ESPORTES	1
+WEB & MOBILE	WEB E CELULAR	2
+WEB & MOBILE	WEB E DISPOSITIVOS MÓVEIS	3
+INFORMATION TECHNOLOGY	TECNOLOGIA DA INFORMAÇÃO	6
+INFORMATION TECHNOLOGY	TECNOLOGIA DE INFORMAÇÃO	2
+PLATFORM SERVICES	SERVIÇOS DE PLATAFORMAS	2
+PLATFORM SERVICES	SERVIÇOS DE PLATAFORMA	1
+BUSINESS DEVELOPMENT & LICENSING	DESENVOLVIMENTO E LICENCIAMENTO DE NEGÓCIOS	2
+BUSINESS DEVELOPMENT & LICENSING	DESENVOLVIMENTO E LICENCIAMENTO DE NEGÓCIO	1
+Story Artists	Artistas de História	1
+Story Artists	Artistas de Ficção	2
+Lead User Interface Artist	Artista-chefe de Interface de Usuário	1
+Lead User Interface Artist	Artista de Interface de Usuário Líder	2
+Lead Technical Artist	Artista-chefe Técnico	2
+Lead Technical Artist	Artista Técnico Líder	2
+Story Directors	Diretores de História	1
+Story Directors	Diretores de Ficção	2
+Game Design Lead	Designer-chefe de Jogo	2
+Game Design Lead	Líder de Design do Jogo	2
+Lead Online Platform Engineer	Engenheiro-chefe de Plataforma Online	1
+Lead Online Platform Engineer	Engenheiro de Plataforma Online Líder	2
+Lead Mac Engineer	Engenheiro-chefe de Mac	1
+Lead Mac Engineer	Engenheiro de Mac Líder	2
+Lead Tools Engineer	Engenheiro-chefe de Ferramentas	1
+Lead Tools Engineer	Engenheiro de Ferramentas Líder	2
+Lead Automation Engineers	Engenheiros-chefe de Automação	1
+Lead Automation Engineers	Engenheiros de Automação Líderes	2
+Lead Multiplayer Designer	Designer-chefe de Multijogador	1
+Lead Multiplayer Designer	Designer de Multijogador Líder	2
+Senior Vice President, Story & Franchise Development Operations	Vice-presidente Sênior, Operações de Desenvolvimento de História e Franquia	1
+Senior Vice President, Story & Franchise Development Operations	Vice-Presidente Sênior, Operações de Desenvolvimento de Franquia e Ficção	2
+Consumer Products Team	Equipe de Produtos de Consumo	2
+Consumer Products Team	Equipe de Produtos ao Consumidor	2
+Director, Video & Post Production	Diretor, Vídeo e Pós-produção	2
+Director, Video & Post Production	Diretor, Produção de Vídeo e Pós-Produção	2
+Vice President, Global Consumer Products	Vice-presidente, Produtos de Consumo Global	2
+Vice President, Global Consumer Products	Vice-Presidente, Produtos ao Consumidor Globais	2
+Director of Production, Blizzard Animation & Creative Development	Diretor de Produção, Desenvolvimento Criativo e Animação da Blizzard	1
+Director of Production, Blizzard Animation & Creative Development	Diretor de Produção, Desenvolvimento Criativo e de Animação da Blizzard	2
+Blizzard Animation, Leadership	Animação da Blizzard, Liderança	2
+Blizzard Animation, Leadership	Blizzard Animação, Liderança	1
+Blizzard Animation, Artists	Animação da Blizzard, Artistas	2
+Blizzard Animation, Artists	Blizzard Animação, Artistas	1
+Blizzard Animation, Technology	Animação da Blizzard, Tecnologia	2
+Blizzard Animation, Technology	Blizzard Animação, Tecnologia	1
+Consumer Products, Leadership	Produtos de Consumo, Liderança	2
+Consumer Products, Leadership	Produtos ao Consumidor, Liderança	1
+Blizzard Animation, Production	Animação da Blizzard, Produção	2
+Blizzard Animation, Production	Blizzard Animação, Produção	1
+Additional Artists, Technology, and Production	Artistas, Tecnologia e Produção Extras	1
+Additional Artists, Technology, and Production	Artistas, Tecnologia e Produção Adicionais	1
+Video & Post Production, Filming & Capture	Vídeo e Pós-produção, Filmagem e Captura	2
+Video & Post Production, Filming & Capture	Vídeo e Pós-Produção, Filmagem e Captura	2
+Video & Post Production, Editorial	Vídeo e Pós-produção, Editorial	2
+Video & Post Production, Editorial	Vídeo e Pós-Produção, Editorial	2
+Senior Vice President, Story & Franchise Development	Vice-Presidente Sênior, Desenvolvimento de História e Franquia	1
+Senior Vice President, Story & Franchise Development	Vice-presidente Sênior de Desenvolvimento de História e Franquia	1
+Senior Vice President, Global Customer Service & Service Technologies	Vice-presidente Sênior, Suporte Global de Atendimento ao Cliente e Tecnologias de Serviço	2
+Senior Vice President, Global Customer Service & Service Technologies	Vice-Presidente Sênior, Suporte Global de Atendimento ao Cliente e Tecnologias de Serviço	2
+Senior Director, Customer Service Americas	Diretor Sênior, Atendimento ao Cliente - Américas	2
+Senior Director, Customer Service Americas	Diretor Sênior, Atendimento ao Cliente - América	2
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente Sênior de Planejamento Regional e Serviços de Suporte, Atendimento ao Cliente - Américas	1
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente Sênior de Planejamento Regional e Serviços de Suporte, Atendimento ao Cliente - América	1
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente Sênior de Planejamento Regional e Serviços de Suporte, Suporte ao Cliente - Américas	1
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente Sênior de Planejamento Regional e Serviços de Suporte, Suporte ao Cliente - América	1
+Regional Planning and Support Services Management, Customer Service Americas	Gerência de Planejamento Regional e Serviços de Suporte, Atendimento ao Cliente - Américas	1
+Regional Planning and Support Services Management, Customer Service Americas	Gestão de Planejamento Regional e Serviços de Suporte, Atendimento ao Cliente - América	1
+Regional Planning and Support Services Management, Customer Service Americas	Planejamento Regional e Gerência de Serviços de Suporte, Suporte ao Cliente - Américas	1
+Regional Planning and Support Services Management, Customer Service Americas	Planejamento Regional e Gerência de Serviços de Suporte, Suporte ao Cliente - América	1
+Regional Planning and Support Services Team, Customer Support Americas	Equipe de Planejamento Regional e Serviços de Suporte, Atendimento ao Cliente - Américas	1
+Regional Planning and Support Services Team, Customer Support Americas	Equipe de Planejamento Regional e Serviços de Suporte, Atendimento ao Cliente - América	1
+Regional Planning and Support Services Team, Customer Support Americas	Planejamento Regional e Equipe de Serviços de Suporte, Suporte ao Cliente - Américas	1
+Regional Planning and Support Services Team, Customer Support Americas	Equipe Regional de Planejamento e Serviços de Suporte, Suporte ao Cliente - América	1
+Customer Service Manager, Customer Support Taiwan	Gerente de Atendimento ao Cliente, Atendimento ao Cliente - Taiwan	1
+Customer Service Manager, Customer Support Taiwan	Gerente de Serviço ao Cliente, Suporte ao Cliente - Taiwan	2
+Director, Global Customer Service Operations	Diretor, Operações Globais de Atendimento ao Cliente	2
+Director, Global Customer Service Operations	Diretor, Operações de Atendimento Global ao Cliente	2
+Global Customer Service Operations Team	Equipe de Operações Globais de Atendimento ao Cliente	2
+Global Customer Service Operations Team	Equipe de Operações de Atendimento Global ao Cliente	2
+Vice President, Global Finance	Vice-presidente, Finanças Globais	1
+Vice President, Global Finance	Vice-Presidente, Finanças Globais	2
+Finance Directors	Diretores de Finanças	2
+Finance Directors	Diretor de Finanças	2
+Vice President, Human Resources	Vice-presidente, Recursos Humanos	1
+Vice President, Human Resources	Vice-Presidente, Recursos Humanos	2
+Senior Human Resources Director, Product Development	Diretor Sênior de Recursos Humanos, Desenvolvimento de Produto	2
+Senior Human Resources Director, Product Development	Diretor Sênior de Recursos Humanos,  Desenvolvimento de Produto	1
+Vice President & General Counsel	Vice-presidente e Conselheiro Geral	1
+Vice President & General Counsel	Vice-Presidente e Conselheiro Geral	2
+Vice President, Global Quality Assurance & Localization	Vice-presidente, Localização e Controle de Qualidade Global	2
+Vice President, Global Quality Assurance & Localization	Vice-Presidente, Localização e Controle de Qualidade Global	2
+Vice President, Global Business Development & Corporate Alliances	Vice-Presidente, Desenvolvimento Comercial Global e Alianças Corporativas	1
+Vice President, Global Business Development & Corporate Alliances	Vice-Presidente, Desenvolvimento Global de Negócios e Alianças Corporativas	2
+Managing Director, Latin America	Diretor de Gerência, América Latina	1
+Managing Director, Latin America	Diretor Geral, América Latina	2
+Managing Director, Australia and New Zealand	Diretor de Gerência, Austrália e Nova Zelândia	1
+Managing Director, Australia and New Zealand	Diretor Geral, Austrália e Nova Zelândia	2
+Director of Operations, South East Asia	Diretor de Operações, Sudeste Asiático	2
+Director of Operations, South East Asia	Diretor de Operações, Sudeste da Ásia	1
+Managing Director, Taiwan	Diretor de Gerência, Taiwan	1
+Managing Director, Taiwan	Diretor Geral, Taiwan	2
+Vice President & Managing Director, China	Vice-presidente e Diretor Geral, China	1
+Vice President & Managing Director, China	Vice-Presidente e Diretor Geral, China	2
+Vice President & Managing Director, Asia	Vice-presidente e Diretor Geral, Ásia	1
+Vice President & Managing Director, Asia	Vice-Presidente e Diretor Geral, Ásia	2
+Vice President & Managing Director, Europe	Vice-presidente e Diretor Geral, Europa	1
+Vice President & Managing Director, Europe	Vice-Presidente e Diretor Geral, Europa	2
+Chief Development Officer	Diretor Executivo de Desenvolvimento	1
+Chief Development Officer	Diretor de Desenvolvimento	3
+Executive Vice President of Corporate Operations	Vice-presidente Executivo de Operações Corporativas	1
+Executive Vice President of Corporate Operations	Vice-Presidente Executivo de Operações Corporativas	2
+Web & Mobile Team Leadership	Liderança da Equipe de Web e Dispositivos Móveis	2
+Web & Mobile Team Leadership	Liderança de Equipe Web e Celular	1
+Director of Web & Mobile	Diretor de Web e Dispositivos Móveis	1
+Director of Web & Mobile	Diretor de Web e Celular	2
+Web & Mobile Group Managers	Gerentes do Grupo de Web e Dispositivos Móveis	2
+Web & Mobile Group Managers	Gerentes de Grupo Web e Celular	1
+Web & Mobile Administrative Support	Suporte Administrativo de Web e Dispositivos Móveis	1
+Web & Mobile Administrative Support	Suporte Administrativo Web e Celular	1
+Vice President of Technology, Strategy, & Planning	Vice-presidente de Tecnologia, Estratégia e Planejamento	1
+Vice President of Technology, Strategy, & Planning	Vice-Presidente de Tecnologia, Estratégia e Planejamento	2
+Senior Vice President, Global Technology Operations	Vice-presidente Sênior, Operações Globais de Tecnologia	2
+Senior Vice President, Global Technology Operations	Vice-Presidente Sênior, Operações Globais de Tecnologia	3
+Director, Service Engineering	Diretor, Engenharia de Serviço	1
+Director, Service Engineering	Diretor, Engenharia de Serviços	2
+Director, Service Intelligence	Diretor, Inteligência de Serviço	2
+Director, Service Intelligence	Diretor, Inteligência de Serviços	2
+Lead Game Systems Engineer	Engenheiro-chefe de Sistemas de Jogo	1
+Lead Game Systems Engineer	Engenheiro de Sistemas de Jogo Líder	2
+Voice Over Producer	Produtor de Dublagem	1
+Voice Over Producer	Produtores de Dublagem	2
+Lead Composer	Compositor-chefe	1
+Lead Composer	Compositor Líder	2
+Casting & Voice Director	Diretor de Elenco e Dublagem	1
+Casting & Voice Director	Diretor de Dublagem e Elenco	2
+Learning and Development Manager, Customer Service Americas	Gerente de Desenvolvimento e Aprendizagem, Atendimento ao Cliente - Américas	1
+Learning and Development Manager, Customer Service Americas	Gerente de Desenvolvimento e Aprendizagem, Atendimento ao Cliente - América	1
+Customer Support Americas	Suporte ao Cliente - Américas	1
+Customer Support Americas	Suporte ao Cliente - América	1
+Group Management, Customer Support Americas	Gerência de Grupo, Suporte ao Cliente - Américas	1
+Group Management, Customer Support Americas	Gerência de Grupo, Suporte ao Cliente - América	1
+Learning and Development Team, Customer Support Americas	Equipe de Desenvolvimento e Aprendizagem, Suporte ao Cliente - Américas	1
+Learning and Development Team, Customer Support Americas	Equipe de Desenvolvimento e Aprendizagem, Suporte ao Cliente - América	1
+Regional Planning and Support Services Team, Customer Support Europe	Equipe de Serviços de Suporte e Planejamento Regional, Suporte ao Cliente - Europa	1
+Regional Planning and Support Services Team, Customer Support Europe	Equipe Regional de Planejamento e Serviços de Suporte, Suporte ao Cliente - Europa	1
+Regional Planning and Support Services Team, Customer Support Korea	Equipe de Serviços de Suporte e Planejamento Regional, Suporte ao Cliente - Coreia	1
+Regional Planning and Support Services Team, Customer Support Korea	Equipe Regional de Planejamento e Serviços de Suporte, Suporte ao Cliente - Coreia	1
+Color Blind Mode	Modo daltônico	1
+Color Blind Mode	Modo para daltônicos	1
+Type:	Tipo:	2
+Type:	Tipo:<sp/>	1
+ALTOS	ALTOS	1
+ALTOS	CONTRALTO	1
+Julianne Buescher	Fátima Noya	1
+Julianne Buescher	Izabel Lyra	1
+Anna Vocino	Gilmara Sanches	1
+Anna Vocino	Fátima Noya	1
+James Harper	Luiz Antonio	1
+James Harper	Luiz Carlos Persy	1
+BUSINESS DEVELOPMENT	DESENVOLVIMENTO COMERCIAL	1
+BUSINESS DEVELOPMENT	DESENVOLVIMENTO DE NEGÓCIOS	1
+Dan Gilvezan	Dado Monteiro	1
+Dan Gilvezan	Sílvio Giraldi	1
+CHINA CUSTOMER SERVICE AND OPERATIONS	OPERAÇÕES E SERVIÇO AO CLIENTE DA CHINA	1
+CHINA CUSTOMER SERVICE AND OPERATIONS	OPERAÇÕES E ATENDIMENTO AO CLIENTE DA CHINA	1
+COMMUNITY AND ESPORTS	COMUNIDADE E ESPORTES ELETRÔNICOS	1
+COMMUNITY AND ESPORTS	COMUNIDADE E E-SPORTS	1
+CS PROJECT TEAM ANALYSTS	ANALISTAS DE EQUIPE DE PROJETO CS	1
+CS PROJECT TEAM ANALYSTS	ANALISTAS DA EQUIPE DE PROJETOS DE SAC	1
+CS TOOLS TEAM REPRESENTATIVES	REPRESENTANTES DE EQUIPE DE CS TOOLS	1
+CS TOOLS TEAM REPRESENTATIVES	REPRESENTANTES DA EQUIPE DE FERRAMENTAS DE SAC	1
+CUSTOMER CARE AND LOYALTY MANAGER	SERVIÇO AO CLIENTE E GERENTE DE FIDELIDADE	1
+CUSTOMER CARE AND LOYALTY MANAGER	GERENTE DE FIDELIDADE E ATENDIMENTO AO CLIENTE	1
+CUSTOMER SUPPORT SENIORS	SENIORES DE SUPORTE AO CLIENTE	1
+CUSTOMER SUPPORT SENIORS	SÊNIORES DE SUPORTE AO CLIENTE	1
+CUSTOMER SUPPORT TEAM MANAGERS	GERENTES DA EQUIPE DE SUPORTE AO CLIENTE	1
+CUSTOMER SUPPORT TEAM MANAGERS	GERENTES DE EQUIPE DE SUPORTE AO CLIENTE	1
+DEPUTY GENERAL COUNSEL	CONSELHO GERAL DE REPRESENTANTE	1
+DEPUTY GENERAL COUNSEL	CONSELHEIRO ADJUNTO GERAL	1
+DIRECTOR, GLOBAL EVENTS	DIRETOR, EVENTOS GLOBAIS	1
+DIRECTOR, GLOBAL EVENTS	DIRETOR DE EVENTOS GLOBAIS	1
+EUROPE CUSTOMER SUPPORT	SUPORTE AO CLIENTE DA EUROPA	1
+EUROPE CUSTOMER SUPPORT	SUPORTE AO CLIENTE - EUROPA	1
+EUROPE REGIONAL PLANNING AND SUPPORT SERVICES TEAM	EQUIPE REGIONAL DE PLANEJAMENTO E SERVIÇOS DE SUPORTE DA EUROPA	1
+EUROPE REGIONAL PLANNING AND SUPPORT SERVICES TEAM	EQUIPE REGIONAL DE PLANEJAMENTO E SERVIÇOS DE SUPORTE - EUROPA	1
+Jonathan Cook	Fadulli	1
+Jonathan Cook	Rubens Pimpim	1
+Paul Eiding	Walter Cruz	1
+Paul Eiding	Marco Aurélio	1
+Paul Eiding	Duda Espinoza	1
+FLUTES	FLAUTA	1
+FLUTES	FLAUTAS	1
+GLOBAL COMMUNITY DEVELOPMENT	DESENVOLVIMENTO DE COMUNIDADE GLOBAL	1
+GLOBAL COMMUNITY DEVELOPMENT	DESENVOLVIMENTO DA COMUNIDADE GLOBAL	1
+GLOBAL ESPORTS	ESPORTES ELETRÔNICOS GLOBAIS	1
+GLOBAL ESPORTS	E-SPORTS GLOBAIS	1
+Gary Anthony Williams	Renato Márcio	1
+Gary Anthony Williams	Walter Cruz	1
+Gary Anthony Williams	Reinaldo Simões	1
+HUMAN RESOURCES	RECURSOS HUMANOS	1
+HUMAN RESOURCES	RECURDOS HUMANOS	1
+INTERNATIONAL COMMUNITY & ESPORTS MANAGERS	GERENTES INTERNACIONAIS DE COMUNIDADE E ESPORTES ELETRÔNICOS	1
+INTERNATIONAL COMMUNITY & ESPORTS MANAGERS	COMUNIDADE INTERNACIONAL E GERENTES DE E-SPORTS	1
+KOREA REGIONAL PLANNING AND SUPPORT SERVICES TEAM	EQUIPE REGIONAL DE PLANEJAMENTO E SERVIÇOS DE SUPORTE DA COREIA	1
+KOREA REGIONAL PLANNING AND SUPPORT SERVICES TEAM	EQUIPE REGIONAL DE PLANEJAMENTO E SERVIÇOS DE SUPORTE - COREIA	1
+LOCALIZATION QA ASSISTANT MANAGERS	GERENTES ADJUNTOS DE QUALIDADE DE LOCALIZAÇÃO	1
+LOCALIZATION QA ASSISTANT MANAGERS	GERENTES ADJUNTOS DE GQ DE LOCALIZAÇÃO	1
+LOCALIZATION QA LEADS	LÍDERES DE LOCALIZAÇÃO DE QUALIDADE	1
+LOCALIZATION QA LEADS	LÍDERES DE GQ DE LOCALIZAÇÃO	1
+LOCALIZATION QA MANAGER	GERENTE DE QUALIDADE DE LOCALIZAÇÃO	1
+LOCALIZATION QA MANAGER	GERENTE DE GQ DE LOCALIZAÇÃO	1
+MACINTOSH PROGRAMMING	PROGRAMAÇÃO DE MACINTOSH	1
+MACINTOSH PROGRAMMING	PROGRAMAÇÃO PARA MACINTOSH	1
+<s val="CreditsSmallHeading_Nova">GAME DESIGN</s></n>BLIZZARD ENTERTAINMENT	<s val="CreditsSmallHeading_Nova">DESIGN DO JOGO</s></n>BLIZZARD ENTERTAINMENT	1
+<s val="CreditsSmallHeading_Nova">GAME DESIGN</s></n>BLIZZARD ENTERTAINMENT	<s val="CreditsSmallHeading_Nova">GAME DESIGN</s></n>BLIZZARD ENTERTAINMENT	1
+PROJECT PRODUCER	PRODUTOR DE PROJETO	1
+PROJECT PRODUCER	PRODUTOR DO PROJETO	1
+QUALITY ASSURANCE	GARANTIA DE QUALIDADE	1
+QUALITY ASSURANCE	ESTÚDIOS DE GRAVAÇÃO REGIONAIS	1
+REGIONAL MARKETING	MARKETING REGIONAL	1
+REGIONAL MARKETING	MERKETING REGIONAL	1
+SENIOR DIRECTOR, GLOBAL MARKET DEVELOPMENT	DIRETOR SÊNIOR, DESENVOLVIMENTO DE MERCADO GLOBAL	1
+SENIOR DIRECTOR, GLOBAL MARKET DEVELOPMENT	DIRETOR SÊNIOR - DESENVOLVIMENTO DE MARKETING GLOBAL	1
+SENIOR MANAGER, GLOBAL NETWORK OPERATIONS	GERENTE SÊNIOR, OPERAÇÕES DE REDE GLOBAIS	1
+SENIOR MANAGER, GLOBAL NETWORK OPERATIONS	GERENTE SÊNIOR - OPERAÇÕES DE REDE GLOBAIS	1
+STORY DIRECTOR	DIRETOR DE FICÇÃO	1
+STORY DIRECTOR	DIRETOR DE HISTÓRIA	1
+STRIKE TEAM MEMBERS	MEMBROS DA EQUIPE DE ATAQUE	1
+STRIKE TEAM MEMBERS	INTEGRANTES DA EQUIPE DE ATAQUE	1
+SUPPORT INFORMATION REPRESENTATIVES	REPRESENTANTES DE INFORMAÇÕES DE SUPORTE	1
+SUPPORT INFORMATION REPRESENTATIVES	REPRESENTANTES DE INFORMAÇÃO DE SUPORTE	1
+SUPPORT INFORMATION TEAM MANAGER	GERENTE DE EQUIPE DE INFORMAÇÕES DE SUPORTE	1
+SUPPORT INFORMATION TEAM MANAGER	GERENTE DA EQUIPE DE INFORMAÇÃO DE SUPORTE	1
+TRUMPETS	TROMPETE	1
+TRUMPETS	TROMPETES	1
+VICE PRESIDENT & GENERAL COUNSEL	VICE-PRESIDENTE E CONSULTOR JURÍDICO GERAL	1
+VICE PRESIDENT & GENERAL COUNSEL	VICE-PRESIDENTE E CONSELHEIRO GERAL	1
+WEB EDITORS	EDITORES DE REDE	1
+WEB EDITORS	EDITORES DA WEB	1
+Steve Blum	Alfredo Martins	1
+Steve Blum	Sérgio Stern / Marcos Souza	1
+DELETE	APAGAR	1
+DELETE	EXCLUIR	1
+Duration:	Duração:	2
+Duration:	Duração:<sp/>	1
+Version:	Versão:	1
+Version:	Versão:<sp/>	1
+Selected	Selecionado	1
+Selected	Selecionadas	2
+Versus A.I.	Contra I.A.	2
+Versus A.I.	CONTRA I.A.	1
+JOIN A GROUP	ENTRAR EM UM GRUPO	1
+JOIN A GROUP	JUNTAR-SE A UM GRUPO	1
+Kick	Expulsar	1
+Kick	Chutar	1
+Make Host	Tornar Host	1
+Make Host	Criar Hospedeiro	1
+Ranged	Longo Alcance	1
+Ranged	Projétil	1
+Targeting	Alvejando	1
+Targeting	Mirando	1
+Move Speed:	Velocidade de deslocamento:	1
+Move Speed:	Velocidade de deslocamento:<sp/>	1
+SKIP FOR NOW	PULAR POR ENQUANTO	1
+SKIP FOR NOW	PULAR AGORA	1
+Level Up	Subiu de Nível	1
+Level Up	Subiu de nível	1
+WARNING!	ALERTA!	1
+WARNING!	AVISO!	1
+Hero Collection	Coleção de heróis	1
+Hero Collection	Coleção de Heróis	1
+RESEARCH	Pesquisar	1
+RESEARCH	PESQUISA	1
+Dynamic Bundle	Pacote Dinâmico	1
+Dynamic Bundle	Conjunto de Pacotes Dinâmico	1
+Away	Ausente	1
+Away	Afastado	1
+Stereoscopic 3D	3D Estereoscópico	1
+Stereoscopic 3D	3D estereoscópico	1
+Weapon Speed:	Velocidade de armamento:	1
+Weapon Speed:	Velocidade de armamento:<sp/>	1
+Must place near a Pylon	É necessário instalar perto de um Pilar energético	1
+Must place near a Pylon	É necessário instalar perto de um pilar energético	1
+Must place on Creep	É necessário instalar sobre a gosma	1
+Must place on Creep	É necessário posicionar sobre a gosma	1

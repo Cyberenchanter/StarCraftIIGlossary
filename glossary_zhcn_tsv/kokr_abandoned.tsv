@@ -1,0 +1,696 @@
+时空提速能量消耗	시간 증폭 에너지 비용	1
+时空提速能量消耗	Chrono Boost Energy Cost	1
+黑暗圣堂武士闪现	암흑 기사 점멸	1
+黑暗圣堂武士闪现	Dark Templar Blink	1
+星灵枢纽护盾充能	연결체 보호막 재충전	1
+星灵枢纽护盾充能	Nexus Shield Recharge	1
+恢复	복원	1
+恢复	되돌리기	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	기동형 차량입니다. 목표물 고정을 사용해 이동 중에도 공격할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	기동형 차량입니다. 목표물 고정을 사용해 이동 중에도 공격할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>	1
+群体召回	대규모 소환	2
+群体召回	대규모 귀환	5
+岩石	바위	15
+岩石	암석	3
+<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="28"/>	<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="29"/>	1
+<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="28"/>	<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="28"/>	3
+攻城模式	공성	1
+攻城模式	공성 모드	1
+迷宫式隐形迷彩	염화 제물	1
+迷宫式隐形迷彩	미로 은폐	2
+大和炮	야마토 포	2
+大和炮	야마토 대폭발	2
+大和炮	야마토	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	강력한 근위대 전함입니다. 야마토 포와 전술 차원 도약을 사용할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	강력한 근위대 전함입니다. 야마토 포와 전술 차원 도약을 사용할 수 있습니다. 우주공항에서 생산할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛을 공격할 수 있습니다.</c>	1
+<n/><n/><c val="ffff8a">该单位每升一级军阶将会解锁新的技能或被动加成效果。</c><n/>	<n/><n/><c val="ffff8a">이 유닛은 등급이 오를 때마다 새로운 능력 또는 지속 능력 효과를 얻습니다.</c><n/>	1
+<n/><n/><c val="ffff8a">该单位每升一级军阶将会解锁新的技能或被动加成效果。</c><n/>	<n/><n/><c val="ffff8a">이 유닛은 등급이 오를 때마다 새로운 능력 또는 지속 능력을 얻습니다.</c><n/>	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	대공 전문 공격 유닛입니다. 인부복으로 갈아입을 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 및 공중 유닛 공격 가능</c>	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	대보병 전문 공격 유닛입니다. 인부복으로 갈아입을 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>	1
+B-2大口径轻机枪	B-2 High-Cal LMG	1
+B-2大口径轻机枪	B-2 대구경 경기관총	1
++~A~%	+~A~%	44
++~A~%	+ ~A~%	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	메카 부화장의 더욱 진화된 형태로 추가적인 업그레이드와 다양한 건물 생산을 가능하게 해줍니다. 또한 모든 메카 저그 유닛을 생성할 수 있으며 채취한 자원을 수집할 수 있습니다.	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	메카 부화장의 진화된 형태로 추가적인 업그레이드와 다양한 건물 생산을 가능하게 해줍니다. 또한 모든 메카 저그 유닛을 생성할 수 있으며 채취한 자원을 수집할 수 있습니다.	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	이곤지역 위에 있는 스텟먼의 유닛은 초당 <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>의 이곤에너지를 재생합니다. 동맹 유닛은 초당 <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>의 에너지를 재생합니다.	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	이곤지역은 해당 지역 위에 있는 스텟먼의 유닛이 초당 <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>의 이곤에너지를 재생할 수 있게 해줍니다. 동맹 유닛은 초당 <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>의 에너지를 재생할 수 있습니다.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	이곤지역 위에 있는 스텟먼의 유닛은 이동 속도가 <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%만큼 증가합니다. 동맹 유닛은 이동 속도가 <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%만큼 증가합니다.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	이곤지역 위에 있는 스텟먼의 유닛은 이동 속도가 <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% 증가합니다. 동맹 유닛은 이동 속도가 <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>% 증가합니다.	1
+限制1个	최대 1기	2
+限制1个	1개로 제한	12
+高级建造	협동 건설	4
+高级建造	고급 건설	1
+生物质拾取	생체 물질 획득	1
+生物质拾取	Suramar - Tel'anor 01 GY	1
+猛犸射线	거대 광선	1
+猛犸射线	거대 숨결	1
+MutatorBuyCandy	돌연변이원사탕구매	1
+MutatorBuyCandy	MutatorBuyCandy	1
+召唤休伯利安号	히페리온 소환	1
+召唤休伯利安号	히페리온 출격	1
+Void Shard ACUnstable Energy	공허의 파편 AC 불안정 에너지	2
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	1
+Void Shard ACVoid Zone	공허의 파편 AC 공허 지역	1
+Void Shard ACVoid Zone	Void Shard ACVoid Zone	2
+使徒	신봉자	1
+使徒	사도	1
+航母艾尔	우주모함 아이어	1
+航母艾尔	거신 아이어	1
+吞噬者	포식자	2
+吞噬者	포식귀	1
+维京战机	바이킹	5
+维京战机	바이킹 전투기	1
+陆战队员	해병 01	1
+陆战队员	해병	5
+孢子爬虫	포자 촉수	3
+孢子爬虫	포자 촉수 무기	1
+被感染的平民建筑	감염된 민간인 건물	1
+被感染的平民建筑	감염된 민간인 구조물	1
+求生无路	한밤의 사투	1
+求生无路	죽음의 밤	1
+势不可挡	압도적인 힘	2
+势不可挡	압도적인 힘으로	1
+隐形	은신	1
+隐形	은신 상태	1
+被定身	이동 불가	3
+被定身	구속됨	1
+黑暗圣堂武士召回	암흑 기사 귀환 중	1
+黑暗圣堂武士召回	암흑 기사 귀환	1
+On Death Vorazun Recall On Death Recently Recalled	보라준 소멸 시 긴급 귀환 최근 귀환함	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+Symb Create Controller	공생체 생성 제어기	1
+Symb Create Controller	Symb Create Controller	1
+Void Shard ACDamage Field Debuff	공허의 파편 AC 피해장 약화 효과	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+该单位已隐形，只能被侦测单位或侦测效果发现。	이 유닛은 은폐 상태이며 탐지기나 탐지 효과로만 적에게 드러납니다.	2
+该单位已隐形，只能被侦测单位或侦测效果发现。	이 유닛은 은폐 상태이며 탐지기나 탐지 효과로만 드러납니다.	1
+攻击和移动速度降低。	공격 속도 및 이동 속도가 감소합니다.	8
+攻击和移动速度降低。	공격 및 이동 속도 감소	2
+攻击速度降低。	공격 속도가 감소합니다.	1
+攻击速度降低。	공격 속도 감소	1
+潜地冲锋	잠복 돌진	3
+潜地冲锋	잠복 돌진 중	1
+折跃母舰	모선 훈련	1
+折跃母舰	모선 소환	1
+研究地对空瞄准	지대공 조준 연구	1
+研究地对空瞄准	지대공 대상 지정 연구	1
+破坏者	궤멸자	1
+破坏者	궤멸충	3
+破坏者	강탈꾼	1
+修理太阳锻炉	태양 제련소 수리	1
+修理太阳锻炉	태양 제련소를 수리합니다.	1
+研究后燃充能	재연소 장치 연구	3
+研究后燃充能	아레스급 목표물 설정 시스템 연구	1
+执政官战甲	법무관 전투복	1
+执政官战甲	법무관 전투복 활성화	1
+暴龙兽	토라스크	2
+暴龙兽	티라노조르	1
+特布鲁斯军团	텔브루스 군단 호출	1
+特布鲁斯军团	텔브루스 군단	1
+佐拉亚军团	조라야 군단 호출	1
+佐拉亚军团	조라야 군단	1
+塞达斯军团	세르다스 군단 호출	1
+塞达斯军团	세르다스 군단	2
+传送到附近的目标区域。	주위의 대상 위치로 순간이동합니다.	1
+传送到附近的目标区域。	주위의 목표 지점으로 순간이동합니다.	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	원거리 지상 공격 비행체입니다.<n/><n/><c val="ffff8a">지상 유닛 공격 가능</c>	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	원거리 지상 공격 비행 유닛입니다.<n/><n/><c val="ffff8a">지상 유닛 공격 가능</c>	1
+提高移动速度和攻击射程。	이동 속도와 공격 사거리가 증가합니다.	1
+提高移动速度和攻击射程。	이동 속도 및 공격 사거리가 증가합니다.	1
+<c val="ffff8a">异龙</c>的龙爪现在可以额外弹射3下，现在可以至多击中6名目标。弹射现在也拥有更远的弹射范围。	<c val="ffff8a">뮤탈리스크</c>의 공격이 3번 더 튕겨 최대 6기의 대상을 공격합니다. 튕기는 거리도 늘어납니다.	1
+<c val="ffff8a">异龙</c>的龙爪现在可以额外弹射3下，现在可以至多击中6名目标。弹射现在也拥有更远的弹射范围。	<c val="ffff8a">뮤탈리스크</c>의 공격이 3번 더 튕겨 최대 6개의 대상을 공격합니다. 튕기는 거리도 늘어납니다.	1
+使阴影投射的冷却时间缩短<d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%。暗影屏障吸收的伤害量提高<d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%。	그림자 투영의 재사용 대기시간이 <d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>% 감소합니다. 그림자 방어막으로 흡수하는 피해량이 <d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>% 증가합니다.	1
+使阴影投射的冷却时间缩短<d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%。暗影屏障吸收的伤害量提高<d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%。	그림자 투영의 재사용 대기시간이 <d ref="$UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse$/Abil,PhaseCannonProjection,Cost[0].Cooldown.TimeUse*100" player="0"/>%만큼 감소합니다. 그림자 방어막으로 흡수하는 피해량이 <d ref="($UpgradeEffectArrayValue:ZeratulArtifactUpgradeTier2C:Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit$/Behavior,ZeratulStructureBarrier,DamageResponse.ModifyLimit)*100" player="0"/>%만큼 증가합니다.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	테서랙트 초석을 대상 위치에 <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>초 동안 투영하며 보호막과 무기를 모두 이전합니다. 이 능력이 활성화되어 있는 동안 테서랙트 초석은 비활성화됩니다.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	테서랙트 포를 대상 위치에 <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>초 동안 투영하며 보호막과 무기를 모두 이전합니다. 이 능력이 활성화되어 있는 동안 테서랙트 포는 비활성화됩니다.	1
+阿塔尼斯	Artanis	2
+阿塔尼斯	아르타니스	1
+阿巴瑟	Abathur / Dehaka	1
+阿巴瑟	아바투르	1
+诺娃	Nova	2
+诺娃	노바	1
+ACPirate Capital Ship Tractor Beam	AC 해적 주력함 유인 광선	1
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	2
+ACPirate Capital Ship Tractor Beam	동맹 사령관 해적 주력함 유인 광선	1
+Auto Inject Larva	애벌레 자동 주입	2
+Auto Inject Larva	Auto Inject Larva	1
+升级	업그레이드	2
+升级	레벨 업	2
+升级	등급 상승	1
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">영웅이 사망했습니다.</c>	2
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">영웅이 부활했습니다.</c>	1
+泽拉图	Zeratul	2
+泽拉图	제라툴	1
+关闭	끄기	5
+关闭	닫기	6
+胜利	승리	1
+胜利	승리!	1
+返回	계속하기	1
+返回	뒤로	4
+星灵护甲等级1	프로토스 장갑 3 레벨	1
+星灵护甲等级1	프로토스 장갑 1단계	1
+星灵武器等级1	프로토스 무기 1 레벨	1
+星灵武器等级1	프로토스 무기 1단계	1
+星灵武器等级2	프로토스 무기 2 레벨	1
+星灵武器等级2	프로토스 무기 2단계	1
+星灵护甲等级2	프로토스 장갑 2 레벨	1
+星灵护甲等级2	프로토스 장갑 2단계	1
+空	값 없음	1
+空	비어 있음	1
+普通	중간	1
+普通	보통	7
+任务	임무	3
+任务	퀘스트	1
+异虫飞行生物甲壳	저그 비행체 갑피	1
+异虫飞行生物甲壳	저그 비행체 장갑	1
+异虫地面单位甲壳	저그 지상 갑피	1
+异虫地面单位甲壳	저그 지상 장갑	1
+信标	신호소	2
+信标	BEACON	1
+捕食者	약탈자	1
+捕食者	사냥꾼	1
+屠杀者	학살자	1
+屠杀者	약탈꾼	1
+基地	DROPOFF	1
+基地	떨어트리기	1
+-~A~%消耗	+~A~% 비용	1
+-~A~%消耗	-~A~% 비용	1
+舒特	슈터	1
+舒特	슈트	1
+少校	중령	2
+少校	소령	2
+折跃	소환 중	1
+折跃	소환	1
+折跃	모든 차원 관문 선택	1
+折跃离开	소환 나가기	1
+折跃离开	소환 보내기	1
+悬浮恶蝠模式	체공 화염기갑병 모드	1
+悬浮恶蝠模式	체공 화염차 모드	1
+补给箱	재보급 상자	1
+补给箱	보급품 상자	1
+Rick Wasserman	Seung Wook Cheong	1
+Rick Wasserman	Youngjoon Shee	1
+Patrick Seitz	Soojin Kang	2
+Patrick Seitz	Min Jeung Yeo	1
+Fred Tatasciore	Kwang Chang	1
+Fred Tatasciore	Kihyun Kim	2
+Armin Shimerman	Kyung Su Hyun	2
+Armin Shimerman	Young Chan Kim	1
+Nika Futterman	Chae Eon Han	1
+Nika Futterman	Kye Yoon Lee	2
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	회상 도중 선택한 유닛이 해당 지역에서 맞설 적의 유형을 결정합니다. 신중하게 선택하십시오.	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	노바의 회상 도중 선택한 유닛이 임무 수행 중에 맞설 저그의 유형을 결정합니다. 신중하게 선택하십시오.	1
+诺娃独自一人深入敌后。如果她死了，一切都完了。	이곳 적 진영에서 노바는 혼자입니다. 그녀가 죽으면 모든 게 끝입니다.	1
+诺娃独自一人深入敌后。如果她死了，一切都完了。	노바가 적 진영에 혼자입니다. 그녀가 죽으면 모든 게 끝입니다.	1
+播放	재생	2
+播放	실행	1
+武器造成范围近战伤害和短程对空火力。允许诺娃使用怒剑击技能。	광역 근접 피해와 단거리 대공 피해를 주는 무기입니다. 노바가 하나의 격노 능력을 사용할 수 있게 해줍니다.	1
+武器造成范围近战伤害和短程对空火力。允许诺娃使用怒剑击技能。	광역 근접 피해와 단거리 대공 사격 피해를 주는 무기입니다. 노바가 하나의 격노 능력을 사용할 수 있게 해 줍니다.	1
+允许诺娃控制敌方单位。被脑控的单位可以被利用来开门、触发虚假警报，甚至攻击其前盟友。	노바가 적 유닛을 조종할 수 있게 해줍니다. 조종받는 적을 이용해서 문을 열고, 거짓 경보를 울리게 하고, 심지어 자신의 동료를 공격하게 할 수도 있습니다.	1
+允许诺娃控制敌方单位。被脑控的单位可以被利用来开门、触发虚假警报，甚至攻击其前盟友。	노바가 적 유닛을 지배할 수 있게 해줍니다. 이 효과에 걸린 적을 이용해서 문을 열고, 거짓 경보를 울리게 하고, 심지어 자신의 동료를 공격하게 할 수도 있습니다.	1
+序章 裂隙突破	프롤로그 균열 갈라짐	1
+序章 裂隙突破	프롤로그 균열 열림	1
+摧毁关押室，救出其中被俘的圣堂武士。	우리를 파괴하고 그 안에 감금된 기사단을 구출하십시오.	2
+摧毁关押室，救出其中被俘的圣堂武士。	우리를 파괴하고 감금된 마지막 기사단을 구출하십시오.	1
+帮助	도움말	6
+帮助	help	1
+任务完成	임무 완료	1
+任务完成	퀘스트 완료	1
+退出	종료	1
+退出	나가기	4
+退出	exit	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retracted	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extended	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retracted	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extended	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extended	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extended	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extended	1
+Oracle Stasis Ward	예언자 정지장 수호물	1
+Oracle Stasis Ward	Oracle Stasis Ward	1
+Purification Nova Morph	정화 폭발 변형	1
+Purification Nova Morph	Purification Nova Morph	1
+Purification Nova Morph Back	정화 폭발 변형 되돌리기	1
+Purification Nova Morph Back	Purification Nova Morph Back	1
+Release Interceptors	요격기 출격	1
+Release Interceptors	Release Interceptors	1
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	환상으로 생성된 복제 유닛은 원래 유닛처럼 활동하지만, 능력을 사용하거나 적에게 피해를 줄 수 없으며 더 쉽게 죽습니다. <d time="60"/>가 지나면 사라집니다.	9
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	환상으로 생성된 복제 유닛은 원래 유닛처럼 활동하지만, 적에게 피해를 주거나 건물을 소환하거나 자원을 수집할 수 없으며 더 쉽게 죽습니다. <d time="60"/>가 지나면 사라집니다.	1
+中子照明弹	Neutron Flare	1
+中子照明弹	중성자 섬광탄	1
+常规	일반	1
+常规	보통	3
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	연장형 다리 - 북동 - 높이 10 - 넓음 - 들어감	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	연장형 다리 - 북동 - 높이 10 - 넒음 - 들어감	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	연장형 다리 - 북동 - 높이 10 - 넓음 - 빼냄	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	연장형 다리 - 북동 - 높이 10 - 넒음 - 빼냄	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	연장형 다리 - 북동 - 높이 12 - 넓음 - 들어감	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	연장형 다리 - 북동 - 높이 12 - 넒음 - 들어감	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	연장형 다리 - 북동 - 높이 12 - 넓음 - 빼냄	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	연장형 다리 - 북동 - 높이 12 - 넒음 - 빼냄	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	연장형 다리 - 북동 - 높이 8 - 넓음 - 들어감	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	연장형 다리 - 북동 - 높이 8 - 넒음 - 들어감	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	연장형 다리 - 북동 - 높이 8 - 넓음 - 빼냄	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	연장형 다리 - 북동 - 높이 8 - 넒음 - 빼냄	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	연장형 다리 - 북서 - 높이 10 - 넓음 - 들어감	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	연장형 다리 - 북서 - 높이 10 - 넒음 - 들어감	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	연장형 다리 - 북서 - 높이 10 - 넓음 - 빼냄	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	연장형 다리 - 북서 - 높이 10 - 넒음 - 빼냄	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	연장형 다리 - 북서 - 높이 12 - 넓음 - 들어감	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	연장형 다리 - 북서 - 높이 12 - 넒음 - 들어감	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	연장형 다리 - 북서 - 높이 12 - 넓음 - 빼냄	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	연장형 다리 - 북서 - 높이 12 - 넒음 - 빼냄	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	연장형 다리 - 북서 - 높이 8 - 넓음 - 들어감	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	연장형 다리 - 북서 - 높이 8 - 넒음 - 들어감	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	연장형 다리 - 북서 - 높이 8 - 넓음 - 빼냄	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	연장형 다리 - 북서 - 높이 8 - 넒음 - 빼냄	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	연장 다리 연장형 다리 북동 넓음 10 빼냄	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	연장 다리 연장형 다리 북서 넓음 10 빼냄	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	연장 다리 연장형 다리 북동 넓음 12 빼냄	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	연장 다리 연장형 다리 북서 넓음 12 빼냄	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	연장 다리 연장형 다리 북동 넓음 8 빼냄	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	연장 다리 연장형 다리 북서 넓음 8 빼냄	1
+隐藏	숨김	3
+隐藏	숨기기	2
+奥丁矩阵 虚拟	오딘 막 모형	1
+奥丁矩阵 虚拟	오딘 막	1
+移除	추방	2
+移除	제거	2
+信徒	개종자	1
+信徒	수련생	1
+电脑	인공지능	1
+电脑	컴퓨터	1
+制造	건설	1
+制造	훈련	1
+瓦解建筑	대호 구조물	1
+瓦解建筑	구조물 공격	1
+对战	섬멸전	2
+对战	대전	1
+自定义游戏	사용자 지정 게임	2
+自定义游戏	사용자 지정	2
+侦测到在途的聚变打击	핵 공격이 감지되었습니다	1
+侦测到在途的聚变打击	핵 공격이 감지되었습니다.	1
+Combat_Mechanic_KillTransport	전투 메커닉 수송기 처치	1
+Combat_Mechanic_KillTransport	Combat_Mechanic_KillTransport	1
+变异完成	변태 완료	2
+变异完成	변형 완료	1
+欢呼	환호	1
+欢呼	ㅎ	1
+隐秘行动	비밀 작전	2
+隐秘行动	비밀 요원	3
+虚空先驱	공허의 전조	1
+虚空先驱	얼리어답터	1
+跳舞	춤	1
+跳舞	ㅊ	1
+暂停	중지	1
+暂停	Pau	1
+暂停	일시 정지	3
+建造建筑	건물 건설	1
+建造建筑	건설한 구조물	2
+一种潜地的菌毯分泌腺体。菌毯能够为附近的异虫建筑提供给养。一颗菌毯肿瘤能够再分裂出一颗额外的菌毯肿瘤。<n/><n/><c val="#ColorAttackInfo">效果加成：异虫单位在菌毯上的移动速度更快</c>	땅속에서 점막을 생성하는 종양을 만들어냅니다. 점막은 주위의 저그 구조물에 양분을 공급합니다. 점막 종양 하나당 추가 점막 종양 하나를 생성할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">추가 효과: 점막 위에서 저그 유닛의 이동 속도 증가</c>	2
+一种潜地的菌毯分泌腺体。菌毯能够为附近的异虫建筑提供给养。一颗菌毯肿瘤能够再分裂出一颗额外的菌毯肿瘤。<n/><n/><c val="#ColorAttackInfo">效果加成：异虫单位在菌毯上的移动速度更快</c>	땅속에서 점막을 생성합니다. 점막은 주위 저그 구조물에 양분을 공급합니다. 점막 종양 하나당 추가 점막 종양 하나를 생성할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">추가 효과: 점막 위에서 저그 유닛의 이동 속도 증가</c>	1
+高	높음	5
+高	높이	1
+重试	재시도	1
+重试	다시 시도	1
+进化版	진화 완료	1
+进化版	진화한	1
+13	13대	1
+13	13	1
+合作任务中等难度50	협동전 사령관 난이도 어려움50	1
+合作任务中等难度50	협동전 사령관 난이도 보통50	1
+合作任务中等难度500	협동전 사령관 난이도 어려움500	1
+合作任务中等难度500	협동전 사령관 난이도 보통500	1
+合作任务中等难度75	협동전 사령관 난이도 어려움75	1
+合作任务中等难度75	협동전 사령관 난이도 보통75	1
+食腐鸟	우루부	2
+食腐鸟	청소부 독수리	1
+2021 IEM冠军Reynor	2021 IEM 챔피언 Reynor	1
+2021 IEM冠军Reynor	IEM 챔피언 2021 Reynor	1
+艾尔姆斯	Elms	2
+艾尔姆斯	엘름스	3
+原始虫后	원시 칼날 여왕	1
+原始虫后	원시 여왕	1
+建筑	구조물	4
+建筑	건설 중	1
+消灭的人口	생성한 식량 처치	1
+消灭的人口	사용한 식량 처치	1
+损失的人口	셍상힌 식량 손실	1
+损失的人口	사용한 식량 손실	1
+已采集晶体矿	채취한 광물	1
+已采集晶体矿	수집한 광물	1
+高能瓦斯平均储量	평균 비축 광물	1
+高能瓦斯平均储量	평균 비축 베스핀	1
+单位生产用资源	병력의 전체 자원 가치	1
+单位生产用资源	병력 가치	1
+已完成	완료됨	1
+已完成	완료	1
+消灭敌方单位	처치한 적 유닛	1
+消灭敌方单位	처치 유닛 수	1
+已采集的高能瓦斯	채취한 베스핀	1
+已采集的高能瓦斯	수집한 베스핀	1
+基础虫道网络	땅굴관 기본	1
+基础虫道网络	땅굴망 기본	1
+机械化部队(经济)	관문 불멸자 (자원)	1
+机械化部队(经济)	메카닉 (자원)	1
+足球	미식축구	2
+足球	축구공	1
+中国	중국	2
+中国	CHINA	1
+欧洲	유럽	3
+欧洲	EUROPE	1
+东南亚	동남아시아	1
+东南亚	SOUTHEAST ASIA	1
+挑战任务	도전 과제	6
+挑战任务	도전 과제 게임	1
+动画	애니메이션	3
+动画	동영상	2
+音效	소리	2
+音效	SOUND	2
+音效	효과음	1
+镜面光颜色倍数	반사 색상 배수	1
+镜面光颜色倍数	색상 배수 - 반사	1
+时间	시간	4
+时间	나이	1
+时间	time	1
+敌人	적	1
+敌人	상대 팀	1
+顺序排列	자판 배치	3
+顺序排列	눈금	1
+录像	리플레이	3
+录像	다시 보기	1
+回格键	Backspace	1
+回格键	Bck	1
+浏览器后退	탐색기 뒤로	1
+浏览器后退	BBk	1
+浏览器前进	탐색기 앞으로	1
+浏览器前进	Fwd	1
+大写锁定	Caps Lock	1
+大写锁定	CL	1
+清空	지우기	3
+清空	clear	1
+删除键	Delete	1
+删除键	Del	1
+方向键下	아래 화살표	1
+方向键下	Dwn	1
+起始键	Home	1
+起始键	Hom	1
+插入键	Insert	1
+插入键	Ins	1
+方向键左	왼쪽 화살표	1
+方向键左	Lft	1
+媒体键音量提高	미디어 채널 아래로	1
+媒体键音量提高	MUp	1
+媒体键音量降低	MDn	1
+媒体键音量降低	미디어 채널 위로	1
+媒体键快放	미디어 앞으로 감기	1
+媒体键快放	MFF	1
+媒体键下一曲	미디어 다음 트랙	1
+媒体键下一曲	MNx	1
+媒体键暂停	미디어 일시 정지	1
+媒体键暂停	MPa	1
+媒体键播放	미디어 재생	1
+媒体键播放	MPl	1
+媒体键暂停播放	미디어 재생 일시 정지	1
+媒体键暂停播放	MPP	1
+媒体键上一曲	미디어 이전 트랙	1
+媒体键上一曲	MPT	1
+媒体键倒回	미디어 되감기	1
+媒体键倒回	MRR	1
+媒体键停止	미디어 정지	1
+媒体键停止	MSt	1
+下页键	Pg Dn	1
+下页键	PDn	1
+上页键	Pg Up	1
+上页键	PUp	1
+截屏键	Print Scrn	1
+截屏键	PSc	1
+方向键右	오른쪽 화살표	1
+方向键右	Rgt	1
+滚动锁定键	Scroll Lock	1
+滚动锁定键	SL	1
+空格键	스페이스 바	1
+空格键	Spc	1
+<c val="ff0000">数量不能超过	<c val="ff0000">최대 보유:<sp/>	1
+<c val="ff0000">数量不能超过	<c val="ff0000">최대 보유:	1
+，	,<sp/>	2
+，	,	2
+全局	전역	4
+全局	공통	1
+专化	전문화	1
+专化	전문화 중	1
+活动	활동	1
+活动	사용 효과	1
+活动	EVENTS	2
+生命值	생명력	3
+生命值	생존력	1
+最大生命值	최대 생명력	1
+最大生命值	최대 생존력	1
+生命值%	생명력 %	1
+生命值%	생존력 %	1
+技能：	능력:	1
+技能：	기술:	1
+接受	수락	1
+接受	확인	2
+护甲：	장갑:	1
+护甲：	방어력:<sp/>	1
+队伍	파티	3
+队伍	팀	2
+<a name="PresenceId" href="%presenceId%">%userName%</a>	<a name="PresenceId" href="%presenceId%">[%userName%]</a>	1
+<a name="PresenceId" href="%presenceId%">%userName%</a>	<a name="PresenceId" href="%presenceId%">%userName%</a>	1
+添加电脑	인공지능 추가	1
+添加电脑	컴퓨터 추가	1
+添加电脑	인공지능으로 채우기	1
+电脑（%difficulty%）	인공지능 (%difficulty%)	1
+电脑（%difficulty%）	컴퓨터 (%difficulty%)	1
+合作任务	협동전 임무	2
+合作任务	협동전	1
+请求加入队伍	파티 참가 요청	1
+请求加入队伍	참가 요청	1
+解除屏蔽	차단 해제	2
+解除屏蔽	unblock	1
+特别感谢	SPECIAL THANKS	3
+特别感谢	SPECIAL THANKS TO	1
+继续	계속	2
+继续	- 계속	1
+<c val="ffffff">盟友颜色：</c><n/>调整在微缩地图上使用同盟颜色选项时，你盟友的单位和建筑所显示的颜色。	<c val="ffffff">아군 동맹 색상:</c><n/>동맹 색상 사용 시, 미니맵에서 아군 유닛 및 구조물을 어떤 색상으로 표시할지 조정합니다.	1
+<c val="ffffff">盟友颜色：</c><n/>调整在微缩地图上使用同盟颜色选项时，你盟友的单位和建筑所显示的颜色。	<c val="ffffff">아군 색상:</c><n/>동맹 색상 사용 시, 미니맵에서 아군 유닛 및 구조물을 어떤 색상으로 표시할지 조정합니다.	1
+用户及技术服务经理	ACCOUNT AND TECHICAL SERVICES MANAGERS	1
+用户及技术服务经理	ACCOUNT AND TECHNICAL SERVICES MANAGER	1
+其他音乐制作人员	ADDITIONAL MUSIC BY	1
+其他音乐制作人员	ADDITIONAL MUSIC	1
+其他配音人员	UNIT VOICES	1
+其他配音人员	ADDITIONAL VOICES	1
+行政助理	ADMINISTRATIVE ASSISTANT	2
+行政助理	ADMINISTRATIVE ASSISTANTS	1
+分析师	ANALYSTS	1
+分析师	ANALYST	1
+美术	ART	1
+美术	ARTIST	1
+设计师	ARTISTS	1
+设计师	DESIGNERS	2
+首席设计师	ART LEADS	1
+首席设计师	LEAD ARTIST	1
+首席设计师	LEAD DESIGNER	1
+首席设计师	LEAD DESIGNERS	1
+助理经理	ASSISTANT MANAGER	2
+助理经理	ASSISTANT MANAGERS	2
+助理制作人	ASSOCIATE PRODUCER	1
+助理制作人	ASSOCIATE PRODUCERS	1
+Anna Vocino	Hyeon Sim Kim	1
+Anna Vocino	Chae Eon Han	1
+Dan Gilvezan	Young Chan Kim	1
+Dan Gilvezan	Kyung Su Hyun	1
+指挥	CHOIRMASTER	2
+指挥	CONDUCTED BY	1
+合唱表演	CHORAL PERFORMANCE BY	1
+合唱表演	CHORAL PERFORMANCE	1
+单簧管	CLARINET	1
+单簧管	CLARINETS	1
+客户支持组经理	CUSTOMER SUPPORT GROUP MANAGERS	2
+客户支持组经理	CUSTOMER SUPPORT GROUP MANAGER	1
+Blair Bess	Jong Hyuk Lee	1
+Blair Bess	Il Park	1
+Blair Bess	Yoon Sang Kwak	1
+部门主管	DEPARTMENT LEADS	1
+部门主管	DEPARTMENT SUPERVISORS	2
+总监	DIRECTOR	2
+总监	DIRECTORS	1
+编辑	EDITOR	2
+编辑	EDITORS	2
+编辑	편집	1
+工程师	ENGINEER	1
+工程师	ENGINEERS	1
+执行助理	EXECUTIVE ASSISTANTS	2
+执行助理	EXECUTIVE ASSISTANT	1
+Jonathan Cook	Dong Kyun Ryu	1
+Jonathan Cook	Seokpil Choi	1
+Paul Eiding	Sung Jun Bang	2
+Paul Eiding	Yoon Sang Kwak	1
+Gary Anthony Williams	Eung Sik Min	2
+Gary Anthony Williams	Soo Hyeong Kim	1
+内部事务代表	INTERNAL AFFAIRS REPRESENTATIVES	2
+内部事务代表	INTERNAL AFFAIRS REPRESENTATIVE	1
+首席制作人	LEAD PRODUCER	2
+首席制作人	LEAD PRODUCERS	2
+首席程序员	LEAD PROGRAMMER	2
+首席程序员	LEAD PROGRAMMERS	2
+首席网页设计师	LEAD WEB DESIGNER	1
+首席网页设计师	LEAD WEB DESIGNERS	1
+首席文档工程师	LEAD WRITERS	1
+首席文档工程师	LEAD WRITER	1
+培训与拓展专员	LEARNING AND DEVELOPMENT SPECIALIST	2
+培训与拓展专员	LEARNING AND DEVELOPMENT SPECIALISTS	2
+经理	MANAGER	1
+经理	MANAGERS	2
+音乐	MUSIC	2
+音乐	음악	2
+暴雪娱乐总裁兼首席执行官	PRESIDENT & CEO OF BLIZZARD ENTERTAINMENT	1
+暴雪娱乐总裁兼首席执行官	PRESIDENT & CEO, BLIZZARD ENTERTAINMENT	1
+制作人	PRODUCER	2
+制作人	PRODUCERS	2
+项目总监	PROJECT DIRECTOR	2
+项目总监	PROJECTS DIRECTOR	1
+高级经理	SENIOR MANAGER	2
+高级经理	SENIOR MANAGERS	1
+高级制作人	SENIOR PRODUCER	2
+高级制作人	SENIOR PRODUCERS	1
+服务质量协调团队经理	SERVICE LEVEL COORDINATORS TEAM MANAGER	2
+服务质量协调团队经理	SERVICE LEVEL COORDINATOR TEAM MANAGER	2
+支持信息资深工作人员	SUPPORT INFORMATION SENIOR	1
+支持信息资深工作人员	SUPPORT INFORMATION SENIORS	1
+团队组长	TEAM LEAD	1
+团队组长	TEAM LEADS	1
+技术总监	TECHNICAL DIRECTOR	2
+技术总监	TECHNICAL DIRECTORS	1
+技术文档工程师	TECHNICAL WRITER	1
+技术文档工程师	TECHNICAL WRITERS	1
+全球人力资源副总裁	VICE PRESIDENT OF GLOBAL HUMAN RESOURCES	1
+全球人力资源副总裁	VICE PRESIDENT, GLOBAL HUMAN RESOURCES	1
+配音	VOICE-OVER	1
+配音	VOICE OVER	1
+助理编辑	ASSISTANT EDITOR	1
+助理编辑	ASSISTANT EDITORS	1
+助理编辑	ASSOCIATE EDITOR	1
+Steve Blum	Yong Woo Shin	1
+Steve Blum	Sung Tae Park	1
+全球营销执行副总裁	EVP, GLOBAL MARKETING	1
+全球营销执行副总裁	EXECUTIVE VICE PRESIDENT, GLOBAL MARKETING	1
+混音师	FOLEY MIXERS	1
+混音师	STEM MIXES BY	1
+实习生	INTERN	1
+实习生	INTERNS	1
+韩国	KOREA	1
+韩国	한국	2
+培训专员	LEARNING SPECIALIST	1
+培训专员	LEARNING SPECIALISTS	1
+运营总监	OPERATION DIRECTOR	1
+运营总监	OPERATIONS DIRECTOR	1
+项目经理	PROJECT MANAGER	1
+项目经理	PROJECT MANAGERS	1
+区域经理	REGIONAL MANAGER	1
+区域经理	REGIONAL MANAGERS	1
+主管	SUPERVISOR	1
+主管	SUPERVISORS	1
+支持信息管理员	SUPPORT INFORMATION ADMINISTRATOR	1
+支持信息管理员	SUPPORT INFORMATION ADMINISTRATORS	1
+台湾	TAIWAN	1
+台湾	대만	1
+网站制作人	WEB PRODUCER	1
+网站制作人	WEB PRODUCERS	1
+持续时间：	게임 시간:	1
+持续时间：	길이:	1
+持续时间：	지속 시간:<sp/>	1
+在文件夹中显示	폴더에 표시	1
+在文件夹中显示	폴더 표시	1
+贴图	타일 덮임	1
+贴图	텍스처	1
+类型：	유형:	1
+类型：	유형:<sp/>	1
+版本：	버전:	1
+版本：	버전:<sp/>	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Finder에 표시 - 게임을 최소화하고 현재 선택한 파일 위치로 이동합니다.	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	폴더에 표시 - 게임을 최소화하고 현재 선택한 파일 위치로 이동합니다.	1
+加载录像	리플레이 불러오기	1
+加载录像	리플레이	1
+多人游戏	멀티플레이어 게임	1
+多人游戏	멀티플레이어	3
+好友	친구	1
+好友	friend	1
+战败	패배	1
+战败	패배!	1
+平局	무승부	1
+平局	무승부!	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">모든 애벌레 선택:</c><n/>사용함으로 설정하면, 애벌레를 한 마리만 선택해도 그 부화장에 속한 애벌레 모두가 선택됩니다.	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">모든 애벌레 선택:</c><n/>사용함으로 설정하면, 애벌레를 한 기만 선택해도 그 부화장의 애벌레들이 모두 선택됩니다.	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	게임플레이에 관련된 일부 변경 사항은 재시작 후 적용됩니다. 지금 재시작하시겠습니까?	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	일부 화면 설정을 적용하려면 게임을 재시작해야 합니다. 지금 재시작하시겠습니까?	1
+开始教学模式	튜토리얼 실행	1
+开始教学模式	튜토리얼 플레이	1
+设定为观战者	관전자로 설정	1
+设定为观战者	관람자로 설정	1
+选择坐骑	탈것 선택	1
+选择坐骑	탈것 설정	1
+推荐	제안	3
+推荐	추천	2
+远程	원거리	1
+远程	원거리<sp/>	1
+重放	재시작	1
+重放	리플레이	1
+录制视频	동영상으로 녹화	1
+录制视频	녹화	1
+显示警告信息	경고 메시지 표시	1
+显示警告信息	경보 표시	1
+登录	접속	1
+登录	로그인	1
+移动速度：	이동 속도:	1
+移动速度：	이동 속도:<sp/>	1
+开始游戏(<h/>P)	실행(<h/>P)	2
+开始游戏(<h/>P)	게임 실행(<h/>P)	1
+支付	지금 구매	1
+支付	결제 방식	1
+总计	총 금액	1
+总计	전체	2
+搜索英雄	목록 검색	1
+搜索英雄	영웅 검색	1
+商城暂时不可用，请稍后再试。	현재 상점을 사용할 수 없습니다. 나중에 다시 시도해 주십시오.	1
+商城暂时不可用，请稍后再试。	지금은 상점을 이용할 수 없습니다. 나중에 다시 시도해 주십시오.	1
+离开	나가기	1
+离开	leave	1
+离开	자리 비움	2
+强化	전투 자극제	1
+强化	POWERUP	1
+%val%秒	%val%초	3
+%val%秒	%val%sec	1
+护盾：	보호막:	1
+护盾：	보호막:<sp/>	1
+b	b	1
+b	ㅇ	1
+忙碌	다른용무중	1
+忙碌	다른 용무 중	2
+紫色	자주	1
+紫色	진보라	1
+武器速度：	무기 속도:	1
+武器速度：	무기 속도:<sp/>	1
+能量：	에너지:<sp/>	1
+能量：	동력:<sp/>	1
+等级：	레벨:<sp/>	1
+等级：	등급:<sp/>	1
+[观战者]	[관전자]	1
+[观战者]	[관람자]	1

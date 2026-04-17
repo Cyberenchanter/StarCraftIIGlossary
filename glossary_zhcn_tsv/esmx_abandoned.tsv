@@ -1,0 +1,1539 @@
+黑暗圣堂武士闪现	Parpadeo de Templario oscuro	1
+黑暗圣堂武士闪现	Dark Templar Blink	1
+星灵枢纽护盾充能	Recarga de escudos del Nexo	1
+星灵枢纽护盾充能	Nexus Shield Recharge	1
+恢复	Restitución	1
+恢复	Restaurar	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Vehículo de asalto móvil. Puede usar Fijar objetivo para disparar rápidamente en movimiento.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Vehículo de asalto móvil. Puede usar Fijar objetivo para disparar rápidamente en movimiento.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+拦截机	Interceptores	3
+拦截机	Interceptor	1
+眼虫	Vigía Supremo	3
+眼虫	Vigía supremo	2
+脉冲光线	Pulsar Beam	1
+脉冲光线	Rayo púlsar	4
+灵能波	Estallido psiónico	1
+灵能波	Explosión psiónica	1
+预视	Envision	1
+预视	Vislumbrar	2
+先知武器	Oracle Weapon	1
+先知武器	Oráculo - Arma	1
+雷兽武器冷却时间	Ultralisk Weapon Cooldown	1
+雷兽武器冷却时间	Tiempo de recuperación de arma de Ultralisco	1
+虫群之心虚空辉光舰伤害提升	Void Ray Swarm Damage Boost	1
+虫群之心虚空辉光舰伤害提升	Mantarraya del Vacío - Enjambre - Aumento de daño	1
+虚空虹吸	Void Siphon	1
+虚空虹吸	Sifón del vacío	2
+光子过载	Sobrecarga de fotones	1
+光子过载	Megacarga de fotones	1
+猎杀飞弹	Misil buscador	3
+猎杀飞弹	Buscador	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Permite que las Langostas engendradas por el Huésped del Enjambre vuelen. Las Langostas voladoras pueden usar la habilidad Descenso en picada para aterrizar y atacar.	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Las Langostas engendradas por el Huésped del Enjambre pueden volar y usar la habilidad Descenso en picada para aterrizar y atacar.	1
+步兵研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 劫掠者<n/>- 建造幽灵军校可开启幽灵	Estructura de investigación de infantería. Cualquier estructura de producción puede albergar un Tecnolab.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Merodeadores<n/>- Fantasmas en la Academia de Fantasmas	1
+步兵研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 劫掠者<n/>- 建造幽灵军校可开启幽灵	Estructura de investigación de infantería. Cualquier estructura de producción puede albergar un Tecnolab.<n/><n/><c val="ffff8a">Habilita:</c><n/>- Merodeadores<n/>- Fantasmas con Academia de Fantasmas	1
+重型攻击猛兽，可造成范围伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Bestia de asalto pesado que tiene ataque con daño de área.<n/><n/><c val="ffff8a">Ataca unidades terrestres.</c>	1
+重型攻击猛兽，可造成范围伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Bestia de asalto pesado que tiene ataque con daño de área.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+岩石	Rocas	12
+岩石	Roca	6
+攻击该障碍物可将其摧毁	Atácalo para destruirlo	2
+攻击该障碍物可将其摧毁	Ataca esto para destruirlo	14
+联合指挥官	Comandantes aliados	1
+联合指挥官	COMANDANTES ALIADOS	20
+研发	Investigar	2
+研发	INVESTIGAR	1
+研发	INVESTIGACIÓN	1
+攻城模式	Asedio	1
+攻城模式	Modo Asedio	1
+迷宫式隐形迷彩	Inmolación piroquinética	1
+迷宫式隐形迷彩	Camuflaje laberíntico	2
+大和炮	Cañón Yamato	2
+大和炮	Disparador Yamato principal	2
+大和炮	Yamato	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Nave de guerra poderosa de la Guardia Real. Usa Cañón Yamato y Salto táctico.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Nave de guerra poderosa de la Guardia Real. Usa Cañón Yamato y Salto táctico. Se construye en el Puerto estelar.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Se transposiciona sobre un géiser de gas vespeno para permitir la recolección de este.	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Se transposiciona sobre un géiser de gas vespeno para permitir la recolección de este gas.	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Se construye sobre un géiser de gas vespeno para permitir la recolección de este.	3
+建造在瓦斯气泉上，用于采集高能瓦斯。	Se construye sobre un géiser de gas vespeno para permitir la recolección de este gas.	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Atacante antiaéreo especializado. Puede ponerse un traje de Obrero.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Atacante antiinfantería especializado. Puede ponerse un traje de Obrero.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+攻城坦克	Tanque de Asedio	4
+攻城坦克	Tanque de asedio	1
++~A~%	+~A~%	43
++~A~%	+ ~A~%	1
++~A~%	+~A~ por ciento	1
+腐蚀喷液	Caustic Spray	1
+腐蚀喷液	Rocío cáustico	1
+Lurker Tunneling Burst	Explosión de excavación de Acechador	1
+Lurker Tunneling Burst	Lurker Tunneling Burst	1
+冲锋	Cargando	1
+冲锋	Carga	2
+艾星超载	Sobercarga Stetelital	2
+艾星超载	Sobrecarga Stetelital	3
+研究机械飞蝗截击机舱室	Investigar Plataformas de Mecalangosceptores	1
+研究机械飞蝗截击机舱室	Investigar Plataforma de Mecalangosceptores	1
+取消	Cancelar	10
+取消	CANCELAR	4
+爆炸	Explotar	2
+爆炸	Fuego	1
+自毁型单位。爆炸时能够造成小范围的伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad suicida. Causa daño en un área pequeña al morir. <n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+自毁型单位。爆炸时能够造成小范围的伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad suicida. Al morir, inflige daño sobre una pequeña área. <n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+自毁型单位。爆炸时能够造成小范围的伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad suicida. Al morir, inflige daño sobre un área pequeña. <n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Versión aún más evolucionada del Mecalarvario que permite producir mejoras y estructuras adicionales. También engendra a todas las unidades mecazerg y recibe los recursos recolectados.	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Versión evolucionada del Mecalarvario que permite producir mejoras y estructuras adicionales. También engendra a todas las unidades mecazerg y recibe los recursos recolectados.	1
+远程攻击单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Atacante de larga distancia.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	1
+远程攻击单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Atacante de largo alcance.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.</c>	1
+远程攻击单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Atacante de largo alcance.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	2
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	Permite que las Stetzonas otorguen <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de egonergía por segundo a las unidades de Stetmann. Las unidades aliadas obtienen <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de energía por segundo.	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	Las Stetzonas otorgan <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de egonergía por segundo a las unidades de Stetmann. Las unidades aliadas obtienen <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de energía por segundo.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。	Permite que las Stetzonas otorguen <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de vida por segundo a las unidades de Stetmann. Las unidades aliadas obtienen <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de vida por segundo.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。	Las Stetzonas otorgan <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de vida por segundo a las unidades de Stetmann. Las unidades aliadas obtienen <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> de regeneración de vida por segundo.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	Permite que las Stetzonas otorguen un <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% más de velocidad de movimiento a las unidades de Stetmann. Las unidades aliadas obtienen un <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>% más de velocidad de movimiento.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	Las Stetzonas otorgan un <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>% más de velocidad de movimiento a las unidades de Stetmann. Las unidades aliadas obtienen un <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>% más de velocidad de movimiento.	1
+远程火炮单位。可以使用腐蚀胆汁。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Artillería de largo alcance. Puede usar la habilidad Bilis corrosiva.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+远程火炮单位。可以使用腐蚀胆汁。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Artillería de largo alcance. Puede usar Bilis corrosiva.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	2
+已潜地	Enterrado	7
+已潜地	Enterrada	2
+机械飞蝗截击机	Mecalangosceptor	1
+机械飞蝗截击机	Mecalangosceptores	1
+-~A~秒	-~A~ segundos	9
+-~A~秒	-~A~ seg	3
+制造共生体	Create Symbiote	1
+制造共生体	Crear Simbiontes	1
+菌毯愈合	Creep Mend	1
+菌毯愈合	Talo - Remendar	1
+愈合	Mend	1
+愈合	Remendar	5
+攻击	Atacar	6
+攻击	Ataque	2
+攻击	Attack	2
+生物机械哺液	Bio-Mechanical Transfusion	1
+生物机械哺液	Transfusión biomecánica	2
+腐蚀强酸	Corrosive Acid	1
+腐蚀强酸	Ácido corrosivo	2
+EMP	PEM	8
+EMP	EMP	1
+喷气背包突击	Jump Jet Assault	1
+喷气背包突击	Asalto propulsado	1
+仆从机	Servidores	1
+仆从机	Servidor	1
+聚变打击	Ataque nuclear	1
+聚变打击	Nuclear Strike	1
+醒醒！	Wake Up!	1
+醒醒！	¡Despierta!	1
+脉冲手雷	Granada de pulso	2
+脉冲手雷	Granadas de pulso	1
+Nova Griffin Bombing Run Targeting Dummy	Nova - Grifonte - Bombardeo - Apuntar - Simulación	1
+Nova Griffin Bombing Run Targeting Dummy	Nova Griffin Bombing Run Targeting Dummy	1
+突杀	Dash Attack	1
+突杀	Ataque arrasador	1
+孵化剧毒巢穴	Spawn Toxic Nest	1
+孵化剧毒巢穴	Engendrar Nido tóxico	1
+召唤休伯利安号	Invocar Hiperión	1
+召唤休伯利安号	Llama al Hiperión	1
+Void Shard ACUnstable Energy	Esquirla del Vacío - CA - Energía inestable	2
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	1
+Void Shard ACVoid Zone	Esquirla del Vacío - CA - Zona del Vacío	1
+Void Shard ACVoid Zone	Void Shard ACVoid Zone	2
+战列巡航舰	Crucero de Batalla	3
+战列巡航舰	Crucero de batalla	1
+巢虫领主	Amo de la Colonia	2
+巢虫领主	Amo de la colonia	1
+航母艾尔	Portanaves - Aiur	1
+航母艾尔	Coloso - Aiur	1
+黑暗圣堂武士	Templario Oscuro	2
+黑暗圣堂武士	Templario oscuro	3
+吞噬者	Insaciable	2
+吞噬者	Devorador	1
+维京战机	Vikingo	5
+维京战机	Caza Vikingo	1
+高阶圣堂武士	Alto Templario	3
+高阶圣堂武士	Alto templario	1
+利维坦	Colonia Leviatán	17
+利维坦	Leviatán	3
+黄昏之翼	Alas Crepusculares	1
+黄昏之翼	Alas crepusculares	1
+地狱天使	Ángeles del Inferno	1
+地狱天使	Ángeles del Infierno	1
+凯莫瑞安工人	Trabajadores kelmorianos	1
+凯莫瑞安工人	Trabajador kelmoriano	3
+轨道控制基地	Control orbital	2
+轨道控制基地	Centro de mando orbital	1
+孢子爬虫	Rastrero lanzaesporas	3
+孢子爬虫	Rastrero lanzaesporas - Arma	1
+王虫	Amo supremo	2
+王虫	Amo Supremo	3
+折跃棱镜	Prisma de transposición	1
+折跃棱镜	Prisma de Transposición	2
+跳虫	Zerguezno	6
+跳虫	Zergueznos	1
+求生无路	Night 2 Die	1
+求生无路	Noche mortal	1
+隐形	Camuflaje	1
+隐形	Camuflado	1
+黑暗圣堂武士召回	Templario oscuro - Repliegue	1
+黑暗圣堂武士召回	Replegar Templario oscuro	1
+焦油炸弹	Bomba de alquitrán	1
+焦油炸弹	Bombas de alquitrán	3
+狂暴	Frenesí	2
+狂暴	Frenético	1
+复仇战士	Venganza funesta	1
+复仇战士	Vengador	1
+时空力场	Campo temporal	2
+时空力场	Campo temporal iterativo	1
+瘟疫	Plague	1
+瘟疫	Plaga	2
+时间扭曲	Time Warp	1
+时间扭曲	Distorsión de tiempo	2
+On Death Vorazun Recall On Death Recently Recalled	Al morir - Vorazún - Replegar al morir - Repliegue reciente	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+Symb Create Controller	Simbionte - Crear controlador	1
+Symb Create Controller	Symb Create Controller	1
+Void Shard ACDamage Field Debuff	Esquirla del Vacío - CA - Campo de daño - Despotenciación	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+淬毒骨刺	Espinas ponzoñosas	2
+淬毒骨刺	Espinas envenenadas	1
+该单位已隐形，只能被侦测单位或侦测效果发现。	Esta unidad está camuflada y sólo será revelada por unidades o efectos detectores.	2
+该单位已隐形，只能被侦测单位或侦测效果发现。	Esta unidad permanece camuflada a menos que sea revelada por detectores o efectos.	1
+攻击和移动速度降低。	Ralentiza la velocidad de movimiento y ataque.	8
+攻击和移动速度降低。	Reduce la velocidad de movimiento y ataque.	2
+攻击速度降低。	Las velocidades de ataque se ralentizan.	1
+攻击速度降低。	Reduce la velocidad de ataque.	1
+该单位的护甲提高了。	La armadura de esta unidad ha aumentado.	1
+该单位的护甲提高了。	Esta unidad tiene armadura aumentada.	1
+该单位正在持续受到伤害。	Esta unidad recibe daño con el transcurso del tiempo.	2
+该单位正在持续受到伤害。	Esta unidad recibe daño con el tiempo.	3
+330毫米口径弹幕火炮	Cañón de andanada de 330 mm	1
+330毫米口径弹幕火炮	Cañones de andanada de 330 mm	1
+热能射线枪	Lanzas térmicas	7
+热能射线枪	Lanza térmica	1
+正在修理	En reparación	1
+正在修理	Reparación	1
+折跃母舰	Entrenar Nave nodriza	1
+折跃母舰	Transposicionar Nave nodriza	1
+进化美杜莎之刃	Evolucionar Cuchillas Medusa	2
+进化美杜莎之刃	Evolucionar Cuchillas Medusas	1
+培育爆蚊	Incubación de Azote	1
+培育爆蚊	Incubar Azote	1
+飞扑	Swoop	1
+飞扑	Descenso en picada	1
+衰变	Disintegration	1
+衰变	Desintegración	2
+德拉肯激光钻机攻击	Taladro láser Drakken - Ataque	1
+德拉肯激光钻机攻击	Ataque de taladro láser Drakken	1
+进化潜地冲锋	Evolucionar Ataque enterrado	1
+进化潜地冲锋	Evolucionar - Ataque enterrado	1
+已锁定	Bloqueado	3
+已锁定	Bloqueada	3
+折跃晋升者	Transposicionar Ascendente	1
+折跃晋升者	Transposicionar Ascendiente	1
+强化纳米修复	Nanoreparación mejorada	1
+强化纳米修复	Nanorreparación mejorada	1
+加载	Cargar	2
+加载	CARGAR	1
+孵化虫后	Entrenar Reina	1
+孵化虫后	Crear Reina	1
+破坏者	Devastador	4
+破坏者	Destructor	1
+修理太阳锻炉	Reparar Forja solar	1
+修理太阳锻炉	Repara la Forja solar.	1
+研究后燃充能	Investigar Postquemadores	3
+研究后燃充能	Investigar Sistema de focalización clase ARES	1
+研究漩流弹	Investigar Municiones Maelstrom	1
+研究漩流弹	Investigar Municiones Maelstorm	1
+研究磁轨武器	Investigar Munición de riel magnético	1
+研究磁轨武器	Investigar Municiones de riel magnético	1
+神经寄生	Parásito neural	6
+神经寄生	Neural Parasite	1
+轨道轰炸	Ataque orbital	2
+轨道轰炸	Golpe orbital	1
+执政官战甲	Traje de armadura de pretor	1
+执政官战甲	Traje de armadura de pretor activo	1
+时间停止	Detener tiempo	1
+时间停止	Interrupción temporal	1
+削铁刃虫	Gladia cercenante	1
+削铁刃虫	Gladias cercenantes	1
+暴龙兽	Torrasque	2
+暴龙兽	Tiranozor	1
+基础建筑，用于接收采集到的资源。自体可以升空。<n/><n/><c val="ffff8a">开启：</c><n/>- SCV	Estructura primaria. Se usa para recibir los recursos recolectados. Puede usar la habilidad Despegar.<n/><n/><c val="ffff8a">Habilita:</c><n/>- VCE	1
+基础建筑，用于接收采集到的资源。自体可以升空。<n/><n/><c val="ffff8a">开启：</c><n/>- SCV	Estructura primaria. Se utiliza para recibir los recursos recolectados. Puede usar la habilidad Despegar.<n/><n/><c val="ffff8a">Habilita:</c><n/>- VCE	1
+投射一道可移动但无法攻击的无敌阴影。<n/><n/>激活此技能后，使徒会在<d ref="Behavior,AdeptPhaseShiftTimer,Duration"/>秒后传送到阴影的位置。<n/><n/>激活后可以取消。	Proyecta una Sombra invulnerable que puede moverse pero no atacar.<n/><n/>La Adepta se teletransporta hasta la ubicación de la sombra <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> segundos después de la activación.<n/><n/>Puede cancelarse después de la activación.	1
+投射一道可移动但无法攻击的无敌阴影。<n/><n/>激活此技能后，使徒会在<d ref="Behavior,AdeptPhaseShiftTimer,Duration"/>秒后传送到阴影的位置。<n/><n/>激活后可以取消。	Proyecta una Sombra invulnerable que puede moverse pero no ataca.<n/><n/>La Adepta se teletransporta hasta la ubicación de la Sombra <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> segundos después de la activación.<n/><n/>Puede cancelarse después de la activación.	1
+命令选中的单位移动到目标地点，并对沿途遭遇的敌人发起攻击。收到攻击一个目标的命令后，单位会持续攻击该目标，直到对方被消灭。	Ordena a las unidades seleccionadas que se desplacen hacia el punto objetivo y que combatan contra los enemigos que encuentren en el camino. Apuntar a una unidad con el comando Atacar ordena que sea atacada hasta su destrucción.	1
+命令选中的单位移动到目标地点，并对沿途遭遇的敌人发起攻击。收到攻击一个目标的命令后，单位会持续攻击该目标，直到对方被消灭。	Les ordena a las unidades seleccionadas que se muevan al punto objetivo, combatiendo con los enemigos cercanos en el camino. Marcar a una unidad con el comando Atacar ordena que esa unidad sea atacada hasta su destrucción.	1
+喷射胆汁轰炸目标区域，伤害区域内的地面和空中单位。	Bombardea las ubicaciones objetivo con bilis y daña a las unidades aéreas y terrestres que están en el área.	1
+喷射胆汁轰炸目标区域，伤害区域内的地面和空中单位。	Bombardea la ubicación objetivo con bilis y daña a las unidades aéreas y terrestres que están en el área.	1
+对重甲单位造成额外伤害。攻击会使敌人减速。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Inflige daño adicional a las unidades blindadas. Los ataques ralentizan a los enemigos.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+对重甲单位造成额外伤害。攻击会使敌人减速。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Inflige daño adicional a las unidades blindadas. Los ataque ralentizan a los enemigos.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres.</c>	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	SIN USO. Una Refinería avanzada que recolecta gas subterráneo y envía gas vespeno refinado directo al Centro de mando mediante campos de transposición de corto alcance.<n/><n/><c val="FFFF8A">No es necesario construirla sobre un Géiser de gas vespeno.</c>	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	Una Refinería avanzada que recolecta gas subterráneo y envía gas vespeno refinado directo al Centro de mando mediante campos de transposición de corto alcance.<n/><n/><c val="FFFF8A">No es necesario construirla sobre un Géiser de gas vespeno.</c>	1
+强大的灵能战士。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Atacante psiónico poderoso.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.</c>	1
+强大的灵能战士。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Atacante psiónico poderoso.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	1
+传送到附近的目标区域。	Se teletransporta a la ubicación cercana objetivo.	1
+传送到附近的目标区域。	Se teletransporta a una ubicación cercana objetivo.	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad voladora antiterrestre de largo alcance. <n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad voladora antiterrestre de largo alcance.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+迅捷的肉搏型生物。<n/><n/><c val="FFFF8A">可以对地。</c>	Criatura melé rápida.<n/><n/><c val="FFFF8A">Ataca a unidades terrestres.</c>	1
+迅捷的肉搏型生物。<n/><n/><c val="FFFF8A">可以对地。</c>	Criatura de melé rápida.<n/><n/><c val="FFFF8A">Ataca a unidades terrestres.</c>	2
+蜘蛛雷会对进入范围的敌方单位进行追击，引爆后可造成大量范围伤害。潜地的蜘蛛雷只能被敌人的侦测单位发现。	Las Minas araña persiguen a las unidades enemigas que se aproximan e infligen un gran daño de área cuando explotan. Solo los detectores enemigos ven las Minas araña enterradas.	1
+蜘蛛雷会对进入范围的敌方单位进行追击，引爆后可造成大量范围伤害。潜地的蜘蛛雷只能被敌人的侦测单位发现。	Las Minas araña persiguen a los enemigos que se aproximan e infligen un gran daño de área cuando explotan. Solo los detectores enemigos pueden ver las Minas araña enterradas.	1
+孵化一只重型突击巨兽，其体型和力量均远超雷兽。<n/><n/><c val="#ColorAttackInfo">可以对空和对地。</c>	Engendra una bestia de asalto gigante que deja enanos hasta a los Ultraliscos, tanto en tamaño como en fuerza. <n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+孵化一只重型突击巨兽，其体型和力量均远超雷兽。<n/><n/><c val="#ColorAttackInfo">可以对空和对地。</c>	Engendra una bestia de asalto gigante que deja enanos hasta a los Ultraliscos en tamaño y fuerza. <n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+<c val="ffff8a">守护者</c>的攻击射程提高<d ref="Upgrade,GuardianAttackRangeIncrease,EffectArray[0].Value"/>。	Aumenta el radio de ataque del <c val="ffff8a">Guardián</c> un <d ref="Upgrade,GuardianAttackRangeIncrease,EffectArray[0].Value"/>.	1
+<c val="ffff8a">守护者</c>的攻击射程提高<d ref="Upgrade,GuardianAttackRangeIncrease,EffectArray[0].Value"/>。	Aumenta el radio de ataque del <c val="ffff8a">Guardián</c> en <d ref="Upgrade,GuardianAttackRangeIncrease,EffectArray[0].Value"/>.	1
+冷却时间：<d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>向目标位置发射攻击战斗机，对该位置的敌方地面单位造成<d ref="Effect,HHBomberAreaBombDamage,Amount"/> (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/>对非英雄建筑) 点伤害。	Tiempo de reutilización: <d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>Lanza el Caza de ataque hacia la ubicación objetivo, donde inflige <d ref="Effect,HHBomberAreaBombDamage,Amount"/> de daño a las unidades terrestres enemigas que están en el área objetivo (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/> contra estructuras que no son heroicas).	1
+冷却时间：<d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>向目标位置发射攻击战斗机，对该位置的敌方地面单位造成<d ref="Effect,HHBomberAreaBombDamage,Amount"/> (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/>对非英雄建筑) 点伤害。	Tiempo de reutilización: <d ref="Behavior,HHBomberDockCooldown,Duration"/><n/><n/>Envía un Caza de ataque hacia la ubicación objetivo, donde inflige <d ref="Effect,HHBomberAreaBombDamage,Amount"/> de daño a las unidades terrestres enemigas que están en el área objetivo (+<d ref="Effect,HHBomberAreaBombDamage,AttributeBonus[Structure]"/> contra estructuras que no son heroicas).	1
+斯托科夫曾经身为UED中将，现今受到感染，统领着其他被感染的人类。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Antiguo vicealmirante de la JTU que ahora está infestado y comanda a otros terran infestados.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.</c>	1
+斯托科夫曾经身为UED中将，现今受到感染，统领着其他被感染的人类。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Antiguo vicealmirante de la JTU que ahora está infestado y comanda a otros terran infestados.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	1
+异常强大的防御建筑。拥有超高的射程和伤害，但造价昂贵且攻击缓慢。<n/><n/><c val="ffff8a">可以对空和对地。	Estructura defensiva muy poderosa. Tiene un alcance y daño superiores, pero es muy costosa y su velocidad de ataque es reducida.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.	1
+异常强大的防御建筑。拥有超高的射程和伤害，但造价昂贵且攻击缓慢。<n/><n/><c val="ffff8a">可以对空和对地。	Estructura defensiva muy poderosa. Tiene un alcance y daño superiores, pero es muy costosa y su velocidad de ataque es reducida.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.	1
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Estructura defensiva primaria.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c><n/><c val="FFE303">Detector</c>	1
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Estructura de defensa primaria.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c><n/><c val="FFE303">Detector</c>	3
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Estructura de defensa primaria. <n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c><n/><c val="FFE303">Detector</c>	1
+自毁型单位。死亡时造成小范围的伤害。有<d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>秒的持续时间。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad suicida. Al morir, inflige daño sobre un área pequeña. Dura <d ref="Behavior,SIBarracksTrainTimedLife,Duration"/> segundos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+自毁型单位。死亡时造成小范围的伤害。有<d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>秒的持续时间。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad suicida. Al morir, inflige daño sobre un área pequeña. Dura <d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>segundos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+一种虚空构造体。	Constructo del Vacío.	1
+一种虚空构造体。	Un constructo del Vacío.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Proyecta el Monolito de teseracto en la ubicación objetivo durante <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> segundos y transfiere todos sus escudos y su arma. El Monolito de teseracto se desactiva mientras esta habilidad está activa.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Proyecta el Cañón de teseracto en la ubicación objetivo durante <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> segundos y transfiere todos sus escudos y su arma. El Cañón de teseracto se desactivará mientras esta habilidad está activa.	1
+ACPirate Capital Ship Tractor Beam	CA - Nave pirata principal - Rayo tractor	2
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	2
+Auto Inject Larva	Inyectar Larva automáticamente	2
+Auto Inject Larva	Auto Inject Larva	1
+升级	MEJORA	1
+升级	Mejoras	1
+升级	Nuevo nivel	2
+升级	Nuevo rango	1
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Tu héroe ha muerto.</c>	2
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Tu héroe ha revivido.</c>	1
+~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	1
+~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	~time~ Jugador ~player~ - Dificultad de oleada de ataque ~diff~ Recursos totales ~total~	1
+你所有的建筑物都被摧毁了。	Han destruido todas tus estructuras.	1
+你所有的建筑物都被摧毁了。	Han destruido a todas tus estructuras.	2
+被感染的火鸡冲你基地来了！	¡Se acercan pavos infestados a tu base!	1
+被感染的火鸡冲你基地来了！	¡Pavos infestados se dirigen a tu base!	1
+杀戮机器人	Roboasesino	3
+杀戮机器人	Roboasesinos	1
+同化体	Propagador	2
+同化体	Propagadores	2
+确认	Confirmar	1
+确认	CONFIRMAR	1
+关闭	Desactivado	5
+关闭	Cerrar	4
+关闭	CERRAR	2
+胜利	Victoria	1
+胜利	¡VICTORIA!	1
+返回	Reanudar	1
+返回	Atrás	1
+返回	ATRÁS	1
+返回	VOLVER	2
+被感染的人类	Terran infestados	2
+被感染的人类	Terran infestado	2
+人类步兵武器等级1	Armas de infantería terran nivel 1	1
+人类步兵武器等级1	Armas de infantería terran - Nivel 1	1
+人类步兵武器等级2	Armas de infantería terran nivel 2	1
+人类步兵武器等级2	Armas de infantería terran - Nivel 2	1
+人类舰船武器等级2	Armas de naves terran nivel 2	1
+人类舰船武器等级2	Armas de naves terran - Nivel 2	1
+星灵地面单位武器等级1	Armas terrestres protoss nivel 1	1
+星灵地面单位武器等级1	Armas terrestres protoss - Nivel 1	1
+人类舰船钢板等级2	Blindaje de naves terran nivel 2	1
+人类舰船钢板等级2	Blindaje de naves terran - Nivel 2	1
+异虫喷射攻击等级2	Ataques de misiles zerg  - Nivel 2	1
+异虫喷射攻击等级2	Ataques de misiles zerg - Nivel 2	1
+人类舰船武器等级1	Armas de naves terran nivel 1	1
+人类舰船武器等级1	Armas de naves terran - Nivel 1	1
+人类舰船钢板等级1	Blindaje de naves terran nivel 1	1
+人类舰船钢板等级1	Blindaje de naves terran - Nivel 1	1
+星灵地面单位护甲等级1	Armadura terrestre protoss nivel 1	1
+星灵地面单位护甲等级1	Armadura terrestre protoss - Nivel 1	1
+星灵护盾等级2	Escudos protoss nivel 2	1
+星灵护盾等级2	Escudos protoss - Nivel 2	1
+星灵地面单位护甲等级2	Armadura terrestre protoss nivel 2	1
+星灵地面单位护甲等级2	Armadura terrestre protoss - Nivel 2	1
+星灵地面单位武器等级2	Armas terrestres protoss nivel 2	1
+星灵地面单位武器等级2	Armas terrestres protoss - Nivel 2	1
+航母搭载的拦截机数量无法多于8架	El Portanaves debe tener menos de 8 Interceptores	1
+航母搭载的拦截机数量无法多于8架	El Portanaves debe tener menos de 8 interceptores	1
+空	nulo	1
+空	Vacío	1
+开始游戏	Comenzar partida	2
+开始游戏	INICIAR PARTIDA	1
+休闲	CASUAL	1
+休闲	Casual	1
+普通	Medium	1
+普通	NORMAL	1
+普通	Normal	6
+困难	Difícil	3
+困难	DIFÍCIL	1
+残酷	BRUTAL	1
+残酷	Brutal	1
+类似于战役的“困难”难度。	Similar al nivel “Difícil" de la campaña.	1
+类似于战役的“困难”难度。	Similar al nivel "Difícil" de la campaña.	1
+任务	Misión	2
+任务	MISIÓN	1
+任务	Misiones	1
+人类步兵护甲	Armadura de infantería terran	1
+人类步兵护甲	Armaduras de infantería terran	1
+异虫飞行生物甲壳	Caparazón de unidades voladoras zerg	1
+异虫飞行生物甲壳	Zerg - Armaduras de unidades voladoras	1
+异虫地面单位甲壳	Caparazón de unidades terrestres zerg	1
+异虫地面单位甲壳	Armaduras terrestres zerg	1
+信标	Faro	2
+信标	FARO	1
+萃取设施	Dispositivo de extracción	1
+萃取设施	Dispositivos de extracción	1
+攻击型无人机	Dron de asalto	1
+攻击型无人机	Drones de asalto	2
+虚空重生者	Reanimador del Vacío	1
+虚空重生者	Reanimadores del Vacío	1
+屠杀者	Exterminador	1
+屠杀者	Matador	1
+基地	DROPOFF	1
+基地	DropOffs	1
+时空提速效能	Cronoimpulso - Eficiencia	1
+时空提速效能	Eficiencia de Cronoimpulso	4
+消耗战	Guerra agotadora	1
+消耗战	Batalla del agotamiento	1
+暴雪嘉年华挑战	El Desafío de la Blizzcon	1
+暴雪嘉年华挑战	Desafío de la Blizzcon	1
+舒特	Schutter	1
+舒特	Shute	1
+少校	Teniente comandante	2
+少校	Sargento mayor	2
+自定义	Personalizado	2
+自定义	PERSONALIZADA	1
+反冲火箭	Cohetes contragolpe	3
+反冲火箭	Cohetes Contragolpe	2
+折跃	Transposicionando	1
+折跃	Transposición	1
+折跃	Transposicionar	1
+D-8型炸药	D8 - Carga	1
+D-8型炸药	Carga D-8	3
+D-8型炸药	Carga D8	1
+悬浮恶蝠模式	Modo Murciélago infernal aéreo	1
+悬浮恶蝠模式	Demonio aéreo - Modo	1
+使用猎杀飞弹武器替换猎杀飞弹技能，可自动攻击敌方单位且不会消耗能量。	Reemplaza la habilidad Misil buscador con un Misil buscador cazador que ataca automáticamente a las unidades enemigas y no cuesta energía.	1
+使用猎杀飞弹武器替换猎杀飞弹技能，可自动攻击敌方单位且不会消耗能量。	Reemplaza la habilidad Misil buscador con un arma de misiles buscadores que ataca automáticamente a las unidades enemigas y no cuesta energía.	1
+蜘蛛雷会对进入范围的敌方单位进行追击，引爆后可造成大量范围伤害。潜地的蜘蛛雷只能被敌人的<c val="FFE303">侦测单位</c>发现。	Las Minas araña persiguen a las unidades enemigas que se aproximan y detonan para provocar una gran cantidad de daño de área. Solo los <c val="FFE303">detectores</c>enemigos pueden ver a las Minas araña enterradas.	1
+蜘蛛雷会对进入范围的敌方单位进行追击，引爆后可造成大量范围伤害。潜地的蜘蛛雷只能被敌人的<c val="FFE303">侦测单位</c>发现。	Las Minas araña persiguen a las unidades enemigas que se aproximan y detonan para provocar una gran cantidad de daño de área. Solo los <c val="FFE303">detectores</c> enemigos pueden ver las Minas araña enterradas.	2
+狙击手。能够使用EMP弹和狙杀技能，升级后可以使用隐形技能。能够对幽灵军校发动的聚变打击进行制导。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Francotirador. Puede usar Francotirar, Munición PEM, y mejorarse para usar Camuflar. Puede lanzar Misiles nucleares tácticos construidos en la Academia de Fantasmas.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+狙击手。能够使用EMP弹和狙杀技能，升级后可以使用隐形技能。能够对幽灵军校发动的聚变打击进行制导。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Francotirador. Puede usar Francotirar y Munición PEM, y puede mejorarse para usar Camuflaje. Invoca Misiles nucleares tácticos construidos en la Academia de Fantasmas.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+通用型步兵。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Infantería de uso general.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres y aéreas.</c>	1
+通用型步兵。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Infantería de uso general.<n/><n/><c val="#ColorAttackInfo">Ataca unidades terrestres y aéreas.</c>	1
+Already cast	Ya hay actor	1
+Already cast	Ya hay actriz	2
+无	Ninguna	6
+无	Ninguno	5
+头像	Retrato	1
+头像	Retratos	1
+中	Medium	1
+中	Media	1
+中	Medio	1
+人类舰船钢板	Coraza de nave terran	1
+人类舰船钢板	Blindajes de naves terran	1
+人类战车钢板	Coraza de vehículos terran	1
+人类战车钢板	Terran - Blindajes de vehículos	1
+补给箱	Caja de reabastecimiento	1
+补给箱	Caja de suministros	1
+英雄	Héroe	2
+英雄	Héroes	2
+马拉什	Ma'lash	1
+马拉什	Malash	1
+低	Bajo	2
+低	Baja	3
+Rick Wasserman	Jorge Solorzano	1
+Rick Wasserman	Antonio Puentes	1
+Patrick Seitz	Vicente Moros	2
+Patrick Seitz	Facundo Reyes	1
+Grey DeLisle	Valentina Vanegas	1
+Grey DeLisle	Valeria Gómez	1
+Fred Tatasciore	Alvaro Gomez Z	1
+Fred Tatasciore	Raul Gutierrez	1
+Fred Tatasciore	Raul Gutiérrez	1
+Armin Shimerman	Eleazar Osorio	2
+Armin Shimerman	Sebastián Pinardi	1
+Nika Futterman	Dilma Gomez	1
+Nika Futterman	Nancy Cardozo	1
+Nika Futterman	Paula Baldini	1
+自定义镜头01	Cámara personalizada 01	1
+自定义镜头01	Custom Camera 01	1
+自定义镜头02	Cámara personalizada 02	1
+自定义镜头02	Custom Camera 02	1
+自定义镜头03	Cámara personalizada 03	1
+自定义镜头03	Custom Camera 03	1
+自定义镜头04	Cámara personalizada 04	1
+自定义镜头04	Custom Camera 04	1
+远	Lejos	1
+远	Far	1
+过肩	Hombro	1
+过肩	Shoulder	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	La selección de unidades realizada durante las retrospectivas determina el tipo de enemigo al que te enfrentarás. Elige con inteligencia.	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Las decisiones que tomes durante las retrospectivas de Nova determinan el tipo de zerg con el que te encontrarás en la misión. Elige con inteligencia.	1
+播放	REPRODUCIR	1
+播放	Reproducir	2
+单位	Unidad	1
+单位	Unidades	2
+否	No	2
+否	NO	1
+全部	Todo	2
+全部	Todas	1
+成就	Logros	1
+成就	Logro	1
+成就	LOGROS	1
+奖励	Recompensa	1
+奖励	Recompensas	1
+关闭(<h/>C)	<h/>CERRAR	2
+关闭(<h/>C)	<h/>Cerrar	1
+退出(<h/>Q)	<h/>Salir	1
+退出(<h/>Q)	<h/>SALIR	1
+给女妖装备冲击波导弹巢，提升他们的攻击能力，对一条直线上的多个目标造成伤害。	Equipa a las Banshees con Baterías de misiles de onda expansiva para mejorar sus ataques y dañar a varias unidades en línea recta.	1
+给女妖装备冲击波导弹巢，提升他们的攻击能力，对一条直线上的多个目标造成伤害。	Equipa a las Banshees con una Batería de misiles de onda expansiva para mejorar sus ataques y dañar a varias unidades en línea recta.	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	No hace falta que controles a tu ejército mientras Nova realiza una misión en solitario. Las condiciones del campo de batalla permanecerán estables hasta que ella regrese.	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	No necesitas controlar a tu ejército mientras Nova realiza una misión en solitario. Las condiciones del campo de batalla permanecerán intactas hasta que ella vuelva.	1
+湮灭低语	Susurros del olvido	1
+湮灭低语	SUSURROS DEL OLVIDO	1
+远程支援型步战单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Zancudo de apoyo de largo alcance.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	1
+远程支援型步战单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Zancudo de apoyo con ataque a distancia.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.</c>	1
+摧毁关押室，救出其中被俘的圣堂武士。	Destruye el corral para liberar a los templarios cautivos.	2
+摧毁关押室，救出其中被俘的圣堂武士。	Destruye el corral para liberar a los últimos templarios cautivos.	1
+帮助	Ayuda	4
+帮助	AYUDA	2
+任务完成	MISIÓN COMPLETA	1
+任务完成	Misiones completadas	1
+退出	Salir	3
+退出	Abandonar	1
+退出	SALIR	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur - Luz - Puente - Abandonado - NE - Altura 10 - Retracción	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur - Luz - Puente - Abandonado - NE - Altura 10 - Retraído	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur - Luz - Puente - Abandonado - NE - Altura 10 - Extensión	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur - Luz - Puente - Abandonado - NE - Altura 10 - Extendido	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur - Luz - Puente - Abandonado - NE - Altura 12 - Retracción	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur - Luz - Puente - Abandonado - NE - Altura 12 - Retraído	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur - Luz - Puente - Abandonado - NE - Altura 12 - Extensión	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur - Luz - Puente - Abandonado - NE - Altura 12 - Extendido	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur - Luz - Puente - Abandonado - NE - Altura 8 - Retracción	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur - Luz - Puente - Abandonado - NE - Altura 8 - Retraído	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur - Luz - Puente - Abandonado - NO - Altura 10 - Retracción	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur - Luz - Puente - Abandonado - NO - Altura 10 - Retraído	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur - Luz - Puente - Abandonado - NO - Altura 10 - Extensión	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur - Luz - Puente - Abandonado - NO - Altura 10 - Extendido	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur - Luz - Puente - Abandonado - NO - Altura 12 - Retracción	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur - Luz - Puente - Abandonado - NO - Altura 12 - Retraído	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur - Luz - Puente - Abandonado - NO - Altura 12 - Extensión	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur - Luz - Puente - Abandonado - NO - Altura 12 - Extendido	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur - Luz - Puente - Abandonado - NO - Altura 8 - Retracción	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur - Luz - Puente - Abandonado - NO - Altura 8 - Retraído	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur - Luz - Puente - Abandonado - NO - Altura 8 - Extensión	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur - Luz - Puente - Abandonado - NO - Altura 8 - Extendido	1
+隐形无人机	Cloaking Drone	1
+隐形无人机	Dron de camuflaje	1
+抓钩	Grapple	1
+抓钩	Aferrar	1
+超载	Overcharge	1
+超载	Sobrecarga	3
+Parasitic Bomb	Bomba parasitaria	1
+Parasitic Bomb	Parasitic Bomb	4
+脉冲冲击	Pulsar Blast	1
+脉冲冲击	Explosión púlsar	1
+Purification Nova	Nova purificadora	1
+Purification Nova	Purification Nova	7
+先知相位变换	Oráculo - Conmutación de fase	1
+先知相位变换	Conmutación de fase de Oráculo	1
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Esta copia alucinada funciona como la unidad original, pero no puede usar habilidades activas, no puede infligir daño y muere más fácilmente. Las alucinaciones duran <d time="60"/> antes de desaparecer.	6
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Estas copias alucinadas funcionan como la unidad original, pero no pueden usar habilidades activas, no pueden infligir daño y mueren más fácilmente. Las alucinaciones duran <d time="60"/> antes de desaparecer.	3
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Estas copias alucinadas funcionan como la unidad original, pero no pueden usar habilidades activas, infligir daño, transposicionar estructuras ni recoger recursos, y mueren más fácilmente. Las alucinaciones duran <d time="60"/> antes de desaparecer.	1
+机械干扰型单位。可以使用净化新星造成大量伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad de disrupción robótica. Puede usar la habilidad Nova purificadora para infligir una gran cantidad de daño de área.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+机械干扰型单位。可以使用净化新星造成大量伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Unidad de disrupción robótica. Puede usar Nova purificadora para infligir una gran cantidad de daño de área.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Unidad aérea. Hace rebotar su disparo para alcanzar varios objetivos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	1
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Unidad aérea. Su disparo rebota para atacar a varios objetivos.<n/><n/><c val="ffff8a">Ataca unidades terrestres y aéreas.</c>	1
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Unidad aérea. Su disparo rebota y ataca a varios objetivos.<n/><n/><c val="ffff8a">Ataca a unidades terrestres y aéreas.</c>	1
+摧毁该路障可以打开前往新区域的通道。	Una barrera que se puede destruir para ingresar a áreas nuevas.	3
+摧毁该路障可以打开前往新区域的通道。	Barrera que se puede destruir para ingresar a áreas nuevas.	17
+摧毁该路障可以打开前往新区域的通道。	Barrera que puede destruirse para ingresar en áreas nuevas.	1
+中子照明弹	Neutron Flare	1
+中子照明弹	Destello de neutrón	1
+默认	Por defecto	1
+默认	Predeterminado	3
+默认	Predeterminados	1
+常规	General	1
+常规	Normal	3
+悬浮单位	Sobrevuelo	1
+悬浮单位	Sobrevolar	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	ExtendingBridge - NE - Altura 10 - Ancho - Retraer	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	Puente extensible - NE - Altura 10 - Ancho - Retraído	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	ExtendingBridge - NE - Altura 10 - Ancho - Extender	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	Puente extensible - NE - Altura 10 - Ancho - Extendido	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	ExtendingBridge - NE - Altura 12 - Ancho - Retraer	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	Puente extensible - NE - Altura 12 - Ancho - Retraído	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	ExtendingBridge - NE - Altura 12 - Ancho - Extender	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	Puente extensible - NE - Altura 12 - Ancho - Extendido	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	ExtendingBridge - NE - Altura 8 - Ancho - Retraer	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	Puente extensible - NE - Altura 8 - Ancho - Retraído	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	ExtendingBridge - NE - Altura 8 - Ancho - Extender	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	Puente extensible - NE - Altura 8 - Ancho - Extendido	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	ExtendingBridge - NO - Altura 10 - Ancho - Retraer	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	Puente extensible - NW - Altura 10 - Ancho - Retraído	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	ExtendingBridge - NO - Altura 10 - Ancho - Extender	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	Puente extensible - NW - Altura 10 - Ancho - Extendido	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	ExtendingBridge - NO - Altura 12 - Ancho - Retraer	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	Puente extensible - NO - Altura 12 - Ancho - Retraído	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	ExtendingBridge - NO - Altura 12 - Ancho - Extender	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	Puente extensible - NO - Altura 12 - Ancho - Extendido	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	ExtendingBridge - NO - Altura 8 - Ancho - Retraer	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	Puente extensible - NO - Altura 8 - Ancho - Retraído	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	ExtendingBridge - NO - Altura 8 - Ancho - Extender	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	Puente extensible - NO - Altura 8 - Ancho - Extendido	1
+虫后飞行	Reina - Volar	2
+虫后飞行	Reina - En vuelo	1
+狙杀DoT	Francotirar DoT	1
+狙杀DoT	Francotirar Do	1
+停止	detener	1
+停止	Detener	2
+停止	DETENER	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Extender puente - Puente extensible - NE - Ancho - 10 - Fuera	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Extender puente - Puente extensible - NO - Ancho - 10 - Fuera	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Extender puente - Puente extensible - NE - Ancho - 12 - Fuera	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Extender puente - Puente extensible - NO - Ancho - 12 - Fuera	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Extender puente - Puente extensible - NE - Ancho - 8 - Fuera	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Extender puente - Puente extensible - NO - Ancho - 8 - Fuera	1
+隐藏	Oculto	3
+隐藏	Ocultar	2
+奥丁矩阵 虚拟	Matriz de Odín - Simulación	1
+奥丁矩阵 虚拟	Odín - Matriz	1
+移除	Expulsar	2
+移除	Quitar	2
+大师	Maestro	1
+大师	Amo	1
+信徒	Neófito	1
+信徒	Discípulo	1
+教官	Instructor	1
+教官	Instructor<sp/>	1
+残骸	Escombros	3
+残骸	Restos	1
+电脑	IA	1
+电脑	Computadora	1
+250毫米口径歼敌炮	Cañones de asalto de 250mm	1
+250毫米口径歼敌炮	Cañones de asalto de 250 mm	3
+制造	Construir	1
+制造	Entrenar	1
+瓦解建筑	Minar estructura	1
+瓦解建筑	Atacar estructura	1
+虫洞传送	Tránsito por Agujero de gusano	1
+虫洞传送	Tránsito por agujero de gusano	1
+移动	mover	1
+移动	Mover	3
+游戏大厅	Arcade	2
+游戏大厅	ARCADE	1
+教程一	Guía uno	1
+教程一	GUÍA UNO	1
+教程二	Guía tres	1
+教程二	GUÍA DOS	1
+教程三	Guía dos	1
+教程三	GUÍA TRES	1
+实力功勋	Proezas de fuerza	1
+实力功勋	PROEZAS DE FUERZA	1
+竞技	Competitivo	1
+竞技	COMPETITIVO	1
+对战	Melé	2
+对战	MULTIJUGADOR	1
+自定义游戏	Juego personalizado	1
+自定义游戏	Personalizado	2
+自定义游戏	Partidas personalizadas	1
+死亡前兆：黄金	Heraldo de la Muerte: Oro	1
+死亡前兆：黄金	Heraldo de la muerte: Oro	1
+谢绝反击	Contraprueba	1
+谢绝反击	Sin respuesta	1
+能否帮我…	¿Podrías, por favor...?	1
+能否帮我…	¿Podrías, por favor....?	1
+派遣侦察单位。	Enviando un explorador.	1
+派遣侦察单位。	Enviando explorador.	1
+孵化幼虫	Engendrar Larva	1
+孵化幼虫	Engendrar Larvas	1
+隐秘行动	Operaciones encubiertas	1
+隐秘行动	OPERACIONES ENCUBIERTAS	1
+隐秘行动	Operativo encubierto	3
+标准	Estándar	2
+标准	ESTÁNDAR	1
+虚空先驱	Heraldo del Vacío	1
+虚空先驱	Usuario pionero	1
+菌毯肿瘤	Generar Tumor de talo	1
+菌毯肿瘤	Tumor de talo	2
+幻像	Alucinación	2
+幻像	Alucinaciones	1
+暂停	Detener	1
+暂停	Pau	1
+暂停	En pausa	2
+暂停	Pausa	1
+建造建筑	Construir estructura	1
+建造建筑	Estructuras construidas	2
+防空建筑。<n/><n/><c val="#ColorAttackInfo">可以对空</c><n/><c val="FFE303">侦测单位</c>	Estructura defensiva antiaérea.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades aéreas.</c><n/><c val="FFE303">Detector</c>	1
+防空建筑。<n/><n/><c val="#ColorAttackInfo">可以对空</c><n/><c val="FFE303">侦测单位</c>	Estructura defensiva antiaérea.<n/><n/><c val="#ColorAttackInfo">Ataca unidades aéreas.</c><n/><c val="FFE303">Detector</c>	1
+大型飞行作战生物。通过投射出的巢虫来攻击目标。巢虫是一种可以对地的小型生物。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Unidad voladora de asalto pesado. Dispara Ácaros a su objetivo. Un Ácaro es una criatura pequeña que ataca a unidades terrestres.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+大型飞行作战生物。通过投射出的巢虫来攻击目标。巢虫是一种可以对地的小型生物。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Unidad aérea de asalto pesado. Dispara Ácaros contra sus objetivos. Los Ácaros son criaturas pequeñas que atacan a los objetivos terrestres.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+空中单位研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 女妖<n/>- 铁鸦<n/>- 建造聚变芯体可开启战列巡航舰	Estructura de investigación aeronáutica. El Tecnolab  se puede anexar a cualquier estructura de producción.<n/><n/><c val="ffff8a">Activa:</c><n/>- Banshees<n/>- Cuervos<n/>- Cruceros de Batalla con Núcleo de fusión	1
+空中单位研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 女妖<n/>- 铁鸦<n/>- 建造聚变芯体可开启战列巡航舰	Estructura de investigación aeronáutica. El Tecnolab se puede anexar a cualquier estructura de producción.<n/><n/><c val="ffff8a">Activa:</c><n/>- Banshees<n/>- Cuervos<n/>- Cruceros de Batalla con Núcleo de fusión	1
+重型突击步兵。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Infantería de asalto pesado.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+重型突击步兵。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Infantería de asalto pesado <n/><n/><c val="#ColorAttackInfo">Ataca a unidades terrestres.</c>	1
+高级空中侦察单位。 能够维持王虫形态时所控制的单位上限。能够孵化拟态雏虫，并可以使用污染技能。<n/><n/><c val="FFE303">侦测单位</c>	Observador aéreo avanzado. Brinda los mismos suministros que un Amo Supremo. Puede usar la habilidad Engendrar Cambiaformas y Contaminar.<n/><n/><c val="FFE303">Detector</c>	1
+高级空中侦察单位。 能够维持王虫形态时所控制的单位上限。能够孵化拟态雏虫，并可以使用污染技能。<n/><n/><c val="FFE303">侦测单位</c>	Observador aéreo avanzado. Mantiene la capacidad de unidades establecida por el Amo Supremo. Puede usar las habilidades Engendrar Cambiaformas y Contaminar.<n/><n/><c val="FFE303">Detector</c>	1
+间谍型空中单位。拥有永久隐形的能力。<n/><n/><c val="FFE303">侦测单位</c>	Espía volador. El Camuflaje hace que la unidad sea invisible para los enemigos que no posean detección.<n/><n/><c val="FFE303">Detector</c>	1
+间谍型空中单位。拥有永久隐形的能力。<n/><n/><c val="FFE303">侦测单位</c>	Espía aéreo. El Camuflaje hace que la unidad sea invisible para los enemigos sin detección.<n/><n/><c val="FFE303">Detector</c>	1
+间谍型空中单位。拥有永久隐形的能力。<n/><n/><c val="FFE303">侦测单位</c>	Espía volador. El Camuflaje hace que la unidad sea invisible para los enemigos sin detección.<n/><n/><c val="FFE303">Detector</c>	1
+将指挥中心升级为行星要塞，大大提升其护甲值并为其配备强大的防御炮塔。自体不可升空。<n/><n/><c val="ffff8a">可以对地。</c>	Mejora el Centro de mando a Fortaleza planetaria, lo que aumenta considerablemente su blindaje y lo arma con una potente torreta defensiva. No puede despegar.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+将指挥中心升级为行星要塞，大大提升其护甲值并为其配备强大的防御炮塔。自体不可升空。<n/><n/><c val="ffff8a">可以对地。</c>	Mejora el Centro de mando a Fortaleza planetaria, aumentando considerablemente su blindaje y equipándola con una torreta defensiva poderosa. No puede despegar.<n/><n/><c val="ffff8a">Ataca a unidades terrestres.</c>	1
+坚固的火力支援型空中单位，配备有强大的反主力舰飞弹。进入机甲模式后可攻击地面单位。<n/><n/><c val="#ColorAttackInfo">可以对空</c>	Resistente unidad voladora de apoyo armada con potentes misiles aéreos antinaves. Puede pasar al modo de asalto para atacar a unidades terrestres.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades aéreas.</c>	1
+坚固的火力支援型空中单位，配备有强大的反主力舰飞弹。进入机甲模式后可攻击地面单位。<n/><n/><c val="#ColorAttackInfo">可以对空</c>	Resistente unidad voladora de apoyo armada con potentes misiles aéreos antinaves. Puede usar el modo Asalto para atacar a unidades terrestres.<n/><n/><c val="#ColorAttackInfo">Ataca a unidades aéreas.</c>	1
+迅捷的肉搏型生物。可以变异为爆虫。<n/><n/><c val="FFFF8A">可以对地。</c>	Criatura de melé veloz. Se puede transformar en Uetzi.<n/><n/><c val="FFFF8A">Ataca a unidades terrestres.</c>	1
+迅捷的肉搏型生物。可以变异为爆虫。<n/><n/><c val="FFFF8A">可以对地。</c>	Criatura de melé rápida. Puede transformarse en Uetzi.<n/><n/><c val="FFFF8A">Ataca a unidades terrestres.</c>	1
+Nasal, Nerdy	Nasal, Nerd	1
+Nasal, Nerdy	Nasal, nerd	1
+高	Alto	2
+高	Alta	3
+高	Altura	1
+重试	Reintentar	1
+重试	INTENTAR DE NUEVO	1
+优雅的艾尔美学催生出了这套精美的控制台。<n/><n/>该皮肤对所有参与《星际争霸II》二十周年纪念活动的玩家可用。	El diseño elegante de esta consola refleja la estética de Aiur.<n/><n/>Este diseño está disponible para todos los jugadores como parte de la celebración del 20.º aniversario de StarCraft.	1
+优雅的艾尔美学催生出了这套精美的控制台。<n/><n/>该皮肤对所有参与《星际争霸II》二十周年纪念活动的玩家可用。	La estética elegante de Aiur le da un toque refinado a la consola.<n/><n/>Este diseño está disponible para todos los jugadores como parte de la celebración del 20.º aniversario de StarCraft.	1
+锻造	Forjado	68
+锻造	Forjados	19
+锻造	Forjada	6
+特战队	Fuerzas Especiales	66
+特战队	Fuerza Especial	1
+米拉的劫掠者	Mercenarios de Mira	1
+米拉的劫掠者	Merodeadores de Mira	32
+是	Sí	2
+是	SÍ	1
+颜色	Colores	1
+颜色	Color	1
+快捷键	Tecla rápida	1
+快捷键	TECLAS RÁPIDAS	1
+快捷键	Teclas rápidas	2
+<c val="[d Player='~ID~' GameValue='PlayerColor'/]">~PLAYER~</c>想要攻击<c val="[d Player='~ENEMYID~' GameValue='PlayerColor'/]">~ENEMY~</c>！	¡<c val="[d Player='~ID~' GameValue='PlayerColor'/]">~PLAYER~</c> quiere atacar a <c val="[d Player='~ENEMYID~' GameValue='PlayerColor'/]">~ENEMY~</c>!	1
+<c val="[d Player='~ID~' GameValue='PlayerColor'/]">~PLAYER~</c>想要攻击<c val="[d Player='~ENEMYID~' GameValue='PlayerColor'/]">~ENEMY~</c>！	<c val="[d Player='~ID~' GameValue='PlayerColor'/]">~PLAYER~</c> quiere atacar a <c val="[d Player='~ENEMYID~' GameValue='PlayerColor'/]">~ENEMY~</c>	1
+在星港的科技实验室中研发猎杀飞弹	Investigar Misiles buscadores en el Tecnolab del Puerto estelar	1
+在星港的科技实验室中研发猎杀飞弹	Investigar Misil buscador en el Tecnolab del Puerto estelar	1
+人类战车钢板等级1	Blindaje de vehículos terran nivel 1	1
+人类战车钢板等级1	Blindaje de vehículos terran - Nivel 1	1
+星灵空中单位武器等级1	Armas aéreas protoss nivel 1	1
+星灵空中单位武器等级1	Armas aéreas protoss - Nivel 1	1
+人类战车武器等级1	Armas de vehículos terran nivel 1	1
+人类战车武器等级1	Armas de vehículos terran - Nivel 1	1
+人类战车钢板等级2	Blindaje de vehículos terran nivel 2	1
+人类战车钢板等级2	Blindaje de vehículos terran - Nivel 2	1
+星灵空中单位护甲等级2	Armadura aérea protoss nivel 2	1
+星灵空中单位护甲等级2	Armadura aérea protoss - Nivel 2	1
+星灵空中单位护甲等级1	Armadura aérea protoss nivel 1	1
+星灵空中单位护甲等级1	Armadura aérea protoss - Nivel 1	1
+星灵空中单位武器等级2	Armas aéreas protoss nivel 2	1
+星灵空中单位武器等级2	Armas aéreas protoss - Nivel 2	1
+人类战车武器等级2	Armas de vehículos terran nivel 2	1
+人类战车武器等级2	Armas de vehículos terran - Nivel 2	1
+经典	Clásico	21
+经典	Clásica	1
+埃蒙的舰队	Carrier_AmonBrood_Collection	1
+埃蒙的舰队	Armada de Amón	1
+合作任务中等难度50	Cooperativo - Comandante - Dificultad - Difícil 50	1
+合作任务中等难度50	Cooperativo - Comandante - Dificultad - Normal 50	1
+合作任务中等难度500	Cooperativo - Comandante - Dificultad - Difícil 500	1
+合作任务中等难度500	Cooperativo - Comandante - Dificultad - Normal 500	1
+合作任务中等难度75	Cooperativo - Comandante - Dificultad - Difícil 75	1
+合作任务中等难度75	Cooperativo - Comandante - Dificultad - Normal 75	1
+腐化的星灵	Protoss corrompido	2
+腐化的星灵	Protoss corrompidos	1
+食腐鸟	Urubu	2
+食腐鸟	Ave de carroña	1
+虚空之遗	Legacy of the Void	2
+虚空之遗	LEGACY OF THE VOID	1
+2021 IEM冠军Reynor	Campeón de IEM 2021: Reynor	1
+2021 IEM冠军Reynor	Campeón de IEM 2021 Reynor	1
+净化者狂热者	Zelot purificador	1
+净化者狂热者	Zelot de los Purificadores	1
+经典刺蛇	Hidralisco clásico	2
+经典刺蛇	Hidraliscos clásicos	1
+尤摩扬	Umojana	2
+尤摩扬	Umojano	30
+神器	ARTEFACTOS	1
+神器	Artefactos	2
+部队规模	Tamaño del ejército	1
+部队规模	TAMAÑO DEL EJÉRCITO	1
+建造顺序	Orden de construir	1
+建造顺序	ORDEN DE CONSTRUCCIÓN	1
+图表	Gráficos	1
+图表	GRÁFICOS	1
+建筑	Estructuras	2
+建筑	Edificación	1
+建筑	Estructura	2
+资源采集	RECOLECCIÓN DE RECURSOS	1
+资源采集	Recolección de recursos	1
+消灭的人口	Alimentos elaborados - Muertos	1
+消灭的人口	Alimentos consumidos - Muertos	1
+损失的人口	Alimentos elaborados - Perdidos	1
+损失的人口	Alimentos consumidos - Perdidos	1
+高能瓦斯平均储量	Promedio de minerales almacenados	1
+高能瓦斯平均储量	Promedio de vespeno almacenado	1
+单位生产用资源	Valor total de recursos del ejército	1
+单位生产用资源	Valor del ejército	1
+消灭敌方单位	Unidades enemigas eliminadas	1
+消灭敌方单位	Conteo de unidades eliminadas	1
+基础虫道网络	Canal Nydus básico	1
+基础虫道网络	Red Nydus básica	1
+《星际争霸II》	StarCraft II	5
+《星际争霸II》	STARCRAFT II	1
+机械化部队(经济)	Portal e Inmortales (económico)	1
+机械化部队(经济)	Mecánica (económico)	1
+提速区域发生器	Generadores de zonas de aceleración	1
+提速区域发生器	Generador de zonas de aceleración	1
+高产瓦斯气泉	Géiseres de gas vespeno ricos	1
+高产瓦斯气泉	Géiser de gas vespeno rico	1
+瓦斯气泉	Géiseres de gas vespeno	1
+瓦斯气泉	Géiser de gas vespeno	1
+萨尔纳加瞭望塔	Torres Xel'Naga	1
+萨尔纳加瞭望塔	Torre Xel'Naga	1
+足球	Balón de fútbol americano	2
+足球	Balón de fútbol	1
+异虫飞行生物攻击等级1	Ataques de unidades aéreas zerg - Nivel 1	1
+异虫飞行生物攻击等级1	Ataques de unidades voladoras zerg - Nivel 1	1
+必须以人类单位为目标。	Se deben seleccionar unidades terran	1
+必须以人类单位为目标。	Se deben seleccionar unidades terran.	1
+中国	China	2
+中国	CHINA	1
+欧洲	Europa	3
+欧洲	EUROPA	1
+东南亚	Sudeste Asiático	1
+东南亚	SUDESTE ASIÁTICO	1
+挑战任务	Desafíos	2
+挑战任务	DESAFÍO	1
+挑战任务	Juego de desafío	1
+挑战任务	Desafío	2
+挑战任务	DESAFÍOS	1
+探索	Exploración	1
+探索	EXPLORACIÓN	1
+快速比赛	Partida rápida	4
+快速比赛	PARTIDA RÁPIDA	1
+战役	CAMPAÑA	3
+战役	Campaña	6
+战役	Campañas	1
+未知	Unknown	1
+未知	Desconocido	5
+未知	Desconocida	1
+动画	Animación	3
+动画	Cinemática	1
+动画	CINEMÁTICA	1
+音效	Sonido	2
+音效	SONIDO	2
+音效	Efectos de sonido	1
+队伍颜色	Color de equipo	2
+队伍颜色	TeamColor	1
+镜面光颜色倍数	Multiplicador de color especular	1
+镜面光颜色倍数	Multiplicador de color - Especular	1
+时间	Tiempo	4
+时间	Edad	1
+单位链接	Enlace de unidad	1
+单位链接	UnitLink	1
+变量	Variante	1
+变量	Variable	2
+变量	Variables	1
+盟友	Aliado	1
+盟友	Alianza	1
+盟友	Aliados	1
+敌人	Enemigo	1
+敌人	Enemigos	1
+极高	Extremo	3
+极高	Extrema	1
+正在搜寻%queueName%	BUSCANDO %queueName%	1
+正在搜寻%queueName%	Buscando %queueName%	1
+观战者	Observador	4
+观战者	Observadores	3
+录像	Repetición	3
+录像	Ver	1
+用户界面	IU	1
+用户界面	Interfaz de usuario	1
+回格键	Retroceso	1
+回格键	Rtr	1
+浏览器后退	Explorador - Atrás	1
+浏览器后退	Atr	1
+浏览器前进	Explorador - Adelante	1
+浏览器前进	Adl	1
+大写锁定	Bloq Mayús	1
+大写锁定	BM	1
+方向键下	Abajo	1
+方向键下	Abj	1
+插入键	Insert	1
+插入键	Ins	1
+方向键左	Izquierda	1
+方向键左	Izq	1
+媒体键音量提高	Canal de multimedia - Abajo	1
+媒体键音量提高	MAr	1
+媒体键音量降低	MAb	1
+媒体键音量降低	Canal de multimedia - Arriba	1
+媒体键快放	Botón Avance rápido	1
+媒体键快放	MFF	1
+媒体键下一曲	Botón Pista siguiente	1
+媒体键下一曲	MNx	1
+媒体键暂停	Botón Pausar	1
+媒体键暂停	MPa	1
+媒体键播放	Botón Reproducir	1
+媒体键播放	MPl	1
+媒体键暂停播放	Botón Reproducir/Pausar	1
+媒体键暂停播放	MPP	1
+媒体键上一曲	Botón Pista anterior	1
+媒体键上一曲	MPT	1
+媒体键倒回	Botón Rebobinado	1
+媒体键倒回	MRR	1
+媒体键停止	Botón Detener	1
+媒体键停止	MSt	1
+下页键	Av Pág	1
+下页键	AvPág	1
+上页键	Re Pág	1
+上页键	RePág	1
+截屏键	Impr Pant	1
+截屏键	ImprPant	1
+方向键右	Derecha	1
+方向键右	Der	1
+滚动锁定键	Bloq Despl	1
+滚动锁定键	BD	1
+空格键	Espacio	1
+空格键	Esp	1
+<c val="ff0000">数量不能超过	<c val="ff0000">No puede tener más de<sp/>	1
+<c val="ff0000">数量不能超过	No se puede tener más de <c val="ff0000">	1
+，	,<sp/>	2
+，	,	2
+间隔呼叫	Invocación interna	1
+间隔呼叫	Invocaciones internas	1
+线程	Hilo	1
+线程	Hilos	1
+触发器	Disparador	1
+触发器	Disparadores	1
+正在等待	En espera	1
+正在等待	Esperando	1
+全局	Global	3
+全局	Globales	2
+本地	Locales	2
+本地	Local	1
+专化	Especializar	1
+专化	Especializando	1
+1分钟	1 minuto	1
+1分钟	1min	1
+活动	Actividad	1
+活动	Activo	1
+活动	EVENTOS	2
+消灭	Muertes causadas	2
+消灭	Muerto	2
+生命值	Vida	2
+生命值	Vitalidad	1
+生命值	Puntos de salud	1
+最大生命值	Máximo de vida	1
+最大生命值	Máximo de vitalidad	1
+生命值%	Vida %	1
+生命值%	Vitalidad %	1
+冷却时间：%1秒	Tiempo de reutilización: %1 segundo	1
+冷却时间：%1秒	Tiempo de reutilización: %1 segundos	1
+接受	Aceptar	2
+接受	ACEPTAR	1
+添加好友	Agregar amigo	4
+添加好友	AGREGAR AMIGO	1
+重甲	Blindado	1
+重甲	Blindada	3
+战队	Clan	2
+战队	Clanes	2
+房间	Sala de espera	1
+房间	Salas de espera	1
+队伍	Grupo	3
+队伍	Equipos	1
+队伍	Equipo	1
+添加电脑	Agregar IA	1
+添加电脑	Agregar bot	1
+添加电脑	Llenar con I.A.	1
+邀请	Invitar	3
+邀请	INVITAR	1
+电脑（%difficulty%）	IA (%difficulty%)	1
+电脑（%difficulty%）	Bot (%difficulty%)	1
+暴雪游戏	Blizzard	1
+暴雪游戏	BLIZZARD	1
+合作任务	Misiones cooperativas	2
+合作任务	COOPERATIVO	1
+设置好友备注	Añadir nota de amigo	1
+设置好友备注	CONFIGURAR NOTA	1
+移除好友	Eliminar amigo	1
+移除好友	ELIMINAR AMIGO	1
+举报玩家	Denunciar jugador	1
+举报玩家	DENUNCIAR JUGADOR	1
+请求加入队伍	Enviar solicitud de grupo	1
+请求加入队伍	Solicitar unirse	1
+密语	Susurrar	1
+密语	Susurros	1
+ADDITIONAL DEVELOPMENT	DESARROLLO ADICIONAL	3
+ADDITIONAL DEVELOPMENT	ADDITIONAL DEVELOPMENT	1
+HUMAN RESOURCES & INTERNAL COMMUNICATIONS	RECURSOS HUMANOS Y COMUNICACIONES INTERNAS	2
+HUMAN RESOURCES & INTERNAL COMMUNICATIONS	HUMAN RESOURCES & INTERNAL COMMUNICATIONS	1
+BUSINESS DEVELOPMENT & CORPORATE ALLIANCES	DESARROLLO EMPRESARIAL Y ALIANZAS CORPORATIVAS	2
+BUSINESS DEVELOPMENT & CORPORATE ALLIANCES	DESARROLLO COMERCIAL Y ALIANZAS CORPORATIVAS	1
+INTEGRATED MARKETING	MARKETING INTEGRAL	2
+INTEGRATED MARKETING	MARKETING INTEGRADO	1
+INTEGRATED MARKETING	INTEGRATED MARKETING	1
+WEB & MOBILE	WEB Y MÓVIL	4
+WEB & MOBILE	WEB & MOBILE	1
+VAULT	BÓVEDA	2
+VAULT	VAULT	1
+BUSINESS INTELLIGENCE & RISK	INTELIGENCIA EMPRESARIAL Y RIESGOS	2
+BUSINESS INTELLIGENCE & RISK	INTELIGENCIA COMERCIAL Y RIESGOS	1
+Campaign Artists	Artistas de campaña	2
+Campaign Artists	Artistas de la campaña	2
+Senior Vice President, Story & Franchise Development Operations	Vicepresidente senior de operaciones de desarrollo de historia y franquicia	2
+Senior Vice President, Story & Franchise Development Operations	Vicepresidente senior, operaciones de desarrollo de historia y franquicia	1
+Director, Video & Post Production	Director, video y posproducción	3
+Director, Video & Post Production	Director de video y posproducción	1
+Senior Director, Audio	Director senior de audio	1
+Senior Director, Audio	Director senior, audio	2
+Vice President, Global Consumer Products	Vicepresidente de productos de consumo global	2
+Vice President, Global Consumer Products	Vicepresidente, productos para el consumidor globales	1
+Vice President, Global Consumer Products	Vicepresidente de productos para el consumidor globales	1
+Director of Production, Blizzard Animation & Creative Development	Director de producción de desarrollo creativo y animación de Blizzard	1
+Director of Production, Blizzard Animation & Creative Development	Director de producción, desarrollo creativo y animación de Blizzard	2
+Director of Operations, Story & Franchise Development	Director de operaciones de desarrollo de historia y franquicia	2
+Director of Operations, Story & Franchise Development	Director de operaciones, Desarrollo de historia y franquicia	1
+Director, Operations and Product Planning	Director de planificación de producto y operaciones	2
+Director, Operations and Product Planning	Director, planificación de producto y operaciones	1
+Audio, Production	Audio, producción	1
+Audio, Production	Sonido y producción	1
+Audio, Music	Audio, música	1
+Audio, Music	Sonido y música	1
+Senior Vice President, Story & Franchise Development	Vicepresidente sénior, Desarrollo de historia y franquicia	1
+Senior Vice President, Story & Franchise Development	Vicepresidente sénior de desarrollo de historia y franquicias	1
+Senior Vice President, Global Customer Service & Service Technologies	Vicepresidente senior de atención al cliente global y tecnologías de asistencia	2
+Senior Vice President, Global Customer Service & Service Technologies	Vicepresidente sénior de atención al cliente global y tecnologías de asistencia	1
+Senior Vice President, Global Customer Service & Service Technologies	Vicepresidente senior, atención al cliente global y tecnologías de asistencia	1
+Senior Director, Customer Service Americas	Director senior de atención al cliente de las Américas	1
+Senior Director, Customer Service Americas	Director sénior de atención al cliente de las Américas	1
+Senior Director, Customer Service Americas	Director senior, atención al cliente de las Américas	1
+Senior Director, Customer Service Americas	Director senior, asistencia al cliente de las Américas	1
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente senior regional de planificación y servicios de asistencia de atención al cliente de las Américas	1
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente sénior regional de planificación y servicios de asistencia de atención al cliente de las Américas	1
+Senior Manager Regional Planning and Support Services, Customer Service Americas	Gerente senior regional de planificación y servicios de asistencia, atención al cliente de las Américas	2
+Senior Regional Director, Customer Service Europe	Director regional senior de atención al cliente de Europa	1
+Senior Regional Director, Customer Service Europe	Director regional senior, atención al cliente de Europa	2
+Regional Director, Customer Service Asia	Director regional de atención al cliente de Asia	1
+Regional Director, Customer Service Asia	Director regional, atención al cliente de Asia	2
+Regional Planning and Support Services Management, Customer Service Americas	Gestión de planificación regional y servicios de asistencia de atención al cliente de las Américas	2
+Regional Planning and Support Services Management, Customer Service Americas	Gestión de planificación regional y servicios de asistencia, atención al cliente de las Américas	2
+Regional Planning and Support Services Team, Customer Support Americas	Equipo de planificación regional y servicios de asistencia de asistencia al cliente de las Américas	1
+Regional Planning and Support Services Team, Customer Support Americas	Equipo de planificación regional y asistencia de servicio al cliente de las Américas	1
+Regional Planning and Support Services Team, Customer Support Americas	Equipo de planificación regional y servicios de asistencia, asistencia al cliente de las Américas	2
+Customer Service Manager, Customer Support Taiwan	Gerente de atención al cliente de asistencia al cliente de Taiwán	1
+Customer Service Manager, Customer Support Taiwan	Gerente de atención al cliente, asistencia al cliente de Taiwán	2
+Director, Global Customer Service Operations	Director de operaciones de atención al cliente global	3
+Director, Global Customer Service Operations	Director, operaciones de atención al cliente global	1
+Director, Service Technologies	Director de tecnologías de asistencia	3
+Director, Service Technologies	Director, tecnologías de asistencia	1
+Vice President, Global Finance	Vicepresidente de finanzas globales	2
+Vice President, Global Finance	Vicepresidente, finanzas globales	1
+Vice President, Human Resources	Vicepresidente de recursos humanos	2
+Vice President, Human Resources	Vicepresidente, recursos humanos	1
+Senior Human Resources Director, Product Development	Director de recursos humanos senior de desarrollo de producto	1
+Senior Human Resources Director, Product Development	Director de recursos humanos senior, desarrollo de producto	2
+Senior Director, Talent & Organizational Development	Director senior de talentos y desarrollo organizacional	3
+Senior Director, Talent & Organizational Development	Director sénior de talentos y desarrollo organizacional	1
+Director, Global Internal Communications	Director de comunicaciones internas globales	3
+Director, Global Internal Communications	Director, comunicaciones internas globales	1
+Vice President, Global Quality Assurance & Localization	Vicepresidente de localización y control de calidad global	2
+Vice President, Global Quality Assurance & Localization	Vicepresidente, localización y control de calidad globales	1
+Vice President, Global Quality Assurance & Localization	Vicepresidente de localización y control de calidad globales	1
+Director, Operations	Director de operaciones	3
+Director, Operations	Director, operaciones	1
+Director, Global Localization	Director de localización global	2
+Director, Global Localization	Director, localización global	1
+Director, Global Localization	Director global de localización	1
+Senior Manager, Quality Assurance	Gerente senior de control de calidad	2
+Senior Manager, Quality Assurance	Gerente senior, control de calidad	1
+Vice President, Global Business Development & Corporate Alliances	Vicepresidente de desarrollo comercial y alianzas corporativas globales	1
+Vice President, Global Business Development & Corporate Alliances	Vicepresidente, desarrollo empresarial y alianzas corporativas globales	1
+Vice President, Global Business Development & Corporate Alliances	Vicepresidente de desarrollo empresarial y alianzas corporativas globales	1
+International Operations, Game Project Management	Operaciones internacionales de gestión del proyecto del juego	1
+International Operations, Game Project Management	Operaciones internacionales, Gestión del proyecto del juego	1
+Managing Director, Latin America	Director general de América Latina	2
+Managing Director, Latin America	Director general, América Latina	1
+Managing Director, Australia and New Zealand	Director general de Australia y Nueva Zelanda	2
+Managing Director, Australia and New Zealand	Director general, Australia y Nueva Zelanda	1
+Director of Operations, South East Asia	Director de operaciones de Sudeste Asiático	2
+Director of Operations, South East Asia	Director de operaciones, Sudeste Asiático	1
+Managing Director, Taiwan	Director general de Taiwán	2
+Managing Director, Taiwan	Director general, Taiwán	1
+Vice President & Managing Director, China	Vicepresidente y director general de China	2
+Vice President & Managing Director, China	Vicepresidente y director general, China	1
+Director of Operations, Korea	Director de operaciones de Corea	2
+Director of Operations, Korea	Director de operaciones, Corea	1
+Vice President & Managing Director, Asia	Vicepresidente y director general de Asia	2
+Vice President & Managing Director, Asia	Vicepresidente y director general, Asia	1
+Vice President & Managing Director, Europe	Vicepresidente y director general de Europa	2
+Vice President & Managing Director, Europe	Vicepresidente y director general, Europa	1
+President & Chief Executive Officer	Presidente y director ejecutivo	4
+President & Chief Executive Officer	Presidente y Director ejecutivo	1
+Executive Support	Asistencia ejecutiva	4
+Executive Support	Asistente ejecutivo	1
+Chief Development Officer	Director de desarrollo	3
+Chief Development Officer	Jefe de desarrollo	1
+Chief Technology Officer	Director de tecnología	3
+Chief Technology Officer	Jefe de tecnología	1
+Global Esports Team	Equipo de eSports global	1
+Global Esports Team	Equipo de esports global	1
+Esports Administrative Support	Asistencia administrativa de eSports	1
+Esports Administrative Support	Asistencia administrativa de esports	1
+Additional Team Members	Miembros de equipo adicionales	4
+Additional Team Members	Miembros del equipo adicionales	5
+Director of Web & Mobile	Director de web y móvil	1
+Director of Web & Mobile	Director de Web y móvil	1
+Director of Web & Mobile	Director web y móvil	1
+Senior Director, Business Intelligence & Risk	Director senior de inteligencia empresarial y riesgos	1
+Senior Director, Business Intelligence & Risk	Director senior, inteligencia empresarial y riesgos	1
+Senior Director, Business Intelligence & Risk	Director senior de inteligencia y riesgos empresariales	1
+Project Management	Gestión de proyecto	2
+Project Management	Gestión del proyecto	1
+Senior Director, Global Purchasing & Facility Management	Director senior de gestión global de compras e instalaciones	2
+Senior Director, Global Purchasing & Facility Management	Director sénior de gestión global de compras e instalaciones	1
+Senior Director, Global Purchasing & Facility Management	Director senior, gestión global de compras e instalaciones	1
+Director, Engineering	Director de ingeniería	3
+Director, Engineering	Director, ingeniería	1
+Director, Program Management	Director de gestión de programa	2
+Director, Program Management	Director, gestión de proyectos	1
+Director, Program Management	Director de gestión de proyectos	3
+Battle.net Program Management	Gestión de programa de Battle.net	2
+Battle.net Program Management	Gestión de proyectos de Battle.net	2
+Senior Vice President, Global Technology Operations	Vicepresidente senior de operaciones de tecnología globales	2
+Senior Vice President, Global Technology Operations	Vicepresidente sénior de operaciones de tecnología globales	1
+Senior Vice President, Global Technology Operations	Vicepresidente senior, operaciones de tecnología globales	2
+Director, Service Engineering	Director de ingeniería de servicios	2
+Director, Service Engineering	Director, ingeniería de servicios	1
+Senior Manager, Strategy & Planning	Gerente senior de estrategia y planificación	2
+Senior Manager, Strategy & Planning	Gerente senior, estrategia y planificación	1
+Technical Writing	Redacción técnica	3
+Technical Writing	Escritura técnica	1
+Sound Supervisor, Cinematics	Supervisor de sonido de cinemáticas	1
+Sound Supervisor, Cinematics	Supervisor de sonido y cinemáticas	2
+Community Team Manager	Gerente de equipo de la comunidad	2
+Community Team Manager	Gerente del equipo de la comunidad	2
+Director, Corporate Applications	Director de aplicaciones corporativas	2
+Director, Corporate Applications	Director, aplicaciones corporativas	1
+Production Director, Audio	Director de producción de sonido	1
+Production Director, Audio	Director de producción, audio	2
+Vice President, Global Human Resources & Internal Communications	Vicepresidente, recursos humanos y comunicaciones internas globales	1
+Vice President, Global Human Resources & Internal Communications	Vicepresidente de recursos humanos y comunicaciones internas globales	1
+Director, Partnerships and Promotions	Director, sociedades y promociones	1
+Director, Partnerships and Promotions	Director de sociedades y promociones	1
+Manager, Corporate Alliances	Gerente, alianzas corporativas	1
+Manager, Corporate Alliances	Gerente de alianzas corporativas	1
+Senior Manager, Business Development	Gerente senior, desarrollo empresarial	1
+Senior Manager, Business Development	Gerente senior de desarrollo empresarial	1
+Group Management, Customer Support Americas	Gestión grupal, asistencia al cliente de las Américas	1
+Group Management, Customer Support Americas	Gestión grupal de atención al cliente de las Américas	1
+Group Management, Customer Support Europe	Gestión grupal, asistencia al cliente de Europa	1
+Group Management, Customer Support Europe	Gestión grupal de asistencia al cliente de Europa	1
+Group Management, Customer Support Korea	Gestión grupal, asistencia al cliente de Corea	1
+Group Management, Customer Support Korea	Gestión grupal de asistencia al cliente de Corea	1
+Director, Global Rewards	Director, recompensas globales	1
+Director, Global Rewards	Director de recompensas globales	1
+Director, Global Talent Acquisition	Director, adquisición de talentos global	1
+Director, Global Talent Acquisition	Director de adquisición de talentos global	1
+Director of Localization, Europe	Director de localización, Europa	1
+Director of Localization, Europe	Director de localización de Europa	1
+Director of Operations, Europe	Director de operaciones, Europa	1
+Director of Operations, Europe	Director de operaciones de Europa	1
+Vice President, Global Integrated Marketing	Vicepresidente, marketing integral global	1
+Vice President, Global Integrated Marketing	Vicepresidente de marketing integral global	1
+Vice President, Global Sales	Vicepresidente, ventas globales	1
+Vice President, Global Sales	Vicepresidente de ventas globales	1
+Vice President, Global Communications	Vicepresidente, comunicaciones globales	1
+Vice President, Global Communications	Vicepresidente de comunicaciones globales	1
+Executive Vice President, Global Marketing	Vicepresidente ejecutivo, marketing global	1
+Executive Vice President, Global Marketing	Vicepresidente ejecutivo de marketing global	1
+Vice President, Global IT	Vicepresidente, TI global	1
+Vice President, Global IT	Vicepresidente de TI global	2
+Vice President, Art and Cinematic Development	Vicepresidente, desarrollo artístico y de cinemáticas	1
+Vice President, Art and Cinematic Development	Vicepresidente de desarrollo artístico y de cinemáticas	1
+Vice President, Asia Marketing	Vicepresidente, marketing de Asia	1
+Vice President, Asia Marketing	Vicepresidente de marketing de Asia	1
+Director, Global Security	Director, seguridad global	1
+Director, Global Security	Director de seguridad global	1
+Director, Database Administration	Director, administración de base de datos	1
+Director, Database Administration	Director de administración de base de datos	1
+Senior Manager, Information Systems	Gerente senior, sistemas informáticos	1
+Senior Manager, Information Systems	Gerente senior de sistemas informáticos	2
+特别感谢	AGRADECIMIENTOS ESPECIALES	3
+特别感谢	AGRADECIMIENTOS ESPECIALES A:	1
+继续	CONTINUAR	1
+继续	Continuar	1
+继续	Cont.	1
+教学模式	TUTORIALES	1
+教学模式	Tutoriales	3
+教学模式	Tutorial	1
+取消(<h/>C)	<h/>CANCELAR	1
+取消(<h/>C)	<h/>Cancelar	2
+创建战队	Crear un clan	1
+创建战队	Crear clan	1
+创建	Crear	1
+创建	CREAR	2
+讨论组	Clubes	2
+讨论组	Club	1
+保存	GUARDAR	2
+保存	Guardar	2
+用户及技术服务经理	ADMINISTRADORES DE CUENTAS Y SERVICIOS TÉCNICOS	1
+用户及技术服务经理	ADMINISTRADOR DE CUENTAS Y SERVICIOS TÉCNICOS	1
+其他音乐制作人员	MÚSICA ADICIONAL POR	1
+其他音乐制作人员	MÚSICA ADICIONAL	1
+行政助理	ASISTENTE ADMINISTRATIVO	2
+行政助理	ASISTENTES ADMINISTRATIVOS	1
+分析师	ANALISTAS	1
+分析师	ANALISTA	1
+美术	ARTE	1
+美术	ARTISTA	1
+设计师	ARTISTAS	1
+设计师	DISEÑADORES	2
+首席设计师	JEFES DE ARTE	1
+首席设计师	ARTISTA PRINCIPAL	1
+首席设计师	DISEÑADOR PRINCIPAL	1
+首席设计师	DISEÑADORES PRINCIPALES	1
+助理经理	SUBDIRECTOR	2
+助理经理	SUBDIRECTORES	2
+助理制作人	PRODUCTOR ASOCIADO	1
+助理制作人	PRODUCTORES ADJUNTOS	1
+Anna Vocino	Nathalia Gutierrez	1
+Anna Vocino	Jenny X Fontecha	1
+低音管	BAJONES	1
+低音管	FAGOTS	1
+Dan Gilvezan	Luis Antonio Pasos	1
+Dan Gilvezan	Bernardo Duque	1
+演员指导	DIRECTOR DE CASTING	1
+演员指导	DIRECTOR DE REPARTO	1
+中国客户服务及运营	SERVICIO DE ATENCIÓN AL CLIENTE Y OPERACIONES EN CHINA	1
+中国客户服务及运营	ATENCIÓN AL CLIENTE Y OPERACIONES EN CHINA	1
+中国客户支持	SERVICIO DE ATENCIÓN AL CLIENTE EN CHINA	1
+中国客户支持	ATENCIÓN AL CLIENTE EN CHINA	1
+指挥	DIRECTOR DE CORO	2
+指挥	CONDUCIDO POR	1
+合唱表演	CORO REALIZADO POR	1
+合唱表演	REPRESENTACIÓN CORAL	1
+单簧管	CLARINETE	1
+单簧管	CLARINETES	1
+客户服务项目团队分析师	ANALISTAS DEL EQUIPO DEL PROYECTO DE CS	1
+客户服务项目团队分析师	ANALISTAS DE EQUIPOS DE PROYECTOS DE ATENCIÓN AL CLIENTE	1
+客户服务工具团队代表	REPRESENTANTES DEL EQUIPO DE HERRAMIENTAS DE CS	1
+客户服务工具团队代表	REPRESENTANTES DE EQUIPOS DE HERRAMIENTAS DE ATENCIÓN AL CLIENTE	1
+客户支持组经理	DIRECTORES DEL GRUPO DE ATENCIÓN AL CLIENTE	2
+客户支持组经理	DIRECTOR DEL GRUPO DE ATENCIÓN AL CLIENTE	1
+客户支持团队经理	DIRECTORES DEL EQUIPO DE ATENCIÓN AL CLIENTE	1
+客户支持团队经理	DIRECTORES DE EQUIPO DE ATENCIÓN AL CLIENTE	1
+Blair Bess	Bernardo Duque	1
+Blair Bess	Mario Gutierrez	1
+Blair Bess	Raul Gutierrez	1
+部门主管	JEFES DE DEPARTAMENTOS	1
+部门主管	SUPERVISORES DE DEPARTAMENTOS	1
+部门主管	SUPERVISORES DE DEPARTAMENTO	1
+总监	DIRECTOR	2
+总监	DIRECTORES	1
+全球活动总监	DIRECTOR, EVENTOS GLOBALES	1
+全球活动总监	DIRECTOR DE EVENTOS GLOBALES	1
+编辑	EDITOR	2
+编辑	EDITORES	2
+编辑	Editar	1
+工程师	INGENIERO	1
+工程师	INGENIEROS	1
+欧洲地区客户支持	SERVICIO DE ATENCIÓN AL CLIENTE EN EUROPA	1
+欧洲地区客户支持	ATENCIÓN AL CLIENTE EN EUROPA	1
+欧洲区域计划及支持服务团队	EQUIPO DE PLANIFICACIÓN REGIONAL Y SERVICIOS DE ASISTENCIA EN EUROPA	1
+欧洲区域计划及支持服务团队	EQUIPO REGIONAL DE EUROPA DE PLANIFICACIÓN Y ASISTENCIA	1
+执行助理	ASISTENTES EJECUTIVOS	2
+执行助理	ASISTENTE EJECUTIVO	1
+Jonathan Cook	Omar Barrera	1
+Jonathan Cook	Andres Ramirez	1
+Paul Eiding	Rodolfo Gutierrez	2
+Paul Eiding	Orlando Arenas	1
+制音师	EXPERTO EN EFECTOS SONOROS	1
+制音师	EXPERTO EN EFECTOS DE SONIDO	1
+全球客户支持	SERVICIO DE ATENCIÓN AL CLIENTE GLOBAL	1
+全球客户支持	ATENCIÓN AL CLIENTE GLOBAL	1
+全球电子竞技	ESPORTS GLOBAL	1
+全球电子竞技	ESPORTS GLOBALES	1
+Gary Anthony Williams	Armando Duque	1
+Gary Anthony Williams	Rafael Gomez	1
+Gary Anthony Williams	René Sagastume	1
+内部事务代表	REPRESENTANTES DE ASUNTOS INTERNOS	2
+内部事务代表	REPRESENTANTE DE ASUNTOS INTERNOS	1
+国际社区及电子竞技经理	GERENTES INTERNACIONALES DE COMUNIDAD Y ESPORTS	1
+国际社区及电子竞技经理	DIRECTORES INTERNACIONALES DE COMUNIDAD Y DEPORTES ELECTRÓNICOS	1
+首席制作人	PRODUCTOR PRINCIPAL	2
+首席制作人	PRODUCTORES PRINCIPALES	2
+首席程序员	PROGRAMADOR PRINCIPAL	2
+首席程序员	PROGRAMADORES PRINCIPALES	2
+首席技术设计师	ARTISTAS TÉCNICOS PRINCIPALES	1
+首席技术设计师	ARTISTA TÉCNICO PRINCIPAL	1
+首席网页设计师	DISEÑADOR PRINCIPAL DE WEB	1
+首席网页设计师	DISEÑADORES PRINCIPALES DE WEB	1
+首席文档工程师	ESCRITORES PRINCIPALES	1
+首席文档工程师	ESCRITOR PRINCIPAL	1
+培训与拓展专员	ESPECIALISTA EN APRENDIZAJE Y DESARROLLO	2
+培训与拓展专员	ESPECIALISTAS EN APRENDIZAJE Y DESARROLLO	2
+本地化工程师	INGENIEROS EN LOCALIZACIÓN	1
+本地化工程师	INGENIEROS DE LOCALIZACIÓN	1
+本地化质量监控助理经理	DIRECTORES ASISTENTES DE CONTROL DE CALIDAD DE LOCALIZACIÓN	1
+本地化质量监控助理经理	SUBDIRECTORES DE CONTROL DE CALIDAD DE LOCALIZACIÓN	1
+经理	DIRECTOR	1
+经理	DIRECTORES	2
+音乐	MÚSICA	2
+音乐	Música	2
+制作人	PRODUCTOR	2
+制作人	PRODUCTORES	2
+产品开发组长	DIRECTOR DE DESARROLLO DE PRODUCTOS	1
+产品开发组长	JEFE DE DESARROLLO DE PRODUCTOS	1
+首席产品制作	JEFE DE PRODUCCIÓN	1
+首席产品制作	JEFE DE PRODUCTO	1
+项目总监	DIRECTOR DE PROYECTO	2
+项目总监	DIRECTOR DE PROYECTOS	1
+质量监控	GARANTÍA DE CALIDAD	1
+质量监控	CONTROL DE CALIDAD	1
+区域音频录制工作室	ESTUDIOS REGIONALES DE GRABACIÓN DE AUDIO	1
+区域音频录制工作室	ESTUDIOS DE GRABACIÓN DE AUDIO REGIONALES	1
+区域计划及支持服务经理	ADMINISTRADOR DE PLANIFICACIÓN REGIONAL Y SERVICIOS DE ASISTENCIA	1
+区域计划及支持服务经理	DIRECTOR DE SERVICIOS DE PLANIFICACIÓN Y ASISTENCIA REGIONAL	1
+全球市场拓展高级总监	DIRECTOR SUPERIOR, DESARROLLO DE MERCADO GLOBAL	1
+全球市场拓展高级总监	DIRECTOR SENIOR DE DESARROLLO DE MERCADO GLOBAL	1
+高级经理	DIRECTOR SUPERIOR	1
+高级经理	DIRECTORES SUPERIORES	1
+高级经理	DIRECTOR SENIOR	1
+全球网络运维高级经理	DIRECTOR SUPERIOR, OPERACIONES DE RED GLOBALES	1
+全球网络运维高级经理	DIRECTOR SENIOR DE OPERACIONES DE RED GLOBALES	1
+高级制作人	PRODUCTOR SUPERIOR	1
+高级制作人	PRODUCTORES SUPERIORES	1
+高级制作人	PRODUCTOR SENIOR	1
+区域计划及支持服务高级经理	ADMINISTRADOR SUPERIOR DE PLANIFICACIÓN REGIONAL Y SERVICIOS DE ASISTENCIA	1
+区域计划及支持服务高级经理	ADMINISTRADOR SENIOR DE PLANIFICACIÓN REGIONAL Y SERVICIOS DE ASISTENCIA	1
+服务质量协调团队经理	ADMINISTRADOR DE EQUIPO DE COORDINADORES DE NIVEL DE SERVICIO	3
+服务质量协调团队经理	ADMINISTRADOR DE COORDINADORES DE NIVEL DE SERVICIO	1
+支持信息代表	REPRESENTANTES DE INFORMACIÓN DE APOYO	1
+支持信息代表	REPRESENTANTES DE INFORMACIÓN DE ASISTENCIA	1
+支持信息资深工作人员	DIRECTOR SUPERIOR DE INFORMACIÓN DE APOYO	1
+支持信息资深工作人员	DIRECTORES SUPERIORES DE INFORMACIÓN DE APOYO	1
+支持信息团队经理	DIRECTOR DE EQUIPO DE INFORMACIÓN DE APOYO	1
+支持信息团队经理	DIRECTOR DE EQUIPO DE INFORMACIÓN DE ASISTENCIA	1
+团队组长	JEFE DE EQUIPO	1
+团队组长	JEFES DE EQUIPO	1
+技术总监	DIRECTOR TÉCNICO	2
+技术总监	DIRECTORES TÉCNICOS	1
+技术质量监控	GARANTÍA DE CALIDAD TÉCNICA	1
+技术质量监控	CONTROL DE CALIDAD TÉCNICO	1
+技术文档工程师	ESCRITOR TÉCNICO	1
+技术文档工程师	ESCRITORES TÉCNICOS	1
+副总裁&总顾问	VICEPRESIDENTE Y CONSEJO GENERAL	1
+副总裁&总顾问	VICEPRESIDENTE Y CONCEJO GENERAL	1
+配音	VOZ EN OFF	1
+配音	DOBLAJE	1
+网页设计师	DISEÑADORES DE WEB	1
+网页设计师	DISEÑADORES WEB	1
+网页编辑	EDITORES DE WEB	1
+网页编辑	EDITORES WEB	1
+劳动力分析师	ANALISTA DE FUERZA LABORAL	1
+劳动力分析师	ANALISTA DE PERSONAL	1
+助理编辑	EDITOR ASISTENTE	1
+助理编辑	EDITORES ASISTENTES	1
+助理编辑	EDITOR ADJUNTO	1
+Steve Blum	Horacio Zapata	1
+Steve Blum	Queco Gervais	1
+混音师	MEZCLADORES DE EFECTOS DE SONIDO	1
+混音师	MEZCLAS DE STEM POR	1
+实习生	PASANTE	1
+实习生	PASANTES	1
+韩国	COREA	1
+韩国	Corea	2
+培训专员	ESPECIALISTA DE APRENDIZAJE	1
+培训专员	ESPECIALISTAS DE APRENDIZAJE	1
+运营总监	DIRECTOR DE OPERACIÓN	1
+运营总监	DIRECTOR DE OPERACIONES	1
+项目经理	DIRECTOR DE PROYECTO	1
+项目经理	DIRECTORES DE PROYECTO	1
+区域经理	DIRECTOR REGIONAL	1
+区域经理	DIRECTORES REGIONALES	1
+主管	SUPERVISOR	1
+主管	SUPERVISORES	1
+支持信息管理员	ADMINISTRADOR DE INFORMACIÓN DE ASISTENCIA	1
+支持信息管理员	ADMINISTRADORES DE INFORMACIÓN DE ASISTENCIA	1
+台湾	TAIWÁN	1
+台湾	Taiwán	1
+网站制作人	PRODUCTOR WEB	1
+网站制作人	PRODUCTORES WEB	1
+删除	ELIMINAR	2
+删除	Eliminar	3
+选择难度	SELECCIONAR DIFICULTAD	1
+选择难度	DIFICULTAD:	1
+选择难度	Selecciona la dificultad	1
+玩家	Jugador	2
+玩家	Jugadores	1
+持续时间：	Duración:	2
+持续时间：	Duración:<sp/>	1
+贴图	En mosaico	1
+贴图	Texturas	1
+类型：	Tipo:	1
+类型：	Tipo:<sp/>	1
+版本：	Versión:	1
+版本：	Versión:<sp/>	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Mostrar en visor: minimizará tu juego y navegará al archivo actualmente seleccionado.	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Mostrar en carpeta: minimizará tu juego y navegará al archivo actualmente seleccionado.	1
+加载录像	CARGAR REPETICIÓN	1
+加载录像	REPETICIONES	1
+多人游戏	Juego multijugador	1
+多人游戏	Multijugador	3
+保存录像	GUARDAR REPETICIÓN	1
+保存录像	Guardar repetición	2
+选中单位	Seleccionada	1
+选中单位	Seleccionadas	1
+模拟战	Versus I.A.	3
+模拟战	VERSUS IA	1
+重新开始(<h/>R)	R<h/>einiciar	1
+重新开始(<h/>R)	<h/>Reiniciar	1
+战败	Derrota	1
+战败	¡DERROTA!	1
+平局	Empate	1
+平局	¡EMPATE!	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">Seleccionar todas las larvas:</c><n/>Cuando se habilita esta opción, al seleccionar una larva se seleccionarán también todas las otras larvas del mismo Larvario.	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">Seleccionar todas las larvas:</c><n/>Cuando se habilita esta opción, al seleccionar una larva se seleccionan también todas las larvas de ese Larvario.	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Algunas de tus opciones de juego solo tendrán efecto cuando reinicies el juego. ¿Deseas reiniciar ahora?	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Algunas de tus opciones gráficas solo harán efecto cuando reinicies el juego. ¿Deseas reiniciar ahora?	1
+地区	Regional	1
+地区	Región	2
+欢迎	Bienvenido	1
+欢迎	BIENVENIDO	1
+开始教学模式	INICIAR TUTORIAL	1
+开始教学模式	JUGAR TUTORIAL	1
+新！	¡Nuevo!	2
+新！	¡Nueva!	1
+刺杀型	Asesinos	2
+刺杀型	Asesino	1
+专业型	Especialistas	2
+专业型	Especialista	1
+辅助型	Apoyo	2
+辅助型	Apoyos	1
+战斗型	Guerreros	2
+战斗型	Guerrero	1
+设定为观战者	Designar observador	1
+设定为观战者	Designar espectador	1
+坐骑	Montura	1
+坐骑	Monturas	3
+选择坐骑	Elige una montura	1
+选择坐骑	ELIGE UNA MONTURA	1
+皮肤	Diseño	2
+皮肤	Diseños	5
+推荐	SUGERIR	2
+推荐	Destacados	2
+推荐	Sugerir	1
+近战	de melé	1
+近战	Melé	1
+远程	de largo alcance	1
+远程	A distancia	1
+生命值：	Puntos de vida:	1
+生命值：	Vida:<sp/>	1
+重放	Reiniciar	1
+重放	Repetición	1
+录制视频	Grabar en video	1
+录制视频	Grabación	1
+恢复顺序排列快捷键方案的默认设置	Restablecer predeterminados de cuadrícula	1
+恢复顺序排列快捷键方案的默认设置	Restablecer predeterminados	1
+使用该选项前必须启用系统中的辅助功能。请勾选通用辅助系统设置（Universal Access System Preferences）面板中的“启用辅助设备访问”（Enable access for assistive devices）选项。您现在是否要打开系统设置面板？	Para poder usar esta opción debes habilitar la accesibilidad. Marca la opción "Habilitar acceso para dispositivos de asistencia" en el panel "Preferencias del sistema de acceso universal". ¿Quieres abrir Preferencias del sistema ahora?	1
+使用该选项前必须启用系统中的辅助功能。请勾选通用辅助系统设置（Universal Access System Preferences）面板中的“启用辅助设备访问”（Enable access for assistive devices）选项。您现在是否要打开系统设置面板？	Para poder usar esta opción debes habilitar la accesibilidad. Marca la opción "Habilitar acceso para dispositivos de asistencia" en el panel "Preferencias del sistema de acceso universal". ¿Quieres abrir las Preferencias del sistema ahora?	1
+轻甲	Luz	1
+轻甲	Ligera	2
+正在加载	Cargando	2
+正在加载	CARGANDO	1
+显示警告信息	Mostrar mensajes de alerta	1
+显示警告信息	Mostrar alertas	1
+寻求组队	Búsqueda de grupo	1
+寻求组队	Buscando grupo	2
+超大型	Épico	1
+超大型	Mega	1
+选项	Opciones	3
+选项	OPCIONES	2
+已雇佣	CONTRATADO	1
+已雇佣	Contratado	1
+消息记录	Registro de mensajes	1
+消息记录	REGISTRO DE MENSAJES	1
+任务：	Misión:	1
+任务：	MISIÓN:	1
+视野	VISIÓN	1
+视野	Visión	1
+确定	Aceptar	2
+确定	ACEPTAR	1
+确定	OK	1
+正在游戏	En el juego	1
+正在游戏	En una partida	1
+奖励目标：	OBJETIVO ADICIONAL:	1
+奖励目标：	Objetivo adicional:	1
+任务目标：	OBJETIVO DE LA MISIÓN:	1
+任务目标：	Objetivo de la misión:	1
+奖励：	RECOMPENSA:	2
+奖励：	Recompensa:	2
+开始游戏(<h/>P)	<h/>Jugar	1
+开始游戏(<h/>P)	<h/>Jugar juego	1
+开始游戏(<h/>P)	<h/>Reproducir	1
+获取控制	TOMAR MANDO	1
+获取控制	Tomar mando	1
+支付	PAGAR AHORA	1
+支付	Pago	1
+搜索英雄	Buscar en la colección	1
+搜索英雄	Buscar héroes	1
+购买	Comprar	1
+购买	COMPRAR	1
+播报员	Presentador	2
+播报员	Presentadores	1
+正在重新连接游戏，请稍候。	Espera mientras volvemos a conectarte a la partida.	1
+正在重新连接游戏，请稍候。	Espera mientras intentamos volver a conectarte a la partida.	1
+观看录像	Repetición	1
+观看录像	Ver repetición	1
+关于	Acerca de	1
+关于	Información	2
+关于	ACERCA DE	1
+商城暂时不可用，请稍后再试。	La tienda no está disponible en este momento. Vuelve a intentarlo más tarde.	1
+商城暂时不可用，请稍后再试。	La tienda no se encuentra disponible en este momento. Vuelve a intentarlo más tarde.	1
+试用	Probar	2
+试用	PROBAR	1
+首页	Inicio	1
+首页	INICIO	1
+离开	Abandonar	1
+离开	Ausente	2
+强化	Estimpacks	1
+强化	AUMENTO DE ENERGÍA	1
+%val%秒	%val% segundo	1
+%val%秒	%val% segundos	1
+%val%秒	%val% <lang rule="plural" val="%val%">segundo,segundos</lang>	1
+%val%秒	%val% sec	1
+护盾：	Escudos:	1
+护盾：	Escudos:<sp/>	1
+b	t	1
+b	b	1
+忙碌	busy	1
+忙碌	Ocupado	2
+语音	Voces	1
+语音	Voz	1
+消耗	Gastar	1
+消耗	Gastado	1
+3D立体影像	3D Estereoscópico	1
+3D立体影像	3D estereoscópico	1
+紫色	Púrpura	1
+紫色	Violeta	1
+%val%天	%val% <lang rule="plural" val="%val%">día,días</lang>	1
+%val%天	%val%d	1
+%val%小时	%val% <lang rule="plural" val="%val%">hora,horas</lang>	1
+%val%小时	%val%h	1
+%val%分钟	%val% <lang rule="plural" val="%val%">minuto,minutos</lang>	1
+%val%分钟	%val% min	1
+%val%周	%val% <lang rule="plural" val="%val%">semana,semanas</lang>	1
+%val%周	%val% sem.	1
+%val%年	%val% <lang rule="plural" val="%val%">año,años</lang>	1
+%val%年	%val% años	1
+位置无效，无法放置	No se puede colocar, ubicación no válida.	1
+位置无效，无法放置	No se puede aterrizar, ubicación no válida.	1
+无法看到放置位置	No se ve la ubicación del emplazamiento.	1
+无法看到放置位置	No se ve la ubicación de emplazamiento.	1
+能量：	Energía:<sp/>	1
+能量：	Energía:	1
+等级：	Nivel:<sp/>	1
+等级：	Rango:<sp/>	1
+[观战者]	[Observadores]	1
+[观战者]	[Espectadores]	1

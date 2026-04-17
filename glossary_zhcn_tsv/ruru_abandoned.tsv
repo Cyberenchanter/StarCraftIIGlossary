@@ -1,0 +1,1656 @@
+削减护甲	Bypass Armor	1
+削减护甲	Обход брони	3
+修理	Repair	4
+修理	Ремонтировать	1
+干扰冲击	Disruption Blast	1
+干扰冲击	Дестабилизирующий взрыв	2
+时空提速	Chrono Boost	3
+时空提速	Темпоральное ускорение	2
+星灵枢纽护盾超载	Nexus Shield Overcharge	1
+星灵枢纽护盾超载	Перегрузка щита нексуса	2
+相位变换	Phase Shift	1
+相位变换	Фазовый сдвиг	2
+哺液	Transfusion	2
+哺液	Переливание	1
+KD8型炸弹	KD8 Charge	1
+KD8型炸弹	Взрывчатка KD8	2
+星灵枢纽护盾超载关闭	Nexus Shield Overcharge Off	1
+星灵枢纽护盾超载关闭	Перегрузка щита нексуса отключена	1
+净化新星	Purification Nova	1
+净化新星	Взрыв очищения	2
+变异为破坏者	Morph To Ravager	1
+变异为破坏者	Мутировать в разорителя	1
+恢复	Restitution	1
+恢复	По умолчанию	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Мобильная штурмовая машина. Может использовать способность «Захват цели», чтобы вести огонь во время движения.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Мобильная штурмовая машина. Может использовать способность «Захват цели», чтобы вести огонь во время движения.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>	1
+拦截机	Interceptors	2
+拦截机	Перехватчик	1
+拦截机	Перехватчики	1
+瓦解射线	Disruption Beam	2
+瓦解射线	Разрушающий луч	1
+脉冲光线	Pulsar Beam	1
+脉冲光线	Пульсарный луч	4
+棱镜光束	Призматический луч	2
+棱镜光束	Prismatic Beam	15
+预视	Envision	1
+预视	Предвидение	2
+先知武器	Oracle Weapon	1
+先知武器	Оракул - оружие	1
+雷兽武器冷却时间	Ultralisk Weapon Cooldown	1
+雷兽武器冷却时间	Восстановление атаки ультралиска	1
+虫群之心虚空辉光舰伤害提升	Void Ray Swarm Damage Boost	1
+虫群之心虚空辉光舰伤害提升	Излучатель Пустоты - Swarm - урон - ускорение	1
+虚空虹吸	Void Siphon	1
+虚空虹吸	Поток Пустоты	2
+猎杀飞弹	Seeker Missile	1
+猎杀飞弹	Ракета «Гончая»	3
+群体召回	Mass Recall	6
+群体召回	Массовая телепортация	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Наделяет саранчидов, порождаемых роевиками, возможностью летать. Летающие саранчиды используют способность «Пикирование», чтобы приземлиться и атаковать противника.	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Саранчиды, порождаемые роевиком, могут летать. Летающие саранчиды используют способность «Пикирование», чтобы приземлиться и атаковать противника.	1
+重型攻击猛兽，可造成范围伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Тяжелобронированный зверь, наносящий урон всем противникам, находящимся перед ним.<n/><n/><c val="ffff8a">Атакует только наземные цели.</c>	1
+重型攻击猛兽，可造成范围伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Тяжелобронированный зверь. Атаки наносят урон по области.<n/><n/><c val="ffff8a">Атакует только наземные цели.</c>	1
+岩堆	Каменная башня	1
+岩堆	Груда камней	3
+岩石	Камни	2
+岩石	Камень	6
+岩石	Скалы	10
+强酸脊刺	Acid Spines	2
+强酸脊刺	Кислотные шипы	1
+联合指挥官	Совместные задания	1
+联合指挥官	СОВМЕСТНЫЕ ЗАДАНИЯ	20
+着陆	Land	3
+着陆	Приземлиться	1
+升空	Lift Off	3
+升空	Взлететь	1
+战机模式	Fighter Mode	1
+战机模式	Режим истребителя	1
+研发	Research	1
+研发	РАЗРАБОТАТЬ	1
+研发	РАЗРАБОТКА	1
+研发	Разработка	1
+停火	Hold Fire	1
+停火	Запретить атаку	1
+自由射击	Weapons Free	2
+自由射击	Разрешить атаку	1
+治疗	Heal	2
+治疗	Лечение	1
+攻城模式	Siege	1
+攻城模式	Осадный режим	1
+建造	Construct	1
+建造	Построить	1
+载具后燃充能	Vehicle Afterburners	1
+载具后燃充能	Транспортный форсаж	1
+迷宫式隐形迷彩	Пирокинетический удар	1
+迷宫式隐形迷彩	Лабиринтная маскировка	2
+回收	Salvage	1
+回收	Демонтаж	1
+回收	Демонтировать	1
+采集	Gather	1
+采集	Добывать	5
+大和炮	Yamato Gun	1
+大和炮	Ямато-бум	2
+大和炮	Орудие «Ямато»	1
+大和炮	Ямато	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Мощный боевой корабль императорской гвардии. Может использовать орудие «Ямато» и способность «Тактический скачок».<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Мощный боевой корабль императорской гвардии. Может использовать орудие «Ямато» и способность «Тактический скачок». Строится в космопорте.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>	1
+基础建筑。着陆后才能接受采集到的资源、生产单位或使用技能。	Основное строение. Командный центр должен приземлиться, чтобы производить войска, принимать на хранение ресурсы и использовать способности.	1
+基础建筑。着陆后才能接受采集到的资源、生产单位或使用技能。	Основное строение. Станция наблюдения должна приземлиться, чтобы производить войска, принимать на хранение ресурсы и использовать способности.	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Позволяет добывать веспен. Строится на веспеновом гейзере.	3
+建造在瓦斯气泉上，用于采集高能瓦斯。	Позволяет добывать веспен. Вызывается на веспеновом гейзере.	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Мутирует на веспеновом гейзере. Позволяет добывать веспен.	2
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Служит для борьбы с авиацией противника. При необходимости становится работником.<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Служит для борьбы с пехотой противника. При необходимости становится работником.<n/><n/><c val="#ColorAttackInfo">Атакует наземные цели.</c>	1
+空对空激光炮组	ATA Laser Battery	2
+空对空激光炮组	Лазерная батарея «воздух-воздух»	2
+空对地激光炮组	ATS Laser Battery	2
+空对地激光炮组	Лазерная батарея «воздух-земля»	2
+C-10型霰弹步枪	C-10 Canister Rifle	1
+C-10型霰弹步枪	Карабин C-10	1
++~A~%	+~A~%	43
++~A~%	+~A~	1
++~A~%	-~A~%	1
+长箭飞弹	Longbolt Missile	3
+长箭飞弹	Дальнобойные ракеты	2
+骨针	Needle Spines	3
+骨针	Костяные иглы	2
+惩罚者榴弹	Punisher Grenades	4
+惩罚者榴弹	Гранаты «Каратель»	2
+利爪	Talons	2
+利爪	Когти	6
+潜地	Burrow	2
+潜地	Закопаться	1
+潜地	Закапывание	2
+出地	Unburrow	1
+出地	Выкопаться	1
+腐蚀喷液	Caustic Spray	1
+腐蚀喷液	Разъедающие брызги	1
+“艾的急切”超载	F.A.S.T. Overload	1
+“艾的急切”超载	Перегрузка режима БыРОМ	2
+“艾的呵护”超载	H.U.G.S. Overload	1
+“艾的呵护”超载	Перегрузка режима ХИЛЯЙ	2
+“艾的滋润”超载	J.U.I.C.E. Overload	1
+“艾的滋润”超载	Перегрузка режима ЖИРОК	2
+扎根	Root	2
+扎根	Окопаться	2
+站起	Uproot	2
+站起	Выкопаться	2
+取消	Отменить	1
+取消	Cancel	1
+取消	Отмена	8
+取消	ОТМЕНА	4
+爆炸	Explode	1
+爆炸	Взрыв	1
+爆炸	Выхлоп	1
+自毁型单位。爆炸时能够造成小范围的伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Живая бомба. Взрываясь, наносит урон противникам в небольшом радиусе.<n/><n/><c val="ffff8a">Поражает только наземные цели.</c>	2
+自毁型单位。爆炸时能够造成小范围的伤害。<n/><n/><c val="ffff8a">可以对地。</c>	Живая бомба. В момент гибели наносит урон в небольшой области. <n/><n/><c val="ffff8a">Атакует только наземные цели.</c>	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Последняя ступень развития меха-инкубатора. Дает доступ к новым улучшениям и строениям. Служит для производства войск меха-зергов и приема добытых ресурсов.	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Усовершенствованный меха-инкубатор. Открывает доступ к новым улучшениям и строениям. Служит для производства войск меха-зергов и приема добытых ресурсов.	1
+远程攻击单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Воин дальнего боя.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>	2
+远程攻击单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Единица дальнего боя.<n/><n/><c val="ffff8a">Атакует воздушные и наземные цели.</c>	1
+远程攻击单位。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Единица дальнего боя.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	Позволяет стет-полю восстанавливать войскам Стетманна <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> ед. игонергии в секунду, а союзным войскам – <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> ед. энергии в секунду.	1
+“爱心区域”每秒给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点艾能恢复。盟友单位每秒获得<d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点能量恢复。	Стет-поле восстанавливает войскам Стетманна <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ + Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> ед. игонергии в секунду, а союзным войскам – <d ref="$UpgradeEffectArrayValue:PowerFieldEnergyRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Energy]$ +  Effect,MasteryStetmannStetzoneBonusesEnergyRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> ед. энергии в секунду.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。	Позволяет стет-полю восстанавливать войскам Стетманна <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> ед. прочности в секунду, а союзным войскам – <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> ед. здоровья или прочности в секунду.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/>点每秒生命恢复。	Стет-поле восстанавливает войскам Стетманна <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationSelfDisplayDummy,Amount" precision = "2"  player = "current"/> ед. прочности в секунду, а союзным войскам – <d ref="$UpgradeEffectArrayValue:PowerFieldHPRegeneration:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.VitalRegenArray[Life]$ + Effect,MasteryStetmannStetzoneBonusesHPRegenerationAllyDisplayDummy,Amount" precision = "2"  player = "current"/> ед. здоровья или прочности в секунду.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	Позволяет стет-полю повышать скорость передвижения войск Стетманна на <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%, а союзных войск – на <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%.	1
+允许“爱心区域”给予斯台特曼的单位<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%移动速度加成。盟友单位获得<d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%移动速度加成。	Стет-поле повышает скорость передвижения войск Стетманна на <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffSelfStetmann,PowerStageArray[1].Modification.MoveSpeedMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedSelfDisplayDummy,Amount" player = "current"/>%, а союзных войск – на <d ref="$UpgradeEffectArrayValue:PowerFieldMovementSpeed:Behavior,PowerFieldBuffAllyStetmann,PowerStageArray[1].Modification.AccelerationMultiplier$*100+Effect,MasteryStetmannStetzoneBonusesMovementSpeedAllyDisplayDummy,Amount" player = "current"/>%.	1
+已潜地	Закопавшийся	8
+已潜地	Закопавшаяся	1
+刺针利爪	Needle Claws	1
+刺针利爪	Острые когти	1
+寄生孢子	Parasite Spore	2
+寄生孢子	Паразитические споры	2
+限制1个	Отсутствие такого же строения	13
+限制1个	Отсутствие такого же корабля	1
+机械飞蝗截击机	Меха-слепень-перехватчик	1
+机械飞蝗截击机	Меха-слепни-перехватчики	1
+牵引光束	Tractor Beam	1
+牵引光束	Притягивающий луч	1
+制造共生体	Create Symbiote	1
+制造共生体	Создание симбионтов	1
+菌毯愈合	Creep Mend	1
+菌毯愈合	Исцеляющая слизь	1
+愈合	Mend	1
+愈合	Излечение	5
+酸蚀之云	Acidic Cloud	1
+酸蚀之云	Кислотное облако	1
+高级建造	Advanced Construction	1
+高级建造	Advanced Build	1
+高级建造	Ускоренное строительство	3
+建筑超载	Structure Overcharge	1
+建筑超载	Перегрузка строения	3
+攻击	Attack	3
+攻击	Атаковать	7
+生物机械哺液	Bio-Mechanical Transfusion	1
+生物机械哺液	Биомеханическое переливание	2
+损坏的德拉肯激光钻机	Broken Drakken Laser Drill	1
+损坏的德拉肯激光钻机	Сломанная драккенская лазерная установка	1
+损坏的太阳锻炉	Broken Solar Forge	1
+损坏的太阳锻炉	Поврежденная солнечная кузница	1
+建造磁轨炮塔	Build Railgun Turret	1
+建造磁轨炮塔	Построить электромагнитную турель	2
+武库超载	Arsenal Overcharge	2
+武库超载	Перегрузка орудий	2
+太阳能炮	Solar Cannon	1
+太阳能炮	Солнечная пушка	1
+隐形力场	Cloaking Field	2
+隐形力场	Маскировочное поле	3
+孵化虫群	Spawn Swarm	1
+孵化虫群	Породить рой	1
+腐蚀强酸	Corrosive Acid	1
+腐蚀强酸	Едкая кислота	2
+受损的进化坑	Damaged Evolution Pit	1
+受损的进化坑	Поврежденный эволюционный отсек	2
+闪现	Blink	1
+闪现	Скачок	2
+吞食	Devour	1
+吞食	Пожирание	1
+破胆咆哮	Intimidating Roar	1
+破胆咆哮	Устрашающий рев	4
+跳跃	Leap	1
+跳跃	Прыжок	1
+原始恢复	Primal Regeneration	1
+原始恢复	Изначальная регенерация	2
+原始突变	Primal Mutation	1
+原始突变	Изначальная мутация	1
+横扫	Swipe	1
+横扫	Размах	1
+尖刺弹幕	Barrage of Spikes	1
+尖刺弹幕	Шквал шипов	3
+部署蜘蛛雷	Deploy Spider Mines	2
+部署蜘蛛雷	Установить паучьи мины	2
+EMP	EMP	7
+EMP	ЭМИ	2
+进化为莽兽	Evolve to Brutalisk	1
+进化为莽兽	Мутировать в бруталиска	4
+能量反蚀	Feedback	4
+能量反蚀	Противодействие	1
+太阳能光爆	Solarite Flare	1
+太阳能光爆	Соларитовая вспышка	1
+头撞	Headbutt	1
+头撞	Удар головой	1
+喷气背包突击	Jump Jet Assault	1
+喷气背包突击	Реактивный рывок	1
+定点防御无人机	Point Defense Drone	2
+定点防御无人机	Модуль точечной обороны	4
+Instant Seeker Missile	Instant Seeker Missile	2
+Instant Seeker Missile	Мгновенная ракета «Гончая»	1
+灵能漩涡	Maelstrom	1
+灵能漩涡	Темный вихрь	3
+灵能漩涡	Шторм	1
+吸收光环	Assimilation Aura	1
+吸收光环	Аура ассимиляции	2
+猛犸射线	Mammoth Beam	1
+猛犸射线	Чудовищный луч	1
+猛犸之息	Mammoth Breath	1
+猛犸之息	Чудовищное дыхание	1
+压制恶臭	Oppressive Stench	1
+压制恶臭	Удушающая вонь	1
+仆从机	Servitors	1
+仆从机	Дрон	1
+聚变打击	Nuclear Strike	1
+聚变打击	Ядерный удар	1
+相位光炮	Phase Cannon	1
+相位光炮	Фазовая пушка	1
+虚空护甲	Броня Пустоты	1
+虚空护甲	Доспех Пустоты	2
+暗影之刃	Shadow Blade	1
+暗影之刃	Теневой клинок	1
+醒醒！	Wake Up!	1
+醒醒！	Разбудить	1
+脉冲手雷	Импульсная граната	2
+脉冲手雷	Импульсные гранаты	1
+穿刺弹	Penetrator Round	1
+穿刺弹	Выстрел патроном «Игла»	1
+突杀	Dash Attack	1
+突杀	Рывок	1
+相位模式	Phasing Mode	1
+相位模式	Фазовый режим	1
+灵能风暴	Psi Storm	1
+灵能风暴	Псионный шторм	3
+集束火箭	Cluster Rockets	1
+集束火箭	Кассетные ракеты	1
+霉菌滋生	Fungal Growth	4
+霉菌滋生	Микоз	3
+暗影之怒	Shadow Fury	1
+暗影之怒	Ярость тени	2
+虚空静滞	Void Stasis	1
+虚空静滞	Стазис Пустоты	3
+孵化剧毒巢穴	Spawn Toxic Nest	1
+孵化剧毒巢穴	Породить токсичное гнездо	1
+支配	Domination	1
+支配	Подчинение	1
+支配	Доминирование	1
+呕喷	Spew	1
+呕喷	Рвота	2
+腐化	Corruption	5
+腐化	Порча	3
+恶魔犬	Devil Dogs	1
+恶魔犬	«Адские Псы»	5
+铁锤安保	Hammer Securities	1
+铁锤安保	«Топ-секьюрити»	4
+突围者	Siege Breakers	1
+突围者	«Мастера осады»	4
+史克比的天使	Skibis Angels	1
+史克比的天使	Ангелы Скиби	2
+史克比的天使	«Ангелы Скиби»	3
+触手攻击	Tentacle Attack	1
+触手攻击	Атака щупальцем	1
+地嗪节点 开启	TerrazineNode On	1
+地嗪节点 开启	Выход терразина вкл.	1
+地嗪节点 关闭	TerrazineNode Off	1
+地嗪节点 关闭	Выход терразина выкл.	1
+运输模式	Transport Mode	1
+运输模式	Режим транспортировки	1
+空投奥丁	Calldown Odin	1
+空投奥丁	Вызов «Одина»	2
+巨炮乱射	Barrage	1
+巨炮乱射	Артобстрел	3
+爆破炸弹	Demolition Charge	1
+爆破炸弹	Разрушительный заряд	2
+粉碎者手雷	Shredder Grenade	1
+粉碎者手雷	Разрывная граната	1
+超声波脉冲	Ultrasonic Pulse	1
+超声波脉冲	Ультразвуковой импульс	1
+召唤休伯利安号	Summon Hyperion	1
+召唤休伯利安号	Вызывает на поле боя «Гиперион».	1
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	2
+Void Shard ACUnstable Energy	Осколок Пустоты – нестабильная энергия – автоприменение	1
+虫洞模式	Wormhole Mode	1
+虫洞模式	Режим червоточины	1
+灵能爆裂	Psionic Blast	1
+灵能爆裂	Псионный заряд	1
+灵能狂风	Psionic Gale	1
+灵能狂风	Псионная буря	2
+地堡	Bunker	3
+地堡	Бункер	4
+航母艾尔	Авианосец - Айур	1
+航母艾尔	Колосс - Айур	1
+维京战机	«Викинг»	5
+维京战机	Истребитель «Викинг»	1
+利维坦	Стая Левиафан	17
+利维坦	Левиафан	3
+战地豪猪	Боевые кабаны	3
+战地豪猪	«Боевые кабаны»	3
+凯莫瑞安工人	Келморийские рабочие	1
+凯莫瑞安工人	Келморийский рабочий	3
+孢子爬虫	Ползучий споровик	3
+孢子爬虫	Ползучий споровик - оружие	1
+跳虫	Зерглинг	6
+跳虫	Зерглинги	1
+求生无路	Ночная смена	1
+求生无路	Мертвые в ночи	1
+隐形	Маскировка	1
+隐形	Замаскированная	1
+黑暗圣堂武士召回	Темный тамплиер - отзывается	1
+黑暗圣堂武士召回	Темный тамплиер - телепортация	1
+焦油炸弹	Смоляная бомба	1
+焦油炸弹	Смоляные бомбы	3
+猛烈撞击	Сильное столкновение	2
+猛烈撞击	Мощное столкновение	2
+狂暴	Frenzy	1
+狂暴	Бешенство	2
+瘟疫	Plague	1
+瘟疫	Чума	2
+时间扭曲	Time Warp	1
+时间扭曲	Искривление времени	2
+On Death Controller	Контроллер в случае гибели	1
+On Death Controller	On Death Controller	1
+On Death Vorazun Recall On Death Recently Recalled	Телепортация Воразун в случае гибели - недавняя телепортация	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+感染虫群	Infested Swarm	1
+感染虫群	Зараженный рой	1
+Void Shard ACDamage Field Debuff	Осколок Пустоты - поле нанесения урона - отрицательный эффект	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+淬毒骨刺	Ядовитые отростки	2
+淬毒骨刺	Envenomed Spines	1
+攻击和移动速度降低。	Скорость атаки и передвижения понижена.	4
+攻击和移动速度降低。	Скорость атаки и передвижения снижена.	6
+攻击速度降低。	Скорость атаки понижена.	1
+攻击速度降低。	Скорость атаки снижена.	1
+该单位的护甲提高了。	Броня усилена.	1
+该单位的护甲提高了。	Броня этой боевой единицы укреплена.	1
+330毫米口径弹幕火炮	330-мм орудие	1
+330毫米口径弹幕火炮	330mm Barrage Cannons	1
+排放菌毯	Generate Creep	1
+排放菌毯	Вырабатывать слизь	1
+热能射线枪	Thermal Lances	7
+热能射线枪	Термальный луч	1
+军械库双重队列	Двойная очередь в арсенале	1
+军械库双重队列	Арсенал - двойная очередь	1
+折跃母舰	Train Mothership	1
+折跃母舰	Вызвать материнский корабль	1
+召回	Recall	1
+召回	Телепортация	1
+净化	Purify	2
+净化	Воздаяние	4
+飞扑	Swoop	1
+飞扑	Пикирование	1
+衰变	Disintegration	1
+衰变	Дезинтеграция	2
+已锁定	Блокировка	3
+已锁定	Недоступно	3
+解放者强化对空射程	Увеличение дальности противовоздушных атак «Освободителей»	1
+解放者强化对空射程	Улучшенный радиус ИИ «Освободителя»	1
+加载	Загрузка	1
+加载	ЗАГРУЗИТЬ	1
+加载	Сохраненные игры	1
+定点防御无人机黑色行动	Элитный модуль точечной обороны	1
+定点防御无人机黑色行动	Модуль точечной обороны элиты	1
+孵化虫后	Train Queen	1
+孵化虫后	Породить королеву	1
+破坏者	Разоритель	4
+破坏者	разоритель	1
+修理太阳锻炉	Починить солнечную кузницу	1
+修理太阳锻炉	Ремонтирует Солнечную Кузницу.	1
+研究后燃充能	Разработать форсаж	3
+研究后燃充能	Разработать системы наведения класса «Арес»	1
+研究防御矩阵	Разработать защитную матрицу	2
+研究防御矩阵	Разработка защитной матрицы	1
+研究旋风斩	Разрывающий вихрь	1
+研究旋风斩	Разработка способности «Вихрь»	1
+神经寄生	Neural Parasite	1
+神经寄生	Нейропаразит	6
+执政官战甲	Преторская броня	1
+执政官战甲	Используется преторская броня	1
+时间停止	Time Stop	1
+时间停止	Остановка времени	1
+暴龙兽	Торраск	2
+暴龙兽	Тиранозор	1
+投射一道可移动但无法攻击的无敌阴影。<n/><n/>激活此技能后，使徒会在<d ref="Behavior,AdeptPhaseShiftTimer,Duration"/>秒后传送到阴影的位置。<n/><n/>激活后可以取消。	Проецирует неуязвимую тень, которая может перемещаться, но не может атаковать.<n/><n/>Спустя <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> сек. адепт телепортируется в точку, где находится тень.<n/><n/>Действие способности можно отменить после использования.	1
+投射一道可移动但无法攻击的无敌阴影。<n/><n/>激活此技能后，使徒会在<d ref="Behavior,AdeptPhaseShiftTimer,Duration"/>秒后传送到阴影的位置。<n/><n/>激活后可以取消。	Проецирует неуязвимую тень, которая может перемещаться, но не может атаковать.<n/><n/>После паузы в <d ref="Behavior,AdeptPhaseShiftTimer,Duration"/> сек. адепт телепортируется в точку, где находится тень.<n/><n/>Действие способности можно отменить после использования.	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	НЕ ИСПОЛЬЗУЕТСЯ. Улучшенный перерабатывающий завод, который добывает газ прямо из недр и переправляет его в командный центр через поля искривления.<n/><n/><c val="FFFF8A">Не обязательно сооружать на веспеновом гейзере.</c>	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	Улучшенный перерабатывающий завод, который добывает газ прямо из недр и переправляет его в командный центр через поля искривления.<n/><n/><c val="FFFF8A">Не обязательно сооружать на веспеновом гейзере.</c>	1
+传送到附近的目标区域。	Телепортация в выбранную точку.	1
+传送到附近的目标区域。	Телепортация в выбранную точку поблизости.	1
+移动速度提高。	Повышает скорость передвижения.	1
+移动速度提高。	Скорость передвижения повышена.	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Воздушная единица дальнего боя, эффективная против наземных целей. <n/><n/><c val="ffff8a">Атакует только наземные цели.</c>	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Воздушная единица дальнего боя.<n/><n/><c val="ffff8a">Атакует только наземные цели.</c>	1
+提高移动速度和攻击射程。	Повышает скорость передвижения и дальность атаки.	1
+提高移动速度和攻击射程。	Увеличивают скорость передвижения и дальность атаки.	1
+<c val="ffff8a">异龙</c>的龙爪现在可以额外弹射3下，现在可以至多击中6名目标。弹射现在也拥有更远的弹射范围。	Чакрумы <c val="ffff8a">муталисков</c> дополнительно рикошетят 3 раза, поражая до 6 целей. Чакрумы также рикошетят на большее расстояние.	1
+<c val="ffff8a">异龙</c>的龙爪现在可以额外弹射3下，现在可以至多击中6名目标。弹射现在也拥有更远的弹射范围。	Чакрум <c val="ffff8a">муталиска</c> дополнительно отскакивает 3 раза, таким образом, поражая до 6 целей. Чакрум также отскакивает на большее расстояние.	1
+斯托科夫曾经身为UED中将，现今受到感染，统领着其他被感染的人类。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Стуков, некогда являвшийся вице-адмиралом ОЗД, был заражен и теперь командует другими зараженными терранами.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>	1
+斯托科夫曾经身为UED中将，现今受到感染，统领着其他被感染的人类。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Стуков, бывший вице-адмирал флота ОЗД, был заражен и теперь командует другими зараженными терранами.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>	1
+攻击会额外弹射3次，最多可以击中6个目标。弹射距离也更远。	Чакрумы дополнительно рикошетят 3 раза, поражая до 6 целей, а также рикошетят на большее расстояние.	1
+攻击会额外弹射3次，最多可以击中6个目标。弹射距离也更远。	Чакрум дополнительно отскакивает 3 раза, поражая до 6 целей. Отскакивает на большее расстояние.	1
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Основное оборонительное строение.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c><n/><n/><c val="FFE303">Детектор</c>	1
+主力防御建筑。<n/><n/><c val="ffff8a">可以对地和对空。</c><n/><c val="FFE303">侦测单位</c>	Основное оборонительное строение.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c><n/><c val="FFE303">Детектор</c>	4
+“弹头哥”将自己拉向目标位置，撞击时造成<d ref="Effect,TychusHercGrappleLaunchCasterImpactDamage,Amount"/>点伤害并击晕敌方单位。	Ядрила подтягивается к указанной точке, нанося боевым единицам противника <d ref="Effect,TychusHercGrappleLaunchCasterImpactDamage,Amount"/> ед. урона и оглушая цели при ударе.	1
+“弹头哥”将自己拉向目标位置，撞击时造成<d ref="Effect,TychusHercGrappleLaunchCasterImpactDamage,Amount"/>点伤害并击晕敌方单位。	Ядрила подтягивается к указанной точке, нанося боевым единицам противника <d ref="Effect,TychusHercGrappleLaunchCasterImpactDamage,Amount"/> ед. урона и оглушая их при ударе.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Создает проекцию тессерактового монолита в указанной точке на <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> сек. Проекция получает щиты и орудия оригинала. На время работы проекции сам тессерактовый монолит отключается.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Создает проекцию тессерактовой пушки в указанной точке на <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> сек. Проекция получает орудия и щиты оригинала. На время работы проекции сама тессерактовая пушка отключается.	1
+塔达林	Талдаримы	12
+塔达林	Талдарим	4
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	3
+ACPirate Capital Ship Tractor Beam	Флагманский корабль пиратов – притягивающий луч – автоприменение	1
+Karax Void Coop SOA Energy Recharge Set	Karax Void Coop SOA Energy Recharge Set	1
+Karax Void Coop SOA Energy Recharge Set	Karax Void Coop SOA Energy Recharge Target AB	1
+精通 阿塔尼斯 守护者之壳治疗	Mastery Artanis Guardian Shell Heal	1
+精通 阿塔尼斯 守护者之壳治疗	Умение Артаниса – лечение от «Спасительного щита»	1
+聚变弹头	Nuke	5
+聚变弹头	Ядерный удар	1
+Queen Classic Dummy Weapon	Queen Classic Dummy Weapon	1
+Queen Classic Dummy Weapon	Классическое оружие-манекен королевы	1
+升级	УЛУЧШЕНИЕ	1
+升级	Улучшения	1
+升级	Новый уровень	2
+升级	Новый ранг	1
+Warbot Dummy Weapon	Warbot Dummy Weapon	1
+Warbot Dummy Weapon	Оружие-манекен боевого робота	1
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Ваш герой погиб.</c>	2
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Ваш герой возродился.</c>	1
+<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>	<s val="@@StandardTooltipHeader">~НАЗВАНИЕ~</s><n/><s val="@@StandardTooltip">~ОПИСАНИЕ~</s>	1
+<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>	<s val="@@StandardTooltipHeader">~NAME~</s><n/><s val="@@StandardTooltip">~DESCRIPTION~</s>	4
+杀戮机器人	«Ликвидатор»	2
+杀戮机器人	Смертобот	1
+杀戮机器人	Смертоботы	1
+同化体	Распространитель	2
+同化体	Распространители	2
+NYI	This is the same voice as the Dominion Officer in the Terran tutorial mission. (Already cast). He is a little more cocky and sarcastic this time.	1
+NYI	Already cast	1
+关闭	Откл.	3
+关闭	Off	1
+关闭	Закрыть	4
+关闭	ЗАКРЫТЬ	2
+关闭	Выкл.	1
+胜利	Победа	1
+胜利	ПОБЕДА!	1
+返回	Resume	1
+返回	Назад	1
+返回	НАЗАД	3
+被感染的人类	Infested Terrans	2
+被感染的人类	Зараженный терран	2
+人类步兵武器等级1	Вооружение пехоты, уровень 1	1
+人类步兵武器等级1	Вооружение пехоты терранов, уровень 1	1
+人类步兵武器等级2	Вооружение пехоты, уровень 2	1
+人类步兵武器等级2	Вооружение пехоты терранов, уровень 2	1
+人类舰船钢板等级2	Обшивка воздушной техники терран, уровень 2	1
+人类舰船钢板等级2	Обшивка воздушной техники терранов, уровень 2	1
+无太阳锻炉	Нет Солнечной Кузницы	1
+无太阳锻炉	Отсутствие солнечной кузницы	1
+空	null	1
+空	Пусто	1
+开始游戏	Начать матч	2
+开始游戏	НАЧАТЬ МАТЧ	1
+休闲	НОВИЧОК	1
+休闲	Новичок	1
+普通	Боец	2
+普通	БОЕЦ	1
+普通	Средне	1
+普通	Нормально	1
+普通	Нормальная	1
+普通	средняя	2
+困难	Ветеран	2
+困难	ВЕТЕРАН	1
+困难	высокая	1
+残酷	ЭКСПЕРТ	1
+残酷	Эксперт	1
+任务	Задание	2
+任务	ЗАДАНИЕ	1
+任务	Задания	1
+异虫飞行生物甲壳	Панцирь воздушных зергов	1
+异虫飞行生物甲壳	Броня воздушных войск	1
+异虫地面单位甲壳	Панцирь наземных зергов	1
+异虫地面单位甲壳	Броня наземных войск зергов	1
+信标	Beacon	2
+信标	МАЯК	1
+萃取设施	Экстрактор	1
+萃取设施	Экстракторы	1
+异虫茧	В коконе	1
+异虫茧	Кокон зергов	1
+攻击型无人机	Штурмовой дрон	1
+攻击型无人机	Штурмовые дроны	2
+瓦斯拾取	Подарок с газом	1
+瓦斯拾取	Скопление газа	1
+虚空重生者	Реаниматор Пустоты	1
+虚空重生者	Реаниматоры Пустоты	1
+护盾	Shields	1
+护盾	Щиты	1
+原始虫群首领	вожак стаи изначальных зергов	1
+原始虫群首领	Вожак стаи изначальных зергов	1
+捕食者	«Хищник»	1
+捕食者	хищник	1
+屠杀者	Палач	1
+屠杀者	палач	1
+短视症	Близорукость	1
+短视症	Малый обзор	1
+收割者蜘蛛雷	Reaper Spider Mines	1
+收割者蜘蛛雷	Головорез – паучьи мины	1
+异虫飞行生物攻击等级2	Атака воздушных зергов, 2-й уровень	1
+异虫飞行生物攻击等级2	Атака воздушных зергов, 1-й уровень	1
+基地	ПУНКТ ВЫГРУЗКИ	1
+基地	Пункты выгрузки	1
+<s val="TooltipTitle_Protoss">钒合金板</s><n/><s val="TooltipDescription_Protoss">在工程站和军械库中完成的护甲升级在提高护甲值的同时，还可以使生命值提高5%。</s>	<s val="TooltipTitle_Protoss">Ванадиевая обшивка</s><n/><s val="TooltipDescription_Protoss">Улучшения брони, разработанные в арсенале и инженерном комплексе, дополнительно увеличивают запас прочности или здоровья боевых единиц на 5%.</s>	1
+<s val="TooltipTitle_Protoss">钒合金板</s><n/><s val="TooltipDescription_Protoss">在工程站和军械库中完成的护甲升级在提高护甲值的同时，还可以使生命值提高5%。</s>	<s val="TooltipTitle_Protoss">Ванадиевая обшивка</s><n/><s val="TooltipDescription_Protoss">Улучшения брони, разрабатываемые в арсенале и инженерном комплексе, дополнительно увеличивают запас прочности или здоровья боевых единиц на 5%.</s>	1
+时空提速速度	Улучшенное темпоральное ускорение	3
+时空提速速度	Бонус к скорости от «Темпорального ускорения»	1
+-~A~%消耗	-~A~% к стоимости	1
+-~A~%消耗	-~A~% от затрат	1
+消耗战	Война на истощение	1
+消耗战	Поле смерти	1
+随机	Любая	1
+随机	Случайная	1
+舒特	Шюттер	1
+舒特	Шют	1
+少校	Капитан-лейтенант	2
+少校	Майор	2
+自定义	По выбору	2
+自定义	СВОЯ ИГРА	1
+反冲火箭	Backlash Rockets	3
+反冲火箭	Ракеты «Бумеранг»	2
+相位碎裂炮	Phase Disruptors	1
+相位碎裂炮	Фазовые расщепители	1
+灵能冲击波	Psionic Shockwave	1
+灵能冲击波	Псионная ударная волна	1
+烈性爆弹	Volatile Burst	3
+烈性爆弹	Кислотный взрыв	2
+灵能利刃	Psi Blades	1
+灵能利刃	Пси-клинки	1
+地狱火喷射器	Infernal Flame Thrower	4
+地狱火喷射器	Огнемет «Адское пламя»	2
+被感染的地堡载物攻击	Атака груза зараженного бункера	1
+被感染的地堡载物攻击	Infested Bunker Cargo Attack	1
+曲光战刃	Warp Blades	1
+曲光战刃	Клинки искривления	1
+巨型EMP	Giant EMP	7
+巨型EMP	Гигантский ЭМИ	2
+悬浮攻城模式	Hover Siege Mode	1
+悬浮攻城模式	Мобильный осадный режим	2
+悬浮取消攻城模式	Hover Unsiege	1
+悬浮取消攻城模式	Парящий режим – конец осады	1
+创建绊索中型	Create Trip Wire Medium	1
+创建绊索中型	Заграждение (сред.) – отмена	1
+创建绊索小型	Create Trip Wire Small	1
+创建绊索小型	Заграждение (мал.) – отмена	1
+发射警戒机器人	Launch Alarm Bot	1
+发射警戒机器人	Запустить сенсорный модуль	1
+发射声呐无人机	Launch Sonar Drone	2
+发射声呐无人机	Запустить сонар	1
+无敌护盾	Непробиваемый щит	2
+无敌护盾	Щит неуязвимости	1
+虚空辉光舰机库	Voidray Hangar	1
+虚空辉光舰机库	Зависание излучателя Пустоты	1
+折跃离开	Warp Out	1
+折跃离开	Выгрузка	1
+单兵防御矩阵	Personal Defensive Matrix	1
+单兵防御矩阵	Личная защитная матрица	1
+声呐提示	Sonar Ping	1
+声呐提示	Ультразвуковой импульс	1
+目标敌人	Target Enemy	1
+目标敌人	Целевой противник	1
+死亡射线	Death Laser	1
+死亡射线	Лазер смерти	3
+武藏射线	Musashi Beam	2
+武藏射线	Луч орудия «Мусаси»	2
+聚变发射器	Nuke Launcher	1
+聚变发射器	Ядерная пусковая установка	2
+异虫DNA	Zerg DNA	1
+异虫DNA	ДНК зергов	1
+放置灵能发射器	Place Psi Emitter	1
+放置灵能发射器	Установить пси-излучатель	1
+备用感应无人机发射物	Sensor Alternate Drone Missile	1
+备用感应无人机发射物	Ракета сенсорного модуля – альтернативный режим	1
+侦测无人机隐形	Sensor Drone Cloak	1
+侦测无人机隐形	Маскировка сенсорного модуля	2
+侦测无人机隐形场	Sensor Drone Cloaking Field	1
+侦测无人机隐形场	Маскировочное поле сенсорного модуля	1
+侦测无人机隐形场	Sensor Drone Cloak Field	1
+侦测无人机锁定	Sensor Drone Lock On	1
+侦测无人机锁定	Наведение сенсорного модуля	2
+埋设地雷	Lay Mine	1
+埋设地雷	Установить мину	1
+现形	Откровение	1
+现形	Открыто	1
+Suppress Attack (1s)	Огонь на подавление (1 сек.)	1
+Suppress Attack (1s)	Suppress Attack (1s)	1
+D-8型炸药	Взрывчатка D8	2
+D-8型炸药	D-8 Charge	2
+D-8型炸药	Взрывчатка D-8	1
+悬浮恶蝠	Парящий «Геллитрон»	2
+悬浮恶蝠	Hover Hellbat	1
+悬浮恶蝠模式	«Геллитрон» – режим парения	1
+悬浮恶蝠模式	«Геллион» – режим парения	1
+无	Нет	7
+无	None	2
+无	не выполнено	1
+无	Ничего	1
+头像	Портрет	1
+头像	Портреты	1
+中	Среднее	2
+中	Medium	1
+人控炮塔	Manned Turret	1
+人控炮塔	Управляемая турель	2
+人类舰船钢板	Обшивка воздушной техники терранов	1
+人类舰船钢板	Броня воздушной техники терранов	1
+人类战车钢板	Обшивка наземной техники терранов	1
+人类战车钢板	Броня наземной техники терранов	1
+补给箱	Боеприпасы и экипировка	1
+补给箱	Ящик с припасами	1
+英雄	Герой	2
+英雄	Герои	2
+低	Низкое	3
+低	Ниже	2
+Already Cast	Already Cast	1
+Already Cast	Blair Bess	1
+自定义镜头01	Выбранная камера 01	1
+自定义镜头01	Custom Camera 01	1
+自定义镜头02	Выбранная камера 02	1
+自定义镜头02	Custom Camera 02	1
+自定义镜头03	Выбранная камера 03	1
+自定义镜头03	Custom Camera 03	1
+自定义镜头04	Выбранная камера 04	1
+自定义镜头04	Custom Camera 04	1
+远	Далеко	1
+远	Far	1
+过肩	Плечо	1
+过肩	Shoulder	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Каждый выбор, который вы сделаете в воспоминаниях, определит, какие войска будут противостоять вам. Выбирайте с умом.	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Выбор, сделанный Новой в воспоминаниях, определяет то, с какими видами зергов вам предстоит столкнуться в ходе выполнения задания. Выбирайте с умом.	1
+逮捕戴维斯将军	Арестуйте генерала Дэвис	1
+逮捕戴维斯将军	Арестовать генерала Дэвис	1
+摧毁赞托斯	Уничтожьте «Ксанф»	1
+摧毁赞托斯	Уничтожить «Ксанф»	1
+播放	Обзор	1
+播放	Играть	1
+播放	Воспроизведение	1
+单位	Единица	1
+单位	Боевые единицы	2
+否	Нет	2
+否	НЕТ	1
+全部	Все	2
+全部	Все расы	1
+潜入点	Точка входа	1
+潜入点	Точка проникновения	1
+成就	Достижения	1
+成就	Достижение	1
+成就	ДОСТИЖЕНИЯ	1
+奖励	Награда	1
+奖励	Все награды	1
+关闭(<h/>C)	ЗАКР<h/>ЫТЬ	1
+关闭(<h/>C)	<h/>Закрыть	1
+关闭(<h/>C)	<h/>ЗАКРЫТЬ	1
+退出(<h/>Q)	<h/>Выйти	1
+退出(<h/>Q)	<h/>ВЫЙТИ	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	Пока Нова выполняет дополнительные задачи в одиночку, вам не нужно управлять всеми своими войсками. До ее возвращения обстановка на поле боя не изменится.	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	Пока Hова выполняет задание в одиночку, вам не нужно управлять всеми своими войсками. До ее возвращения обстановка на поле боя не изменится.	1
+马拉什引导	Malash Channel	1
+马拉什引导	Ма-лаш: поддержание	1
+暗影飞弹	Shadow Missile	1
+暗影飞弹	Теневой снаряд	1
+湮灭低语	Предчувствие Тьмы	1
+湮灭低语	ПРЕДЧУВСТВИЕ ТЬМЫ	1
+能量操控单位。能够使用护盾充能、守护者之盾以及力场技能。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Специализируется на манипуляциях с энергией. Может использовать способности «Перезарядка щита», «Охранный щит» и «Силовое поле». <n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>	1
+能量操控单位。能够使用护盾充能、守护者之盾以及力场技能。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Специализируется на манипуляциях с энергией. Может использовать способности «Перезарядка щита», «Охранный щит» и «Силовое поле».<n/><n/><c val="#ColorAttackInfo">Атакует наземные и воздушные цели.</c>	1
+摧毁关押室，救出其中被俘的圣堂武士。	Уничтожьте камеру, чтобы освободить пленных тамплиеров.	2
+摧毁关押室，救出其中被俘的圣堂武士。	Уничтожьте камеру, чтобы освободить оставшихся пленных тамплиеров.	1
+帮助	Help	1
+帮助	СПРАВКА	2
+帮助	Справка	3
+任务完成	ЗАДАНИЕ ВЫПОЛНЕНО	1
+任务完成	Задания выполнены	1
+机械师	Механика	1
+机械师	Механик	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retracted	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extended	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retracted	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extended	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extended	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extended	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retracted	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extended	1
+隐形无人机	Cloaking Drone	1
+隐形无人机	Маскировочный модуль	1
+抓钩	Grapple	1
+抓钩	Кошка	1
+超载	Overcharge	1
+超载	Перезарядка	3
+穿透射击	Penetrating Shot	1
+穿透射击	Пробивающий выстрел	1
+脉冲冲击	Pulsar Blast	1
+脉冲冲击	Пульсарный взрыв	1
+吸取精华	Essence Leech	1
+吸取精华	Вытягивание эссенции	1
+塔桑尼斯 门 东	Tarsonis Door E	1
+塔桑尼斯 门 东	Тарсонис - дверь В	1
+塔桑尼斯 门 东 已降下	Tarsonis Door E Lowered	1
+塔桑尼斯 门 东 已降下	Тарсонис - дверь В - опущена	1
+塔桑尼斯 门 北	Tarsonis Door N	1
+塔桑尼斯 门 北	Тарсонис - дверь С	1
+塔桑尼斯 门 东北	Tarsonis Door NE	1
+塔桑尼斯 门 东北	Тарсонис - дверь СВ	1
+塔桑尼斯 门 东北 已降下	Tarsonis Door NE Lowered	1
+塔桑尼斯 门 东北 已降下	Тарсонис - дверь СВ - опущена	1
+塔桑尼斯 门 北 已降下	Tarsonis Door N Lowered	1
+塔桑尼斯 门 北 已降下	Тарсонис - дверь С - опущена	1
+塔桑尼斯 门 西北	Tarsonis Door NW	1
+塔桑尼斯 门 西北	Тарсонис - дверь СЗ	1
+塔桑尼斯 门 西北 已降下	Tarsonis Door NW Lowered	1
+塔桑尼斯 门 西北 已降下	Тарсонис - дверь СЗ - опущена	1
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Иллюзия обладает всеми свойствами оригинала, но не может использовать активные способности, наносить урон и быстрее погибает. Существует <d time="60"/> с момента создания.	6
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Иллюзии обладают всеми свойствами оригинала, но не могут использовать активные способности, наносить урон и быстрее погибают. Существуют <d time="60"/> с момента создания.	3
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Иллюзии обладают всеми свойствами оригинала, но не могут использовать активные способности, наносить урон, вызывать строения, собирать ресурсы и быстрее погибают. Существуют <d time="60"/> с момента создания.	1
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Воздушная боевая единица. Атаки поражают нескольких противников.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>	2
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Воздушная боевая единица. Выстрелы поражают сразу несколько целей.<n/><n/><c val="ffff8a">Атакует наземные и воздушные цели.</c>	1
+中子照明弹	Neutron Flare	1
+中子照明弹	Нейтронная вспышка	1
+默认	Стандарт	1
+默认	По умолчанию	4
+常规	Общие	1
+常规	Обычные	1
+常规	Обычная	1
+常规	Обычный	1
+悬浮单位	парящим целям	1
+悬浮单位	парящ.	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	Раздвижной мост - СВ - высота 10 - широкий - развести	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	Выдвижной мост - СВ - высота 10 - широкий - разведен	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	Раздвижной мост - СВ - высота 10 - широкий - свести	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	Выдвижной мост - СВ - высота 10 - широкий - выдвинут	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	Раздвижной мост - СВ - высота 12 - широкий - развести	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	Выдвижной мост - СВ - высота 12 - широкий - разведен	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	Раздвижной мост - СВ - высота 12 - широкий - свести	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	Выдвижной мост - СВ - высота 12 - широкий - выдвинут	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	Раздвижной мост - СВ - высота 8 - широкий - развести	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	Выдвижной мост - СВ - высота 8 - широкий - разведен	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	Раздвижной мост - СВ - высота 8 - широкий - свести	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	Выдвижной мост - СВ - высота 8 - широкий - выдвинут	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	Раздвижной мост - СЗ - высота 10 - широкий - развести	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	Выдвижной мост - СЗ - высота 10 - широкий - разведен	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	Раздвижной мост - СЗ - высота 10 - широкий - свести	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	Выдвижной мост - СЗ - высота 10 - широкий - выдвинут	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	Раздвижной мост - СЗ - высота 12 - широкий - развести	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	Выдвижной мост - СЗ - высота 12 - широкий - разведен	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	Раздвижной мост - СЗ - высота 12 - широкий - свести	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	Выдвижной мост - СЗ - высота 12 - широкий - выдвинут	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	Раздвижной мост - СЗ - высота 8 - широкий - развести	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	Выдвижной мост - СЗ - высота 8 - широкий - разведен	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	Раздвижной мост - СЗ - высота 8 - широкий - свести	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	Выдвижной мост - СЗ - высота 8 - широкий - выдвинут	1
+最大推力	Maxium Thrust	1
+最大推力	Максимальный бросок	2
+传送	Teleport	1
+传送	Телепортация	1
+静滞反应	Stasis	1
+静滞反应	Стазис	3
+隐形迷彩	Personal Cloaking	1
+隐形迷彩	Личная маскировка	1
+虫后飞行	Королева - взлет	2
+虫后飞行	Королева - полет	1
+隔绝罩	Entomb	1
+隔绝罩	Изолирование	1
+预言	Preordain	1
+预言	Предопределение	3
+Xel'Naga Caverns Door Default Close	Xel'Naga Caverns Door Default Close	1
+Xel'Naga Caverns Door Default Close	Врата пещеры зел-нага - закрыты по умолчанию	1
+Xel'Naga Caverns Door Default Open	Xel'Naga Caverns Door Default Open	1
+Xel'Naga Caverns Door Default Open	Врата пещеры зел-нага - открыты по умолчанию	1
+Xel'Naga Caverns Door E	Xel'Naga Caverns Door E	1
+Xel'Naga Caverns Door E	Восточные врата пещеры зел-нага	1
+Xel'Naga Caverns Door E Opened	Xel'Naga Caverns Door E Opened	1
+Xel'Naga Caverns Door E Opened	Восточные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door N	Xel'Naga Caverns Door N	1
+Xel'Naga Caverns Door N	Северные врата пещеры зел-нага	1
+Xel'Naga Caverns Door NE	Xel'Naga Caverns Door NE	1
+Xel'Naga Caverns Door NE	Северо-восточные врата пещеры зел-нага	1
+Xel'Naga Caverns Door NE Opened	Xel'Naga Caverns Door NE Opened	1
+Xel'Naga Caverns Door NE Opened	Северо-восточные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door N Opened	Xel'Naga Caverns Door N Opened	1
+Xel'Naga Caverns Door N Opened	Северные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door NW	Xel'Naga Caverns Door NW	1
+Xel'Naga Caverns Door NW	Северо-западные врата пещеры зел-нага	1
+Xel'Naga Caverns Door NW Opened	Xel'Naga Caverns Door NW Opened	1
+Xel'Naga Caverns Door NW Opened	Северо-западные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door S	Xel'Naga Caverns Door S	1
+Xel'Naga Caverns Door S	Южные врата пещеры зел-нага	1
+Xel'Naga Caverns Door SE	Xel'Naga Caverns Door SE	1
+Xel'Naga Caverns Door SE	Юго-восточные врата пещеры зел-нага	1
+Xel'Naga Caverns Door SE Opened	Xel'Naga Caverns Door SE Opened	1
+Xel'Naga Caverns Door SE Opened	Юго-восточные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door S Opened	Xel'Naga Caverns Door S Opened	1
+Xel'Naga Caverns Door S Opened	Южные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door SW	Xel'Naga Caverns Door SW	1
+Xel'Naga Caverns Door SW	Юго-западные врата пещеры зел-нага	1
+Xel'Naga Caverns Door SW Opened	Xel'Naga Caverns Door SW Opened	1
+Xel'Naga Caverns Door SW Opened	Юго-западные врата пещеры зел-нага открыты	1
+Xel'Naga Caverns Door W	Xel'Naga Caverns Door W	1
+Xel'Naga Caverns Door W	Западные врата пещеры зел-нага	1
+Xel'Naga Caverns Door W Opened	Xel'Naga Caverns Door W Opened	1
+Xel'Naga Caverns Door W Opened	Западные врата пещеры зел-нага открыты	1
+绑架	Abduct	5
+绑架	Притягивание	2
+停止	stop	1
+停止	Отставить	1
+停止	Стоп	2
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Выдвижение моста СВ ширина 10	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Выдвижение моста СЗ ширина 10	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Выдвижение моста СВ ширина 12	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Выдвижение моста СЗ ширина 12	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Выдвижение моста СВ ширина 8	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Выдвижение моста СЗ ширина 8	1
+隐藏	Скрытый	1
+隐藏	Скрыто	1
+隐藏	Скрытые	1
+隐藏	Скрыть	2
+奥丁矩阵 虚拟	Матрица «Одина» - модель	1
+奥丁矩阵 虚拟	Матрица «Одина»	1
+移除	Исключить	2
+移除	Удалить	2
+机甲模式	Assault Mode	1
+机甲模式	Штурмовой режим	1
+大师	Мастер	1
+大师	магистр	1
+信徒	Неофит	1
+信徒	ученик	1
+导师	Наставник	1
+导师	наставник	1
+教官	Учитель	1
+教官	учитель	1
+新兵	Новобранец	1
+新兵	новобранец	1
+残骸	Завал	3
+残骸	Обломки	1
+星灵贮藏器	Ящик протоссов	1
+星灵贮藏器	Ящики протоссов	1
+电脑	ИИ	1
+电脑	Компьютер	1
+250毫米口径歼敌炮	250mm Strike Cannons	1
+250毫米口径歼敌炮	250-мм орудия	3
+执政官融合	Archon Merge	1
+执政官融合	Слияние в архонта	2
+污染	Contaminate	2
+污染	Инфекция	1
+力场	Force Field	2
+力场	Силовое поле	2
+引力光束	Graviton Beam	1
+引力光束	Гравитонный луч	2
+守护者之盾	Guardian Shield	4
+守护者之盾	Охранный щит	2
+能量吸噬	Leech	7
+能量吸噬	Пиявка	3
+制造	Build	1
+制造	Train	1
+瓦解建筑	Sap Structure	1
+瓦解建筑	Атаковать строение	1
+析象扫描	Scanner Sweep	2
+析象扫描	Спутниковое сканирование	1
+生命虹吸	Siphon Life	1
+生命虹吸	Истощение	1
+孵化拟态雏虫	Spawn Changeling	1
+孵化拟态雏虫	Порождение мимикрида	1
+降下	Lower	1
+降下	Скрыть	1
+升起	Raise	1
+升起	Поднять	1
+时空碎裂	Temporal Rift	1
+时空碎裂	Темпоральный разлом	2
+星河漩涡	Vortex	3
+星河漩涡	Воронка	2
+虫洞传送	Wormhole Transit	1
+虫洞传送	Кротовая нора	1
+移动	move	1
+移动	Движение	2
+移动	Двигаться	1
+游戏大厅	Игротека	2
+游戏大厅	ИГРОТЕКА	1
+教程一	Первый советчик	1
+教程一	ПЕРВЫЙ СОВЕТЧИК	1
+教程二	Третий советчик	1
+教程二	ВТОРОЙ СОВЕТЧИК	1
+教程三	Второй советчик	1
+教程三	ТРЕТИЙ СОВЕТЧИК	1
+实力功勋	Великие подвиги	1
+实力功勋	ВЕЛИКИЕ ПОДВИГИ	1
+竞技	Соревнование	1
+竞技	СОРЕВНОВАНИЕ	1
+对战	Схватка	2
+对战	СЕТЕВАЯ ИГРА	1
+隐秘行动：黄金	Секретная операция: золотая медаль	1
+隐秘行动：黄金	Секретные операции: золотая медаль	1
+建筑就绪	Строительство завершено.	2
+建筑就绪	Вызов завершен.	1
+建筑就绪	Мутация завершена.	1
+变异完成	Изменение завершено.	1
+变异完成	Улучшение завершено.	1
+变异完成	Мутация завершена.	1
+研发完成	Исследование завершено.	1
+研发完成	Разработка завершена.	2
+研发完成	Развитие завершено.	1
+孵化幼虫	Порождение личинок	1
+孵化幼虫	Породить личинок	1
+该单位的移动速度降低<d ref="1-Behavior,InhibitorZoneTemporalField,Modification.MoveSpeedMultiplier*100"/>%。	Скорость передвижения снижена на <d ref="1-Behavior,InhibitorZoneTemporalField,Modification.MoveSpeedMultiplier*100"/>%.	1
+该单位的移动速度降低<d ref="1-Behavior,InhibitorZoneTemporalField,Modification.MoveSpeedMultiplier*100"/>%。	Скорость передвижения понижена на <d ref="1-Behavior,InhibitorZoneTemporalField,Modification.MoveSpeedMultiplier*100"/>%.	1
+隐秘行动	Элитные войска	1
+隐秘行动	СЕКРЕТНАЯ ОПЕРАЦИЯ	1
+隐秘行动	Секретный агент	3
+标准	Стандарт	2
+标准	СТАНДАРТ	1
+虚空先驱	Вестник Пустоты	1
+虚空先驱	Ранний последователь	1
+拟态	Мимикрия	1
+拟态	Disguise	3
+幻像	Иллюзия	2
+幻像	Иллюзии	1
+暂停	Приостановить	1
+暂停	Пз	1
+暂停	Приостановлено	1
+暂停	Pause	1
+暂停	Пауза	1
+定点防御激光	Лазер точечной обороны	2
+定点防御激光	Point Defense Laser	6
+建造建筑	Построить здание	1
+建造建筑	Создано строений	2
+大型飞行作战生物。通过投射出的巢虫来攻击目标。巢虫是一种可以对地的小型生物。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Тяжелая воздушная штурмовая единица. Обстреливает противников симбионтами, способными атаковать наземные войска.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>	1
+大型飞行作战生物。通过投射出的巢虫来攻击目标。巢虫是一种可以对地的小型生物。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Тяжелая воздушная штурмовая единица. Обстреливает противников симбионтами, способными атаковать наземные цели.<n/><n/><c val="#ColorAttackInfo">Атакует только наземные цели.</c>	1
+[PH] Nova Trait 3 Tooltip	Умение Новы 2 – всплывающая подсказка	1
+[PH] Nova Trait 3 Tooltip	Умение Новы 3 – всплывающая подсказка	1
+羊	Овца	3
+羊	Sheep	1
+提高时空提速的速度加成。	Повышает эффективность «Темпорального ускорения».	2
+提高时空提速的速度加成。	Увеличивает бонус к скорости от «Темпорального ускорения».	1
+提高时空提速的速度加成。	Дополнительно повышает скорость производства и разработки при «Темпоральном ускорении».	2
+提高幼虫的孵化速度。	Повышает частоту порождения личинок.	1
+提高幼虫的孵化速度。	Повышает частоту появления личинок.	1
+高	Высокое	3
+高	Height	1
+高	Выше	2
+重试	Заново	1
+重试	ПОВТОРИТЬ	1
+重制版星灵	Протоссы (Remastered)	1
+重制版星灵	Обновленный протосс	1
+锻造	Сотворенные	20
+锻造	Сотворенный	73
+重制版人类	Терраны (Remastered)	1
+重制版人类	Обновленный терран	1
+进化版	Эволюция	1
+进化版	Улучшенный	1
+重制版异虫	Зерги (Remastered)	1
+重制版异虫	Обновленный зерг	1
+仿生机械	Имитатор	52
+仿生机械	Имитаторы	4
+是	Да	2
+是	ДА	1
+颜色	Цвета	1
+颜色	Цвет	1
+事件	События	1
+事件	Events	2
+人类单位生产	Terran Unit Production	1
+人类单位生产	Терраны: производство войск	1
+聊天	Чат	2
+聊天	Сообщение	1
+快捷键	Горячая клавиша	1
+快捷键	ГОРЯЧИЕ КЛАВИШИ	1
+快捷键	Горячие клавиши	2
+巢虫护卫	Broodling Escort	1
+巢虫护卫	Симбионты-спутники	1
+拦截机射线	Interceptor Beam	1
+拦截机射线	Луч перехватчика	1
+离子炮	Ion Cannons	3
+离子炮	Ионные пушки	2
+粒子光束	Particle Beam	1
+粒子光束	Нейтронный луч	1
+合作任务中等难度50	Сложность совместного командования: ветеран 50	1
+合作任务中等难度50	Сложность совместного командования: боец 50	1
+合作任务中等难度500	Сложность совместного командования: ветеран 500	1
+合作任务中等难度500	Сложность совместного командования: боец 500	1
+合作任务中等难度75	Сложность совместного командования: ветеран 75	1
+合作任务中等难度75	Сложность совместного командования: боец 75	1
+2012 BWC	2012 BWC	3
+2012 BWC	BWC 2012	3
+暗黑破坏神	Диабло	4
+暗黑破坏神	Diablo	1
+爆笑人类	Carbot: терраны	5
+爆笑人类	Терраны Carbot	1
+飞车党	Стервятник	6
+飞车党	Драндулет	2
+瓦斯	Gas	1
+瓦斯	Газ	2
+食腐鸟	Урубу	2
+食腐鸟	Падальщик	1
+虚空之遗	Legacy of the Void	2
+虚空之遗	LEGACY OF THE VOID	1
+WCS Dark	WCS Dark	1
+WCS Dark	WCS: Dark	3
+WCS Elazer	WCS Elazer	1
+WCS Elazer	WCS: Elazer	2
+WCS Nerchio	WCS Nerchio	1
+WCS Nerchio	WCS: Nerchio	2
+WCS ShoWTimE	WCS ShoWTimE	1
+WCS ShoWTimE	WCS: ShoWTimE	2
+WCS Snute	WCS Snute	1
+WCS Snute	WCS: Snute	1
+WCS Stats	WCS Stats	1
+WCS Stats	WCS: Stats	3
+WCS TRUE	WCS TRUE	1
+WCS TRUE	WCS: TRUE	1
+WCS TY	WCS TY	1
+WCS TY	WCS: TY	2
+WCS Zest	WCS Zest	1
+WCS Zest	WCS: Zest	1
+净化者狂热者	Чистильщик-зилот	1
+净化者狂热者	Зилот чистильщиков	1
+经典刺蛇	Классический гидралиск	2
+经典刺蛇	Классические гидралиски	1
+神器	АРТЕФАКТЫ	1
+神器	Артефакты	2
+部队规模	Размер армии	1
+部队规模	РАЗМЕР АРМИИ	1
+建造顺序	Порядок действий	1
+建造顺序	ПОРЯДОК ДЕЙСТВИЙ	1
+图表	Графики	1
+图表	ГРАФИКИ	1
+资源	Resources	1
+资源	Ресурсы	1
+建筑	Строения	2
+建筑	Строение	1
+建筑	строениям	1
+建筑	строение	1
+资源采集	ДОБЫЧА РЕСУРСОВ	1
+资源采集	Добыча ресурсов	1
+消灭的人口	Произвденные припасы - уничтожено	1
+消灭的人口	Использованные припасы - уничтожено	1
+损失的人口	Произвденные припасы - потеряно	1
+损失的人口	Использованные припасы - потеряно	1
+高能瓦斯平均储量	Резерв минералов (средн.)	1
+高能瓦斯平均储量	Резерв веспена (средн.)	1
+护盾恢复总量	Восстановлено щитов	1
+护盾恢复总量	Восстановлено энергии щитов	1
+护盾损失总量	Потрачено щитов	1
+护盾损失总量	Потрачено энергии щитов	1
+消灭敌方单位	Уничтожено войск противника	1
+消灭敌方单位	Уничтожено войск	1
+单位损失	Потери	1
+单位损失	Боевые единицы	1
+CollectionSkinDeluxe	Коллекция Deluxe	1
+CollectionSkinDeluxe	Коллекция обликов Deluxe	1
+基础刺蛇巢	Базовая пещера гидралисков	1
+基础刺蛇巢	HydraliskDenBase	1
+基础虫道网络	Базовый канал нидуса	1
+基础虫道网络	Базовая сеть нидуса	1
+《星际争霸II》	StarCraft II	5
+《星际争霸II》	STARCRAFT II	1
+机械化部队(经济)	Врата/бессмертные (экономика)	1
+机械化部队(经济)	Техника (экономика)	1
+提速区域发生器	Генераторы зоны ускорения	1
+提速区域发生器	Генератор зоны ускорения	1
+高产瓦斯气泉	Богатые веспеновые гейзеры	1
+高产瓦斯气泉	Богатый веспеновый гейзер	1
+瓦斯气泉	Веспеновые гейзеры	1
+瓦斯气泉	Веспеновый гейзер	1
+萨尔纳加瞭望塔	Башни зел-нага	1
+萨尔纳加瞭望塔	Башня зел-нага	1
+足球	Мяч для амер. футбола	2
+足球	Футбольный мяч	1
+必须以人类单位为目标。	Целью могут быть только терраны.	1
+必须以人类单位为目标。	Целью могут быть только боевые единицы терранов.	1
+中国	Китай	2
+中国	КИТАЙ	1
+欧洲	Европа	3
+欧洲	ЕВРОПЕЙСКИЙ ОТДЕЛ	1
+东南亚	Юго-Восточная Азия	1
+东南亚	ЮГО-ВОСТОЧНАЯ АЗИЯ	1
+嘲讽	Taunt	1
+嘲讽	Провокация	1
+挑战任务	Испытания	2
+挑战任务	ИСПЫТАНИЯ	2
+挑战任务	Испытание	3
+探索	Покорение	1
+探索	ПОКОРЕНИЕ	1
+快速比赛	Быстрая игра	4
+快速比赛	БЫСТРЫЕ МАТЧИ	1
+战役	КАМПАНИЯ	3
+战役	Кампания	6
+战役	Кампании	1
+未知	Unknown	1
+未知	Неизвестно	5
+未知	Не задано	1
+动画	Анимация	3
+动画	Видеоролик	1
+动画	ВИДЕОРОЛИК	1
+文件	Файл	2
+文件	File	1
+光源	Подсветка	1
+光源	Освещение	1
+音效	Звук	2
+音效	ЗВУК	2
+音效	Эффекты	1
+队伍颜色	Цвет команды	2
+队伍颜色	Цвет_команды	1
+半径	Радиус	1
+半径	Radius	1
+类型	Тип	2
+类型	Type	1
+模式	Способ	1
+模式	Режим	1
+移动速度	Скорость движения	1
+移动速度	Скорость передвижения	1
+名称	Название	3
+名称	Имя	1
+时间	Время	3
+时间	Time	1
+时间	Сохранено	1
+单位链接	Связь единицы	1
+单位链接	Связь_единицы	1
+值	Значение	2
+值	Value	2
+变量	Вариант	1
+变量	Variable	2
+变量	Variables	1
+盟友	Союзник	1
+盟友	Союз	1
+盟友	Союзники	1
+敌人	Противник	1
+敌人	Противники	1
+开启	Вкл.	4
+开启	On	1
+自动	Авто	1
+自动	Автоматически	1
+快速	Быстро	1
+快速	Быстрая	1
+慢速	Медленный	1
+慢速	Медленная	1
+简单	Ученик	2
+简单	низкая	1
+极难	Мастер	2
+极难	очень высокая	1
+正在搜寻%queueName%	ПОИСК: %queueName%	1
+正在搜寻%queueName%	Поиск: %queueName%	1
+观战者	Режим зрителя	1
+观战者	Зрители	3
+观战者	Зритель	3
+录像	Повторы	2
+录像	Повтор	1
+录像	Записи игр	1
+回格键	Backspace	1
+回格键	Bck	1
+浏览器后退	Интернет – назад	1
+浏览器后退	Нзд	1
+浏览器前进	Интернет – вперед	1
+浏览器前进	Впд	1
+大写锁定	Caps Lock	1
+大写锁定	CL	1
+清空	Clear	2
+清空	Очистить	1
+删除键	Delete	1
+删除键	Del	1
+方向键下	Вниз	1
+方向键下	Внз	1
+起始键	Home	1
+起始键	Hom	1
+插入键	Insert	1
+插入键	Ins	1
+方向键左	Влево	1
+方向键左	Влв	1
+媒体键音量提高	Медиа – пред. канал	1
+媒体键音量提高	МСК	1
+媒体键音量降低	МПК	1
+媒体键音量降低	Медиа – сл. канал	1
+媒体键快放	Медиа – вперед	1
+媒体键快放	МВп	1
+媒体键下一曲	Медиа – сл. трек	1
+媒体键下一曲	МСл	1
+媒体键暂停	Медиа – пауза	1
+媒体键暂停	МПз	1
+媒体键播放	Медиа – воспр.	1
+媒体键播放	МВс	1
+媒体键暂停播放	Медиа – воспр./пауза	1
+媒体键暂停播放	МВП	1
+媒体键上一曲	Медиа – пред. трек	1
+媒体键上一曲	МПр	1
+媒体键倒回	Медиа – назад	1
+媒体键倒回	МНз	1
+媒体键停止	Медиа – стоп	1
+媒体键停止	МСт	1
+下页键	Page Down	1
+下页键	PDn	1
+上页键	Page Up	1
+上页键	PUp	1
+截屏键	Print Screen	1
+截屏键	PSc	1
+方向键右	Вправо	1
+方向键右	Впр	1
+滚动锁定键	Scroll Lock	1
+滚动锁定键	SL	1
+空格键	Пробел	1
+空格键	Прб	1
+<c val="ff0000">数量不能超过	<c val="ff0000">Невозможно иметь более<sp/>	1
+<c val="ff0000">数量不能超过	<c val="ff0000">Невозможно иметь более	1
+，	,<sp/>	2
+，	,	2
+已勾选	Checked	1
+已勾选	Отмечено	1
+间隔呼叫	Interal Call	1
+间隔呼叫	Internal Calls	1
+线程	Thread	1
+线程	Threads	1
+触发器	Trigger	1
+触发器	Triggers	1
+正在等待	Waiting For	1
+正在等待	Ожидание	1
+全局	Global	1
+全局	Globals	2
+全局	Общие	1
+全局	Глобальные	1
+本地	Locals	2
+本地	Локальный	1
+专化	Specialize	1
+专化	Специализация	1
+1分钟	1 minute	1
+1分钟	1 мин.	1
+矿物	Minerals	1
+矿物	Минералы	1
+活动	Activity	1
+活动	Активно	1
+活动	МЕРОПРИЯТИЯ	2
+能量	Energy	1
+能量	Энергия	1
+消灭	Kills	1
+消灭	Убито	3
+生命值	Life	1
+生命值	Vitality	1
+生命值	Здоровье	2
+最大生命值	Life Max	1
+最大生命值	Vitality Max	1
+生命值%	Life %	1
+生命值%	Vitality %	1
+未知玩家	Unknown Player	1
+未知玩家	Неизвестный игрок	1
+音轨	Soundtrack	1
+音轨	Звуковая дорожка	1
+接受	Принять	1
+接受	ПРИНЯТЬ	1
+接受	Применить	1
+添加好友	Добавить друга	4
+添加好友	ДОБАВИТЬ В ДРУЗЬЯ	1
+护甲：	Броня:	1
+护甲：	Броня:<sp/>	1
+重甲	Бронированная единица	1
+重甲	Бронир. единица	1
+重甲	бронир.	1
+重甲	бронированным целям	1
+战队	Клан	2
+战队	Кланы	2
+房间	Подготовка к матчу	1
+房间	Лобби	1
+队伍	Группа	3
+队伍	Команды	1
+队伍	Команда	1
+邀请加入战队	Приглашение в клан	1
+邀请加入战队	Пригласить в клан	1
+添加电脑	Добавить ИИ	2
+添加电脑	Заполнить ИИ	1
+邀请	Пригласить	2
+邀请	ПРИГЛАСИТЬ	2
+敌方队伍	Вражеская команда	1
+敌方队伍	Команда противника	2
+暴雪游戏	Blizzard	1
+暴雪游戏	BLIZZARD	1
+合作任务	Совместные задания	2
+合作任务	СОВМЕСТНЫЙ РЕЖИМ	1
+设置好友备注	Добавить заметку о друге	1
+设置好友备注	ДОБАВИТЬ ЗАМЕТКУ	1
+邀请加入	Пригласить в группу	2
+邀请加入	Пригласить	1
+移除好友	Удалить из списка друзей	1
+移除好友	УДАЛИТЬ ДРУГА	1
+举报玩家	Пожаловаться на игрока	1
+举报玩家	ОТПРАВИТЬ	1
+请求加入队伍	Попроситься в группу	1
+请求加入队伍	Отправить запрос	1
+向队伍推荐	Предложить игрока в группу	1
+向队伍推荐	Предложить участника	1
+解除屏蔽	Разблокировать	1
+解除屏蔽	Отменить	1
+密语	Шепнуть	1
+密语	Личные сообщения	1
+Senior Director, Audio	Senior Director, Audio & Lead Composer	1
+Senior Director, Audio	Senior Director, Audio	2
+SPECIAL THANKS	SPECIAL THANKS	3
+SPECIAL THANKS	ОСОБАЯ БЛАГОДАРНОСТЬ	1
+特别感谢	SPECIAL THANKS	1
+特别感谢	ОСОБАЯ БЛАГОДАРНОСТЬ	2
+特别感谢	ОТДЕЛЬНАЯ БЛАГОДАРНОСТЬ	1
+继续	ПРОДОЛЖИТЬ	1
+继续	Продолжить	1
+继续	Далее	1
+教学模式	ОБУЧЕНИЕ	1
+教学模式	Обучение	4
+取消(<h/>C)	О<h/>ТМЕНА	1
+取消(<h/>C)	О<h/>тмена	2
+创建	Создать	1
+创建	<h/>СОЗДАТЬ	1
+创建	СОЗДАТЬ	1
+讨论组	Группы	2
+讨论组	Группа	1
+保存	СОХРАНИТЬ	2
+保存	Сохранить	2
+用户及技术服务经理	МЕНЕДЖЕРЫ АДМИНИСТРИРОВАНИЯ УЧЕТНЫХ ЗАПИСЕЙ И ТЕХНИЧЕСКИХ СЛУЖБ	1
+用户及技术服务经理	МЕНЕДЖЕР АДМИНИСТРИРОВАНИЯ УЧЕТНЫХ ЗАПИСЕЙ И ТЕХНИЧЕСКИХ СЛУЖБ	1
+行政助理	АДМИНИСТРАТИВНЫЙ АССИСТЕНТ	2
+行政助理	ПОМОЩНИКИ АДМИНИСТРАТОРОВ	1
+分析师	АНАЛИТИКИ	1
+分析师	АНАЛИТИК	1
+美术	ДИЗАЙН	1
+美术	ХУДОЖНИК	1
+设计师	ХУДОЖНИКИ	1
+设计师	ДИЗАЙНЕРЫ	2
+首席设计师	ВЕДУЩИЕ ДИЗАЙНЕРЫ	1
+首席设计师	ВЕДУЩИЙ ХУДОЖНИК	1
+首席设计师	ВЕДУЩИЙ ДИЗАЙНЕР	1
+首席设计师	ВЕДУЩИЕ ИНЖЕНЕРЫ	1
+助理经理	ЗАМЕСТИТЕЛЬ МЕНЕДЖЕРА	2
+助理经理	ЗАМЕСТИТЕЛИ МЕНЕДЖЕРА	2
+助理制作人	ПОМОЩНИК ПРОДЮСЕРА	1
+助理制作人	ЗАМЕСТИТЕЛИ ПРОДЮСЕРОВ	1
+指挥	ХОРМЕЙСТЕР	2
+指挥	ПОД УПРАВЛЕНИЕМ	1
+客户支持组经理	МЕНЕДЖЕРЫ ГРУПП ОТДЕЛА ПОДДЕРЖКИ ПОЛЬЗОВАТЕЛЕЙ	2
+客户支持组经理	МЕНЕДЖЕР ОТДЕЛА ПОДДЕРЖКИ ПОЛЬЗОВАТЕЛЕЙ	1
+部门主管	РУКОВОДИТЕЛИ ДЕПАРТАМЕНТОВ	1
+部门主管	УПРАВЛЯЮЩИЕ ОТДЕЛА	2
+总监	ДИРЕКТОР	2
+总监	РЕЖИССЕРЫ	1
+编辑	РЕДАКТОР	2
+编辑	РЕДАКТОРЫ	2
+编辑	Редактировать	1
+工程师	ИНЖЕНЕР	1
+工程师	СПЕЦИАЛИСТЫ	1
+执行助理	ЗАМЕСТИТЕЛИ ИСПОЛНИТЕЛЬНОГО ПРОДЮСЕРА	2
+执行助理	ИСПОЛНИТЕЛЬНЫЙ ЗАМЕСТИТЕЛЬ	1
+内部事务代表	СПЕЦИАЛИСТЫ ОТДЕЛА ВНУТРЕННИХ ДЕЛ	2
+内部事务代表	СОТРУДНИКИ ОТДЕЛА ВНУТРЕННИХ ДЕЛ	1
+首席制作人	ВЕДУЩИЙ ПРОДЮСЕР	2
+首席制作人	ВЕДУЩИЕ ПРОДЮСЕРЫ	2
+首席程序员	ВЕДУЩИЙ ПРОГРАММИСТ	2
+首席程序员	ВЕДУЩИЕ ПРОГРАММИСТЫ	2
+首席网页设计师	ВЕДУЩИЙ ВЕБ-ДИЗАЙНЕР	1
+首席网页设计师	ВЕДУЩИЕ ВЕБ-ДИЗАЙНЕРЫ	1
+首席文档工程师	ВЕДУЩИЕ СЦЕНАРИСТЫ	1
+首席文档工程师	ВЕДУЩИЙ ПИСАТЕЛЬ	1
+培训与拓展专员	СПЕЦИАЛИСТ ОТДЕЛА ОБУЧЕНИЯ И РАЗВИТИЯ	2
+培训与拓展专员	СПЕЦИАЛИСТЫ ОТДЕЛА ОБУЧЕНИЯ И РАЗВИТИЯ	2
+经理	МЕНЕДЖЕР	1
+经理	МЕНЕДЖЕРЫ	2
+音乐	МУЗЫКА	2
+音乐	Музыка	2
+制作人	ПРОДЮСЕР	2
+制作人	ПРОДЮСЕРЫ	2
+项目总监	ДИРЕКТОР ПРОЕКТА	2
+项目总监	ДИРЕКТОР ПРОЕКТОВ	1
+高级经理	СТАРШИЙ МЕНЕДЖЕР	2
+高级经理	СТАРШИЕ МЕНЕДЖЕРЫ	1
+高级制作人	СТАРШИЙ ПРОДЮСЕР	2
+高级制作人	СТАРШИЕ ПРОДЮСЕРЫ	1
+服务质量协调团队经理	МЕНЕДЖЕР КООРДИНАТОРОВ ОТДЕЛА УРОВНЯ ОБСЛУЖИВАНИЯ	2
+服务质量协调团队经理	МЕНЕДЖЕР КООРДИНАТОРА ОТДЕЛА УРОВНЯ ОБСЛУЖИВАНИЯ	2
+支持信息资深工作人员	СТАРШИЙ СПЕЦИАЛИСТ ОТДЕЛА ИНФОРМАЦИИ СЛУЖБЫ ПОДДЕРЖКИ	1
+支持信息资深工作人员	СТАРШИЕ СПЕЦИАЛИСТЫ ОТДЕЛА ИНФОРМАЦИИ СЛУЖБЫ ПОДДЕРЖКИ	1
+团队组长	РУКОВОДИТЕЛЬ ОТДЕЛА	1
+团队组长	РУКОВОДИТЕЛИ ОТДЕЛА	1
+技术总监	ТЕХНИЧЕСКИЙ РУКОВОДИТЕЛЬ	2
+技术总监	ТЕХНИЧЕСКИЕ ДИРЕКТОРЫ	1
+助理编辑	АССИСТЕНТ РЕДАКТОРА	1
+助理编辑	АССИСТЕНТЫ РЕДАКТОРА	1
+助理编辑	ЗАМЕСТИТЕЛЬ РЕДАКТОРА	1
+全球营销执行副总裁	ИСПОЛНТЕЛЬНЫЙ ВИЦЕ-ПРЕЗИДЕНТ ПО МАРКЕТИНГУ	1
+全球营销执行副总裁	ИСПОЛНИТЕЛЬНЫЙ ВИЦЕ-ПРЕЗИДЕНТ ПО ГЛОБАЛЬНОМУ МАРКЕТИНГУ	1
+混音师	СВЕДЕНИЕ ШУМОВЫХ ЭФФЕКТОВ	1
+混音师	СВЕДЕНИЕ ДОРОЖЕК	1
+实习生	СТАЖЕР	1
+实习生	СТАЖЕРЫ	1
+韩国	КОРЕЯ	1
+韩国	Корея	2
+培训专员	СПЕЦИАЛИСТ ПО ОБУЧЕНИЮ	1
+培训专员	СПЕЦИАЛИСТЫ ПО ОБУЧЕНИЮ	1
+项目经理	МЕНЕДЖЕР ПРОЕКТА	1
+项目经理	МЕНЕДЖЕРЫ ПРОЕКТОВ	1
+区域经理	РЕГИОНАЛЬНЫЙ МЕНЕДЖЕР	1
+区域经理	РЕГИОНАЛЬНЫЕ МЕНЕДЖЕРЫ	1
+主管	РУКОВОДИТЕЛЬ	1
+主管	РУКОВОДИТЕЛИ	1
+支持信息管理员	АДМИНИСТРАТОР СЛУЖБЫ ИНФОРМАЦИОННОЙ ПОДДЕРЖКИ	1
+支持信息管理员	АДМИНИСТРАТОРЫ СЛУЖБЫ ИНФОРМАЦИОННОЙ ПОДДЕРЖКИ	1
+台湾	ТАЙВАНЬ	1
+台湾	Тайвань	1
+网站制作人	ВЕБ-ПРОДЮСЕР	1
+网站制作人	ВЕБ-ПРОДЮСЕРЫ	1
+当前	Сейчас	1
+当前	Текущая	1
+删除	УДАЛИТЬ	2
+删除	Удалить	3
+选择难度	УРОВЕНЬ СЛОЖНОСТИ	1
+选择难度	Уровень сложности	2
+玩家	Игрок	2
+玩家	Игроки	1
+持续时间：	Длительность:	2
+持续时间：	Длительность:<sp/>	1
+在文件夹中显示	Показать в папке	1
+在文件夹中显示	Открыть папку	1
+贴图	Покрытый клетками	1
+贴图	Текстуры	1
+类型：	Тип:	1
+类型：	Тип:<sp/>	1
+快	Быстро	1
+快	высокая	2
+更快	Очень быстро	2
+更快	Очень быстрая	1
+重新开始	Начать заново	2
+重新开始	Перезапуск	1
+版本：	Версия:	1
+版本：	Версия:<sp/>	1
+加载游戏	ЗАГРУЗИТЬ	1
+加载游戏	ЗАГРУЗКА ИГР	1
+加载录像	ЗАГРУЗИТЬ ПОВТОР	1
+加载录像	ПОВТОРЫ	1
+保存录像	СОХРАНИТЬ ПОВТОР	1
+保存录像	Сохранить повтор	2
+模拟战	Против ИИ	3
+模拟战	ПРОТИВ ИИ	1
+重新开始(<h/>R)	<h/>Начать заново	1
+重新开始(<h/>R)	<h/>Перезапустить	1
+战败	Поражение	1
+战败	ПОРАЖЕНИЕ!	1
+平局	Ничья	1
+平局	НИЧЬЯ!	1
+更慢	Очень медленная	1
+更慢	Очень медленно	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Для того чтобы некоторые новые параметры вступили в силу, необходимо перезапустить игру. Вы хотите сделать это сейчас?	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Для вступления в силу изменений некоторых параметров графики требуется перезапуск игры. Перезапустить игру сейчас?	1
+地区	Регион (город, область)	1
+地区	Регион	2
+欢迎	Добро пожаловать	1
+欢迎	ДОБРО ПОЖАЛОВАТЬ	1
+新！	Новинка!	2
+新！	Новое!	1
+%level%级	Уровень: %level%	3
+%level%级	ур. %level%	1
+%level%级	уровень %level%	1
+刺杀型	Убийца	2
+刺杀型	Убийцы	1
+专业型	Специалист	2
+专业型	Специалисты	1
+战斗型	Боец	2
+战斗型	Бойцы	1
+选择坐骑	Выбрать транспорт	1
+选择坐骑	ВЫБРАТЬ ТРАНСПОРТ	1
+皮肤	Облик	2
+皮肤	Облики	5
+推荐	ПРЕДЛОЖИТЬ	3
+推荐	Наш выбор	2
+远程	дальний бой	1
+远程	Дальний бой<sp/>	1
+生命值：	Очки жизни:	1
+生命值：	Здоровье:<sp/>	1
+重放	Начать заново	1
+重放	Повтор	1
+录制视频	Запись видео	1
+录制视频	Видеозапись	1
+不可移动	Немобильная	1
+不可移动	нулевая	1
+使用该选项前必须启用系统中的辅助功能。请勾选通用辅助系统设置（Universal Access System Preferences）面板中的“启用辅助设备访问”（Enable access for assistive devices）选项。您现在是否要打开系统设置面板？	Для использования этой функции следует изменить настройки доступа. Пожалуйста, включите опцию "Включить доступ для вспомогательных устройств" на закладке "Универсальный доступ" панели "Системные настройки". Открыть эту панель сейчас?	1
+使用该选项前必须启用系统中的辅助功能。请勾选通用辅助系统设置（Universal Access System Preferences）面板中的“启用辅助设备访问”（Enable access for assistive devices）选项。您现在是否要打开系统设置面板？	Для использования этой функции следует изменить настройки доступа. Пожалуйста, включите опцию «Включить доступ для вспомогательных устройств» на закладке «Универсальный доступ» панели «Системные настройки». Открыть эту панель сейчас?	1
+轻甲	Источник света	1
+轻甲	легким целям	1
+轻甲	легк.	1
+正在加载	Загрузка	2
+正在加载	ЗАГРУЗКА...	1
+打开	Открыть	1
+打开	Открытый слот	1
+显示警告信息	Показывать предупреждения	1
+显示警告信息	Показывать оповещения	1
+超大型	Гигантская	1
+超大型	Мега	1
+登录	Вход	1
+登录	Подключиться	1
+选项	Настройки	3
+选项	НАСТРОЙКИ	2
+已雇佣	НАНЯТЫ	1
+已雇佣	наняты	1
+消息记录	Журнал	1
+消息记录	ЖУРНАЛ	1
+任务：	Задание:	1
+任务：	ЗАДАНИЕ	1
+移动速度：	Скорость передвижения:	1
+移动速度：	Скорость передвижения:<sp/>	1
+暂时跳过	ПРОПУСТИТЬ	1
+暂时跳过	НЕ СЕЙЧАС	1
+视野	ПОЛЕ ЗРЕНИЯ	1
+视野	Обзор	1
+确定	ОК	1
+确定	Ок	1
+确定	OK	1
+确定	ОК.	1
+就绪	Старт	1
+就绪	Готово	1
+就绪	Начать	1
+峰值	Высшее значение	1
+峰值	Максимальный	1
+奖励目标：	ДОПОЛНИТЕЛЬНАЯ ЗАДАЧА	1
+奖励目标：	Дополнительная задача:	1
+任务目标：	ЗАДАЧА	1
+任务目标：	Задача:	1
+奖励：	НАГРАДА	1
+奖励：	Награда:	2
+奖励：	НАГРАДЫ	1
+开始游戏(<h/>P)	<h/>Играть	2
+开始游戏(<h/>P)	Начать игр<h/>у	1
+获取控制	ПРИНЯТЬ КОМАНДОВАНИЕ	1
+获取控制	Принять командование	1
+支付	ОПЛАТИТЬ	1
+支付	Оплата	1
+总计	Всего	2
+总计	Всего:	1
+搜索英雄	Поиск по коллекции	1
+搜索英雄	Поиск героев	1
+购买	Приобрести	1
+购买	ПРИОБРЕСТИ	1
+播报员	Комментатор	2
+播报员	Комментаторы	1
+正在重新连接游戏，请稍候。	Пожалуйста, подождите. Мы пытаемся восстановить подключение к игре.	1
+正在重新连接游戏，请稍候。	Пожалуйста, подождите. Мы пытаемся восстановить соединение с игрой.	1
+观看录像	Просмотр повторов	1
+观看录像	Просмотр повтора	1
+关于	Подробнее	1
+关于	О герое	1
+关于	ОПИСАНИЕ	1
+关于	Описание	1
+商城暂时不可用，请稍后再试。	Магазин временно недоступен. Пожалуйста, повторите попытку позже.	1
+商城暂时不可用，请稍后再试。	В данный момент магазин недоступен. Пожалуйста, повторите попытку позже.	1
+试用	Попробовать	2
+试用	ПОПРОБОВАТЬ	1
+首页	К главному меню	1
+首页	ГЛАВНАЯ	1
+离开	Выход	1
+离开	Отсутствует	2
+强化	Стимуляторы	1
+强化	УСИЛЕНИЕ	1
+护盾：	Щиты:	1
+护盾：	Щиты:<sp/>	1
+b	р	1
+b	b	1
+忙碌	занят	1
+忙碌	Не беспокоить	2
+慢	Медленно	1
+慢	низкая	2
+语音	Голоса	1
+语音	Голос	1
+消耗	Потратить	1
+消耗	Потрачено	1
+紫色	Фиолетовый	1
+紫色	Сиреневый	1
+%val%天	%val% <lang rule="plural" val="%val%">день,дня,дней</lang>	1
+%val%天	%val% д.	1
+%val%小时	%val% <lang rule="plural" val="%val%">час,часа,часов</lang>	1
+%val%小时	%val% ч.	1
+%val%分钟	%val% <lang rule="plural" val="%val%">минута,минуты,минут</lang>	1
+%val%分钟	%val% мин.	1
+%val%周	%val% <lang rule="plural" val="%val%">неделя,недели,недель</lang>	1
+%val%周	%val% нед.	1
+武器速度：	Время между атаками:	1
+武器速度：	Время между атаками:<sp/>	1
+位置无效，无法放置	Размещение невозможно, неподходящий участок.	1
+位置无效，无法放置	Размещение невозможно, неподходящая область.	1
+无法紧靠资源采集区放置	Размещение рядом с месторождением ресурсов невозможно.	1
+无法紧靠资源采集区放置	Область размещения слишком близко к ресурсам.	1
+无法远离水域放置	Размещение вдалеке от воды невозможно.	1
+无法远离水域放置	Размещение в отдалении от воды невозможно.	1
+请求无法完成<n/>补给已达上限	Запрос невозможен<n/>Достигнут предел припасов.	2
+请求无法完成<n/>补给已达上限	Запрос невозможен<n/>Достигнут предел пси-энергии	1
+请求无法完成<n/>补给已达上限	Запрос невозможен<n/>Достигнут предел власти над роем.	1
+极快	очень высокая	1
+极快	Очень быстрая	1
+生物单位	Органич. единица	1
+生物单位	органич.	1
+生物单位	органическим целям	1
+能量：	Энергия:<sp/>	1
+能量：	Мощность:<sp/>	1
+等级：	Уровень:<sp/>	1
+等级：	Ранг:<sp/>	1
+英雄单位	героям	1
+英雄单位	особ.	1
+重型单位	крупным целям	1
+重型单位	крупн.	1
+机械单位	механическим целям	1
+机械单位	механич.	1
+灵能单位	псионикам	1
+灵能单位	псионик	1
+智能机械	роботам	1
+智能机械	робот	1
+召唤	вызванным целям	1
+召唤	вызванная ед.	1

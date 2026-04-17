@@ -1,0 +1,515 @@
+Lock On Air	锁定空中	1
+Lock On Air	Lock On Air	1
+KD8 Charge	KD8型炸弹	3
+KD8 Charge	KD8 Charge	1
+Purification Nova	Purification Nova	8
+Purification Nova	净化新星	3
+A tower that can be destroyed to prevent access to new areas or resource locations.	遭到摧毁后将阻挡通道或资源点的岩堆。	4
+A tower that can be destroyed to prevent access to new areas or resource locations.	遭到摧毁后将阻挡通道或资源点的人类塔。	3
+A tower that can be destroyed to prevent access to new areas or resource locations.	摧毁这座塔来阻挡通道或资源点。	2
+Robotic disruption unit. Can use Purification Nova to deal heavy area damage.	机械干扰型单位。可以使用净化新星造成大量伤害。	1
+Robotic disruption unit. Can use Purification Nova to deal heavy area damage.	机械干扰型单位。可以使用净化新星造成大量范围伤害。	1
+Seismic Spines	震地脊刺	1
+Seismic Spines	Seismic Spines	1
+Assault Mode	机甲模式	2
+Assault Mode	突击模式	1
+Pyrokinetic Immolation	迷宫式隐形迷彩	1
+Pyrokinetic Immolation	焰能爆燃	2
+Slow	慢速	2
+Slow	慢	3
+Rank: 1	军阶: 1	1
+Rank: 1	1级军阶	3
+Rank: 2	军阶: 2	1
+Rank: 2	2级军阶	2
+Rank: 3	军阶: 3	1
+Rank: 3	3级军阶	2
+This unit has increased attack and movement speed.	该单位的攻击和移动速度获得了提高。	1
+This unit has increased attack and movement speed.	该单位提供了攻击和移动速度。	1
+Tactical Jump	Tactical Jump	1
+Tactical Jump	战术跳跃	1
+<n/><n/><c val="FFFF8A">Mastery:</c> Starting Imperial Mandate increased by <c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>.	<n/><n/><c val="FFFF8A">精通：</c>起始天命皇权增加<c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>点。	1
+<n/><n/><c val="FFFF8A">Mastery:</c> Starting Imperial Mandate increased by <c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>.	<n/><n/><c val="FFFF8A">精通：</c>起始天命皇权增加<c val="FFFF8A"><d ref="Effect,MasteryMengskStartingImperialMandateDisplayDummy,Amount" player="current"/></c>。	1
+Allows Shock Divisions in Siege Mode to fire at air units at a reduced rate while being carried by an Imperial Intercessor.	允许攻城模式下的冲击分队在被帝国仲裁机吊挂时可以朝空中目标开火，只是开火间隔较长。	1
+Allows Shock Divisions in Siege Mode to fire at air units at a reduced rate while being carried by an Imperial Intercessor.	允许攻城模式下的冲击分队在被帝国仲裁机吊挂时可以攻击空中单位。	1
+Increases the life and armor of <c val="ffff8a">Supply Bunkers</c>, <c val="ffff8a">Missile Turrets</c>, and <c val="ffff8a">Earthsplitter Ordnance</c>.	提高<c val="ffff8a">补给地堡</c>, <c val="ffff8a">导弹塔</c>, and <c val="ffff8a">大地碎裂炮</c>的生命值与护甲。	1
+Increases the life and armor of <c val="ffff8a">Supply Bunkers</c>, <c val="ffff8a">Missile Turrets</c>, and <c val="ffff8a">Earthsplitter Ordnance</c>.	提高<c val="ffff8a">补给地堡</c>, <c val="ffff8a">导弹塔</c>以及<c val="ffff8a">大地碎裂炮</c>的生命值与护甲。	1
+Anti-air defensive structure.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c>	防空建筑。<n/><n/><c val="#ColorAttackInfo">可以对空</c><n/><c val="FFE303">侦测单位</c>	2
+Anti-air defensive structure.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c>	防空建筑。<n/><n/><c val="#ColorAttackInfo">可以对空。</c><n/><c val="FFE303">侦测单位</c>	4
+Ultralisk Mechanical Life Leech	雷兽 机械 生命吸取	1
+Ultralisk Mechanical Life Leech	Ultralisk Mechanical Life Leech	1
+Anti-air defensive structure. <n/><n/><c val="ffff8a">Can attack air units.</c><n/><c val="FFE303">Detector</c>	防空建筑。<n/><n/><c val="ffff8a">可以对空。</c><n/><c val="FFE303">侦测单位</c>	2
+Anti-air defensive structure. <n/><n/><c val="ffff8a">Can attack air units.</c><n/><c val="FFE303">Detector</c>	防空建筑。<n/><n/><c val="ffff8a">可以对空</c><n/><c val="FFE303">侦测单位</c>	1
+Limit 1	限制1个	14
+Limit 1	限制1	3
+AlarakZealotFrenziedOverload	AlarakZealotFrenziedOverload	1
+AlarakZealotFrenziedOverload	阿拉纳克狂热者疯狂超载	1
+Cyclone Wreckage	Cyclone Wreckage	1
+Cyclone Wreckage	飓风残骸	1
+Diamondback Wreckage	Diamondback Wreckage	1
+Diamondback Wreckage	响尾蛇战车残骸	1
+Drakken Laser Drill Attack	Drakken Laser Drill Attack	1
+Drakken Laser Drill Attack	德拉肯激光钻机攻击	2
+Drakken Laser Drill Power Up	Drakken Laser Drill Power Up	1
+Drakken Laser Drill Power Up	德拉肯激光钻机强化	1
+Select Payload	选择弹头	1
+Select Payload	选择运载车辆	1
+Reclamation	光复家园	1
+Reclamation	回收	7
+Psionic Transfer	Psionic Transfer	1
+Psionic Transfer	灵能传送	1
+Goliath Wreckage	Goliath Wreckage	1
+Goliath Wreckage	歌利亚武装机器人残骸	1
+Hellbat Wreckage	Hellbat Wreckage	1
+Hellbat Wreckage	恶蝠残骸	1
+Hellion Wreckage	Hellion Wreckage	1
+Hellion Wreckage	恶火残骸	1
+Leap Attack	跃击	1
+Leap Attack	飞扑	1
+Mass Merc Drop	Mass Merc Drop	2
+Mass Merc Drop	大规模佣兵投放	1
+Oppressive Stench	压制恶臭	2
+Oppressive Stench	恶臭压迫	1
+Mutator Cloaked Mine Attack	突变因子 隐形地雷 攻击	2
+Mutator Cloaked Mine Attack	Mutator Cloaked Mine Attack	1
+Terrifying Gobble	Terrifying Gobble	1
+Terrifying Gobble	可怕的咯咯叫	2
+Reanimate	复活	2
+Reanimate	复苏	1
+Nova Griffin Bombing Run Activate	Nova Griffin Bombing Run Activate	1
+Nova Griffin Bombing Run Activate	诺娃狮鹫号轰炸突袭激活	1
+Nova Odin Annihilate	Nova Odin Annihilate	1
+Nova Odin Annihilate	诺娃奥丁歼灭	1
+Nova Snipe Active	诺娃狙击生效	1
+Nova Snipe Active	Nova Snipe Active	1
+Odin Dash Attack	Odin Dash Attack	1
+Odin Dash Attack	奥丁突杀	1
+Corrosive Bile	Corrosive Bile	1
+Corrosive Bile	腐蚀胆汁	1
+Repair Solar Forge	Repair Solar Forge	1
+Repair Solar Forge	修理太阳锻炉	1
+Structure Barrier	Structure Barrier	1
+Structure Barrier	建筑屏障	1
+Siege Tank Wreckage	Siege Tank Wreckage	1
+Siege Tank Wreckage	攻城坦克残骸	2
+Stukov Coop Spawn Volatile Terrans	斯托科夫 合作任务 孵化 不稳人类	1
+Stukov Coop Spawn Volatile Terrans	斯托科夫 合作任务 孵生不稳人类	1
+Stukov Infested Wild Mutation	斯托科夫 被感染的 野性突变	1
+Stukov Infested Wild Mutation	斯托科夫 感染体 野性突变	1
+Void Shard ACDeath Grip	Void Shard ACDeath Grip	1
+Void Shard ACDeath Grip	虚空碎片AC死亡之握	1
+Void Shard ACShockwave	Void Shard ACShockwave	1
+Void Shard ACShockwave	虚空碎片AC震荡波	1
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	3
+Void Shard ACUnstable Energy	虚空碎片AC不稳定的能量	1
+Void Shard ACVoid Zone	Void Shard ACVoid Zone	3
+Void Shard ACVoid Zone	虚空碎片AC虚空领域	1
+Void Sliver AC Unstable Energy	虚空裂片AC不稳能量	3
+Void Sliver AC Unstable Energy	Void Sliver AC Unstable Energy	1
+Ground Missile Volley	Ground Missile Volley	1
+Ground Missile Volley	地面弹幕	1
+Charge	充能	1
+Charge	冲锋	2
+Reaper	收割者	8
+Reaper	死神	1
+Predator	掠食者	1
+Predator	捕食者	2
+Scourge	天灾	4
+Scourge	爆蚊	1
+True	真	1
+True	True	1
+False	假	1
+False	False	1
+Power Overwhelming	势不可挡	3
+Power Overwhelming	灵能爆表	1
+Dark Templar Recalling	黑暗圣堂武士召回	1
+Dark Templar Recalling	Dark Templar Recalling	1
+Napalm Payload	凝固汽油弹	2
+Napalm Payload	装载凝固汽油弹	2
+Laser Drill Tripod Overload	激光钻机支架过载	1
+Laser Drill Tripod Overload	Laser Drill Tripod Overload	1
+Blizzard	暴雪娱乐	1
+Blizzard	暴雪游戏	1
+Personal Defensive Matrix	单兵防御矩阵	2
+Personal Defensive Matrix	单人防御矩阵	1
+Advanced Optics	高级瞄准镜	2
+Advanced Optics	高级光学	1
+Stasis	静滞反应	4
+Stasis	静滞	1
+[ph]Prototype Shield Array	[ph]Prototype Shield Array	1
+[ph]Prototype Shield Array	原型护盾阵列	1
+[ph] Energy Regen/Weapon Range	[ph] Energy Regen/Weapon Range	1
+[ph] Energy Regen/Weapon Range	能量恢复速度与武器射程	1
+Spectre Domination	幽魂支配	1
+Spectre Domination	Spectre Domination	7
+Medivac Pickup	医疗运输机 搭载	1
+Medivac Pickup	医疗运输机空运	2
+This unit is being materialized.	该单位正被物质化。	1
+This unit is being materialized.	该单位正被物质化	1
+Auto Inject Larva	自动幼虫注射	2
+Auto Inject Larva	Auto Inject Larva	3
+Cloaking Module	隐形模块	3
+Cloaking Module	隐身模块	1
+Evolve Ability Efficiency	进化技能专精	1
+Evolve Ability Efficiency	进化技能效率	1
+Evolve Queen Full Starting Energy	进化后虫初始能量全满	1
+Evolve Queen Full Starting Energy	进化虫母初始能量全满	1
+Research Cloaking Module	研究隐形模块	2
+Research Cloaking Module	研究隐身模块	1
+Simplified Genome	简化基因组	1
+Simplified Genome	Simplified Genome	1
+Plasma Surge	能量潮涌	2
+Plasma Surge	Plasma Surge	1
+Lock On	Lock On	1
+Lock On	锁定	1
+Research Ares-Class Targeting System	研究后燃充能	1
+Research Ares-Class Targeting System	研究阿瑞斯级瞄准系统	1
+Research Blink Charges	研究闪现充能	1
+Research Blink Charges	Research Blink Charges	1
+Research Chrono Beam	研究时空光束	1
+Research Chrono Beam	Research Chrono Beam	1
+Research Spider Mines	研究蜘蛛雷	1
+Research Spider Mines	研发蜘蛛雷	1
+Research Psionic Orb	研究灵能球	1
+Research Psionic Orb	研发灵能球	1
+Research Shadow Archon	研究暗影执政官	1
+Research Shadow Archon	Research Shadow Archon	1
+Research Shadow Charge	研究暗影冲锋	1
+Research Shadow Charge	Research Shadow Charge	1
+Virulent Spores	剧毒孢子	1
+Virulent Spores	Virulent Spores	1
+Slayer	屠杀者	2
+Slayer	杀戮者	1
+Shredding Claws	切割利爪	1
+Shredding Claws	Shredding Claws	1
+Primary structure. Used to receive gathered resources. Can use the Lift Off ability.<n/><n/><c val="ffff8a">Enables:</c><n/>- SCVs	基础建筑，用于接收采集到的资源。自体可以升空。<n/><n/><c val="ffff8a">开启：</c><n/>- SCV	2
+Primary structure. Used to receive gathered resources. Can use the Lift Off ability.<n/><n/><c val="ffff8a">Enables:</c><n/>- SCVs	基础建筑。用来接收采集到的资源。可以使用升空技能。<n/><n/><c val="ffff8a">开启：</c><n/>- SCV	2
+Primal Pack Leader. Collects essence from his fallen enemies to change and grow in strength.<n/><n/><c val="ffff8a">Can attack ground units.</c>	原始虫群首领。可以从死亡的敌人身上收集精华，用以进化和增强力量。<n/><n/><c val="ffff8a">可以对地。</c>	1
+Primal Pack Leader. Collects essence from his fallen enemies to change and grow in strength.<n/><n/><c val="ffff8a">Can attack ground units.</c>	原始虫群首领。可以从死亡的敌人身上收集精华，用以转变和增强力量。<n/><n/><c val="ffff8a">可以对地。</c>	1
+<c val="ffff8a">Mutalisks</c> deal 100% bonus damage vs. armored units.	<c val="ffff8a">异龙</c>对重甲单位造成100%的额外伤害。	1
+<c val="ffff8a">Mutalisks</c> deal 100% bonus damage vs. armored units.	<c val="ffff8a">异龙</c>对重甲单位造成100%额外伤害。	1
+Builds Interdictors that automatically bomb enemy ground units for <d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c> damage.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	建造强击机，自动轰炸敌方地面单位造成<d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c> 点伤害。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	1
+Builds Interdictors that automatically bomb enemy ground units for <d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c> damage.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	建造强击机，自动轰炸敌方地面单位造成<d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c>点伤害。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	1
+Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>	使目标单位浮空并无法使用技能。效果最多持续<d time="10"/>。<n/><n/><c val="#ColorAttackInfo">重型单位对此免疫。</c>	1
+Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>	使目标单位浮空并无法使用技能。效果持续<d time="10"/>。<n/><n/><c val="#ColorAttackInfo">重型单位对此免疫。</c>	1
+Fast scout. Has a grenade attack that slows enemy units. Can transform into a close range combat unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	快速的侦察者，可发射榴弹减慢敌方单位速度。可变形为近距离战斗单位。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	1
+Fast scout. Has a grenade attack that slows enemy units. Can transform into a close range combat unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	快速的侦察者，发射榴弹来减速敌方单位。可变形为近距离战斗单位。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	1
+Close range combat unit. Deals damage in a small frontal cone. Can transform into a fast scout unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	近距离战斗单位，对前方小范围锥形区域造成伤害。可变形为快速侦察单位。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	1
+Close range combat unit. Deals damage in a small frontal cone. Can transform into a fast scout unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	近距离作战单位。对前方小范围锥形区域造成伤害。可以变形为快速侦察单位。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	1
+Potent psionic master. Can use Psionic Orb, Mind Blast, and Sacrifice.<n/><n/><c val="ffff8a">Can attack ground units.</c>	强大的灵能运用大师。可以使用灵能球、心灵爆裂和献祭。<n/><n/><c val="ffff8a">可以对地。</c>	1
+Potent psionic master. Can use Psionic Orb, Mind Blast, and Sacrifice.<n/><n/><c val="ffff8a">Can attack ground units.</c>	强大的灵能运用大师。能够使用灵能球、心灵爆裂和献祭。<n/><n/><c val="ffff8a">可以对地。</c>	1
+Siege Tanks gain +40 attack damage while in Siege Mode. Splash damage remains the same.	攻城坦克在攻城模式下的攻击力提高40点。溅射伤害保持不变。	1
+Siege Tanks gain +40 attack damage while in Siege Mode. Splash damage remains the same.	攻城坦克在攻城模式下的攻击力+40。溅射伤害保持不变。	1
+Dominion covert operative. Can equip and use a variety of weapons and gear.<n/><n/><c val="#ColorAttackInfo">Can attack different enemy units based on weaponry.</c>	帝国秘密特工。可以装备和使用多种武器装备。<n/><n/><c val="#ColorAttackInfo">可以使用多种武器攻击不同类型的敌方单位。</c>	1
+Dominion covert operative. Can equip and use a variety of weapons and gear.<n/><n/><c val="#ColorAttackInfo">Can attack different enemy units based on weaponry.</c>	帝国秘密特工。可以装备和使用多种武器装备<n/><n/><c val="#ColorAttackInfo">可以使用多种武器攻击不同类型的敌方单位。</c>	1
+The Odin is a massive siege walker capable of leveling entire cities.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	奥丁是一种重型攻城步战单位，其威力足以夷平整座城市。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	1
+The Odin is a massive siege walker capable of leveling entire cities.<n/><n/><c val="#ColorAttackInfo">Can attack ground and air units.</c>	奥丁是一种重型攻城步战单位，其威力足以夷平整座城市。<n/><n/><c val="#ColorAttackInfo">可以对地和对空</c>	1
+Defensive unit. Can use Spawn Larvae, Spawn Creep Tumor, and Transfusion. Moves much faster on creep.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	防御型单位。能使用孵化幼虫、产下菌毯肿瘤和哺液技能。在菌毯上的移动速度大幅提升。<n/><n/><c val="ffff8a">可以对地和对空。</c>	2
+Defensive unit. Can use Spawn Larvae, Spawn Creep Tumor, and Transfusion. Moves much faster on creep.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	防御型单位。能使用孵化幼虫、孵化菌毯肿瘤和哺液技能。在菌毯上的移动速度大幅提升。<n/><n/><c val="ffff8a">可以对地和对空。</c>	1
+Sends constructed units to the designated point. Workers rallied to resources will begin gathering automatically.	将生成的单位派往指定地点。派往资源点的工作单位会自动开始采集。	1
+Sends constructed units to the designated point. Workers rallied to resources will begin gathering automatically.	将生成的单位派往指定地点。派往资源点工作单位会自动开始采集。	1
+Enables warp in of Protoss robotic units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Immortals<n/>- Observers	允许折跃星灵机械单位。<n/><n/><c val="ffff8a">开启：</c><n/>- 不朽者<n/>- 侦测器	1
+Enables warp in of Protoss robotic units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Immortals<n/>- Observers	开启星灵折跃机械单位的能力。<n/><n/><c val="ffff8a">开启：</c><n/>- 不朽者<n/>- 侦测器	1
+Enables warp in of Protoss air units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Phoenixes	允许折跃星灵空中单位。<n/><n/><c val="ffff8a">开启：</c><n/>- 凤凰	1
+Enables warp in of Protoss air units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Phoenixes	开启星灵折跃空中单位的能力。<n/><n/><c val="ffff8a">开启：</c><n/>- 凤凰	1
+Reverts the Xel'Naga Void Array back to Flight Mode, allowing it to move.	将萨尔纳加虚空阵列船变回飞行模式，使其可以移动。	1
+Reverts the Xel'Naga Void Array back to Flight Mode, allowing it to move.	将萨尔纳加虚空阵列船转回飞行模式，使其可以移动。	1
+Void Shard	Void Shard	1
+Void Shard	虚空碎片	2
+Kerrigan	凯瑞甘	1
+Kerrigan	女王凯瑞甘	1
+~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	2
+~time~ Player ~player~ - Attack Wave Difficulty ~diff~ Total Resources ~total~	~time~ 玩家 ~player~ - 攻击波次困难度 ~diff~ 总资源 ~total~	1
+Placement unit not found, falling back to spawn point based on player start!	Placement unit not found, falling back to spawn point based on player start!	2
+Placement unit not found, falling back to spawn point based on player start!	放置单位没有找到，回到基于玩家开始的出生点！	1
+Gift	礼物	1
+Gift	神秘礼物	1
+Back	返回	1
+Back	后退	1
+Spawning	正在孵化	1
+Spawning	孵化	1
+Normal	常规	3
+Normal	普通	6
+Capture Point	控制点	1
+Capture Point	占领点	1
+Mineral Pickup	晶体矿拾取	1
+Mineral Pickup	晶矿拾取	2
+Missile Point Defense	飞弹 定点防御	1
+Missile Point Defense	飞弹定点防御	1
+~NAME~ <s val="@@ObjectivePanelProgress">(~CURRENT~/~GOAL~)~CUSTOM~</s>	~NAME~ <s val="@@ObjectivePanelProgress">(~CURRENT~/~GOAL~)~CUSTOM~</s>	4
+~NAME~ <s val="@@ObjectivePanelProgress">(~CURRENT~/~GOAL~)~CUSTOM~</s>	~NAME~ <s val="@@ObjectivePanelProgress">（~CURRENT~/~GOAL~）~CUSTOM~</s>	1
+Wheel of Misfortune	灾难之轮	2
+Wheel of Misfortune	悲惨之轮	1
+Zerg -	异虫 -	3
+Zerg -	异虫 —	32
+Protoss -	星灵 —	51
+Protoss -	星灵 -	14
+Custom	自定义	2
+Custom	自定义游戏	2
+Toggle Detection/Vision Mode	探测模式与目视模式	1
+Toggle Detection/Vision Mode	切换探测模式与目视模式	1
+Target EMP	瞄准EMP	1
+Target EMP	目标EMP	1
+Banshee Bombing Run	女妖轰炸	1
+Banshee Bombing Run	Banshee Bombing Run	1
+Hover Hellion Mode	悬浮恶火模式	1
+Hover Hellion Mode	悬浮恶蝠模式	1
+Already cast	Already cast	3
+Already cast	NYI	1
+None	无	11
+None	不显示	1
+Medium	中	3
+Medium	普通	1
+Medium	中等	1
+Medium	中型	1
+Rotating Turret Auto	Rotating Turret Auto	1
+Rotating Turret Auto	旋转自动炮台	1
+SM Model	SM模型	6
+SM Model	SM Model	1
+Deep	Deep	3
+Deep	深	1
+(Listener)	(Listener)	2
+(Listener)	(听话人)	10
+Play	录像播放	1
+Play	播放	2
+Play	游戏	1
+New	新建	1
+New	全新	1
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	部署型炸弹，敌人进入其瞄准射程后可自动追击敌方单位并爆炸，造成大量范围性伤害。	2
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	部署型炸弹，敌人进入其瞄准射程后可自动追击敌方单位并爆炸，造成大量范围性伤害。替代猎杀飞弹。	1
+Erris Temple Door	艾瑞斯神庙 大门	5
+Erris Temple Door	艾瑞斯神庙大门	4
+Lightning Shooter	闪电射击	1
+Lightning Shooter	闪电射击者	2
+Lightning Shooter Dummy	闪电射击 虚拟	1
+Lightning Shooter Dummy	闪电射击者 虚拟	1
+Prologue Fissure Breach	序章裂隙突破	1
+Prologue Fissure Breach	序章 裂隙突破	2
+Prologue Fissure Unbreach	序章裂隙未突破	1
+Prologue Fissure Unbreach	序章 裂隙未突破	1
+Prologue Invisible Gas Harvester	序章 隐形的瓦斯采集者	1
+Prologue Invisible Gas Harvester	序章 隐形瓦斯采集者	1
+<h/>BACK	返回(<u>B</u>)	1
+<h/>BACK	返回(<h/>B)	1
+Aggressive Mutation	Aggressive Mutation	1
+Aggressive Mutation	进攻性突变	2
+Corruption Bomb	Corruption Bomb	1
+Corruption Bomb	腐蚀炸弹	1
+Dark Swarm	Dark Swarm	1
+Dark Swarm	黑暗虫群	2
+Impale	钉刺	1
+Impale	穿刺	1
+Lurker Hold Fire	Lurker Hold Fire	2
+Lurker Hold Fire	潜伏者停火	1
+Morph To Devourer	Morph To Devourer	1
+Morph To Devourer	变异为吞噬者	1
+Oracle Phase Shift	Oracle Phase Shift	1
+Oracle Phase Shift	先知相位变换	2
+Parasitic Bomb	Parasitic Bomb	5
+Parasitic Bomb	寄生弹	2
+Port City Bridge Unit E10	港口城 桥 单位 E10	1
+Port City Bridge Unit E10	港口城 桥 单位 东 10	1
+Queen MPEnsnare	Queen MPEnsnare	1
+Queen MPEnsnare	虫后多人游戏诱捕	1
+Release Interceptors	Release Interceptors	2
+Release Interceptors	释放拦截机	1
+Emergency Repair	Emergency Repair	1
+Emergency Repair	紧急修复	1
+Corruption Bomb (Damage)	腐蚀炸弹 (伤害)	1
+Corruption Bomb (Damage)	Corruption Bomb (Damage)	1
+Time Stop Stun	时间停止昏迷	1
+Time Stop Stun	Time Stop Stun	1
+Scout MPAir	Scout MPAir	2
+Scout MPAir	侦察机多人游戏对空	1
+Scout MPGround	Scout MPGround	1
+Scout MPGround	侦察机多人游戏对地	1
+Clone	Clone	1
+Clone	克隆	1
+Hidden	隐藏的	1
+Hidden	隐藏	3
+Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Warhounds<n/>- Thor with Armory	战车研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 攻城坦克<n/>- 战狼<n/>- 建造军械库可开启雷神	1
+Vehicle-research structure. A Tech Lab can fit onto any production structure.<n/><n/><c val="ffff8a">Enables:</c><n/>- Siege Tanks<n/>- Warhounds<n/>- Thor with Armory	战车研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 攻城坦克<n/>- 恶蝠<n/>- 建造军械库可开启雷神	1
+Competitive	竞技	1
+Competitive	竞技赛	1
+Morph complete.	变异完成	3
+Morph complete.	转换完成	1
+Contaminated	被污染	1
+Contaminated	被辐射	1
+Inhibitor Zone	抑制区域	1
+Inhibitor Zone	Inhibitor Zone	1
+This unit's movement speed is increased by <d ref="(Behavior,AccelerationZoneTemporalField,Modification.MoveSpeedMultiplier-1)*100"/>%.	该单位的移动速度提高<d ref="(Behavior,AccelerationZoneTemporalField,Modification.MoveSpeedMultiplier-1)*100"/>%。	1
+This unit's movement speed is increased by <d ref="(Behavior,AccelerationZoneTemporalField,Modification.MoveSpeedMultiplier-1)*100"/>%.	该单位的移动速度提高了<d ref="(Behavior,AccelerationZoneTemporalField,Modification.MoveSpeedMultiplier-1)*100"/>%。	1
+Detector	侦测器	3
+Detector	侦测单位	1
+Increases Nova's maximum number of Defensive Drone charges by 2 and reduces their cooldown by 30 seconds.	使诺娃的防御无人机最大充能次数提高2次，冷却时间缩短30秒。	1
+Increases Nova's maximum number of Defensive Drone charges by 2 and reduces their cooldown by 30 seconds.	使诺娃防御无人机的最大充能次数增加2次，冷却时间缩短30秒。	1
+Orders selected units to cancel all orders and stop moving.	命令选中的单位不再执行任何命令并停止移动。	2
+Orders selected units to cancel all orders and stop moving.	命令选中的单位取消所有指令并停止移动。	2
+Primal	原始异虫	1
+Primal	原始	34
+Overview	总览	2
+Overview	总分	2
+Terran Base Construction	人类基地建筑	1
+Terran Base Construction	人类基地建造	1
+Terran Supply	人类供给	1
+Terran Supply	人类补给	1
+These tutorials will explain basic gameplay in StarCraft II. An introduction to protoss and zerg gameplay is also covered. If you miss anything the Adjutant says you can press Message Log [F11] at any time to see a transcript.	这些教程将介绍《星际争霸II》的基本游戏方法。星灵和异虫部分的内容也包括在其中。如果您想回顾副官介绍的某些内容，请按F11键打开消息记录界面查看文字记录。	1
+These tutorials will explain basic gameplay in StarCraft II. An introduction to protoss and zerg gameplay is also covered. If you miss anything the Adjutant says you can press Message Log [F11] at any time to see a transcript.	这些教程将介绍《星际争霸II》的基本游戏方法。星灵和异虫部分的内容也包括在其中。如果您想回顾副官介绍的某些内容，请按F11键打开信息消息界面查看文字记录。	1
+Collector's Edition	典藏版	7
+Collector's Edition	典藏包	1
+Diablo Skull	暗黑破坏神头颅	2
+Diablo Skull	暗黑破坏神头骨	1
+Opera Mask	脸谱	6
+Opera Mask	脸谱陆战队员	1
+Rich Minerals	富矿	1
+Rich Minerals	高产晶体矿	1
+Minerals	矿物	2
+Minerals	晶体矿	1
+Resource Collection	资源采集量	1
+Resource Collection	资源采集	1
+Resources	资源	2
+Resources	资源储量	1
+Building	正在建造	1
+Building	建筑	1
+Cube	正方体	1
+Cube	立方体	1
+Traffic Signal	交通灯	1
+Traffic Signal	交通信号灯	1
+Pyramid	角锥体	1
+Pyramid	棱锥	1
+Rounded Cube	圆角立方体	1
+Rounded Cube	圆角正方体	1
+Melee	近战	2
+Melee	对战	2
+Only used against structures.	仅能对建筑使用。	1
+Only used against structures.	只能对建筑使用。	1
+Americas	北美洲	1
+Americas	美洲	1
+Light	光源	2
+Light	轻甲	3
+RTT Channel	RTT 通道	2
+RTT Channel	RTT通道	1
+Sound	音效	2
+Sound	Sound	1
+Sound	声音	2
+Duration	持续时间	1
+Duration	时长	1
+Volume	体积	1
+Volume	音量	1
+Off	关闭	5
+Off	立减	1
+Fast	快速	2
+Fast	快	3
+Replay	录像	3
+Replay	重放	1
+Replay	观看录像	1
+Clear	清空	3
+Clear	清除	1
+Control	CTRL	1
+Control	控制	1
+Delete	删除键	1
+Delete	删除	3
+Home	起始键	1
+Home	首页	1
+<c val="ff0000">Cannot have more than	<c val="ff0000">数量不能超过	2
+<c val="ff0000">Cannot have more than	<c val="ff0000">不能拥有超过	2
+Paused	暂停	1
+Paused	已暂停	1
+Local	局部	1
+Local	本地	1
+Watch	表	1
+Watch	录像	1
+Complete	完成	1
+Complete	加载完成	2
+Pause	暂停	2
+Pause	录像暂停	1
+Credits	军费	1
+Credits	制作人员	1
+Height	高	1
+Height	高度	1
+Active	活动	1
+Active	激活	1
+Always	总是	1
+Always	始终显示	2
+Error	错误	2
+Error	出错	1
+ART	ART	4
+ART	美术	1
+PRODUCTION	PRODUCTION	4
+PRODUCTION	制作	1
+SOUND	SOUND	4
+SOUND	音效	2
+FINANCE	FINANCE	4
+FINANCE	财务	2
+LEGAL	LEGAL	5
+LEGAL	法务	2
+EXECUTIVE TEAM	EXECUTIVE TEAM	5
+EXECUTIVE TEAM	执行团队	1
+BUSINESS INTELLIGENCE & RISK	BUSINESS INTELLIGENCE & RISK	3
+BUSINESS INTELLIGENCE & RISK	商业情报和风险控制	1
+BATTLE.NET	BATTLE.NET	5
+BATTLE.NET	战网	2
+INFORMATION TECHNOLOGY	INFORMATION TECHNOLOGY	6
+INFORMATION TECHNOLOGY	信息技术	2
+PLATFORM SERVICES	PLATFORM SERVICES	1
+PLATFORM SERVICES	平台服务	2
+BUSINESS DEVELOPMENT & LICENSING	BUSINESS DEVELOPMENT & LICENSING	1
+BUSINESS DEVELOPMENT & LICENSING	商务拓展&授权	2
+Production	Production	4
+Production	生产队列	1
+SPECIAL THANKS	SPECIAL THANKS	4
+SPECIAL THANKS	特别感谢	3
+Cost:	花费：	1
+Cost:	费用：	2
+Type:	类别：	1
+Type:	类型：	2
+ARTISTS	设计师	1
+ARTISTS	美工	1
+BASSES	低音	1
+BASSES	低音提琴	1
+PERCUSSION	打击乐器	1
+PERCUSSION	打击乐	1
+Current	当前	2
+Current	当前等级	1
+Restart	重新开始	3
+Restart	重放	1
+Flyer	飞行虫类	1
+Flyer	飞行生物	1
+Selected	选中单位	2
+Selected	已选中的单位	1
+<h/>Quit	退出游戏(<h/>Q)	1
+<h/>Quit	退出(<h/>Q)	1
+Taiwan	台湾	1
+Taiwan	中国台湾	1
+Abilities	基本技能	1
+Abilities	技能	2
+Make Host	设定为房主	1
+Make Host	成为房主	1
+Undo	撤销操作	1
+Undo	撤销	1
+Restore Global Defaults	恢复通用快捷键方案的默认设置	1
+Restore Global Defaults	恢复全局快捷键方案的默认设置	1
+Targeting	瞄准模式	1
+Targeting	特定目标	1
+Large	大型	2
+Large	Large	1
+REPLAYS	加载录像	1
+REPLAYS	游戏录像	1
+Loading	正在加载	2
+Loading	正在加载录像	1
+Small	小型	1
+Small	小	1
+Small	Small	1
+BONUS OPPORTUNITIES:	奖励机会:	1
+BONUS OPPORTUNITIES:	奖励机会：	1
+Reach Player Level %rank%	达到%rank%级后解锁	1
+Reach Player Level %rank%	达到%rank%级	1
+Stimpacks	强化剂	2
+Stimpacks	强化	1
+Speed:	速度	1
+Speed:	速度：	1
+Must place near a Pylon	必须放置在水晶塔附近	1
+Must place near a Pylon	必须在水晶塔附近放置	1
+Massive	重型	1
+Massive	重型单位	2
+Mechanical	机械	1
+Mechanical	机械单位	2

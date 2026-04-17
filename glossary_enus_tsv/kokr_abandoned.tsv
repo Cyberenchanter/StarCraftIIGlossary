@@ -1,0 +1,279 @@
+Chrono Boost Energy Cost	시간 증폭 에너지 비용	1
+Chrono Boost Energy Cost	Chrono Boost Energy Cost	1
+Dark Templar Blink	암흑 기사 점멸	1
+Dark Templar Blink	Dark Templar Blink	1
+Lock On Air	공중 목표물 고정	1
+Lock On Air	Lock On Air	1
+Nexus Shield Recharge	연결체 보호막 재충전	1
+Nexus Shield Recharge	Nexus Shield Recharge	1
+KD8 Charge	KD8 지뢰	3
+KD8 Charge	KD8 Charge	1
+A tower that can be destroyed to prevent access to new areas or resource locations.	이 탑을 파괴하면 자원이 있는 곳이나 새로운 지역으로 가는 길을 차단할 수 있습니다.	4
+A tower that can be destroyed to prevent access to new areas or resource locations.	파괴할 수 있는 탑입니다. 부수고 새로운 지역이나 자원이 있는 곳으로 갈 수 있습니다.	5
+Mass Recall	대규모 소환	2
+Mass Recall	대규모 귀환	5
+Rock	바위	3
+Rock	암석	3
+<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="28"/>	<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="29"/>	1
+<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="28"/>	<s val="Kicker_Minerals">113</s> <IMG path="Assets\Textures\icon-mineral-protoss.dds" height="28" width="28"/>	3
+<n/><n/><c val="ffff8a">This unit will also unlock new abilities or passive bonuses with each Rank.</c><n/>	<n/><n/><c val="ffff8a">이 유닛은 등급이 오를 때마다 새로운 능력 또는 지속 능력 효과를 얻습니다.</c><n/>	1
+<n/><n/><c val="ffff8a">This unit will also unlock new abilities or passive bonuses with each Rank.</c><n/>	<n/><n/><c val="ffff8a">이 유닛은 등급이 오를 때마다 새로운 능력 또는 지속 능력을 얻습니다.</c><n/>	1
+B-2 High-Cal LMG	B-2 High-Cal LMG	1
+B-2 High-Cal LMG	B-2 대구경 경기관총	1
+Limit 1	최대 1기	2
+Limit 1	1개로 제한	15
+Biomass Pickup	생체 물질 획득	1
+Biomass Pickup	Suramar - Tel'anor 01 GY	1
+Select Payload	탄두 선택	1
+Select Payload	화물 선택	1
+Mammoth Beam	거대 광선	1
+Mammoth Beam	거대 숨결	1
+MutatorBuyCandy	돌연변이원사탕구매	1
+MutatorBuyCandy	MutatorBuyCandy	1
+Mutator Cloaked Mine Attack	돌연변이원 은폐 지뢰 공격	2
+Mutator Cloaked Mine Attack	Mutator Cloaked Mine Attack	1
+Void Shard ACUnstable Energy	공허의 파편 AC 불안정 에너지	3
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	1
+Void Shard ACVoid Zone	공허의 파편 AC 공허 지역	2
+Void Shard ACVoid Zone	Void Shard ACVoid Zone	2
+Void Sliver AC Unstable Energy	공허 파편 불안정 에너지	3
+Void Sliver AC Unstable Energy	Void Sliver AC Unstable Energy	1
+Adept	신봉자	1
+Adept	사도	1
+Reaper	사신	8
+Reaper	리퍼	1
+Marine	해병 01	1
+Marine	해병	5
+Predator	약탈자	2
+Predator	사냥꾼	1
+Scourge	스컬지	4
+Scourge	갈귀	1
+Infested Civilian Structure	감염된 민간인 건물	1
+Infested Civilian Structure	감염된 민간인 구조물	1
+Power Overwhelming	압도적인 힘	2
+Power Overwhelming	압도적인 힘으로	2
+Immobilized	이동 불가	3
+Immobilized	구속됨	1
+Dark Templar Recalling	암흑 기사 귀환 중	1
+Dark Templar Recalling	Dark Templar Recalling	1
+Laser Drill Tripod Overload	레이저 천공기 삼각대 과부하	1
+Laser Drill Tripod Overload	Laser Drill Tripod Overload	1
+Blizzard	Blizzard	1
+Blizzard	블리자드	1
+On Death Vorazun Recall On Death Recently Recalled	보라준 소멸 시 긴급 귀환 최근 귀환함	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+Symb Create Controller	공생체 생성 제어기	1
+Symb Create Controller	Symb Create Controller	1
+Void Shard ACDamage Field Debuff	공허의 파편 AC 피해장 약화 효과	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+Auto Inject Larva	애벌레 자동 주입	4
+Auto Inject Larva	Auto Inject Larva	1
+Research Surface to Air Targeting	지대공 조준 연구	1
+Research Surface to Air Targeting	지대공 대상 지정 연구	1
+Ravager	궤멸자	1
+Ravager	궤멸충	3
+Ravager	강탈꾼	1
+Slayer	학살자	2
+Slayer	약탈꾼	1
+Telbrus Legion	텔브루스 군단 호출	1
+Telbrus Legion	텔브루스 군단	1
+Zoraya Legion	조라야 군단 호출	1
+Zoraya Legion	조라야 군단	1
+Serdath Legion	세르다스 군단 호출	1
+Serdath Legion	세르다스 군단	2
+Increases movement speed and attack range.	이동 속도와 공격 사거리가 증가합니다.	1
+Increases movement speed and attack range.	이동 속도 및 공격 사거리가 증가합니다.	1
+The <c val="ffff8a">Mutalisk's</c> attack bounces three additional times, hitting up to six targets. Bounces also travel farther.	<c val="ffff8a">뮤탈리스크</c>의 공격이 3번 더 튕겨 최대 6기의 대상을 공격합니다. 튕기는 거리도 늘어납니다.	1
+The <c val="ffff8a">Mutalisk's</c> attack bounces three additional times, hitting up to six targets. Bounces also travel farther.	<c val="ffff8a">뮤탈리스크</c>의 공격이 3번 더 튕겨 최대 6개의 대상을 공격합니다. 튕기는 거리도 늘어납니다.	1
+Close range combat unit. Deals damage in a small frontal cone. Can transform into a fast scout unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	근거리 전투 유닛입니다. 전방에 작은 부채꼴 형태로 피해를 줍니다. 빠른 정찰 유닛으로 변신할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>	1
+Close range combat unit. Deals damage in a small frontal cone. Can transform into a fast scout unit.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	근거리 전투 유닛입니다. 전방에 작은 부채꼴 형태로 화염 공격을 합니다. 빠른 정찰 유닛으로 변신할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">지상 유닛 공격 가능</c>	1
+Artanis	Artanis	2
+Artanis	아르타니스	1
+Abathur	Abathur / Dehaka	1
+Abathur	아바투르	1
+Nova	Nova	2
+Nova	노바	1
+ACPirate Capital Ship Tractor Beam	AC 해적 주력함 유인 광선	1
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	2
+ACPirate Capital Ship Tractor Beam	동맹 사령관 해적 주력함 유인 광선	1
+Void Shard	Void Shard	1
+Void Shard	공허의 파편	2
+Zeratul	Zeratul	2
+Zeratul	제라툴	1
+NYI	미구현	2
+NYI	NYI	1
+Protoss Armor Level 1	프로토스 장갑 3 레벨	1
+Protoss Armor Level 1	프로토스 장갑 1단계	1
+Protoss Weapons Level 1	프로토스 무기 1 레벨	1
+Protoss Weapons Level 1	프로토스 무기 1단계	1
+Protoss Weapons Level 2	프로토스 무기 2 레벨	1
+Protoss Weapons Level 2	프로토스 무기 2단계	1
+Protoss Armor Level 2	프로토스 장갑 2 레벨	1
+Protoss Armor Level 2	프로토스 장갑 2단계	1
+-~A~% Cost	+~A~% 비용	1
+-~A~% Cost	-~A~% 비용	1
+Warp In	소환	1
+Warp In	모든 차원 관문 선택	1
+Warp Out	소환 나가기	1
+Warp Out	소환 보내기	1
+Already cast	캐스팅 완료	3
+Already cast	NYI	1
+Rick Wasserman	Seung Wook Cheong	1
+Rick Wasserman	Youngjoon Shee	1
+Patrick Seitz	Soojin Kang	2
+Patrick Seitz	Min Jeung Yeo	1
+Fred Tatasciore	Kwang Chang	1
+Fred Tatasciore	Kihyun Kim	2
+Armin Shimerman	Kyung Su Hyun	2
+Armin Shimerman	Young Chan Kim	1
+Nika Futterman	Chae Eon Han	1
+Nika Futterman	Kye Yoon Lee	2
+Nova is on her own behind enemy lines. If she dies, all is lost.	이곳 적 진영에서 노바는 혼자입니다. 그녀가 죽으면 모든 게 끝입니다.	1
+Nova is on her own behind enemy lines. If she dies, all is lost.	노바가 적 진영에 혼자입니다. 그녀가 죽으면 모든 게 끝입니다.	1
+Play	재생	2
+Play	실행	1
+Play	플레이	1
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	일정 거리 안에 들어오는 적 유닛을 추적, 폭발하여 강력한 범위 공격을 가하는 설치형 폭발물입니다.	2
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	일정 거리 안에 들어오는 적 유닛을 추적, 폭발하여 강력한 범위 공격을 가하는 설치형 폭발물입니다. 추적 미사일을 대체합니다.	1
+(PH) Weapon dealing area of effect melee damage and short range anti-air fire. Allows Nova to use the (PH?) Fury of One ability.	광역 근접 피해와 단거리 대공 피해를 주는 무기입니다. 노바가 하나의 격노 능력을 사용할 수 있게 해줍니다.	1
+(PH) Weapon dealing area of effect melee damage and short range anti-air fire. Allows Nova to use the (PH?) Fury of One ability.	광역 근접 피해와 단거리 대공 사격 피해를 주는 무기입니다. 노바가 하나의 격노 능력을 사용할 수 있게 해 줍니다.	1
+Allows Nova to take control of enemy units. Enemies under this effect can be used to open doors, set off false alarms, and even attack their former allies.	노바가 적 유닛을 조종할 수 있게 해줍니다. 조종받는 적을 이용해서 문을 열고, 거짓 경보를 울리게 하고, 심지어 자신의 동료를 공격하게 할 수도 있습니다.	1
+Allows Nova to take control of enemy units. Enemies under this effect can be used to open doors, set off false alarms, and even attack their former allies.	노바가 적 유닛을 지배할 수 있게 해줍니다. 이 효과에 걸린 적을 이용해서 문을 열고, 거짓 경보를 울리게 하고, 심지어 자신의 동료를 공격하게 할 수도 있습니다.	1
+Lightning Shooter	번개 발사자	1
+Lightning Shooter	번개 발사	2
+Prologue Fissure Breach	프롤로그 균열 열림	2
+Prologue Fissure Breach	프롤로그 균열 갈라짐	1
+Prologue Invisible Gas Harvester	Prologue Invisible Gas Harvester	1
+Prologue Invisible Gas Harvester	프롤로그 투명 가스 채취기	1
+Oracle Stasis Ward	예언자 정지장 수호물	1
+Oracle Stasis Ward	Oracle Stasis Ward	1
+Port City Bridge Unit E10	항구 도시 다리 유닛 E10	1
+Port City Bridge Unit E10	항구 도시 다리 유닛 동10	1
+Purification Nova Morph	정화 폭발 변형	1
+Purification Nova Morph	Purification Nova Morph	1
+Purification Nova Morph Back	정화 폭발 변형 되돌리기	1
+Purification Nova Morph Back	Purification Nova Morph Back	1
+Release Interceptors	요격기 출격	2
+Release Interceptors	Release Interceptors	1
+Corruption Bomb (Damage)	타락 폭탄 (피해)	1
+Corruption Bomb (Damage)	Corruption Bomb (Damage)	1
+Time Stop Stun	시간 정지 기절	1
+Time Stop Stun	Time Stop Stun	1
+Neutron Flare	Neutron Flare	1
+Neutron Flare	중성자 섬광탄	1
+Scout MPAir	Scout MPAir	2
+Scout MPAir	정찰기 MP공중	1
+Scout MPGround	Scout MPGround	1
+Scout MPGround	정찰기 MP지상	1
+Nuclear Launch Detected	핵 공격이 감지되었습니다	1
+Nuclear Launch Detected	핵 공격이 감지되었습니다.	1
+Combat_Mechanic_KillTransport	전투 메커닉 수송기 처치	1
+Combat_Mechanic_KillTransport	Combat_Mechanic_KillTransport	1
+Morph complete.	변태 완료	2
+Morph complete.	변형 완료	2
+Contaminated	오염됨	1
+Contaminated	오염	1
+A burrowed creep generator. Creep feeds nearby Zerg structures. A Creep Tumor can spawn one additional Creep Tumor.<n/><n/><c val="#ColorAttackInfo">Bonus: Zerg move faster on creep.</c>	땅속에서 점막을 생성하는 종양을 만들어냅니다. 점막은 주위의 저그 구조물에 양분을 공급합니다. 점막 종양 하나당 추가 점막 종양 하나를 생성할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">추가 효과: 점막 위에서 저그 유닛의 이동 속도 증가</c>	2
+A burrowed creep generator. Creep feeds nearby Zerg structures. A Creep Tumor can spawn one additional Creep Tumor.<n/><n/><c val="#ColorAttackInfo">Bonus: Zerg move faster on creep.</c>	땅속에서 점막을 생성합니다. 점막은 주위 저그 구조물에 양분을 공급합니다. 점막 종양 하나당 추가 점막 종양 하나를 생성할 수 있습니다.<n/><n/><c val="#ColorAttackInfo">추가 효과: 점막 위에서 저그 유닛의 이동 속도 증가</c>	1
+Increases Nova's maximum number of Defensive Drone charges by 2 and reduces their cooldown by 30 seconds.	노바의 방어 드론 최대 충전 횟수가 2만큼 증가하고 재사용 대기시간이 30초만큼 감소합니다.	1
+Increases Nova's maximum number of Defensive Drone charges by 2 and reduces their cooldown by 30 seconds.	노바의 방어 드론 최대 충전 수가 2로 증가하고 재사용 대기시간이 30초로 감소합니다.	1
+Orders selected units to cancel all orders and stop moving.	모든 지시 사항을 취소하고 이동을 멈춥니다.	2
+Orders selected units to cancel all orders and stop moving.	선택한 유닛이 모든 지시를 취소하고 움직임을 멈춥니다.	2
+Blair Bess	Jong Hyuk Lee	1
+Blair Bess	Il Park	1
+Blair Bess	Yoon Sang Kwak	1
+Evolved	진화 완료	1
+Evolved	진화한	1
+Terran Base Construction	테란 기지 건설	1
+Terran Base Construction	테란 기지 구축	1
+13	13대	1
+13	13	1
+Elms	Elms	2
+Elms	엘름스	3
+Primal Queen	원시 칼날 여왕	1
+Primal Queen	원시 여왕	1
+Completed	완료됨	1
+Completed	완료	1
+Cube	6면체	1
+Cube	정육면체	1
+Melee	근접	2
+Melee	섬멸전	2
+Light	조명	2
+Light	경장갑	3
+Sound	소리	4
+Sound	Sound	1
+Off	끄기	5
+Off	할인	1
+Grid	자판 배치	3
+Grid	눈금	1
+Control	Ctrl	1
+Control	제어	1
+Delete	Delete	1
+Delete	삭제	3
+Home	Home	1
+Home	홈	1
+<c val="ff0000">Cannot have more than	<c val="ff0000">최대 보유:<sp/>	1
+<c val="ff0000">Cannot have more than	<c val="ff0000">최대<sp/>	2
+<c val="ff0000">Cannot have more than	<c val="ff0000">최대 보유:	1
+Paused	일시 정지	1
+Paused	일시 정지됨	1
+,	,<sp/>	2
+,	,	2
+Global	전역	2
+Global	공통	1
+Watch	시계	1
+Watch	다시 보기	1
+Credits	자금	1
+Credits	제작진	1
+Abilities:	능력:	1
+Abilities:	기술:	1
+Accept	수락	1
+Accept	확인	1
+Active	사용 효과	1
+Active	활성	1
+Armor:	장갑:	1
+Armor:	방어력:<sp/>	1
+<a name="PresenceId" href="%presenceId%">%userName%</a>	<a name="PresenceId" href="%presenceId%">[%userName%]</a>	1
+<a name="PresenceId" href="%presenceId%">%userName%</a>	<a name="PresenceId" href="%presenceId%">%userName%</a>	1
+Production	Production	4
+Production	생산	1
+<c val="ffffff">Ally color:</c><n/>Adjusts what color your ally's units and structures appear when using the alliance color option on the minimap.	<c val="ffffff">아군 동맹 색상:</c><n/>동맹 색상 사용 시, 미니맵에서 아군 유닛 및 구조물을 어떤 색상으로 표시할지 조정합니다.	1
+<c val="ffffff">Ally color:</c><n/>Adjusts what color your ally's units and structures appear when using the alliance color option on the minimap.	<c val="ffffff">아군 색상:</c><n/>동맹 색상 사용 시, 미니맵에서 아군 유닛 및 구조물을 어떤 색상으로 표시할지 조정합니다.	1
+Type:	범주:	1
+Type:	유형:	1
+Type:	유형:<sp/>	1
+ADDITIONAL VOICES	UNIT VOICES	1
+ADDITIONAL VOICES	ADDITIONAL VOICES	1
+Anna Vocino	Hyeon Sim Kim	1
+Anna Vocino	Chae Eon Han	1
+Dan Gilvezan	Young Chan Kim	1
+Dan Gilvezan	Kyung Su Hyun	1
+Jonathan Cook	Dong Kyun Ryu	1
+Jonathan Cook	Seokpil Choi	1
+Paul Eiding	Sung Jun Bang	2
+Paul Eiding	Yoon Sang Kwak	1
+Gary Anthony Williams	Eung Sik Min	2
+Gary Anthony Williams	Soo Hyeong Kim	1
+Steve Blum	Yong Woo Shin	1
+Steve Blum	Sung Tae Park	1
+Duration:	게임 시간:	1
+Duration:	길이:	1
+Duration:	지속 시간:<sp/>	1
+Version:	버전:	1
+Version:	버전:<sp/>	1
+Make Host	방장으로 임명	1
+Make Host	방장으로 승급	1
+Ranged	원거리	1
+Ranged	원거리<sp/>	1
+Targeting	대상 지정	1
+Targeting	대상	1
+Move Speed:	이동 속도:	1
+Move Speed:	이동 속도:<sp/>	1
+Total	총 금액	1
+Total	전체	2
+Shields:	보호막:	1
+Shields:	보호막:<sp/>	1
+b	b	1
+b	ㅇ	1
+Weapon Speed:	무기 속도:	1
+Weapon Speed:	무기 속도:<sp/>	1

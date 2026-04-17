@@ -1,0 +1,1104 @@
+Bypass Armor	Bypass Armor	1
+Bypass Armor	Contournement d’armure	3
+Lock On Air	Verrouillage cible aérienne	1
+Lock On Air	Lock On Air	1
+Nexus Shield Overcharge	Nexus Shield Overcharge	1
+Nexus Shield Overcharge	Surcharge de bouclier du Nexus	2
+Nexus Shield Overcharge Off	Nexus Shield Overcharge Off	1
+Nexus Shield Overcharge Off	Surcharge de bouclier du Nexus désactivée	1
+Repair Drone	Repair Drone	1
+Repair Drone	Drone réparateur	1
+Repair	Repair	4
+Repair	Réparer	1
+Disruption Blast	Disruption Blast	1
+Disruption Blast	Choc disrupteur	2
+Chrono Boost	Chrono Boost	3
+Chrono Boost	Poussée temporelle	2
+KD8 Charge	KD8 Charge	2
+KD8 Charge	Charge de KD-8	2
+Purification Nova	Purification Nova	9
+Purification Nova	Nova purificatrice	2
+Disruption Beam	Disruption Beam	2
+Disruption Beam	Rayon disrupteur	1
+Pulsar Beam	Pulsar Beam	1
+Pulsar Beam	Rayon pulsar	4
+Prismatic Beam	Rayon prismatique	2
+Prismatic Beam	Prismatic Beam	15
+Envision	Envision	1
+Envision	Visualisation	2
+Oracle Weapon	Oracle Weapon	1
+Oracle Weapon	Arme de l’Oracle	1
+Pulsar Blast	Pulsar Blast	1
+Pulsar Blast	Explosion pulsar	1
+Time Warp	Time Warp	1
+Time Warp	Distorsion temporelle	2
+Ultralisk Weapon Cooldown	Ultralisk Weapon Cooldown	1
+Ultralisk Weapon Cooldown	Temps de recharge de l’arme de l’ultralisk	1
+Void Ray Swarm Damage Boost	Void Ray Swarm Damage Boost	1
+Void Ray Swarm Damage Boost	Bonus de dégâts HotS du Disloqueur	1
+Void Siphon	Void Siphon	1
+Void Siphon	Siphon du Vide	2
+Seeker Missile	Seeker Missile	1
+Seeker Missile	Missile à tête chercheuse	2
+Mass Recall	Mass Recall	6
+Mass Recall	Rappel en masse	1
+Attack this to destroy it	Attaquez-le pour le détruire	14
+Attack this to destroy it	Attaquez-les pour les détruire	2
+Volatile Burst	Volatile Burst	3
+Volatile Burst	Explosion incontrôlée	2
+Acid Spines	Acid Spines	2
+Acid Spines	Aiguillons acides	1
+Assault Mode	Assault Mode	1
+Assault Mode	Mode Assaut	2
+Land	Land	3
+Land	Atterrir	1
+Lift Off	Lift Off	3
+Lift Off	Décoller	1
+Fighter Mode	Fighter Mode	1
+Fighter Mode	Mode Chasseur	1
+Research	Research	1
+Research	Recherche	1
+Hold Fire	Hold Fire	1
+Hold Fire	Cesser le feu	1
+Weapons Free	Weapons Free	2
+Weapons Free	Feu à volonté	1
+Heal	Heal	2
+Heal	Soigner	1
+Vehicle Afterburners	Vehicle Afterburners	1
+Vehicle Afterburners	Véhicule - Post-combustion	1
+Slow	Lent	1
+Slow	Lente	4
+Tactical Jump	Tactical Jump	1
+Tactical Jump	Saut tactique	1
+Salvage	Salvage	1
+Salvage	Recycler	2
+Gather	Gather	1
+Gather	Récolter	5
+Anti-air defensive structure.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c>	Bâtiment de défense antiaérienne.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c><n/><c val="FFE303">Détecteur</c>	4
+Anti-air defensive structure.<n/><n/><c val="#ColorAttackInfo">Can attack air units.</c><n/><c val="FFE303">Detector</c>	Bâtiment défensif antiaérien.<n/><n/><c val="#ColorAttackInfo">Peut attaquer les unités aériennes.</c><n/><c val="FFE303">Détecteur</c>	2
+ATA Laser Battery	ATA Laser Battery	2
+ATA Laser Battery	Batterie de lasers ATA	2
+ATS Laser Battery	ATS Laser Battery	2
+ATS Laser Battery	Batterie de lasers ATS	2
+C-10 Canister Rifle	C-10 Canister Rifle	1
+C-10 Canister Rifle	Fusil de précision C-10	1
+-~A~%	-~A~%	8
+-~A~%	- ~A~%	2
+Longbolt Missile	Longbolt Missile	3
+Longbolt Missile	Missile Flèche	2
+Needle Spines	Needle Spines	3
+Needle Spines	Aiguillons perforants	2
+Punisher Grenades	Punisher Grenades	4
+Punisher Grenades	Grenades Punition	2
+Burrow	Burrow	2
+Burrow	Enfouir	3
+Unburrow	Unburrow	1
+Unburrow	Déterrer	1
+Caustic Spray	Caustic Spray	1
+Caustic Spray	Projection caustique	1
+F.A.S.T. Overload	F.A.S.T. Overload	2
+F.A.S.T. Overload	Surcharge de V.I.T.E.	2
+H.U.G.S. Overload	H.U.G.S. Overload	2
+H.U.G.S. Overload	Surcharge d’A.M.I.S.	2
+J.U.I.C.E. Overload	J.U.I.C.E. Overload	2
+J.U.I.C.E. Overload	Surcharge de S.A.U.C.E.	2
+Root	Root	2
+Root	Enraciner	2
+Uproot	Uproot	2
+Uproot	Déraciner	2
+Cancel	Annuler	9
+Cancel	Cancel	1
+Explode	Explode	1
+Explode	Exploser	1
+Mutated over a Vespene Geyser to allow harvesting of vespene gas.	Se transforme sur un geyser de vespène pour permettre la collecte du gaz.	1
+Mutated over a Vespene Geyser to allow harvesting of vespene gas.	À faire muter au-dessus d’un geyser de vespène pour permettre la collecte du gaz.	1
+Burrowed	Enfoui	8
+Burrowed	Enfouie	1
+Needle Claws	Needle Claws	1
+Needle Claws	Griffes perforantes	1
+Parasite Spore	Parasite Spore	2
+Parasite Spore	Spore parasite	2
+Broodling	Rejeton	1
+Broodling	Vermine	1
+Tractor Beam	Tractor Beam	1
+Tractor Beam	Rayon tracteur	1
+Creep Mend	Creep Mend	1
+Creep Mend	Guérison par mucus	1
+Mend	Mend	1
+Mend	Guérison	5
+Acidic Cloud	Acidic Cloud	1
+Acidic Cloud	Nuage d’acide	1
+Advanced Construction	Advanced Construction	1
+Advanced Construction	Construction avancée	3
+Structure Overcharge	Structure Overcharge	1
+Structure Overcharge	Surcharge de bâtiment	3
+AlarakZealotFrenziedOverload	AlarakZealotFrenziedOverload	1
+AlarakZealotFrenziedOverload	Alarak - Zélote - Élan frénétique	1
+Attack	Attack	3
+Attack	Attaquer	6
+Attack	attaquer	1
+Bio-Mechanical Transfusion	Bio-Mechanical Transfusion	1
+Bio-Mechanical Transfusion	Transfusion biomécanique	2
+Broken Drakken Laser Drill	Broken Drakken Laser Drill	1
+Broken Drakken Laser Drill	Foreuse laser Drakken cassée	1
+Broken Solar Forge	Broken Solar Forge	1
+Broken Solar Forge	Forge solaire cassée	1
+Build Railgun Turret	Build Railgun Turret	1
+Build Railgun Turret	Construire une tourelle électromagnétique	2
+Arsenal Overcharge	Arsenal Overcharge	2
+Arsenal Overcharge	Surcharge d’assaut	2
+Solar Cannon	Solar Cannon	1
+Solar Cannon	Canon solarien	1
+Cloaking Field	Cloaking Field	2
+Cloaking Field	Champ de camouflage	3
+Spawn Swarm	Spawn Swarm	1
+Spawn Swarm	Générer un essaim	1
+Corrosive Acid	Corrosive Acid	1
+Corrosive Acid	Acide corrosif	2
+Cyclone Wreckage	Cyclone Wreckage	1
+Cyclone Wreckage	Débris de Cyclone	1
+Damaged Evolution Pit	Damaged Evolution Pit	1
+Damaged Evolution Pit	Fosse d’évolution endommagée	2
+DarkPylonMorph	DarkPylonMorph	1
+DarkPylonMorph	Transformation de pylône noir	1
+Blink	Blink	1
+Blink	Transfert	2
+Devour	Devour	1
+Devour	Assimiler	1
+Intimidating Roar	Intimidating Roar	1
+Intimidating Roar	Grognement d’intimidation	4
+Leap	Leap	1
+Leap	Bond	1
+Primal Regeneration	Primal Regeneration	1
+Primal Regeneration	Régénération primordiale	2
+Primal Mutation	Primal Mutation	1
+Primal Mutation	Mutation primordiale	1
+Swipe	Swipe	1
+Swipe	Balayage	1
+Barrage of Spikes	Barrage of Spikes	1
+Barrage of Spikes	Barrage d’aiguillons	3
+Deploy Spider Mines	Deploy Spider Mines	2
+Deploy Spider Mines	Déploiement des mines araignées	2
+Diamondback Wreckage	Diamondback Wreckage	1
+Diamondback Wreckage	Débris de Crotale	1
+Drakken Laser Drill Attack	Drakken Laser Drill Attack	1
+Drakken Laser Drill Attack	Attaque de la foreuse laser Drakken	2
+Drakken Laser Drill Power Up	Drakken Laser Drill Power Up	1
+Drakken Laser Drill Power Up	Foreuse laser Drakken - Alimenter	1
+Select Payload	Select Payload	1
+Select Payload	Sélectionner le convoi	1
+EMP	EMP	7
+EMP	IEM	2
+Reclamation	Reclamation	2
+Reclamation	Réquisition	6
+Evolve to Brutalisk	Evolve to Brutalisk	1
+Evolve to Brutalisk	Transformer en brutalisk	4
+Feedback	Feedback	4
+Feedback	Répercussion	1
+Solarite Flare	Solarite Flare	1
+Solarite Flare	Éruption solarienne	1
+Psionic Transfer	Psionic Transfer	1
+Psionic Transfer	Transfert psi	1
+Goliath Wreckage	Goliath Wreckage	1
+Goliath Wreckage	Débris de Goliath	1
+Headbutt	Headbutt	1
+Headbutt	Coup de tête	1
+Jump Jet Assault	Jump Jet Assault	1
+Jump Jet Assault	Assaut aérien	1
+Hellbat Wreckage	Hellbat Wreckage	1
+Hellbat Wreckage	Débris de Nettoyeur	1
+Hellion Wreckage	Hellion Wreckage	1
+Hellion Wreckage	Débris de Tourmenteur	1
+Instant Seeker Missile	Instant Seeker Missile	2
+Instant Seeker Missile	Missile à tête chercheuse instantané	1
+Maelstrom	Maelstrom	1
+Maelstrom	Maelström	4
+Assimilation Aura	Assimilation Aura	1
+Assimilation Aura	Aura d’assimilation	2
+Leap Attack	Leap Attack	1
+Leap Attack	Bond offensif	1
+Mammoth Beam	Mammoth Beam	1
+Mammoth Beam	Rayon infernal	1
+Mammoth Breath	Mammoth Breath	1
+Mammoth Breath	Souffle infernal	1
+Mass Merc Drop	Mass Merc Drop	2
+Mass Merc Drop	Largage en masse de mercenaires	1
+Oppressive Stench	Oppressive Stench	1
+Oppressive Stench	Pestilence oppressante	2
+Nuke	Nuke	5
+Nuke	Bombe nucléaire	1
+Phase Cannon	Phase Cannon	1
+Phase Cannon	Canon phasique	1
+Shadow Blade	Shadow Blade	1
+Shadow Blade	Lame de l’ombre	1
+Terrifying Gobble	Terrifying Gobble	1
+Terrifying Gobble	Gloubbels terrifiant	2
+Reanimate	Reanimate	2
+Reanimate	Réanimer	1
+Wake Up!	Wake Up!	1
+Wake Up!	Au boulot !	1
+Nova Griffin Bombing Run Activate	Nova Griffin Bombing Run Activate	1
+Nova Griffin Bombing Run Activate	Activer le Raid aérien du Griffon de Nova	1
+Nova Odin Annihilate	Nova Odin Annihilate	1
+Nova Odin Annihilate	Nova - Odin - Annihilation	1
+Penetrator Round	Penetrator Round	1
+Penetrator Round	Balle perforante	1
+Dash Attack	Dash Attack	1
+Dash Attack	Lame éclair	1
+Nova Snipe Active	Nova Snipe Active	1
+Nova Snipe Active	Tir de précision de Nova actif	1
+Odin Dash Attack	Odin Dash Attack	1
+Odin Dash Attack	Odin - Attaque éclair	1
+Phasing Mode	Phasing Mode	1
+Phasing Mode	Mode Phasique	1
+PrimalHydraliskToMutalisk	PrimalHydraliskToMutalisk	1
+PrimalHydraliskToMutalisk	Hydralisk primordial -> Mutalisk primordial	1
+Corrosive Bile	Corrosive Bile	1
+Corrosive Bile	Bile corrosive	1
+RedstoneSalamanderFireball	RedstoneSalamanderFireball	1
+RedstoneSalamanderFireball	Pierre-Rouge - Salamandre - Boule de feu	1
+RedstoneSalamanderFirebreath	RedstoneSalamanderFirebreath	1
+RedstoneSalamanderFirebreath	Pierre-Rouge - Salamandre - Souffle de feu	1
+RedstoneSalamanderTunnel	RedstoneSalamanderTunnel	1
+RedstoneSalamanderTunnel	Pierre-Rouge - Salamandre - Tunnel	1
+Repair Solar Forge	Repair Solar Forge	1
+Repair Solar Forge	Réparer la forge solaire	1
+SIBarracksTrainAberration	SIBarracksTrainAberration	1
+SIBarracksTrainAberration	SI - Caserne - Formation d’aberration	1
+SIBarracksTrainInfestedCivilian	SIBarracksTrainInfestedCivilian	1
+SIBarracksTrainInfestedCivilian	SI - Caserne - Formation de civil contaminé	1
+SIBarracksTrainInfestedMarine	SIBarracksTrainInfestedMarine	1
+SIBarracksTrainInfestedMarine	SI - Caserne - Formation de marine contaminé	1
+Cluster Rockets	Cluster Rockets	1
+Cluster Rockets	Roquettes à fragmentation	1
+Fungal Growth	Fungal Growth	4
+Fungal Growth	Croissance fongique	3
+Snare	Snare	1
+Snare	Piège	2
+Shadow Fury	Shadow Fury	1
+Shadow Fury	Fureur de l’ombre	2
+Void Stasis	Void Stasis	1
+Void Stasis	Stase du Vide	3
+Structure Barrier	Structure Barrier	1
+Structure Barrier	Barrière de bâtiment	1
+Siege Tank Wreckage	Siege Tank Wreckage	1
+Siege Tank Wreckage	Débris du char de siège	2
+Spawn Toxic Nest	Spawn Toxic Nest	1
+Spawn Toxic Nest	Générer un Nid toxique	1
+Spew	Spew	1
+Spew	Crachat	2
+Stimpack	Stimpack	1
+Stimpack	Stimulants	3
+Stukov Coop Spawn Volatile Terrans	Stukov Coop Spawn Volatile Terrans	1
+Stukov Coop Spawn Volatile Terrans	Stukov - Coop - Génération de Terrans instables	1
+Stukov Infested Wild Mutation	Stukov Infested Wild Mutation	1
+Stukov Infested Wild Mutation	Stukov - Contaminé - Mutation sauvage	1
+Devil Dogs	Devil Dogs	1
+Devil Dogs	Les Chiens d’enfer	5
+Hammer Securities	Hammer Securities	1
+Hammer Securities	Marteau Sécurité	4
+Siege Breakers	Siege Breakers	1
+Siege Breakers	Les Briseurs de siège	4
+Skibis Angels	Skibis Angels	1
+Skibis Angels	Les Anges de Skibi	2
+Tentacle Attack	Tentacle Attack	1
+Tentacle Attack	Attaque de tentacule	1
+TerrazineNode On	TerrazineNode On	1
+TerrazineNode On	Filon de terrazine activé	1
+TerrazineNode Off	TerrazineNode Off	1
+TerrazineNode Off	Filon de terrazine désactivé	1
+Transport Mode	Transport Mode	1
+Transport Mode	Mode Transport	1
+Calldown Odin	Calldown Odin	1
+Calldown Odin	Intervention du Odin	2
+Nuclear Strike	Nuclear Strike	1
+Nuclear Strike	Frappe nucléaire	1
+Demolition Charge	Demolition Charge	1
+Demolition Charge	Charge explosive	2
+Shredder Grenade	Shredder Grenade	1
+Shredder Grenade	Grenade déchiqueteuse	1
+Ultrasonic Pulse	Ultrasonic Pulse	1
+Ultrasonic Pulse	Impulsion ultra-sonique	1
+Void Shard ACDeath Grip	Void Shard ACDeath Grip	1
+Void Shard ACDeath Grip	Fragment du Vide - AC - Étreinte mortelle	1
+Void Shard ACShockwave	Void Shard ACShockwave	1
+Void Shard ACShockwave	Fragment du Vide - AC - Onde de choc	1
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	2
+Void Shard ACUnstable Energy	Fragment du Vide - AC - Énergie instable	1
+Void Shard ACUnstable Energy	Fragment du Vide - CA - Énergie instable	1
+Void Shard ACVoid Zone	Void Shard ACVoid Zone	3
+Void Shard ACVoid Zone	Fragment du Vide - AC - Zone de Vide	1
+Void Sliver AC Unstable Energy	Void Sliver AC Unstable Energy	2
+Void Sliver AC Unstable Energy	Éclat du Vide - CA - Énergie instable	2
+Ground Missile Volley	Ground Missile Volley	1
+Ground Missile Volley	Salve de missiles terrestres	1
+Wormhole Mode	Wormhole Mode	1
+Wormhole Mode	Mode trou de ver	1
+ZeratulWarpPrismBlink	ZeratulWarpPrismBlink	2
+ZeratulWarpPrismBlink	Zeratul - Prisme de transfert - Transfert	1
+Psionic Blast	Psionic Blast	1
+Psionic Blast	Explosion psi	1
+Psionic Gale	Psionic Gale	1
+Psionic Gale	Rafale psionique	2
+Leviathan	Couvée léviathan	17
+Leviathan	Léviathan	3
+Cloak	Camouflage	5
+Cloak	Cloak	1
+Dark Templar Recalling	Templier noir - Rappelé	1
+Dark Templar Recalling	Dark Templar Recalling	1
+Laser Drill Tripod Overload	Surcharge de tripod de foreuse laser	1
+Laser Drill Tripod Overload	Laser Drill Tripod Overload	1
+Plague	Plague	1
+Plague	Peste	2
+Personal Defensive Matrix	Personal Defensive Matrix	1
+Personal Defensive Matrix	Matrice défensive personnelle	2
+On Death Controller	Contrôleur à la mort	1
+On Death Controller	On Death Controller	1
+On Death Vorazun Recall On Death Recently Recalled	À la mort - Vorazun - Rappel à la mort - Rappelé récemment	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+Spectre Domination	Domination de spectre	1
+Spectre Domination	Spectre Domination	7
+Stukov Aleksander Air Attack Stun	Stukov - Aleksander - Attaque aérienne - Étourdissement	1
+Stukov Aleksander Air Attack Stun	Stukov Aleksander Air Attack Stun	1
+Infested Swarm	Infested Swarm	1
+Infested Swarm	Essaim contaminé	1
+Symb Create Controller	Commande de création de symbiote	1
+Symb Create Controller	Symb Create Controller	1
+Void Shard ACDamage Field Debuff	Fragment du Vide - Dégâts CA - Champ - Affaiblissement	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+Envenomed Spines	Aiguillons envenimés	2
+Envenomed Spines	Envenomed Spines	1
+Generate Creep	Generate Creep	1
+Generate Creep	Générer du mucus	1
+Auto Inject Larva	Auto-injecter une larve	2
+Auto Inject Larva	Auto Inject Larva	3
+Swoop	Swoop	1
+Swoop	Rapace	1
+Disintegration	Disintegration	1
+Disintegration	Désintégration	2
+Frenzy	Frenzy	1
+Frenzy	Frénésie	1
+Lock On	Lock On	1
+Lock On	Verrouiller	1
+Queen of Blades	La reine des Lames	1
+Queen of Blades	Reine des Lames	1
+Neural Parasite	Neural Parasite	1
+Neural Parasite	Parasite neural	6
+Orbital Strike	Frappe orbitale	2
+Orbital Strike	Soutien orbital	1
+Time Stop	Time Stop	1
+Time Stop	Arrêt du temps	1
+<c val="ffff8a">Mirages</c> gain +2 range.	Les <c val="ffff8a">mirages</c> gagnent +2 en portée.	1
+<c val="ffff8a">Mirages</c> gain +2 range.	Les <c val="ffff8a">mirages</c> gagnent +2 point en portée.	1
+Builds Interdictors that automatically bomb enemy ground units for <d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c> damage.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	Construit des interdicteurs qui bombardent automatiquement les unités terrestres adverses et leur infligent <d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">points de dégâts (+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c>.<n/><n/><c val="#ColorAttackInfo"> Peuvent attaquer les unités terrestres.</c>	1
+Builds Interdictors that automatically bomb enemy ground units for <d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff">(+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c> damage.<n/><n/><c val="#ColorAttackInfo">Can attack ground units.</c>	Construit des interdicteurs qui bombardent automatiquement les unités terrestres adverses et leur infligent <d ref="Effect,FenixClolarionBomberDamage,Amount - Effect,FenixNetworkedSuperiorityCarrier,Amount"/> <c val="00ffff"> points de dégâts (+<d ref="Effect,FenixNetworkedSuperiorityCarrier,Amount" precision="1"/>)</c>.<n/><n/><c val="#ColorAttackInfo">Peuvent attaquer les unités terrestres.</c>	1
+Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>	Fait flotter l’unité ciblée dans les airs, désactivant ses capacités. L’effet peut durer jusqu’à <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Les unités lourdes sont immunisées.</c>	1
+Makes the target unit float in the air, disabling its abilities. Effect lasts up to <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Massive units are immune.</c>	Fait flotter l’unité ciblée dans les airs, désactivant ses capacités. L’effet dure <d time="10"/>.<n/><n/><c val="#ColorAttackInfo">Les unités lourdes sont immunisées.</c>	1
+Siege Tanks gain +40 attack damage while in Siege Mode. Splash damage remains the same.	Confère au char de siège +40 points de dégâts en mode Siège. Les dégâts de zone ne sont pas modifiés.	1
+Siege Tanks gain +40 attack damage while in Siege Mode. Splash damage remains the same.	Confère +40 points de dégâts au char de siège en mode Siège. Les dégâts de zone ne son pas modifiés.	1
+Dominion covert operative. Can equip and use a variety of weapons and gear.<n/><n/><c val="#ColorAttackInfo">Can attack different enemy units based on weaponry.</c>	Agent spécial du Dominion qui a recours à une grande variété d’armes et d’équipement.<n/><n/><c val="#ColorAttackInfo">Peut attaquer différentes unités ennemies suivant son armement.</c>	1
+Dominion covert operative. Can equip and use a variety of weapons and gear.<n/><n/><c val="#ColorAttackInfo">Can attack different enemy units based on weaponry.</c>	Agent spécial du Dominion. Peut utiliser une large variété d’armes et d’équipement.<n/><n/><c val="#ColorAttackInfo">Peut attaquer différentes unités armées.</c>	1
+Primary defensive structure.<n/><n/><c val="ffff8a">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>	Principal bâtiment défensif.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c><n/><c val="FFE303">Détecteur</c>	1
+Primary defensive structure.<n/><n/><c val="ffff8a">Can attack ground and air units.</c><n/><c val="FFE303">Detector</c>	Bâtiment défensif principal.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c><n/><c val="FFE303">Détecteur</c>	3
+Enables warp in of Protoss robotic units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Immortals<n/>- Observers	Permet de transférer des unités robotiques protoss.<n/><n/><c val="ffff8a">Débloque :</c><n/>- Immortel<n/>- Observateur	1
+Enables warp in of Protoss robotic units.<n/><n/><c val="ffff8a">Enables:</c><n/>- Immortals<n/>- Observers	Permet le transfert des unités robotiques protoss.<n/><n/><c val="ffff8a">Débloque :</c><n/>- Immortel<n/>- Observateur	1
+Heavy tank. Can root itself to provide long-range artillery support by consuming Infested infantry units. Can use the Deep Tunnel ability to travel quickly to any visible location with creep.<n/><n/><c val="FFFF8A">Can attack ground units.</c>	Char lourd. Peut s’enraciner pour servir d’artillerie à longue portée en consommant des unités d’infanterie contaminées. Peut également utiliser Tunnel profond pour se déplacer rapidement vers tout emplacement visible et couvert de mucus.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres.</c>	1
+Heavy tank. Can root itself to provide long-range artillery support by consuming Infested infantry units. Can use the Deep Tunnel ability to travel quickly to any visible location with creep.<n/><n/><c val="FFFF8A">Can attack ground units.</c>	Char lourd contaminé. Peut s’enraciner pour servir d’artillerie à longue portée en consommant des unités d’infanterie contaminées. Peut également utiliser Tunnel profond pour se déplacer rapidement vers tout emplacement visible et couvert de mucus.<n/><n/><c val="FFFF8A">Peut attaquer les unités terrestres.</c>	1
+Tal'darim	Tal’darim	7
+Tal'darim	Forgés	9
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	3
+ACPirate Capital Ship Tractor Beam	CA - Vaisseau amiral pirate - Rayon tracteur	1
+Mastery Artanis Guardian Shell Heal	Mastery Artanis Guardian Shell Heal	1
+Mastery Artanis Guardian Shell Heal	Artanis - Maîtrise - Cuirasse protectrice - Soins	1
+Queen Classic Dummy Weapon	Queen Classic Dummy Weapon	1
+Queen Classic Dummy Weapon	Arme leurre classique de reine	1
+Void Shard	Void Shard	1
+Void Shard	Fragment du Vide	2
+Warbot Dummy Weapon	Warbot Dummy Weapon	1
+Warbot Dummy Weapon	Arme leurre de robot guerrier	1
+ZeratulSuppressionCrystalDummyWeapon	ZeratulSuppressionCrystalDummyWeapon	1
+ZeratulSuppressionCrystalDummyWeapon	Cristal de neutralisation du Vide - Leurre - Arme	1
+~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.	~STDTOOLTIP~<c val="FFFF8A">Maîtrise :</c> énergie initiale et maximale augmentées de <c val="FFFF8A">~ENERGY~</c> points.	1
+~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.	~STDTOOLTIP~<c val="FFFF8A">Maîtrise :</c> énergie initiale et maximale augmentés de <c val="FFFF8A">~ENERGY~</c> points.	1
+~STDTOOLTIP~<c val="FFFF8A">Mastery:</c> Starting and maximum energy increased by <c val="FFFF8A">~ENERGY~</c>.	~STDTOOLTIP~<c val="FFFF8A">Maîtrise :</c> énergie initiale et maximale augmentée de <c val="FFFF8A">~ENERGY~</c> points.	1
+Joeyray's Bar	le Joeyray	2
+Joeyray's Bar	Le Joeyray	1
+Terran Ship Weapons Level 2	Armes vaisseau terran - Niv. 2	1
+Terran Ship Weapons Level 2	Armes vaisseaux terrans - Niv. 2	1
+Terran Ship Weapons Level 1	Armes vaisseau terran - Niv. 1	1
+Terran Ship Weapons Level 1	Armes vaisseaux terrans - Niv. 1	1
+Talis not Active	Taldarin non activé	1
+Talis not Active	Talis non activée	1
+Normal	Normaux	1
+Normal	Normal	3
+Normal	Normale	5
+Shields	Shields	1
+Shields	Boucliers	1
+Reaper Spider Mines	Reaper Spider Mines	1
+Reaper Spider Mines	Faucheur - Mines araignées	1
+-~A~ Seconds	- ~A~ secondes	5
+-~A~ Seconds	-~A~ secondes	1
+-~A~ Seconds	- ~A~ secondes	1
+-~A~% Cost	Coût -~A~%	1
+-~A~% Cost	-~A~%	1
+Custom	Personnaliser	1
+Custom	Personnalisée	1
+Custom	Personnalisé	2
+Backlash Rockets	Backlash Rockets	3
+Backlash Rockets	Roquettes Contrecoup	2
+Psionic Shockwave	Psionic Shockwave	1
+Psionic Shockwave	Onde de choc psionique	1
+Interceptors	Interceptors	2
+Interceptors	Intercepteurs	1
+Psi Blades	Psi Blades	1
+Psi Blades	Lames psi	1
+Talons	Talons	2
+Talons	Serres	1
+Warp Blades	Warp Blades	1
+Warp Blades	Trans-lames	1
+Phase Disruptors	Phase Disruptors	1
+Phase Disruptors	Disrupteurs de phase	1
+Giant EMP	Giant EMP	7
+Giant EMP	IEM géante	2
+Hover Siege Mode	Hover Siege Mode	1
+Hover Siege Mode	Mode Char de siège volant	2
+Hover Unsiege	Hover Unsiege	1
+Hover Unsiege	Supprimer le mode Char de siège volant	1
+Toggle Detection/Vision Mode	Toggle Detection/Vision Mode	1
+Toggle Detection/Vision Mode	Passage en mode Détection/Vision	1
+Create Trip Wire Medium	Create Trip Wire Medium	1
+Create Trip Wire Medium	Créer un détecteur moyen	1
+Create Trip Wire Small	Create Trip Wire Small	1
+Create Trip Wire Small	Créer un petit détecteur	1
+Launch Alarm Bot	Launch Alarm Bot	1
+Launch Alarm Bot	Activer le robot d’alerte	1
+Launch Sonar Drone	Launch Sonar Drone	2
+Launch Sonar Drone	Activer le drone à sonar	1
+Warp Out	Warp Out	1
+Warp Out	Transfert de départ	1
+Sonar Ping	Sonar Ping	1
+Sonar Ping	Impulsion sonore du sonar	1
+Target EMP	Target EMP	1
+Target EMP	IEM ciblée	1
+Target Enemy	Target Enemy	1
+Target Enemy	Ennemi ciblé	1
+Death Laser	Death Laser	1
+Death Laser	Laser exterminateur	3
+Musashi Beam	Musashi Beam	2
+Musashi Beam	Rayon Musashi	2
+Nuke Launcher	Nuke Launcher	1
+Nuke Launcher	Lance-missiles nucléaires	2
+Zerg DNA	Zerg DNA	1
+Zerg DNA	ADN zerg	1
+Sensor Alternate Drone Missile	Sensor Alternate Drone Missile	1
+Sensor Alternate Drone Missile	Drone de détection alternatif - Trajectoire	1
+Sensor Drone Cloak	Sensor Drone Cloak	1
+Sensor Drone Cloak	Drone de détection - Camouflage	2
+Sensor Drone Lock On	Sensor Drone Lock On	1
+Sensor Drone Lock On	Drone de détection - Verrouillage	2
+Lay Mine	Lay Mine	1
+Lay Mine	Poser une mine	1
+Sensor Drone Cloak Field	Drone de détection - Champ de camouflage	1
+Sensor Drone Cloak Field	Sensor Drone Cloak Field	1
+Suppress Attack (1s)	Contenir l’attaque (1 s)	1
+Suppress Attack (1s)	Suppress Attack (1s)	1
+D-8 Charge	D-8 Charge	2
+D-8 Charge	Charges de D-8	1
+Hover Hellbat	Nettoyeur volant	2
+Hover Hellbat	Hover Hellbat	1
+NovaXanthosLaserFire	Nova - Xanthos - Tir laser	1
+NovaXanthosLaserFire	NovaXanthosLaserFire	1
+None	Aucun	8
+None	Aucune	1
+None	None	2
+None	Jamais	1
+Medium	Moyen	5
+Medium	Moyenne	1
+Manned Turret	Manned Turret	1
+Manned Turret	Tourelle contrôlée	2
+Low	Faible	2
+Low	Bas	1
+Low	Basse	2
+Rick Wasserman	Patrick Melennec	1
+Rick Wasserman	Paul Borne	1
+Patrick Seitz	Cédric Dumond	2
+Patrick Seitz	Martial Le Minoux	1
+Fred Tatasciore	Patrick Melennec	2
+Fred Tatasciore	Pierre Dourlens	1
+Armin Shimerman	Martial Le Minoux	2
+Armin Shimerman	François Siener	1
+Nika Futterman	Stéphanie Hedin	1
+Nika Futterman	Malvina Lesser	1
+Nika Futterman	Marie Zidi	1
+Shoulder	Épaule	1
+Shoulder	Shoulder	1
+Play	Lecture	2
+Play	Jouer	2
+All	Tout	2
+All	Toutes	1
+Suit	Tenue	1
+Suit	Combinaison	2
+New	Nouveau	1
+New	<lang rule="gender" word="%productType%">Nouveau,Nouvelle</lang>	1
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	Explosifs mobiles qui pourchassent les unités ennemies pénétrant dans leur rayon de détection, puis qui explosent en infligeant d’importants dégâts de zone.	2
+Deployable explosives that chase enemy units that enter their targeting range and then explode for heavy area damage.	Explosifs mobiles qui traquent les ennemis pénétrant dans leur rayon de détection et infligent de lourds dégâts de zone à l’explosion. Remplace Missiles à tête chercheuse.	1
+Erris Temple Door	Erris Temple Door	5
+Erris Temple Door	Porte du temple d’Erris	4
+Lightning Shooter	Lightning Shooter	1
+Lightning Shooter	Tireur de foudre	2
+Lightning Shooter Dummy	Lightning Shooter Dummy	1
+Lightning Shooter Dummy	Tireur de foudre - Leurre	1
+Malash Channel	Malash Channel	1
+Malash Channel	Ma’lash - Canalisation	1
+Prologue Fissure Breach	Prologue Fissure Breach	1
+Prologue Fissure Breach	Ouverture de fissure - Prologue	2
+Prologue Fissure Unbreach	Prologue Fissure Unbreach	1
+Prologue Fissure Unbreach	Fermeture de fissure - Prologue	1
+Shadow Missile	Shadow Missile	1
+Shadow Missile	Missile d’ombre	1
+Void Catalyst Morph to Stage 2	Void Catalyst Morph to Stage 2	1
+Void Catalyst Morph to Stage 2	Catalyseur du Vide - Transformation - Phase 2	1
+Void Catalyst Morph to Stage 3	Void Catalyst Morph to Stage 3	1
+Void Catalyst Morph to Stage 3	Catalyseur du Vide - Transformation - Phase 3	1
+Shadow Strike	Attaque d’ombre	1
+Shadow Strike	Attaque d'ombre	1
+Aggressive Mutation	Aggressive Mutation	1
+Aggressive Mutation	Mutation agressive	2
+Cloaking Drone	Cloaking Drone	1
+Cloaking Drone	Drone de camouflage	1
+Corruption Bomb	Corruption Bomb	1
+Corruption Bomb	Bombe de corruption	1
+Dark Swarm	Dark Swarm	1
+Dark Swarm	Essaim noir	2
+Grapple	Grapple	1
+Grapple	Grappin	1
+Impale	Impale	1
+Impale	Empaler	1
+Lurker Hold Fire	Lurker Hold Fire	2
+Lurker Hold Fire	Rôdeur - Cesser le feu	1
+Morph To Devourer	Morph To Devourer	1
+Morph To Devourer	Transformer en dévoreur	1
+Morph To Ravager	Morph To Ravager	1
+Morph To Ravager	Transformer en saccageur	1
+Oracle Phase Shift	Oracle Phase Shift	1
+Oracle Phase Shift	Déphasage de l’Oracle	2
+Overcharge	Overcharge	1
+Overcharge	Surcharge	3
+Parasitic Bomb	Parasitic Bomb	5
+Parasitic Bomb	Bombe parasitaire	2
+Penetrating Shot	Penetrating Shot	1
+Penetrating Shot	Tir perforant	1
+Port City Bridge Unit E10	Port City Bridge Unit E10	1
+Port City Bridge Unit E10	Ville portuaire - Passerelle - E10	1
+Port City Bridge Unit E10 Out	Port City Bridge Unit E10 Out	1
+Port City Bridge Unit E10 Out	Ville portuaire - Pont - E10 (extérieur)	1
+Port City Bridge Unit E12	Port City Bridge Unit E12	1
+Port City Bridge Unit E12	Ville portuaire - Passerelle - E12	1
+Port City Bridge Unit E12 Out	Port City Bridge Unit E12 Out	1
+Port City Bridge Unit E12 Out	Ville portuaire - Passerelle - E12 (déployée)	1
+Port City Bridge Unit E8	Port City Bridge Unit E8	1
+Port City Bridge Unit E8	Ville portuaire - Passerelle - E8	1
+Port City Bridge Unit E8 Out	Port City Bridge Unit E8 Out	1
+Port City Bridge Unit E8 Out	Ville portuaire - Pont - E8 (extérieur)	1
+Port City Bridge Unit N10	Port City Bridge Unit N10	1
+Port City Bridge Unit N10	Ville portuaire - Passerelle - N10	1
+Port City Bridge Unit N10 Out	Port City Bridge Unit N10 Out	1
+Port City Bridge Unit N10 Out	Ville portuaire - Passerelle - N10 (déployée)	1
+Port City Bridge Unit N12	Port City Bridge Unit N12	1
+Port City Bridge Unit N12	Ville portuaire - Passerelle - N12	1
+Port City Bridge Unit N12 Out	Port City Bridge Unit N12 Out	1
+Port City Bridge Unit N12 Out	Ville portuaire - Passerelle - N12 (déployée)	1
+Port City Bridge Unit N8	Port City Bridge Unit N8	1
+Port City Bridge Unit N8	Ville portuaire - Passerelle - N8	1
+Port City Bridge Unit N8 Out	Port City Bridge Unit N8 Out	1
+Port City Bridge Unit N8 Out	Ville portuaire - Passerelle - N8 (déployée)	1
+Port City Bridge Unit NE10	Port City Bridge Unit NE10	1
+Port City Bridge Unit NE10	Ville portuaire - Passerelle - NE10	1
+Port City Bridge Unit NE10 Out	Port City Bridge Unit NE10 Out	1
+Port City Bridge Unit NE10 Out	Ville portuaire - Passerelle - NE10 (déployée)	1
+Port City Bridge Unit NE12	Port City Bridge Unit NE12	1
+Port City Bridge Unit NE12	Ville portuaire - Passerelle - NE12	1
+Port City Bridge Unit NE12 Out	Port City Bridge Unit NE12 Out	1
+Port City Bridge Unit NE12 Out	Ville portuaire - Passerelle - NE12 (déployée)	1
+Port City Bridge Unit NE8	Port City Bridge Unit NE8	1
+Port City Bridge Unit NE8	Ville portuaire - Passerelle - NE8	1
+Port City Bridge Unit NE8 Out	Port City Bridge Unit NE8 Out	1
+Port City Bridge Unit NE8 Out	Ville portuaire - Passerelle - NE8 (déployée)	1
+Port City Bridge Unit NW10	Port City Bridge Unit NW10	1
+Port City Bridge Unit NW10	Ville portuaire - Passerelle - NO10	1
+Port City Bridge Unit NW10 Out	Port City Bridge Unit NW10 Out	1
+Port City Bridge Unit NW10 Out	Ville portuaire - Passerelle - NO10 (déployée)	1
+Port City Bridge Unit NW12	Port City Bridge Unit NW12	1
+Port City Bridge Unit NW12	Ville portuaire - Passerelle - NO12	1
+Port City Bridge Unit NW12 Out	Port City Bridge Unit NW12 Out	1
+Port City Bridge Unit NW12 Out	Ville portuaire - Passerelle - NO12 (déployée)	1
+Port City Bridge Unit NW8	Port City Bridge Unit NW8	1
+Port City Bridge Unit NW8	Ville portuaire - Passerelle - NO8	1
+Port City Bridge Unit NW8 Out	Port City Bridge Unit NW8 Out	1
+Port City Bridge Unit NW8 Out	Ville portuaire - Passerelle - NO8 (déployée)	1
+Port City Bridge Unit S10	Port City Bridge Unit S10	1
+Port City Bridge Unit S10	Ville portuaire - Passerelle - S10	1
+Port City Bridge Unit S10 Out	Port City Bridge Unit S10 Out	1
+Port City Bridge Unit S10 Out	Ville portuaire - Passerelle - S10 (déployée)	1
+Port City Bridge Unit S12	Port City Bridge Unit S12	1
+Port City Bridge Unit S12	Ville portuaire - Passerelle - S12	1
+Port City Bridge Unit S12 Out	Port City Bridge Unit S12 Out	1
+Port City Bridge Unit S12 Out	Ville portuaire - Passerelle - S12 (déployée)	1
+Port City Bridge Unit S8	Port City Bridge Unit S8	1
+Port City Bridge Unit S8	Ville portuaire - Passerelle - S8	1
+Port City Bridge Unit S8 Out	Port City Bridge Unit S8 Out	1
+Port City Bridge Unit S8 Out	Ville portuaire - Passerelle - S8 (déployée)	1
+Port City Bridge Unit SE10	Port City Bridge Unit SE10	1
+Port City Bridge Unit SE10	Ville portuaire - Passerelle - SE10	1
+Port City Bridge Unit SE10 Out	Port City Bridge Unit SE10 Out	1
+Port City Bridge Unit SE10 Out	Ville portuaire - Passerelle - SE10 (déployée)	1
+Port City Bridge Unit SE12	Port City Bridge Unit SE12	1
+Port City Bridge Unit SE12	Ville portuaire - Passerelle - SE12	1
+Port City Bridge Unit SE12 Out	Port City Bridge Unit SE12 Out	1
+Port City Bridge Unit SE12 Out	Ville portuaire - Passerelle - SE12 (déployée)	1
+Port City Bridge Unit SE8	Port City Bridge Unit SE8	1
+Port City Bridge Unit SE8	Ville portuaire - Passerelle - SE8	1
+Port City Bridge Unit SE8 Out	Port City Bridge Unit SE8 Out	1
+Port City Bridge Unit SE8 Out	Ville portuaire - Passerelle - SE8 (déployée)	1
+Port City Bridge Unit SW10	Port City Bridge Unit SW10	1
+Port City Bridge Unit SW10	Ville portuaire - Passerelle - SO10	1
+Port City Bridge Unit SW10 Out	Port City Bridge Unit SW10 Out	1
+Port City Bridge Unit SW10 Out	Ville portuaire - Passerelle - SO10 (déployée)	1
+Port City Bridge Unit SW12	Port City Bridge Unit SW12	1
+Port City Bridge Unit SW12	Ville portuaire - Passerelle - SO12	1
+Port City Bridge Unit SW12 Out	Port City Bridge Unit SW12 Out	1
+Port City Bridge Unit SW12 Out	Ville portuaire - Passerelle - SO12 (déployée)	1
+Port City Bridge Unit SW8	Port City Bridge Unit SW8	1
+Port City Bridge Unit SW8	Ville portuaire - Passerelle - SO8	1
+Port City Bridge Unit SW8 Out	Port City Bridge Unit SW8 Out	1
+Port City Bridge Unit SW8 Out	Ville portuaire - Passerelle - SO8 (déployée)	1
+Port City Bridge Unit W10	Port City Bridge Unit W10	1
+Port City Bridge Unit W10	Ville portuaire - Passerelle - O10	1
+Port City Bridge Unit W10 Out	Port City Bridge Unit W10 Out	1
+Port City Bridge Unit W10 Out	Ville portuaire - Passerelle - O10 (déployée)	1
+Port City Bridge Unit W12	Port City Bridge Unit W12	1
+Port City Bridge Unit W12	Ville portuaire - Passerelle - O12	1
+Port City Bridge Unit W12 Out	Port City Bridge Unit W12 Out	1
+Port City Bridge Unit W12 Out	Ville portuaire - Passerelle - O12 (déployée)	1
+Port City Bridge Unit W8	Port City Bridge Unit W8	1
+Port City Bridge Unit W8	Ville portuaire - Passerelle - O8	1
+Port City Bridge Unit W8 Out	Port City Bridge Unit W8 Out	1
+Port City Bridge Unit W8 Out	Ville portuaire - Passerelle - O8 (déployée)	1
+Queen MPEnsnare	Queen MPEnsnare	1
+Queen MPEnsnare	Piège MP de reine	1
+Release Interceptors	Release Interceptors	2
+Release Interceptors	Largage des intercepteurs	1
+Emergency Repair	Emergency Repair	1
+Emergency Repair	Réparation d’urgence	1
+Essence Leech	Essence Leech	1
+Essence Leech	Drain d’essence	1
+Snow Refinery Terran Extending Bridge NEShort8	Snow Refinery Terran Extending Bridge NEShort8	1
+Snow Refinery Terran Extending Bridge NEShort8	Raffinerie enneigée terrane - Pont rétractable NECourt8	1
+Snow Refinery Terran Extending Bridge NEShort8 Out	Snow Refinery Terran Extending Bridge NEShort8 Out	1
+Snow Refinery Terran Extending Bridge NEShort8 Out	Raffinerie enneigée terrane - Pont rétractable NECourt8 - Déployé	1
+Snow Refinery Terran Extending Bridge NWShort8	Snow Refinery Terran Extending Bridge NWShort8	1
+Snow Refinery Terran Extending Bridge NWShort8	Raffinerie enneigée terrane - Pont rétractable NOCourt8	1
+Snow Refinery Terran Extending Bridge NWShort8 Out	Snow Refinery Terran Extending Bridge NWShort8 Out	1
+Snow Refinery Terran Extending Bridge NWShort8 Out	Raffinerie enneigée terrane - Pont rétractable NOCourt8 - Déployé	1
+Tarsonis Door E	Tarsonis Door E	1
+Tarsonis Door E	Porte de Tarsonis E	1
+Tarsonis Door E Lowered	Tarsonis Door E Lowered	1
+Tarsonis Door E Lowered	Porte de Tarsonis E baissée	1
+Tarsonis Door N	Tarsonis Door N	1
+Tarsonis Door N	Porte de Tarsonis N	1
+Tarsonis Door NE	Tarsonis Door NE	1
+Tarsonis Door NE	Porte de Tarsonis NE	1
+Tarsonis Door NE Lowered	Tarsonis Door NE Lowered	1
+Tarsonis Door NE Lowered	Porte de Tarsonis NE baissée	1
+Tarsonis Door N Lowered	Tarsonis Door N Lowered	1
+Tarsonis Door N Lowered	Porte de Tarsonis N baissée	1
+Tarsonis Door NW	Tarsonis Door NW	1
+Tarsonis Door NW	Porte de Tarsonis NO	1
+Tarsonis Door NW Lowered	Tarsonis Door NW Lowered	1
+Tarsonis Door NW Lowered	Porte de Tarsonis NO baissée	1
+Corruption Bomb (Damage)	Bombe de corruption (Dégâts)	1
+Corruption Bomb (Damage)	Corruption Bomb (Damage)	1
+Release Interceptors Beacon	Largage des intercepteurs - balise	1
+Release Interceptors Beacon	Largage de balise des intercepteurs	1
+Time Stop Stun	Étourdissement par Arrêt du temps	1
+Time Stop Stun	Time Stop Stun	1
+This hallucinated copy functions like the original unit, but it cannot use active abilities, cannot deal damage, and dies more easily. Hallucinations last <d time="60"/> before they disappear.	Cette copie hallucinatoire fonctionne comme l’unité originale, mais ne peut pas utiliser de capacités ni infliger de dégâts, et meurt plus facilement. Les hallucinations durent <d time="60"/> avant de disparaître.	2
+This hallucinated copy functions like the original unit, but it cannot use active abilities, cannot deal damage, and dies more easily. Hallucinations last <d time="60"/> before they disappear.	Cette copie hallucinatoire fonctionne comme l’unité originale, mais ne peut pas utiliser de capacités ou infliger de dégâts, et meurt plus facilement. Les hallucinations durent <d time="60"/> avant de disparaître.	2
+This hallucinated copy functions like the original unit, but it cannot use active abilities, cannot deal damage, and dies more easily. Hallucinations last <d time="60"/> before they disappear.	Cette copie hallucinatoire fonctionne comme l’unité originale, mais ne peut pas utiliser de capacité ni infliger de dégâts, et meurt plus facilement. Les hallucinations durent <d time="60"/> avant de disparaître.	2
+Neutron Flare	Neutron Flare	1
+Neutron Flare	Éruption neutronique	1
+Scout MPAir	Scout MPAir	2
+Scout MPAir	Éclaireur - MP aérien	1
+Scout MPGround	Scout MPGround	1
+Scout MPGround	Éclaireur - MP terrestre	1
+Default	Défaut	2
+Default	Par défaut	2
+Phase Shift	Phase Shift	1
+Phase Shift	Déphasage	2
+Personal Cloaking	Personal Cloaking	1
+Personal Cloaking	Camouflage personnel	1
+Abduct	Abduct	1
+Abduct	Enlèvement	6
+Hidden	Caché	2
+Hidden	Masqué	1
+Hidden	Masqués	1
+Remove	Enlever	1
+Remove	Supprimer	1
+High	Haut	2
+High	Élevée	3
+250mm Strike Cannons	250mm Strike Cannons	1
+250mm Strike Cannons	Canons d’attaque 250 mm	3
+Archon Merge	Archon Merge	1
+Archon Merge	Fusion en archonte	2
+Contaminate	Contaminate	2
+Contaminate	Infecter	1
+Force Field	Force Field	2
+Force Field	Champ de force	2
+Graviton Beam	Graviton Beam	1
+Graviton Beam	Rayon à gravitons	2
+Guardian Shield	Guardian Shield	4
+Guardian Shield	Bouclier gardien	2
+Leech	Leech	7
+Leech	Sangsue	3
+Scanner Sweep	Scanner Sweep	2
+Scanner Sweep	Senseurs	1
+Siphon Life	Siphon Life	1
+Siphon Life	Siphon de vie	1
+Spawn Changeling	Spawn Changeling	1
+Spawn Changeling	Générer un changelin	1
+Spray	Spray	1
+Spray	Pochoir	1
+Spray	Tag	2
+Lower	Lower	1
+Lower	Abaisser	1
+Raise	Raise	1
+Raise	Relever	1
+Temporal Rift	Temporal Rift	1
+Temporal Rift	Faille temporelle	2
+Wormhole Transit	Wormhole Transit	1
+Wormhole Transit	Transit par trou de ver	1
+Move	Déplacer	2
+Move	Se déplacer	1
+Nuclear Launch Detected	Attaque nucléaire détectée	1
+Nuclear Launch Detected	Lancement nucléaire détecté	1
+Combat_Mechanic_KillTransport	Combat_Mécanique_Détruire transport	1
+Combat_Mechanic_KillTransport	Combat_Mechanic_KillTransport	1
+Disguise	Déguiser	1
+Disguise	Disguise	3
+Point Defense Laser	Laser de défense rapprochée	2
+Point Defense Laser	Point Defense Laser	6
+Capital ship. Builds and launches Interceptors that attack enemy targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Vaisseau amiral. Construit et lance des intercepteurs qui attaquent les cibles ennemies.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c>	1
+Capital ship. Builds and launches Interceptors that attack enemy targets.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>	Vaisseau amiral. Construit et déploie des intercepteurs qui attaquent les cibles adverses.<n/><n/><c val="ffff8a">Peut attaquer les unités terrestres et aériennes.</c>	1
+Refineries do not require workers	Les raffineries n’ont besoin d’aucun ouvrier	1
+Refineries do not require workers	Les raffineries n’ont besoin d’aucun ouvrier.	1
+Specialist units have +100 max energy and start with full energy	Le maximum de points de vie des unités spécialisées est augmenté de +100, et elles débutent avec le plein d’énergie	1
+Specialist units have +100 max energy and start with full energy	Le maximum de points de vie des unités spécialisées est augmenté de +100, et elles débutent avec le plein d’énergie.	1
+SCVs can be built two at a time	Possibilité de construire deux VCS simultanément	1
+SCVs can be built two at a time	Possibilité de construire deux VCS simultanément.	1
+The Hyperion's duration is increased	La durée de l’Hypérion est augmentée	1
+The Hyperion's duration is increased	La durée de l’Hypérion est augmentée.	1
+Sheep	Mouton	3
+Sheep	Sheep	1
+These hallucinated copies function like the original unit, but they cannot use active abilities, cannot deal damage, and die more easily. Hallucinations last <d time="60"/> before they disappear.	Ces copies hallucinatoires fonctionnent comme l’unité originale, mais ne peuvent pas utiliser de capacités ou infliger de dégâts, et meurent plus facilement. Les hallucinations durent <d time="60"/> avant de disparaître.	2
+These hallucinated copies function like the original unit, but they cannot use active abilities, cannot deal damage, and die more easily. Hallucinations last <d time="60"/> before they disappear.	Ces copies hallucinatoires fonctionnent comme l’unité originale, mais ne peuvent pas utiliser de capacités ni infliger de dégâts, et meurent plus facilement. Les hallucinations durent <d time="60"/> avant de disparaître.	1
+Increases the speed gained from Chrono Boost.	Augmente le bonus à la vitesse de Poussée temporelle.	2
+Increases the speed gained from Chrono Boost.	Augmente le bonus de vitesse de Poussée temporelle.	3
+Orders selected units to cancel all orders and stop moving.	Ordonne aux unités sélectionnées d’abandonner tous les ordres en cours et de rester immobiles.	1
+Orders selected units to cancel all orders and stop moving.	Ordonne aux unités sélectionnées d’annuler les ordres en cours et de cesser leur déplacement.	3
+Human	Human	1
+Human	Humain	1
+Blair Bess	Pascal Germain	1
+Blair Bess	Marc Alfos	1
+Blair Bess	Benoit Du Pac	1
+Forged	Forgés	78
+Forged	Réplicant	15
+Jim?	Jim ?	1
+Jim?	Jim ?	1
+Events	Évènements	1
+Events	Events	2
+Overview	Overview	1
+Overview	Total	1
+Overview	Vue d’ensemble	2
+Camera Control	Camera Control	1
+Camera Control	Contrôles caméra	1
+Movement	Movement	1
+Movement	Déplacement	1
+Terran Base Construction	Terran Base Construction	1
+Terran Base Construction	Construction de base terrane	1
+Terran Unit Production	Terran Unit Production	1
+Terran Unit Production	Production d’unités terranes	1
+Terran Supply	Terran Supply	1
+Terran Supply	Ravitaillement terran	1
+Broodling Escort	Broodling Escort	1
+Broodling Escort	Escorte de vermines	1
+Interceptor Beam	Interceptor Beam	1
+Interceptor Beam	Rayon de l’Intercepteur	1
+Ion Cannons	Ion Cannons	3
+Ion Cannons	Canon à ions	2
+Particle Beam	Particle Beam	1
+Particle Beam	Rayon à particules	1
+Renegade Longbolt Missile	Renegade Longbolt Missile	3
+Renegade Longbolt Missile	Missile Flèche hostile	2
+Terran Vehicle Plating Level 1	Blindage véhicule terran - Niv. 1	1
+Terran Vehicle Plating Level 1	Blindage véhicules terrans - Niv. 1	1
+Terran Vehicle Weapons Level 1	Armes véhicule terran - Niv. 1	1
+Terran Vehicle Weapons Level 1	Armes véhicules terrans - Niv. 1	1
+Terran Vehicle Plating Level 2	Blindage véhicule terran - Niv. 2	1
+Terran Vehicle Plating Level 2	Blindage véhicules terrans - Niv. 2	1
+Terran Vehicle Weapons Level 2	Armes véhicule terran - Niv. 2	1
+Terran Vehicle Weapons Level 2	Armes véhicules terrans - Niv. 2	1
+Collector's Edition	Édition Collector	7
+Collector's Edition	Édition collector	1
+20 Years of Protoss	20 ans de Protoss	1
+20 Years of Protoss	20 ans de Protoss	1
+20 Years of Terran	20 ans de Terrans	1
+20 Years of Terran	20 ans de Terrans	1
+20 Years of Zerg	20 ans de Zergs	1
+20 Years of Zerg	20 ans de Zergs	1
+Gas	Gas	1
+Gas	Gaz	2
+Rich Minerals	Gisement de minerai riche	1
+Rich Minerals	Gisements de minerai riche	1
+Ok	OK	1
+Ok	Ok	1
+Minerals	Minerals	1
+Minerals	Minerai	2
+Bone	Carapaçonné	1
+Bone	Caparaçonné	1
+Resource Collection	Récolte des ressources	1
+Resource Collection	Collecte des ressources	1
+Resources	Resources	1
+Resources	Ressources	2
+Time Supply Capped	Durée du ravitaillement efficace	1
+Time Supply Capped	Ravitaillement efficace	1
+Idle Production Time	Durée d’inactivité de la production	1
+Idle Production Time	Inactivité de la production	1
+Idle Worker Time	Durée d’inactivité des ouvriers	1
+Idle Worker Time	Inactivité des ouvriers	1
+Vespene Spent	Vespène utilisé	1
+Vespene Spent	Gaz vespène dépensé	1
+Technology Upgrades	Améliorations techno.	1
+Technology Upgrades	Améliorations technologiques	1
+CollectionSkinDeluxe	Modèle de collection : Deluxe	1
+CollectionSkinDeluxe	Collection - Modèle - Deluxe	1
+Garage	Atelier	1
+Garage	Garage	1
+Melee	au contact	1
+Melee	Mêlée	3
+Taunt	Taunt	1
+Taunt	Provocation	1
+Unknown	Unknown	1
+Unknown	Inconnu	6
+File	Fichier	2
+File	File	1
+Light	Lumière	3
+Light	Léger	2
+Team Color	Couleur équipe	1
+Team Color	Couleur d’équipe	1
+Radius	Rayon	1
+Radius	Radius	1
+Time	Durée	1
+Time	Time	1
+Time	Temps	1
+Time	Date	1
+Value	Valeur	2
+Value	Value	2
+Off	Arrêt	1
+Off	Off	1
+Off	Désactivé	4
+On	Marche	1
+On	On	1
+On	Activé	3
+Grid	Grille	3
+Grid	Quadrillage	1
+Replay	Partie enregistrée	2
+Replay	Revoir	1
+Replay	Parties enregistrées	1
+Replay	Rejouer	1
+Clear	Effacer	2
+Clear	Clear	2
+Control	Ctrl	1
+Control	Contrôle	1
+Delete	Suppr	1
+Delete	Supprimer	1
+Delete	Effacer	2
+,	,<sp/>	2
+,	,	2
+Checked	Checked	1
+Checked	Vérifié	1
+Global	Global	2
+Global	Interface	1
+Watch	Watch	1
+Watch	Regarder	1
+Complete	Complete	1
+Complete	Terminé	2
+Credits	Credits	1
+Credits	Générique	1
+Energy	Energy	1
+Energy	Énergie	1
+Height	Height	1
+Height	Hauteur	1
+Kills	Kills	1
+Kills	Tués	1
+Life	Life	1
+Life	Vie	1
+Unknown Player	Unknown Player	1
+Unknown Player	Joueur inconnu	1
+Soundtrack	Soundtrack	1
+Soundtrack	Bande son	1
+Add Friend	Ajouter aux contacts	2
+Add Friend	Ajouter contact	1
+Add Friend	Ajouter un contact	1
+Armor:	Armure :	1
+Armor:	Armure :<sp/>	1
+Enemy Team	Équipe ennemie	1
+Enemy Team	L’équipe ennemie	1
+Enemy Team	Équipe adverse :	1
+Blue Team	Équipe bleue	1
+Blue Team	L’équipe bleue	1
+Red Team	Équipe rouge	1
+Red Team	L’équipe rouge	1
+Your Team	Votre équipe	2
+Your Team	Votre équipe :	1
+Campaign	Campagne	5
+Campaign	CAMPAGNE	1
+ART	ART	4
+ART	IMAGES	1
+ADDITIONAL DEVELOPMENT	ADDITIONAL DEVELOPMENT	3
+ADDITIONAL DEVELOPMENT	DÉVELOPPEMENT ADDITIONNEL	1
+SOUND	SOUND	4
+SOUND	SON	2
+FINANCE	FINANCE	4
+FINANCE	FINANCES	2
+LEGAL	LEGAL	5
+LEGAL	JURIDIQUE	2
+EXECUTIVE TEAM	EXECUTIVE TEAM	5
+EXECUTIVE TEAM	ÉQUIPE EXÉCUTIVE	1
+BUSINESS INTELLIGENCE & RISK	BUSINESS INTELLIGENCE & RISK	3
+BUSINESS INTELLIGENCE & RISK	VEILLE ÉCONOMIQUE & GESTION DES RISQUES	1
+INFORMATION TECHNOLOGY	INFORMATION TECHNOLOGY	6
+INFORMATION TECHNOLOGY	INFORMATIQUE	2
+Service Engineering	Service Engineering	2
+Service Engineering	Ingénierie des services	1
+Infrastructure Engineering	Infrastructure Engineering	2
+Infrastructure Engineering	Ingénierie des infrastructures	4
+Operations Center	Operations Center	2
+Operations Center	Centre des opérations	2
+Database Administration	Database Administration	2
+Database Administration	Administration de la base de données	1
+PLATFORM SERVICES	PLATFORM SERVICES	1
+PLATFORM SERVICES	SERVICE PLATE-FORME	2
+BUSINESS DEVELOPMENT & LICENSING	BUSINESS DEVELOPMENT & LICENSING	1
+BUSINESS DEVELOPMENT & LICENSING	DÉVELOPPEMENT COMMERCIAL & GESTION DES LICENCES	2
+Director, Video & Post Production	Directeur, vidéo & postproduction	3
+Director, Video & Post Production	Directeur, vidéo et postproduction	1
+Global Esports Team	Équipe eSport monde	1
+Global Esports Team	Équipe e-sport monde	1
+Esports Administrative Support	Soutien administratif de l’eSport	1
+Esports Administrative Support	Soutien administratif de l’e-sport	1
+Web & Mobile Team Leadership	Encadrement des équipes web et mobile	2
+Web & Mobile Team Leadership	Encadrement des équipes web & mobile	1
+Director of Web & Mobile	Directeur web et mobile	1
+Director of Web & Mobile	Directeur web & mobile	2
+Web & Mobile Group Managers	Managers du groupe web et mobile	2
+Web & Mobile Group Managers	Managers du groupe web & mobile	1
+Web & Mobile Administrative Support	Soutien administratif web et mobile	1
+Web & Mobile Administrative Support	Soutien administratif web & mobile	1
+Service Management	Manager des services	1
+Service Management	Gestion des services	1
+Technical Designers	Concepteur technique	3
+Technical Designers	Conception technique	1
+SAVE	SAUVER	1
+SAVE	CONSERVER	1
+Type:	Catégorie :	1
+Type:	Type :	1
+Type:	Type :<sp/>	1
+Anna Vocino	Malvina Lesser	1
+Anna Vocino	Laura Blanc	1
+Dan Gilvezan	Philippe Roullier	1
+Dan Gilvezan	Cédric Dumond	1
+EXECUTIVE ASSISTANTS	ASSISTANTS DIRECTEURS	1
+EXECUTIVE ASSISTANTS	ADJOINT ADMINISTRATIF	1
+Jonathan Cook	Bernard Bollet	1
+Jonathan Cook	François Jaubert	1
+Paul Eiding	Sylvain Lemarié	2
+Paul Eiding	Pierre-Alain De Garrigues	1
+Gary Anthony Williams	Antoine Tomé	2
+Gary Anthony Williams	Patrick Borg	1
+LEARNING AND DEVELOPMENT MANAGER	MANAGER FORMATION & DÉVELOPPEMENT	1
+LEARNING AND DEVELOPMENT MANAGER	MANAGER FORMATION & INFORMATIONS	1
+LEARNING AND DEVELOPMENT SPECIALIST	SPÉCIALISTE FORMATION & DÉVELOPPEMENT	1
+LEARNING AND DEVELOPMENT SPECIALIST	SPÉCIALISTE FORMATION & INFORMATIONS	1
+LEARNING AND DEVELOPMENT SPECIALISTS	SPÉCIALISTES FORMATION & DÉVELOPPEMENT	1
+LEARNING AND DEVELOPMENT SPECIALISTS	SPÉCIALISTES FORMATION & INFORMATIONS	1
+LEARNING AND DEVELOPMENT TEAM MANAGER	MANAGER DE L’ÉQUIPE FORMATION & DÉVELOPPEMENT	1
+LEARNING AND DEVELOPMENT TEAM MANAGER	MANAGER DE L’ÉQUIPE FORMATION & INFORMATIONS	1
+LOCALIZATION QA ASSISTANT MANAGERS	ASSISTANTS MANAGERS AQ LOCALISATION	1
+LOCALIZATION QA ASSISTANT MANAGERS	ASSISTANTS MANAGERS LOCALISATION ET AQ	1
+LOCALIZATION QA LEADS	RESPONSABLES AQ LOCALISATION	1
+LOCALIZATION QA LEADS	RESPONSABLES LOCALISATION ET AQ	1
+LOCALIZATION QA MANAGER	MANAGER AQ LOCALISATION	1
+LOCALIZATION QA MANAGER	MANAGER LOCALISATION ET AQ	1
+Steve Blum	Frederic Souterelle	1
+Steve Blum	Thierry Mercier	1
+Current	Actuel	1
+Current	Actuelle	1
+Current	En cours	1
+Only choose Hard if you are a StarCraft veteran.	Choisissez ce mode seulement si vous êtes un vétéran de StarCraft.	1
+Only choose Hard if you are a StarCraft veteran.	Choisissez le mode difficile si vous êtes un vétéran de StarCraft.	1
+Duration:	Durée :	2
+Duration:	Durée :<sp/>	1
+Challenge	DÉFI	1
+Challenge	Défi	1
+Save	Conserver	1
+Save	Sauver	1
+Restart	Redémarrer	3
+Restart	Redémarre	1
+LOAD GAME	CHARGER LA PARTIE	1
+LOAD GAME	CHARGER UNE PARTIE	1
+Multiplayer	MULTIJOUEUR	1
+Multiplayer	Multijoueur	2
+<h/>Restart	<h/>Recommencer	1
+<h/>Restart	<h/>Redémarrer	1
+New!	Nouveau !	2
+New!	Nouveau	1
+Abilities	Capacités de base	1
+Abilities	Capacités	2
+All Roles	Tous	1
+All Roles	Tous les rôles	1
+Support	Soutien	2
+Support	Soutiens	1
+Ranged	à distance	1
+Ranged	À distance<sp/>	1
+Killed	Tuées	1
+Killed	Tué	1
+Large	Grand	2
+Large	Grande	1
+Small	Petite	1
+Small	Petit	2
+Move Speed:	Vitesse de déplacement :	1
+Move Speed:	Vitesse de déplacement :<sp/>	1
+Something went wrong.<n/>Maybe make a sandwich and try again later.	Il y a eu comme une erreur.<n/>Allez vous balader et revenez plus tard.	1
+Something went wrong.<n/>Maybe make a sandwich and try again later.	Une erreur est survenue.<n/>Merci de patienter et de réessayer plus tard.	1
+Seeking	Avance rapide	1
+Seeking	Recherche	1
+RESEARCH	RECHERCHER	1
+RESEARCH	RECHERCHE	1
+About	À propos de	1
+About	À propos	2
+Shields:	Boucliers :	1
+Shields:	Boucliers :<sp/>	1
+b	b	1
+b	broadcast	1
+Away	Absent(e)	1
+Away	Absent	1
+Busy	Occupé(e)	1
+Busy	Occupé	1
+Weapon Speed:	Vitesse de l’arme :	1
+Weapon Speed:	Vitesse de l’arme :<sp/>	1
+Can't place, location invalid	Impossible à placer ici, emplacement non valide	1
+Can't place, location invalid	Impossible de placer ici, emplacement non valide	1
+Can't place on Creep	Impossible de placer sur du mucus	1
+Can't place on Creep	Impossible à placer sur du mucus	1
+Very Slow	Très lente	1
+Very Slow	Très lent	1

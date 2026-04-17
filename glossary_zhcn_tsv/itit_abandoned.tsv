@@ -1,0 +1,1727 @@
+削减护甲	Bypass Armor	1
+削减护甲	Riduzione corazza	3
+修理	Repair	4
+修理	Ripara	1
+干扰冲击	Disruption Blast	1
+干扰冲击	Scarica disgregante	2
+时空提速	Chrono Boost	3
+时空提速	Accelerazione temporale	2
+星灵枢纽护盾超载	Nexus Shield Overcharge	1
+星灵枢纽护盾超载	Sovraccarico scudo Nexus	2
+相位变换	Phase Shift	1
+相位变换	Distorsione di fase	2
+哺液	Transfusion	2
+哺液	Trasfusione	1
+星灵枢纽护盾超载关闭	Nexus Shield Overcharge Off	1
+星灵枢纽护盾超载关闭	Disattiva Sovraccarico scudo Nexus	1
+净化新星	Purification Nova	1
+净化新星	Supernova purificante	2
+变异为破坏者	Morph To Ravager	1
+变异为破坏者	Trasforma in Laceratore	1
+恢复	Restitution	1
+恢复	Ripristina	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Unità da assalto mobile. Può usare Aggancio per sparare rapidamente in movimento.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri.</c>	1
+机动突击型载具。可以使用锁定技能在移动状态下快速开火。<n/><n/><c val="#ColorAttackInfo">可以对地。</c>	Unità da assalto mobile. Può usare Aggancio per sparare rapidamente in movimento.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri e aeree.</c>	1
+为潜伏者提供升级方案。<n/><n/><c val="ffff8a">开启：</c><n/>- 使刺蛇可以进化为潜伏者	Contiene un potenziamento per le Criptolische.<n/><n/><c val="ffff8a">Consente:</c><n/>- Criptolische dalle Idralische	1
+为潜伏者提供升级方案。<n/><n/><c val="ffff8a">开启：</c><n/>- 使刺蛇可以进化为潜伏者	Contiene un potenziamento per le Criptolische.<n/><n/><c val="ffff8a">Consente:</c><n/>- Criptolische da Idralische	1
+拦截机	Interceptors	2
+拦截机	Intercettore	1
+拦截机	Intercettori	1
+瓦解射线	Disruption Beam	2
+瓦解射线	Raggio disgregante	1
+脉冲光线	Pulsar Beam	1
+脉冲光线	Raggio Pulsar	4
+灵能波	Assalto psionico	1
+灵能波	Assalto Psionico	1
+棱镜光束	Raggio prismatico	2
+棱镜光束	Prismatic Beam	15
+预视	Envision	1
+预视	Presagio	2
+先知武器	Oracle Weapon	1
+先知武器	Oracolo - Arma	1
+雷兽武器冷却时间	Ultralisk Weapon Cooldown	1
+雷兽武器冷却时间	Recupero armi Ultralisca	1
+虫群之心虚空辉光舰伤害提升	Void Ray Swarm Damage Boost	1
+虫群之心虚空辉光舰伤害提升	Incremento danni Lancia del Vuoto Swarm	1
+虚空虹吸	Void Siphon	1
+虚空虹吸	Sottrazione del Vuoto	2
+猎杀飞弹	Seeker Missile	1
+猎杀飞弹	Missile a ricerca	3
+群体召回	Mass Recall	6
+群体召回	Richiamo di massa	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Consente alle Locuste generate dagli Ospiti dello Sciame di volare. Le Locuste Volanti possono usare Picchiata per atterrare e attaccare.	1
+让虫群宿主孵化的蝗虫可以飞行。飞行蝗虫可以使用俯冲降落至地面进行攻击。	Le Locuste generate dagli Ospiti dello Sciame possono volare. Le Locuste Volanti possono usare Picchiata per atterrare e attaccare.	1
+岩石	Rocce	12
+岩石	Roccia	6
+碎石	Detriti	2
+碎石	Macerie	5
+强酸脊刺	Acid Spines	2
+强酸脊刺	Aculei acidi	1
+联合指挥官	Comandanti alleati	1
+联合指挥官	COMANDANTI ALLEATI	20
+着陆	Land	3
+着陆	Atterra	1
+升空	Lift Off	3
+升空	Decolla	1
+战机模式	Fighter Mode	1
+战机模式	Assetto aereo	1
+研发	Research	1
+研发	RICERCA	2
+研发	Ricerca	1
+停火	Hold Fire	1
+停火	Interdizione d'ingaggio	1
+自由射击	Weapons Free	2
+自由射击	Libertà d'ingaggio	1
+治疗	Heal	2
+治疗	Cura	1
+攻城模式	Siege	1
+攻城模式	Assetto d'assedio	1
+建造	Construct	1
+建造	Costruzione	1
+载具后燃充能	Vehicle Afterburners	1
+载具后燃充能	Postbruciatori veicolo	1
+迷宫式隐形迷彩	Rogo pirocinetico	1
+迷宫式隐形迷彩	Occultamento labirintico	2
+轰炸	Bombardment	1
+轰炸	Bombardamento	1
+回收	Salvage	1
+回收	Riciclaggio	1
+回收	Ricicla	1
+采集	Gather	1
+采集	Raccogli	5
+大和炮	Yamato Gun	1
+大和炮	Non t'ho mai Yamato	2
+大和炮	Cannone Yamato	1
+大和炮	Yamato	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Potente nave da guerra della Guardia reale. Può usare Cannone Yamato e Salto tattico.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri e aeree.</c>	1
+强大的皇家卫队战舰。可以使用大和炮与战术跳跃。在星港中建造。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Potente nave da guerra della Guardia reale. Può usare Cannone Yamato e Salto tattico. Costruito allo Spazioporto.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri e aeree.</c>	1
+建造在瓦斯气泉上，用于采集高能瓦斯。	Evocato su un geyser di vespene per consentire l'estrazione del gas.	2
+建造在瓦斯气泉上，用于采集高能瓦斯。	Mutato su un geyser di vespene per consentire l'estrazione del gas.	2
+建造在瓦斯气泉上，用于采集高能瓦斯。	Costruita su un geyser di vespene per consentire l'estrazione del gas.	2
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Attaccante antiaereo specializzato. Può trasformarsi in Operaio.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri e aeree.</c>	1
+专业对空攻击手。可以切换为劳工。<n/><n/><c val="#ColorAttackInfo">可以对地和对空。</c>	Attaccante specializzato contro la fanteria. Può trasformarsi in Operaio.<n/><n/><c val="#ColorAttackInfo">Può attaccare unità terrestri.</c>	1
+空对空激光炮组	ATA Laser Battery	2
+空对空激光炮组	Batteria laser aria-aria	2
+空对地激光炮组	ATS Laser Battery	2
+空对地激光炮组	Batteria laser aria-terra	2
+C-10型霰弹步枪	C-10 Canister Rifle	1
+C-10型霰弹步枪	Fucile di precisione C-10	1
++~A~%	+~A~%	44
++~A~%	+ ~A~%	1
+长箭飞弹	Longbolt Missile	3
+长箭飞弹	Missile Longbolt	2
+骨针	Needle Spines	3
+骨针	Aculei uncinati	2
+惩罚者榴弹	Punisher Grenades	4
+惩罚者榴弹	Granate Punisher	2
+利爪	Talons	2
+利爪	Artigli	6
+潜地	Burrow	2
+潜地	Rintanamento	3
+出地	Unburrow	1
+出地	Emersione	1
+腐蚀喷液	Caustic Spray	1
+腐蚀喷液	Spruzzo caustico	1
+“艾的急切”超载	F.A.S.T. Overload	1
+“艾的急切”超载	Sovraccarico (V.E.L.O.C.E.)	2
+“艾的呵护”超载	H.U.G.S. Overload	1
+“艾的呵护”超载	Sovraccarico (C.O.C.C.O.L.O.S.A.)	2
+“艾的滋润”超载	J.U.I.C.E. Overload	1
+“艾的滋润”超载	Sovraccarico (S.P.R.E.M.U.T.A.)	2
+扎根	Root	2
+扎根	Radica	2
+站起	Uproot	2
+站起	Sradica	2
+冲锋	Alla carica	1
+冲锋	Carica	2
+取消	Annulla	9
+取消	Cancel	1
+取消	ANNULLA	4
+爆炸	Explode	1
+爆炸	Esplodi	1
+爆炸	Scoppio	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Versione ulteriormente evoluta del Vivaio Mech che consente potenziamenti aggiuntivi e nuove strutture. Inoltre, genera tutte le unità zerg meccaniche e riceve le risorse raccolte.	1
+机械孵化场的更高级形态，为机械异虫提供更多的升级方案和建筑方案。可孵化所有机械异虫单位和接收采集到的资源。	Versione evoluta del Vivaio Mech che consente potenziamenti aggiuntivi e nuove strutture. Inoltre, genera tutte le unità zerg meccaniche e riceve le risorse raccolte.	1
+已潜地	Rintanato	5
+已潜地	Rintanata	4
+刺针利爪	Needle Claws	1
+刺针利爪	Artigli uncinati	1
+寄生孢子	Parasite Spore	2
+寄生孢子	Spora parassita	2
+机械飞蝗截击机	Locuscettore Mech	1
+机械飞蝗截击机	Locuscettori Mech	1
+-~A~秒	-~A~ secondi	9
+-~A~秒	-~A~ sec	3
+牵引光束	Tractor Beam	1
+牵引光束	Raggio traente	1
+制造共生体	Create Symbiote	1
+制造共生体	Crea Simbionti	1
+菌毯愈合	Creep Mend	1
+菌毯愈合	Biostrato curativo	1
+愈合	Mend	1
+愈合	Rimarginazione	5
+酸蚀之云	Acidic Cloud	1
+酸蚀之云	Nube acida	1
+高级建造	Advanced Construction	1
+高级建造	Advanced Build	1
+高级建造	Costruzione avanzata	3
+建筑超载	Structure Overcharge	1
+建筑超载	Sovraccarico strutture	3
+攻击	Attack	3
+攻击	Attacca	5
+攻击	Attacco	2
+生物机械哺液	Bio-Mechanical Transfusion	1
+生物机械哺液	Trasfusione biomeccanica	2
+损坏的德拉肯激光钻机	Broken Drakken Laser Drill	1
+损坏的德拉肯激光钻机	Trivella laser Drakken rotta	1
+损坏的太阳锻炉	Broken Solar Forge	1
+损坏的太阳锻炉	Forgia solare rotta	1
+建造磁轨炮塔	Build Railgun Turret	1
+建造磁轨炮塔	Costruisci Torretta elettrica	2
+武库超载	Arsenal Overcharge	2
+武库超载	Sovraccarico arsenale	2
+太阳能炮	Solar Cannon	1
+太阳能炮	Cannone solare	1
+隐形力场	Cloaking Field	2
+隐形力场	Campo occultante	2
+隐形力场	Campo di occultamento	1
+孵化虫群	Spawn Swarm	1
+孵化虫群	Genera Sciame	1
+腐蚀强酸	Corrosive Acid	1
+腐蚀强酸	Acido corrosivo	2
+受损的进化坑	Damaged Evolution Pit	1
+受损的进化坑	Fossa evolutiva danneggiata	2
+闪现	Blink	1
+闪现	Traslazione	2
+吞食	Devour	1
+吞食	Consunzione	1
+破胆咆哮	Intimidating Roar	1
+破胆咆哮	Ruggito imponente	4
+跳跃	Leap	1
+跳跃	Balzo	1
+原始恢复	Primal Regeneration	1
+原始恢复	Rigenerazione primordiale	2
+原始突变	Primal Mutation	1
+原始突变	Mutazione primordiale	1
+横扫	Swipe	1
+横扫	Spazzata	1
+尖刺弹幕	Barrage of Spikes	1
+尖刺弹幕	Ventaglio di aculei	3
+部署蜘蛛雷	Deploy Spider Mines	2
+部署蜘蛛雷	Impiega Mine ragno	2
+EMP	EMP	7
+EMP	Scarica elettromagnetica	2
+进化为莽兽	Evolve to Brutalisk	1
+进化为莽兽	Trasforma in Brutalisca	4
+能量反蚀	Feedback	4
+能量反蚀	Contrappasso	1
+太阳能光爆	Solarite Flare	1
+太阳能光爆	Vampa di solarite	1
+头撞	Headbutt	1
+头撞	Testata	1
+喷气背包突击	Jump Jet Assault	1
+喷气背包突击	Assalto con propulsori verticali	1
+定点防御无人机	Point Defense Drone	2
+定点防御无人机	Drone di difesa puntuale	4
+Instant Seeker Missile	Instant Seeker Missile	2
+Instant Seeker Missile	Missile a ricerca istantaneo	1
+吸收光环	Assimilation Aura	1
+吸收光环	Aura di assimilazione	2
+猛犸射线	Mammoth Beam	1
+猛犸射线	Raggio mastodontico	1
+猛犸之息	Mammoth Breath	1
+猛犸之息	Respiro mastodontico	1
+MapObjectInteract	MapObjectInteract	1
+MapObjectInteract	Oggetto mappa - Interazione	1
+压制恶臭	Oppressive Stench	1
+压制恶臭	Fetore opprimente	1
+仆从机	Servitors	1
+仆从机	Servitore	1
+聚变打击	Nuclear Strike	1
+聚变打击	Attacco nucleare	1
+相位光炮	Phase Cannon	1
+相位光炮	Cannone fotonico	1
+暗影之刃	Shadow Blade	1
+暗影之刃	Lama dell'Ombra	1
+醒醒！	Wake Up!	1
+醒醒！	Sveglia!	1
+穿刺弹	Penetrator Round	1
+穿刺弹	Proiettile ad alta penetrazione	1
+突杀	Dash Attack	1
+突杀	Attacco scattante	1
+相位模式	Phasing Mode	1
+相位模式	Assetto fasico	1
+光子超载	Sovraccarico fotonico	1
+光子超载	Sovraccarico Fotonico	1
+灵能风暴	Psi Storm	1
+灵能风暴	Tempesta psionica	3
+RedstoneSalamanderFireball	RedstoneSalamanderFireball	1
+RedstoneSalamanderFireball	Salamandra di Redstone - Palla di fuoco	1
+RedstoneSalamanderFirebreath	RedstoneSalamanderFirebreath	1
+RedstoneSalamanderFirebreath	Salamandra di Redstone - Soffio di fuoco	1
+RedstoneSalamanderTunnel	RedstoneSalamanderTunnel	1
+RedstoneSalamanderTunnel	Salamandra di Redstone - Tunnel	1
+SIBarracksTrainAberration	SIBarracksTrainAberration	1
+SIBarracksTrainAberration	Stukov - Caserma infestata - Addestramento Aberrazione	1
+SIBarracksTrainInfestedCivilian	SIBarracksTrainInfestedCivilian	1
+SIBarracksTrainInfestedCivilian	Stukov - Caserma infestata - Addestramento Civile infestato	1
+SIBarracksTrainInfestedMarine	SIBarracksTrainInfestedMarine	1
+SIBarracksTrainInfestedMarine	Stukov - Caserma infestata - Addestramento Marine infestato	1
+集束火箭	Cluster Rockets	1
+集束火箭	Salva di razzi	1
+霉菌滋生	Fungal Growth	4
+霉菌滋生	Crescita fungina	3
+暗影之怒	Shadow Fury	1
+暗影之怒	Furia dell'ombra	2
+虚空静滞	Void Stasis	1
+虚空静滞	Stasi del Vuoto	3
+孵化剧毒巢穴	Spawn Toxic Nest	1
+孵化剧毒巢穴	Genera Nido tossico	1
+支配	Domination	1
+支配	Dominazione	2
+呕喷	Spew	1
+呕喷	Vomito	2
+腐化	Corruption	5
+腐化	Corruzione	3
+恶魔犬	Devil Dogs	1
+恶魔犬	Mastini infernali	5
+铁锤安保	Hammer Securities	1
+铁锤安保	Hammer Security	4
+突围者	Siege Breakers	1
+突围者	Demolitori	4
+史克比的天使	Skibis Angels	1
+史克比的天使	Angeli di Skibi	5
+触手攻击	Tentacle Attack	1
+触手攻击	Attacco tentacolare	1
+地嗪节点 开启	TerrazineNode On	1
+地嗪节点 开启	Nodo di terrazine attivo	1
+地嗪节点 关闭	TerrazineNode Off	1
+地嗪节点 关闭	Nodo di terrazine inattivo	1
+运输模式	Transport Mode	1
+运输模式	Assetto mobile	1
+空投奥丁	Calldown Odin	1
+空投奥丁	Richiama Odin	2
+巨炮乱射	Barrage	1
+巨炮乱射	Sbarramento	3
+爆破炸弹	Demolition Charge	1
+爆破炸弹	Carica devastante	2
+粉碎者手雷	Shredder Grenade	1
+粉碎者手雷	Granata sminuzzatrice	1
+超声波脉冲	Ultrasonic Pulse	1
+超声波脉冲	Impulso ultrasonico	1
+召唤休伯利安号	Summon Hyperion	1
+召唤休伯利安号	Richiama l'Hyperion.	1
+Void Shard ACUnstable Energy	Void Shard ACUnstable Energy	2
+Void Shard ACUnstable Energy	Frammento del Vuoto CA - Energia instabile	1
+虚空裂片AC不稳能量	Void Sliver AC Unstable Energy	1
+虚空裂片AC不稳能量	Frammento del Vuoto - CA - Energia instabile	2
+虫洞模式	Wormhole Mode	1
+虫洞模式	Assetto varco	1
+灵能爆裂	Psionic Blast	1
+灵能爆裂	Scarica psionica	1
+灵能狂风	Psionic Gale	1
+灵能狂风	Burrasca psionica	2
+使徒	Adepto	1
+使徒	Adepta	1
+航母艾尔	Portastormo - Aiur	1
+航母艾尔	Colosso - Aiur	1
+吞噬者	Colui-che-consuma	1
+吞噬者	Divoratore	2
+维京战机	Viking	5
+维京战机	Viking aereo	1
+凯莫瑞安工人	Lavoratori kelmoriani	1
+凯莫瑞安工人	Lavoratore kelmoriano	3
+孢子爬虫	Lanciaspore	3
+孢子爬虫	Lanciaspore - arma	1
+被感染的星港	Portale stellare infestato	3
+被感染的星港	Spazioporto infestato	1
+求生无路	Night 2 Die	1
+求生无路	Notte oscura	1
+隐形	Occultamento	1
+隐形	In occultamento	1
+黑暗圣堂武士召回	Templare oscuro - Unità richiamante	1
+黑暗圣堂武士召回	Richiamo alla morte	1
+空投舱急速	Accelerazione	1
+空投舱急速	Accelerazione capsula da sbarco	1
+焦油炸弹	Bomba bituminosa	1
+焦油炸弹	Bombe bituminose	3
+狂暴	Frenzy	1
+狂暴	Frenesia	2
+复仇战士	Vendicatore	1
+复仇战士	Vendetta	1
+瘟疫	Plague	1
+瘟疫	Contagio	2
+时间扭曲	Time Warp	1
+时间扭曲	Distorsione temporale	2
+On Death Controller	Morte - Controllo	1
+On Death Controller	On Death Controller	1
+On Death Vorazun Recall On Death Recently Recalled	Morte - Vorazun - Richiamo alla morte - Richiamo recente	1
+On Death Vorazun Recall On Death Recently Recalled	On Death Vorazun Recall On Death Recently Recalled	1
+感染虫群	Infested Swarm	1
+感染虫群	Sciame infestato	1
+Symb Create Controller	Simbionte - Crea controllo	1
+Symb Create Controller	Symb Create Controller	1
+Void Shard ACDamage Field Debuff	Frammento del Vuoto CA - Campo di danneggiamento - Penalità	1
+Void Shard ACDamage Field Debuff	Void Shard ACDamage Field Debuff	1
+淬毒骨刺	Spine avvelenate	2
+淬毒骨刺	Envenomed Spines	1
+该单位已隐形，只能被侦测单位或侦测效果发现。	Questa unità è occultata e può essere rivelata solo da individuatori o effetti.	2
+该单位已隐形，只能被侦测单位或侦测效果发现。	Questa unità è occultata finché non viene rivelata da individuatori o effetti.	1
+攻击和移动速度降低。	Riduce velocità d'attacco e di movimento.	8
+攻击和移动速度降低。	Velocità d'attacco e di movimento ridotta.	2
+攻击速度降低。	Riduce la velocità d'attacco.	1
+攻击速度降低。	Velocità d'attacco ridotta.	1
+该单位的护甲提高了。	La corazza dell'unità è aumentata.	1
+该单位的护甲提高了。	La corazza di questa unità è aumentata.	1
+该单位正在持续受到伤害。	L'unità subisce danni periodici.	4
+该单位正在持续受到伤害。	Questa unità sta subendo danni prolungati.	1
+330毫米口径弹幕火炮	Cannone da sbarramento da 330mm	1
+330毫米口径弹幕火炮	330mm Barrage Cannons	1
+排放菌毯	Generate Creep	1
+排放菌毯	Genera biostrato	1
+热能射线枪	Thermal Lances	7
+热能射线枪	Lancia termica	1
+正在修理	In riparazione	1
+正在修理	Riparazioni	1
+折跃母舰	Train Mothership	1
+折跃母舰	Evoca Nave madre	1
+召回	Recall	1
+召回	Richiamo	1
+净化	Purify	2
+净化	Epurazione	4
+飞扑	Swoop	1
+飞扑	Picchiata	1
+原始蟑螂	Blatta Primordiali	1
+原始蟑螂	Blatta primordiale	1
+衰变	Disintegration	1
+衰变	Disintegrazione	2
+麻痹勾刺	Evolvi Barbigli paralizzanti	2
+麻痹勾刺	Barbigli paralizzanti	1
+剧毒细菌	Evolvi Microbi virali	2
+剧毒细菌	Microbi virali	1
+已锁定	Bloccata	3
+已锁定	Bloccato	3
+黑市发射器	Lanciamissili elaborati	1
+黑市发射器	Lanciamissili elaborato	2
+加载	Carica	2
+加载	CARICA	1
+原始刺蛇	Idralisca Primordiali	1
+原始刺蛇	Idralisca primordiale	1
+原始异龙	Mutalisca Primordiali	1
+原始异龙	Mutalisca primordiale	1
+原始雷兽	Ultralisca Primordiali	1
+原始雷兽	Ultralisca primordiale	1
+孵化虫后	Train Queen	1
+孵化虫后	Genera Regina	1
+破坏者	Laceratore	4
+破坏者	Distruttore	1
+修理太阳锻炉	Ripara Forgia solare	1
+修理太阳锻炉	Ripara la Forgia solare.	1
+研究后燃充能	Ricerca Postbruciatori	3
+研究后燃充能	Ricerca Sistema di puntamento classe Ares	1
+研究漩流弹	Ricerca Proiettili Maelstrom	1
+研究漩流弹	Ricerca Proiettili Maelstorm	1
+神经寄生	Neural Parasite	1
+神经寄生	Parassita neurale	6
+执政官战甲	Corazza pretoriale	1
+执政官战甲	Corazza pretoriale attiva	1
+时间停止	Time Stop	1
+时间停止	Arresto temporale	1
+暴龙兽	Tarrasque	2
+暴龙兽	Tyrannozor	1
+空中单位研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 被感染的女妖<n/>- 虫巢女王	Struttura di ricerca per unità aeree. Il Modulo tecnologico è adattabile a qualunque struttura di produzione.<n/><n/><c val="ffff8a">Consente:</c><n/>- Banshee infestate<n/>- Regina	1
+空中单位研发建筑。科技实验室可以同任何生产建筑相组合。<n/><n/><c val="ffff8a">开启：</c><n/>- 被感染的女妖<n/>- 虫巢女王	Struttura di ricerca per unità aeree. Il Modulo tecnologico è adattabile a qualunque struttura di produzione.<n/><n/><c val="ffff8a">Consente:</c><n/>- Banshee infestate<n/>- Regine	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	NON UTILIZZATO. Raffineria avanzata che estrae gas dal sottosuolo e invia il vespene raffinato direttamente al Centro di comando grazie a campi dimensionali a corto raggio.<n/><n/><c val="FFFF8A">Non occorre costruirla su un geyser di vespene.</c>	1
+一种能从地下采集瓦斯的高级精炼厂，能使用短距折跃力场将高能瓦斯直接送往指挥中心。<n/><n/><c val="FFFF8A">无需建在瓦斯气泉上。</c>	Raffineria avanzata che estrae gas dal sottosuolo e invia il vespene raffinato direttamente al Centro di comando grazie a campi dimensionali a corto raggio.<n/><n/><c val="FFFF8A">Non occorre costruirla su un geyser di vespene.</c>	1
+传送到附近的目标区域。	Consente di teletrasportarsi in zone vicine.	1
+传送到附近的目标区域。	Consente di teletrasportarsi in una posizione vicina.	1
+原始异虫生产建筑。<n/><n/><c val="ffff8a">开启：</c><n/>- 原始跳虫	Struttura principale di generazione di unità.<n/><n/><c val="ffff8a">Consente:</c><n/>- Zergling primordiali	1
+原始异虫生产建筑。<n/><n/><c val="ffff8a">开启：</c><n/>- 原始跳虫	Struttura di produzione degli zerg primordiali.<n/><n/><c val="ffff8a">Consente:</c><n/>- Zergling primordiali	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Unità volante antiterrestre a lungo raggio. <n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>	1
+远程对地飞行单位。<n/><n/><c val="ffff8a">可以对地。</c>	Unità volante antiterrestre.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>	1
+自毁型单位。死亡时造成小范围的伤害。有<d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>秒的持续时间。<n/><n/><c val="ffff8a">可以对地。</c>	Unità suicida. Esplode causando danni in un'area ristretta. Dura <d ref="Behavior,SIBarracksTrainTimedLife,Duration"/> secondi.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>	1
+自毁型单位。死亡时造成小范围的伤害。有<d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>秒的持续时间。<n/><n/><c val="ffff8a">可以对地。</c>	Unità suicida. Esplode causando danni in un'area ristretta. Dura <d ref="Behavior,SIBarracksTrainTimedLife,Duration"/>secondi.<n/><n/><c val="ffff8a">Può attaccare unità terrestri.</c>	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Proietta il Monolite cosmico nel punto selezionato per <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> secondi, trasferendo scudi e armi. Il Monolite cosmico è disattivato finché l'abilità è attiva.	1
+将超维空间巨石投射至目标位置，同时传递其所有护盾和武器，持续<d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/>秒。超维空间巨石在该技能激活期间处于失效状态。	Proietta il Cannone cosmico nel punto selezionato per <d ref="Behavior,ZeratulPhotonCannonProjection,Duration"/> secondi, trasferendo scudi e armi. Il Cannone cosmico è disattivato finché l'abilità è attiva.	1
+ACPirate Capital Ship Tractor Beam	ACPirate Capital Ship Tractor Beam	3
+ACPirate Capital Ship Tractor Beam	CA - Nave ammiraglia dei pirati - Raggio traente	1
+Karax Void Coop SOA Energy Recharge Set	Karax Void Coop SOA Energy Recharge Set	1
+Karax Void Coop SOA Energy Recharge Set	Karax Void Coop SOA Energy Recharge Target AB	1
+精通 阿塔尼斯 守护者之壳治疗	Mastery Artanis Guardian Shell Heal	1
+精通 阿塔尼斯 守护者之壳治疗	Maestria - Artanis - Guscio guardiano - Cura	1
+聚变弹头	Nuke	5
+聚变弹头	Testata nucleare	1
+升级	AGGIORNA	1
+升级	Potenziamenti	1
+升级	Nuovo livello	2
+升级	Nuovo grado	1
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Il tuo eroe è morto.</c>	2
+<c val="FF9800">你的英雄已阵亡。</c>	<c val="FF9800">Il tuo eroe è tornato in vita.</c>	1
+杀戮机器人	Droide assassino	3
+杀戮机器人	Droidi assassini	1
+混合体不朽者	Ibridi immortali	2
+混合体不朽者	Ibrido immortale	1
+同化体	Propagatore	2
+同化体	Propagatori	2
+NYI	This is the same voice as the Dominion Officer in the Terran tutorial mission. (Already cast). He is a little more cocky and sarcastic this time.	1
+NYI	Already cast	1
+确认	Conferma	1
+确认	CONFERMA	1
+关闭	Off	3
+关闭	Chiudi	4
+关闭	CHIUDI	2
+关闭	No	2
+(DEBUG) Only player 1 can do this.  Sorry!	(DEBUG) Solo il giocatore 1 può farlo.	1
+(DEBUG) Only player 1 can do this.  Sorry!	(DEBUG) Only player 1 can do this.  Sorry!	1
+胜利	Vittoria	1
+胜利	VITTORIA!	1
+返回	Resume	1
+返回	Indietro	1
+返回	INDIETRO	3
+(DEBUG) This cheat must be used during commander select.	(DEBUG) Questo cheat dev'essere usato durante la selezione dei comandanti.	1
+(DEBUG) This cheat must be used during commander select.	(DEBUG) This cheat must be used during commander select.	1
+被感染的人类	Infested Terrans	2
+被感染的人类	Terran infestato	2
+空	null	1
+空	Vuoto	1
+开始游戏	Avvia partita	2
+开始游戏	AVVIA PARTITA	1
+休闲	SEMPLICE	1
+休闲	Semplice	1
+普通	Media	1
+普通	NORMALE	1
+普通	Normale	6
+困难	Difficile	2
+困难	DIFFICILE	1
+困难	Alta	1
+残酷	BRUTALE	1
+残酷	Brutale	1
+任务	Missione	2
+任务	MISSIONE	1
+任务	Missioni	1
+异虫飞行生物甲壳	Carapace unità volanti zerg	1
+异虫飞行生物甲壳	Corazza volatili zerg	1
+异虫地面单位甲壳	Carapace unità terrestri zerg	1
+异虫地面单位甲壳	Corazza terricoli zerg	1
+信标	Beacon	2
+信标	SEGNALE	1
+萃取设施	Dispositivo di estrazione	1
+萃取设施	Dispositivi di estrazione	1
+原始跳虫	Zergling Primordiali	1
+原始跳虫	Zergling primordiale	1
+攻击型无人机	Drone d'assalto	1
+攻击型无人机	Droni d'assalto	2
+虚空重生者	Rianimatore del Vuoto	1
+虚空重生者	Rianimatori del Vuoto	1
+护盾	Shields	1
+护盾	Scudi	1
+收割者蜘蛛雷	Reaper Spider Mines	1
+收割者蜘蛛雷	Mietitore - Mine ragno	1
+基地	CONSEGNA	1
+基地	Consegne	1
+时空提速速度	Velocità di Accelerazione temporale	2
+时空提速速度	Velocità Accelerazione temporale	2
+消耗战	Guerra di logoramento	1
+消耗战	Battaglia di logoramento	1
+舒特	Schutter	1
+舒特	Shute	1
+少校	Ten. Comandante	2
+少校	Maggiore	2
+自定义	Personalizzata	2
+自定义	PERSONALIZZATE	1
+反冲火箭	Backlash Rockets	3
+反冲火箭	Razzi Backlash	2
+相位碎裂炮	Phase Disruptors	1
+相位碎裂炮	Disgregatori di fase	1
+灵能冲击波	Psionic Shockwave	1
+灵能冲击波	Onda d'urto psionica	1
+烈性爆弹	Volatile Burst	3
+烈性爆弹	Scarica instabile	2
+灵能利刃	Psi Blades	1
+灵能利刃	Lame psioniche	1
+地狱火喷射器	Infernal Flame Thrower	4
+地狱火喷射器	Lanciafiamme Inferno	2
+曲光战刃	Warp Blades	1
+曲光战刃	Lame del Vuoto	1
+巨型EMP	Giant EMP	7
+巨型EMP	Scarica elettromagnetica gigante	2
+悬浮攻城模式	Hover Siege Mode	1
+悬浮攻城模式	Assetto d'assedio antigravità	2
+悬浮取消攻城模式	Hover Unsiege	1
+悬浮取消攻城模式	Interruzione assedio antigravità	1
+创建绊索中型	Create Trip Wire Medium	1
+创建绊索中型	Crea Trappola media	1
+创建绊索小型	Create Trip Wire Small	1
+创建绊索小型	Crea Trappola piccola	1
+发射警戒机器人	Launch Alarm Bot	1
+发射警戒机器人	Lancia Robot d'allarme	1
+发射声呐无人机	Launch Sonar Drone	2
+发射声呐无人机	Lancia Droide sonar	1
+无敌护盾	Scudo d'invulnerabilità	2
+无敌护盾	Scudo di invulnerabilità	1
+虚空辉光舰机库	Voidray Hangar	1
+虚空辉光舰机库	Lancia del Vuoto - Hangar	1
+折跃离开	Warp Out	1
+折跃离开	Smaterializzazione	1
+单兵防御矩阵	Personal Defensive Matrix	1
+单兵防御矩阵	Matrice difensiva personale	1
+声呐提示	Sonar Ping	1
+声呐提示	Segnale sonar	1
+目标敌人	Target Enemy	1
+目标敌人	Nemico bersaglio	1
+死亡射线	Death Laser	1
+死亡射线	Laser letale	3
+武藏射线	Musashi Beam	2
+武藏射线	Raggio Musashi	2
+聚变发射器	Nuke Launcher	1
+聚变发射器	Testata nucleare	2
+异虫DNA	Zerg DNA	1
+异虫DNA	DNA zerg	1
+放置灵能发射器	Place Psi Emitter	1
+放置灵能发射器	Piazza Emettitore psionico	1
+备用感应无人机发射物	Sensor Alternate Drone Missile	1
+备用感应无人机发射物	Droide sensore - Missile alternativo	1
+侦测无人机隐形	Sensor Drone Cloak	1
+侦测无人机隐形	Droide sensore - Occultamento	2
+侦测无人机隐形场	Sensor Drone Cloaking Field	1
+侦测无人机隐形场	Droide sensore - Campo occultante	1
+侦测无人机隐形场	Sensor Drone Cloak Field	1
+侦测无人机锁定	Sensor Drone Lock On	1
+侦测无人机锁定	Droide sensore - Aggancio	2
+埋设地雷	Lay Mine	1
+埋设地雷	Piazza mina	1
+Suppress Attack (1s)	Sopprimi attacco (1s)	1
+Suppress Attack (1s)	Suppress Attack (1s)	1
+D-8型炸药	Carica D-8	3
+D-8型炸药	D-8 Charge	2
+悬浮恶蝠	Hellbat antigravità	2
+悬浮恶蝠	Hover Hellbat	1
+悬浮恶蝠模式	Assetto Hellbat antigravità	1
+悬浮恶蝠模式	Assetto Hellion antigravità	1
+NovaXanthosLaserFire	Laser Xanthos	1
+NovaXanthosLaserFire	NovaXanthosLaserFire	1
+无	Nessuna	2
+无	Assente	3
+无	Nessuno	3
+无	None	2
+无	Nessun filtro	1
+头像	Ritratto	1
+头像	Ritratti	1
+人控炮塔	Manned Turret	1
+人控炮塔	Torretta semiautomatica	2
+补给箱	Rifornimenti	1
+补给箱	Cassa di rifornimenti	1
+英雄	Eroe	2
+英雄	Eroi	2
+低	Bassa	3
+低	Basso	2
+Rick Wasserman	Marco Balbi	1
+Rick Wasserman	Alessandro D'Errico	1
+Patrick Seitz	Lorenzo Scattorin	2
+Patrick Seitz	Luca Sandri	1
+Fred Tatasciore	Gianni Gaude	1
+Fred Tatasciore	Marco Balzarotti	2
+Already Cast	Already Cast	1
+Already Cast	Blair Bess	1
+Armin Shimerman	Luca Sandri	2
+Armin Shimerman	Leonardo Gajo	1
+Nika Futterman	Beatrice Caggiula	1
+Nika Futterman	Cristina Giolitti	1
+Nika Futterman	Marcella Silvestri	1
+远	Campo lungo	1
+远	Far	1
+过肩	Spalla	1
+过肩	Shoulder	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Le selezioni effettuate durante le scene di flashback determinano le forze nemiche che si incontreranno. Scegli con attenzione.	1
+在记忆闪回阶段所做的单位选择，直接决定你将遭遇的异虫类型。请明智选择。	Le scelte effettuate durante i flashback di Nova determinano le unità zerg da affrontare nella missione in corso. Scegli con attenzione.	1
+逮捕戴维斯将军	Cattura il generale Davis	1
+逮捕戴维斯将军	Arresta il generale Davis	1
+播放	RIPRODUCI	1
+播放	Gioca	1
+播放	Riproduci	1
+否	No	2
+否	NO	1
+全部	Tutti	2
+全部	Tutte	1
+成就	Imprese	1
+成就	Impresa	1
+成就	IMPRESE	1
+奖励	Ricompensa	1
+奖励	Ricompense	1
+关闭(<h/>C)	<h/>CHIUDI	2
+关闭(<h/>C)	<h/>Chiudi	1
+退出(<h/>Q)	A<h/>bbandona	1
+退出(<h/>Q)	A<h/>BBANDONA	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	Non è necessario controllare l'armata quando Nova compie una missione in solitario. Le condizioni del campo di battaglia rimarranno stabili fino al suo ritorno.	1
+诺娃在进行单人行动时，你无需控制你的部队。在她返回之前，战场环境会一直处于静止状态。	Non è necessario controllare l'armata quando Nova compie una missione in solitario. Le condizioni del campo di battaglia rimarranno immutate fino al suo ritorno.	1
+马拉什引导	Malash Channel	1
+马拉什引导	Malash - Incanalamento	1
+暗影飞弹	Shadow Missile	1
+暗影飞弹	Proiettile dell'Ombra	1
+虚空触媒变形至第2阶段	Void Catalyst Morph to Stage 2	1
+虚空触媒变形至第2阶段	Catalizzatore del Vuoto - Trasforma in fase 2	1
+虚空触媒变形至第3阶段	Void Catalyst Morph to Stage 3	1
+虚空触媒变形至第3阶段	Catalizzatore del Vuoto - Trasforma in fase 3	1
+湮灭低语	Sussurri di Oblio	1
+湮灭低语	SUSSURRI DI OBLIO	1
+摧毁关押室，救出其中被俘的圣堂武士。	Distruggi il recinto di contenimento per liberare i Templari prigionieri.	2
+摧毁关押室，救出其中被俘的圣堂武士。	Distruggi il recinto di contenimento per liberare gli ultimi Templari.	1
+帮助	Aiuto	4
+帮助	AIUTO	2
+任务完成	MISSIONE COMPIUTA	1
+任务完成	Missioni completate	1
+退出	Esci	1
+退出	Abbandona	3
+退出	ABBANDONA	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NE – Height 10 – Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 缩回	Aiur - Ponte leggero abbandonato – NE – Altezza 10 – Ritratto	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NE – Height 10 – Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度10 – 延伸	Aiur - Ponte leggero abbandonato – NE – Altezza 10 – Esteso	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NE – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 缩回	Aiur - Ponte leggero abbandonato – NE – Altezza 12 - Ritratto	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NE – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 东北 – 高度12 – 延伸	Aiur - Ponte leggero abbandonato – NE – Altezza 12 - Esteso	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NE – Height 8 - Retract	1
+艾尔 光桥 已废弃 – 东北 – 高度8 – 缩回	Aiur - Ponte leggero abbandonato – NE – Altezza 8 - Ritratto	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur Light Bridge Abandoned – NW – Height 10 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 缩回	Aiur - Ponte leggero abbandonato – NO – Altezza 10 - Ritratto	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur Light Bridge Abandoned – NW – Height 10 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度10 – 延伸	Aiur - Ponte leggero abbandonato – NO – Altezza 10 - Esteso	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur Light Bridge Abandoned – NW – Height 12 - Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 缩回	Aiur - Ponte leggero abbandonato – NO – Altezza 12 - Ritratto	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur Light Bridge Abandoned – NW – Height 12 - Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度12 – 延伸	Aiur - Ponte leggero abbandonato – NO – Altezza 12 - Esteso	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur Light Bridge Abandoned – NW – Height 8 – Retract	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 缩回	Aiur - Ponte leggero abbandonato – NO – Altezza 8 – Ritratto	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur Light Bridge Abandoned – NW – Height 8 – Extend	1
+艾尔 光桥 已废弃 – 西北 – 高度8 – 延伸	Aiur - Ponte leggero abbandonato – NO – Altezza 8 – Esteso	1
+隐形无人机	Cloaking Drone	1
+隐形无人机	Drone Occultante	1
+抓钩	Grapple	1
+抓钩	Rampino	1
+超载	Overcharge	1
+超载	Sovraccarico	3
+穿透射击	Penetrating Shot	1
+穿透射击	Esplosione perforante	1
+港口城 桥 单位 东 10 展开	Port City Bridge Unit E10 Out	1
+港口城 桥 单位 东 10 展开	Ponte di Port City - Unità E10 fuori	1
+港口城 桥 单位 东 12	Port City Bridge Unit E12	1
+港口城 桥 单位 东 12	Ponte di Port City - Unità E12	1
+港口城 桥 单位 东 12 展开	Port City Bridge Unit E12 Out	1
+港口城 桥 单位 东 12 展开	Ponte di Port City - Unità E12 fuori	1
+港口城 桥 单位 东 8	Port City Bridge Unit E8	1
+港口城 桥 单位 东 8	Ponte di Port City - Unità E8	1
+港口城 桥 单位 东 8 展开	Port City Bridge Unit E8 Out	1
+港口城 桥 单位 东 8 展开	Ponte di Port City - Unità E8 fuori	1
+港口城 桥 单位 北 10	Port City Bridge Unit N10	1
+港口城 桥 单位 北 10	Ponte di Port City - Unità N10	1
+港口城 桥 单位 北 10 展开	Port City Bridge Unit N10 Out	1
+港口城 桥 单位 北 10 展开	Ponte di Port City - Unità N10 fuori	1
+港口城 桥 单位 北 12	Port City Bridge Unit N12	1
+港口城 桥 单位 北 12	Ponte di Port City - Unità N12	1
+港口城 桥 单位 北 12 展开	Port City Bridge Unit N12 Out	1
+港口城 桥 单位 北 12 展开	Ponte di Port City - Unità N12 fuori	1
+港口城 桥 单位 北 8	Port City Bridge Unit N8	1
+港口城 桥 单位 北 8	Ponte di Port City - Unità N8	1
+港口城 桥 单位 北 8 展开	Port City Bridge Unit N8 Out	1
+港口城 桥 单位 北 8 展开	Ponte di Port City - Unità N8 fuori	1
+港口城 桥 单位 东北 10	Port City Bridge Unit NE10	1
+港口城 桥 单位 东北 10	Ponte di Port City - Unità NE10	1
+港口城 桥 单位 东北 10 展开	Port City Bridge Unit NE10 Out	1
+港口城 桥 单位 东北 10 展开	Ponte di Port City - Unità NE10 fuori	1
+港口城 桥 单位 东北 12	Port City Bridge Unit NE12	1
+港口城 桥 单位 东北 12	Ponte di Port City - Unità NE12	1
+港口城 桥 单位 东北 12 展开	Port City Bridge Unit NE12 Out	1
+港口城 桥 单位 东北 12 展开	Ponte di Port City - Unità NE12 fuori	1
+港口城 桥 单位 东北 8	Port City Bridge Unit NE8	1
+港口城 桥 单位 东北 8	Ponte di Port City - Unità NE8	1
+港口城 桥 单位 东北 8 展开	Port City Bridge Unit NE8 Out	1
+港口城 桥 单位 东北 8 展开	Ponte di Port City - Unità NE8 fuori	1
+港口城 桥 单位 西北 10	Port City Bridge Unit NW10	1
+港口城 桥 单位 西北 10	Ponte di Port City - Unità NO10	1
+港口城 桥 单位 西北 10 展开	Port City Bridge Unit NW10 Out	1
+港口城 桥 单位 西北 10 展开	Ponte di Port City - Unità NO10 fuori	1
+港口城 桥 单位 西北 12	Port City Bridge Unit NW12	1
+港口城 桥 单位 西北 12	Ponte di Port City - Unità NO12	1
+港口城 桥 单位 西北 12 展开	Port City Bridge Unit NW12 Out	1
+港口城 桥 单位 西北 12 展开	Ponte di Port City - Unità NO12 fuori	1
+港口城 桥 单位 西北 8	Port City Bridge Unit NW8	1
+港口城 桥 单位 西北 8	Ponte di Port City - Unità NO8	1
+港口城 桥 单位 西北 8 展开	Port City Bridge Unit NW8 Out	1
+港口城 桥 单位 西北 8 展开	Ponte di Port City - Unità NO8 fuori	1
+港口城 桥 单位 南 10	Port City Bridge Unit S10	1
+港口城 桥 单位 南 10	Ponte di Port City - Unità S10	1
+港口城 桥 单位 南 10 展开	Port City Bridge Unit S10 Out	1
+港口城 桥 单位 南 10 展开	Ponte di Port City - Unità S10 fuori	1
+港口城 桥 单位 南 12	Port City Bridge Unit S12	1
+港口城 桥 单位 南 12	Ponte di Port City - Unità S12	1
+港口城 桥 单位 南 12 展开	Port City Bridge Unit S12 Out	1
+港口城 桥 单位 南 12 展开	Ponte di Port City - Unità S12 fuori	1
+港口城 桥 单位 南 8	Port City Bridge Unit S8	1
+港口城 桥 单位 南 8	Ponte di Port City - Unità S8	1
+港口城 桥 单位 南 8 展开	Port City Bridge Unit S8 Out	1
+港口城 桥 单位 南 8 展开	Ponte di Port City - Unità S8 fuori	1
+港口城 桥 单位 东南 10	Port City Bridge Unit SE10	1
+港口城 桥 单位 东南 10	Ponte di Port City - Unità SE10	1
+港口城 桥 单位 东南 10 展开	Port City Bridge Unit SE10 Out	1
+港口城 桥 单位 东南 10 展开	Ponte di Port City - Unità SE10 fuori	1
+港口城 桥 单位 东南 12	Port City Bridge Unit SE12	1
+港口城 桥 单位 东南 12	Ponte di Port City - Unità SE12	1
+港口城 桥 单位 东南 12 展开	Port City Bridge Unit SE12 Out	1
+港口城 桥 单位 东南 12 展开	Ponte di Port City - Unità SE12 fuori	1
+港口城 桥 单位 东南 8	Port City Bridge Unit SE8	1
+港口城 桥 单位 东南 8	Ponte di Port City - Unità SE8	1
+港口城 桥 单位 东南 8 展开	Port City Bridge Unit SE8 Out	1
+港口城 桥 单位 东南 8 展开	Ponte di Port City - Unità SE8 fuori	1
+港口城 桥 单位 西南 10	Port City Bridge Unit SW10	1
+港口城 桥 单位 西南 10	Ponte di Port City - Unità SO10	1
+港口城 桥 单位 西南 10 展开	Port City Bridge Unit SW10 Out	1
+港口城 桥 单位 西南 10 展开	Ponte di Port City - Unità SO10 fuori	1
+港口城 桥 单位 西南 12	Port City Bridge Unit SW12	1
+港口城 桥 单位 西南 12	Ponte di Port City - Unità SO12	1
+港口城 桥 单位 西南 12 展开	Port City Bridge Unit SW12 Out	1
+港口城 桥 单位 西南 12 展开	Ponte di Port City - Unità SO12 fuori	1
+港口城 桥 单位 西南 8	Port City Bridge Unit SW8	1
+港口城 桥 单位 西南 8	Ponte di Port City - Unità SO8	1
+港口城 桥 单位 西南 8 展开	Port City Bridge Unit SW8 Out	1
+港口城 桥 单位 西南 8 展开	Ponte di Port City - Unità SO8 fuori	1
+港口城 桥 单位 西 10	Port City Bridge Unit W10	1
+港口城 桥 单位 西 10	Ponte di Port City - Unità O10	1
+港口城 桥 单位 西 10 展开	Port City Bridge Unit W10 Out	1
+港口城 桥 单位 西 10 展开	Ponte di Port City - Unità O10 fuori	1
+港口城 桥 单位 西 12	Port City Bridge Unit W12	1
+港口城 桥 单位 西 12	Ponte di Port City - Unità O12	1
+港口城 桥 单位 西 12 展开	Port City Bridge Unit W12 Out	1
+港口城 桥 单位 西 12 展开	Ponte di Port City - Unità O12 fuori	1
+港口城 桥 单位 西 8	Port City Bridge Unit W8	1
+港口城 桥 单位 西 8	Ponte di Port City - Unità O8	1
+港口城 桥 单位 西 8 展开	Port City Bridge Unit W8 Out	1
+港口城 桥 单位 西 8 展开	Ponte di Port City - Unità O8 fuori	1
+脉冲冲击	Pulsar Blast	1
+脉冲冲击	Esplosione Pulsar	1
+吸取精华	Essence Leech	1
+吸取精华	Risucchio di essenza	1
+Snow Refinery Terran Extending Bridge NEShort8	Snow Refinery Terran Extending Bridge NEShort8	1
+Snow Refinery Terran Extending Bridge NEShort8	Neve - Raffineria terran - Ponte estensibile NE Corto 8	1
+Snow Refinery Terran Extending Bridge NEShort8 Out	Snow Refinery Terran Extending Bridge NEShort8 Out	1
+Snow Refinery Terran Extending Bridge NEShort8 Out	Neve - Raffineria terran - Ponte estensibile NE Corto 8 Fuori	1
+Snow Refinery Terran Extending Bridge NWShort8	Snow Refinery Terran Extending Bridge NWShort8	1
+Snow Refinery Terran Extending Bridge NWShort8	Neve - Raffineria terran - Ponte estensibile NO Corto 8	1
+Snow Refinery Terran Extending Bridge NWShort8 Out	Snow Refinery Terran Extending Bridge NWShort8 Out	1
+Snow Refinery Terran Extending Bridge NWShort8 Out	Neve - Raffineria terran - Ponte estensibile NO Corto 8 Fuori	1
+塔桑尼斯 门 东	Tarsonis Door E	1
+塔桑尼斯 门 东	Tarsonis - Porta E	1
+塔桑尼斯 门 东 已降下	Tarsonis Door E Lowered	1
+塔桑尼斯 门 东 已降下	Tarsonis - Porta E Abbassata	1
+塔桑尼斯 门 北	Tarsonis Door N	1
+塔桑尼斯 门 北	Tarsonis - Porta N	1
+塔桑尼斯 门 东北	Tarsonis Door NE	1
+塔桑尼斯 门 东北	Tarsonis - Porta NE	1
+塔桑尼斯 门 东北 已降下	Tarsonis Door NE Lowered	1
+塔桑尼斯 门 东北 已降下	Tarsonis - Porta NE Abbassata	1
+塔桑尼斯 门 北 已降下	Tarsonis Door N Lowered	1
+塔桑尼斯 门 北 已降下	Tarsonis - Porta N Abbassata	1
+塔桑尼斯 门 西北	Tarsonis Door NW	1
+塔桑尼斯 门 西北	Tarsonis - Porta NO	1
+塔桑尼斯 门 西北 已降下	Tarsonis Door NW Lowered	1
+塔桑尼斯 门 西北 已降下	Tarsonis - Porta NO Abbassata	1
+先知相位变换	Oracolo - Distorsione di fase	1
+先知相位变换	Distorsione di fase Oracolo	1
+释放拦截机信标	Lancio Intercettori - Segnalatore	1
+释放拦截机信标	Segnalatore Lancio Intercettori	1
+不朽者复活	Resurrezione Immortale	1
+不朽者复活	Immortale - Resurrezione	1
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Questa allucinazione imita le funzioni dell'unità originale, ma non può usare abilità attive né infliggere danni e muore più facilmente. Le allucinazioni durano <d time="60"/> prima di sparire.	6
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Queste allucinazioni imitano le funzioni dell'unità originale, ma non possono usare abilità attive né infliggere danni e muoiono più facilmente. Le allucinazioni durano <d time="60"/> prima di sparire.	3
+幻像与本体单位的功能相似，但无法使用主动技能或造成伤害，并且更容易死亡。幻像在持续<d time="60"/>后消失。	Queste allucinazioni imitano le funzioni dell'unità originale, ma non possono usare abilità attive, infliggere danni, evocare strutture o raccogliere risorse e muoiono più facilmente. Le allucinazioni durano <d time="60"/> prima di sparire.	1
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Unità aerea. Fa rimbalzare i proiettili che espelle per colpire bersagli multipli.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>	2
+飞行生物。能够利用弹射攻击同时伤害多个目标。<n/><n/><c val="ffff8a">可以对地和对空。</c>	Unità aerea. Fa rimbalzare i proiettili sparati per colpire bersagli multipli.<n/><n/><c val="ffff8a">Può attaccare unità aeree e terrestri.</c>	1
+中子照明弹	Neutron Flare	1
+中子照明弹	Bengala a neutroni	1
+默认	Predefinito	2
+默认	Predefinita	2
+默认	Predefiniti	1
+常规	Generali	1
+常规	Normali	1
+常规	Normale	2
+悬浮单位	Sospese	1
+悬浮单位	Sospesa	1
+桥梁伸展	Estensione ponte	1
+桥梁伸展	Estendi ponte	1
+桥梁缩回	Ritrazione ponte	1
+桥梁缩回	Ritrai ponte	1
+单位隐形	Occultamento unità	1
+单位隐形	Occulta unità	2
+菌毯喷溅	Spray Creep	1
+菌毯喷溅	Biospruzzo	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	PonteEstensibile - NE - Altezza 10 - Ampio - Ritratto	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 缩回	Ponte estensibile - NE - Altezza 10 - Ampio - Ritratto	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	PonteEstensibile - NE - Altezza 10 - Ampio - Esteso	1
+延伸桥梁 - 东北 - 高度 10 - 宽 - 伸展	Ponte estensibile - NE - Altezza 10 - Ampio - Esteso	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	PonteEstensibile - NE - Altezza 12 - Ampio - Ritratto	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 缩回	Ponte estensibile - NE - Altezza 12 - Ampio - Ritratto	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	PonteEstensibile - NE - Altezza 12 - Ampio - Esteso	1
+延伸桥梁 - 东北 - 高度 12 - 宽 - 伸展	Ponte estensibile - NE - Altezza 12 - Ampio - Esteso	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	PonteEstensibile - NE - Altezza 8 - Ampio - Ritratto	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 缩回	Ponte estensibile - NE - Altezza 8 - Ampio - Ritratto	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	PonteEstensibile - NE - Altezza 8 - Ampio - Esteso	1
+延伸桥梁 - 东北 - 高度 8 - 宽 - 伸展	Ponte estensibile - NE - Altezza 8 - Ampio - Esteso	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	PonteEstensibile - NO - Altezza 10 - Ampio - Ritratto	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 缩回	Ponte estensibile - NO - Altezza 10 - Ampio - Ritratto	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	PonteEstensibile - NO - Altezza 10 - Ampio - Esteso	1
+延伸桥梁 - 西北 - 高度 10 - 宽 - 伸展	Ponte estensibile - NO - Altezza 10 - Ampio - Esteso	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	PonteEstensibile - NO - Altezza 12 - Ampio - Ritratto	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 缩回	Ponte estensibile - NO - Altezza 12 - Ampio - Ritratto	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	PonteEstensibile - NO - Altezza 12 - Ampio - Esteso	1
+延伸桥梁 - 西北 - 高度 12 - 宽 - 伸展	Ponte estensibile - NO - Altezza 12 - Ampio - Esteso	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	PonteEstensibile - NO - Altezza 8 - Ampio - Ritratto	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 缩回	Ponte estensibile - NO - Altezza 8 - Ampio - Ritratto	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	PonteEstensibile - NO - Altezza 8 - Ampio - Esteso	1
+延伸桥梁 - 西北 - 高度 8 - 宽 - 伸展	Ponte estensibile - NO - Altezza 8 - Ampio - Esteso	1
+最大推力	Maxium Thrust	1
+最大推力	Propulsori al massimo	2
+传送	Teleport	1
+传送	Teletrasporto	1
+静滞反应	Stasis	1
+静滞反应	Stasi	3
+隐形迷彩	Personal Cloaking	1
+隐形迷彩	Occultamento personale	1
+拾取瓦斯储罐	Recupero bancale di gas	1
+拾取瓦斯储罐	Recupera bancale di gas	1
+拾取晶体矿箱	Recupero bancale di minerali	1
+拾取晶体矿箱	Recupera bancale di minerali	1
+拾取大型碎片	Recupero rottame grande	1
+拾取大型碎片	Recupera rottame grande	1
+拾取中型碎片	Recupero rottame medio	1
+拾取中型碎片	Recupera rottame medio	1
+拾取小型碎片	Recupero rottame piccolo	1
+拾取小型碎片	Recupera rottame piccolo	1
+水晶塔能量	Pylon Power	1
+水晶塔能量	Pilone	1
+虫后飞行	Regina - Volo	2
+虫后飞行	Regina in volo	1
+隔绝罩	Entomb	1
+隔绝罩	Sepoltura	1
+预言	Preordain	1
+预言	Preveggenza	3
+飞蛇吞噬建筑	Consunzione struttura Vipera	1
+飞蛇吞噬建筑	Struttura Consunzione Vipera	1
+烈性爆弹建筑	Raffica esplosiva struttura	1
+烈性爆弹建筑	Scarica instabile struttura	1
+Xel'Naga Caverns Door Default Close	Xel'Naga Caverns Door Default Close	1
+Xel'Naga Caverns Door Default Close	Caverne xel'naga - Porta - Predefinita chiusa	1
+Xel'Naga Caverns Door Default Open	Xel'Naga Caverns Door Default Open	1
+Xel'Naga Caverns Door Default Open	Caverne xel'naga - Porta - Predefinita aperta	1
+Xel'Naga Caverns Door E	Xel'Naga Caverns Door E	1
+Xel'Naga Caverns Door E	Caverne xel'naga - Porta E	1
+Xel'Naga Caverns Door E Opened	Xel'Naga Caverns Door E Opened	1
+Xel'Naga Caverns Door E Opened	Caverne xel'naga - Porta E aperta	1
+Xel'Naga Caverns Door N	Xel'Naga Caverns Door N	1
+Xel'Naga Caverns Door N	Caverne xel'naga - Porta N	1
+Xel'Naga Caverns Door NE	Xel'Naga Caverns Door NE	1
+Xel'Naga Caverns Door NE	Caverne xel'naga - Porta NE	1
+Xel'Naga Caverns Door NE Opened	Xel'Naga Caverns Door NE Opened	1
+Xel'Naga Caverns Door NE Opened	Caverne xel'naga - Porta NE aperta	1
+Xel'Naga Caverns Door N Opened	Xel'Naga Caverns Door N Opened	1
+Xel'Naga Caverns Door N Opened	Caverne xel'naga - Porta N aperta	1
+Xel'Naga Caverns Door NW	Xel'Naga Caverns Door NW	1
+Xel'Naga Caverns Door NW	Caverne xel'naga - Porta NO	1
+Xel'Naga Caverns Door NW Opened	Xel'Naga Caverns Door NW Opened	1
+Xel'Naga Caverns Door NW Opened	Caverne xel'naga - Porta NO aperta	1
+Xel'Naga Caverns Door S	Xel'Naga Caverns Door S	1
+Xel'Naga Caverns Door S	Caverne xel'naga - Porta S	1
+Xel'Naga Caverns Door SE	Xel'Naga Caverns Door SE	1
+Xel'Naga Caverns Door SE	Caverne xel'naga - Porta SE	1
+Xel'Naga Caverns Door SE Opened	Xel'Naga Caverns Door SE Opened	1
+Xel'Naga Caverns Door SE Opened	Caverne xel'naga - Porta SE aperta	1
+Xel'Naga Caverns Door S Opened	Xel'Naga Caverns Door S Opened	1
+Xel'Naga Caverns Door S Opened	Caverne xel'naga - Porta S aperta	1
+Xel'Naga Caverns Door SW	Xel'Naga Caverns Door SW	1
+Xel'Naga Caverns Door SW	Caverne xel'naga - Porta SO	1
+Xel'Naga Caverns Door SW Opened	Xel'Naga Caverns Door SW Opened	1
+Xel'Naga Caverns Door SW Opened	Caverne xel'naga - Porta SO aperta	1
+Xel'Naga Caverns Door W	Xel'Naga Caverns Door W	1
+Xel'Naga Caverns Door W	Caverne xel'naga - Porta O	1
+Xel'Naga Caverns Door W Opened	Xel'Naga Caverns Door W Opened	1
+Xel'Naga Caverns Door W Opened	Caverne xel'naga - Porta O aperta	1
+绑架	Abduct	5
+绑架	Rapimento	2
+停止	stop	1
+停止	Ferma	2
+停止	INTERROMPI	1
+交战	Ingaggio	1
+交战	Ingaggia	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Estensione ponte - ponte estensibile NE Ampio 10 Fuori	1
+延伸桥梁 向东北伸展桥梁 宽度10 结束	Estensione ponte - ponte estensibile NW Ampio 10 Fuori	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Estensione ponte - ponte estensibile NE Ampio 12 Fuori	1
+延伸桥梁 向东北伸展桥梁 宽度12 结束	Estensione ponte - ponte estensibile NW Ampio 12 Fuori	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Estensione ponte - ponte estensibile NE Ampio 8 Fuori	1
+延伸桥梁 向东北伸展桥梁 宽度8 结束	Estensione ponte - ponte estensibile NW Ampio 8 Fuori	1
+隐藏	Nascosto	1
+隐藏	Nascosta	1
+隐藏	Nascosti	1
+隐藏	Nascondi	2
+奥丁矩阵 虚拟	Matrice Odin simulata	1
+奥丁矩阵 虚拟	Odin - Matrice	1
+移除	Espelli	2
+移除	Rimuovi	2
+机甲模式	Assault Mode	1
+机甲模式	Assetto terrestre	1
+信徒	Neofita	1
+信徒	Discepolo	1
+残骸	Macerie	3
+残骸	Relitto	1
+电脑	I.A.	1
+电脑	Computer	1
+250毫米口径歼敌炮	250mm Strike Cannons	1
+250毫米口径歼敌炮	Cannoni d'assalto da 250mm	3
+执政官融合	Archon Merge	1
+执政官融合	Fusione in Arconte	2
+污染	Contaminate	2
+污染	Contaminazione	1
+力场	Force Field	2
+力场	Campo di forza	2
+引力光束	Graviton Beam	1
+引力光束	Raggio gravitonico	2
+守护者之盾	Guardian Shield	4
+守护者之盾	Scudo guardiano	2
+能量吸噬	Leech	7
+能量吸噬	Risucchio	3
+制造	Build	1
+制造	Train	1
+瓦解建筑	Sap Structure	1
+瓦解建筑	Attacca struttura	1
+析象扫描	Scanner Sweep	2
+析象扫描	Scansione settoriale	1
+生命虹吸	Siphon Life	1
+生命虹吸	Sifone vitale	1
+孵化拟态雏虫	Spawn Changeling	1
+孵化拟态雏虫	Genera Mutaforma	1
+降下	Lower	1
+降下	Abbassa	1
+升起	Raise	1
+升起	Solleva	1
+时空碎裂	Temporal Rift	1
+时空碎裂	Frattura temporale	2
+星河漩涡	Vortex	3
+星河漩涡	Vortice	2
+虫洞传送	Wormhole Transit	1
+虫洞传送	Transito spazio-temporale	1
+移动	move	1
+移动	Movimento	1
+移动	Muovi	2
+游戏大厅	Arcade	2
+游戏大厅	ARCADE	1
+教程一	Guida 1	1
+教程一	GUIDA 1	1
+教程二	Guida 3	1
+教程二	GUIDA 2	1
+教程三	Guida 2	1
+教程三	GUIDA 3	1
+实力功勋	Prove di forza	1
+实力功勋	PROVE DI FORZA	1
+竞技	Competitiva	1
+竞技	COMPETITIVA	1
+对战	Mischia	1
+对战	Scontro	1
+对战	MULTIGIOCATORE	1
+自定义游戏	Partita personalizzata	1
+自定义游戏	Personalizzata	2
+自定义游戏	Partite personalizzate	1
+Combat_Mechanic_KillTransport	Combattimento_Meccanico_EliminaTrasporto	1
+Combat_Mechanic_KillTransport	Combat_Mechanic_KillTransport	1
+派遣侦察单位。	Invio di un esploratore.	1
+派遣侦察单位。	Invio un esploratore.	1
+隐秘行动	Operazioni Segrete	1
+隐秘行动	OPERAZIONI SEGRETE	1
+隐秘行动	Agente segreto	3
+标准	Standard	2
+标准	STANDARD	1
+虚空先驱	Araldo del Vuoto	1
+虚空先驱	Primo utente	1
+拟态	Mimesi	1
+拟态	Disguise	3
+幻像	Allucinazione	2
+幻像	Allucinazioni	1
+暂停	Interrompi	1
+暂停	Pau	1
+暂停	In pausa	1
+暂停	Pause	1
+暂停	Pausa	1
+定点防御激光	Laser di difesa puntuale	2
+定点防御激光	Point Defense Laser	6
+建造建筑	Costruisci struttura	1
+建造建筑	Strutture costruite	2
+羊	Pecora	3
+羊	Sheep	1
+高级空中侦察单位。 能够维持王虫形态时所控制的单位上限。能够孵化拟态雏虫，并可以使用污染技能。<n/><n/><c val="FFE303">侦测单位</c>	Osservatore aereo avanzato. Garantisce gli stessi rifornimenti di un Sorvegliante. Può usare le abilità Genera Mutaforma e Contaminazione.<n/><n/><c val="FFE303">Individuatore</c>	1
+高级空中侦察单位。 能够维持王虫形态时所控制的单位上限。能够孵化拟态雏虫，并可以使用污染技能。<n/><n/><c val="FFE303">侦测单位</c>	Osservatore aereo avanzato. Mantiene il limite di unità ottenuto grazie al Sorvegliante. Può usare le abilità Genera Mutaforma e Contaminazione.<n/><n/><c val="FFE303">Individuatore</c>	1
+D.Va	D.Va	2
+D.Va	D.VA	1
+高	Alta	3
+高	Height	1
+高	Alto	2
+重试	Riprova	1
+重试	RIPROVA	1
+进化版	Evoluti	1
+进化版	Evoluto	1
+净化者	Purificatori	38
+净化者	Purificatrice	1
+是	Sì	2
+是	SÌ	1
+颜色	Colori	1
+颜色	Colore	1
+事件	Eventi	1
+事件	Events	2
+人类单位生产	Terran Unit Production	1
+人类单位生产	Produzione delle unità terran	1
+快捷键	Tasto di scelta rapida	1
+快捷键	TASTI DI SCELTA RAPIDA	1
+快捷键	Tasti di scelta rapida	2
+巢虫护卫	Broodling Escort	1
+巢虫护卫	Scorta Progenidi	1
+拦截机射线	Interceptor Beam	1
+拦截机射线	Raggio Intercettore	1
+离子炮	Ion Cannons	3
+离子炮	Cannoni ionici	2
+粒子光束	Particle Beam	1
+粒子光束	Raggio particellare	1
+在星港的科技实验室中研发猎杀飞弹	Ricerca di Missili a ricerca al Modulo tecnologico dello Spazioporto	1
+在星港的科技实验室中研发猎杀飞弹	Ricerca di Missile a ricerca al Modulo tecnologico dello Spazioporto	1
+经典	Classico	21
+经典	Classica	1
+合作任务中等难度50	Cooperativa - Comandante - Livello Difficile 50	1
+合作任务中等难度50	Cooperativa - Comandante - Livello Normale 50	1
+合作任务中等难度500	Cooperativa - Comandante - Livello Difficile 500	1
+合作任务中等难度500	Cooperativa - Comandante - Livello Normale 500	1
+合作任务中等难度75	Cooperativa - Comandante - Livello Difficile 75	1
+合作任务中等难度75	Cooperativa - Comandante - Livello Normale 75	1
+泰伦帝国	Dominio terran	4
+泰伦帝国	Dominio Terran	3
+赛拉克部族	Tribù Sargas	3
+赛拉克部族	Tribù di Sargas	3
+利爪巢群	Genia dell'artiglio	3
+利爪巢群	Genia dell'Artiglio	3
+脊针巢群	Genia dell'aculeo	3
+脊针巢群	Genia dell'Aculeo	3
+幽魂行动组	Lama d'ombra	3
+幽魂行动组	Lama d'Ombra	3
+食腐鸟	Urubù	1
+食腐鸟	Avvoltoio	1
+食腐鸟	Urubu	1
+虚空之遗	Legacy of the Void	2
+虚空之遗	LEGACY OF THE VOID	1
+经典战列巡航舰	Incrociatore classico	1
+经典战列巡航舰	Incrociatore Classico	1
+经典航母	Portastormo classica	1
+经典航母	Portastormo Classica	1
+经典雷兽	Ultralisca classica	1
+经典雷兽	Ultralisca Classica	1
+净化者狂热者	Zelota dei Purificatori	1
+净化者狂热者	Zelota Purificatori	1
+经典刺蛇	Idralisca Classica	2
+经典刺蛇	Idralische Classiche	1
+仲裁官	Giudicatore	2
+仲裁官	Giudicatori	2
+白骨	Osso	1
+白骨	Osseo	1
+原始虫后	Regina primordiale	1
+原始虫后	Regina Primordiali	1
+神器	MANUFATTI	1
+神器	Manufatti	2
+星战	Mech	1
+星战	Mecha	1
+部队规模	Dimensioni armata	1
+部队规模	DIMENSIONI ARMATA	1
+建造顺序	Ordine di costruzione	1
+建造顺序	ORDINE DI COSTRUZIONE	1
+图表	Grafici	1
+图表	GRAFICI	1
+总分	Complessivi	1
+总分	Panoramica	1
+资源	Resources	1
+资源	Risorse	1
+建筑	Strutture	3
+建筑	Struttura	2
+资源采集	ESTRAZIONE RISORSE	1
+资源采集	Estrazione risorse	1
+消灭的人口	Cibo creato distrutto	1
+消灭的人口	Cibo usato distrutto	1
+损失的人口	Cibo creato perso	1
+损失的人口	Cibo usato perso	1
+已采集晶体矿	Minerali raccolti	1
+已采集晶体矿	Minerali estratti	1
+高能瓦斯平均储量	Media minerali accumulati	1
+高能瓦斯平均储量	Media vespene accumulato	1
+资源采集率	Velocità d'estrazione	2
+资源采集率	Velocità di estrazione	2
+单位生产用资源	Valore totale risorse dell'armata	1
+单位生产用资源	Valore dell'armata	1
+已完成	Completata	1
+已完成	Completato	1
+消灭敌方单位	Unità nemiche uccise	1
+消灭敌方单位	Unità uccise	1
+基础虫道网络	Cunicolo Nydus Base	1
+基础虫道网络	Rete Nydus Base	1
+《星际争霸II》	StarCraft II	5
+《星际争霸II》	STARCRAFT II	1
+机械化部队(经济)	Portali immortali (Economia)	1
+机械化部队(经济)	Mech (Economia)	1
+提速区域发生器	Generatori di Zone di accelerazione	1
+提速区域发生器	Generatore di Zone di accelerazione	1
+高产瓦斯气泉	Geyser di vespene ad alto rendimento	1
+高产瓦斯气泉	Geyser ad alto rendimento	1
+萨尔纳加瞭望塔	Torri xel'naga	1
+萨尔纳加瞭望塔	Torre xel'naga	1
+足球	Palla da rugby	2
+足球	Pallone da calcio	1
+中国	Cina	2
+中国	CINA	1
+欧洲	Europa	3
+欧洲	EUROPA	1
+东南亚	Sud-est asiatico	1
+东南亚	SUD EST ASIATICO	1
+嘲讽	Taunt	1
+嘲讽	Provoca	1
+挑战任务	Sfide	2
+挑战任务	SFIDA	1
+挑战任务	Partita di sfida	1
+挑战任务	Sfida	2
+挑战任务	SFIDE	1
+探索	Esplorazione	1
+探索	ESPLORAZIONE	1
+快速比赛	Partita veloce	1
+快速比赛	PARTITA VELOCE	1
+快速比赛	Partita rapida	3
+战役	CAMPAGNA	3
+战役	Campagna	6
+战役	Campagne	1
+未知	Unknown	1
+未知	Sconosciuta	3
+未知	Sconosciuto	3
+动画	Animazione	3
+动画	Filmato	1
+动画	FILMATO	1
+镜头	Cinepresa	2
+镜头	Visuale	1
+音效	Suono	1
+音效	AUDIO	2
+音效	Effetti sonori	1
+音效	Audio	1
+镜面光颜色倍数	Moltiplicatore colore speculare	1
+镜面光颜色倍数	Moltiplicatore colore - Speculare	1
+半径	Raggio	1
+半径	Radius	1
+类型	Tipo	2
+类型	Type	1
+时间	Tempo	2
+时间	Time	1
+时间	Età	1
+时间	Quando	1
+值	Valore	2
+值	Value	2
+变量	Variazione	1
+变量	Variable	2
+变量	Variables	1
+盟友	Alleate	1
+盟友	Alleanza	1
+盟友	Alleati	1
+敌人	Nemiche	1
+敌人	Nemici	1
+已禁用	Disabilitato	1
+已禁用	Disabilitata	1
+极高	Estrema	2
+极高	Massima	2
+开启	On	3
+开启	Sì	2
+自动	Automatica	1
+自动	Automatico	1
+慢速	Lenta	1
+慢速	Rallentamento	1
+简单	Facile	2
+简单	Bassa	1
+极难	Molto difficile	2
+极难	Molto alta	1
+正在搜寻%queueName%	IN CERCA DI %queueName%	1
+正在搜寻%queueName%	Ricerca: %queueName%	1
+观战者	Spettatore	3
+观战者	Spettatori	3
+观战者	Osservatore	1
+录像	Replay	3
+录像	Ripeti	1
+用户界面	Interfaccia	1
+用户界面	Interfaccia utente	1
+回格键	Indietro	1
+回格键	Ind	1
+浏览器后退	Sfoglia indietro	1
+浏览器后退	BInd	1
+浏览器前进	Sfoglia avanti	1
+浏览器前进	Ava	1
+大写锁定	Blocc Maiusc	1
+大写锁定	BM	1
+清空	Elimina	2
+清空	Clear	1
+媒体键音量提高	Media Canale giù	1
+媒体键音量提高	MSu	1
+媒体键音量降低	MGiù	1
+媒体键音量降低	Media Canale su	1
+媒体键快放	Media Avanti veloce	1
+媒体键快放	MAV	1
+媒体键下一曲	Media Traccia successiva	1
+媒体键下一曲	MTS	1
+媒体键暂停	Media Pausa	1
+媒体键暂停	MPa	1
+媒体键播放	Media Riproduci	1
+媒体键播放	MRi	1
+媒体键暂停播放	Media Riproduci/Pausa	1
+媒体键暂停播放	MRP	1
+媒体键上一曲	Media Traccia precedente	1
+媒体键上一曲	MTP	1
+媒体键倒回	Media Riavvolgi	1
+媒体键倒回	MRv	1
+媒体键停止	Media Arresta	1
+媒体键停止	MAr	1
+滚动锁定键	Bloc Scorr	1
+滚动锁定键	BS	1
+空格键	Barra spaziatrice	1
+空格键	Spazio	1
+<c val="ff0000">数量不能超过	<c val="ff0000">Impossibile avere più di<sp/>	1
+<c val="ff0000">数量不能超过	<c val="ff0000">Impossibile avere più di	1
+，	,<sp/>	2
+，	,	2
+已勾选	Checked	1
+已勾选	Verificata	1
+间隔呼叫	Interal Call	1
+间隔呼叫	Internal Calls	1
+线程	Thread	1
+线程	Threads	1
+触发器	Trigger	1
+触发器	Triggers	1
+正在等待	Waiting For	1
+正在等待	In attesa	1
+全局	Global	1
+全局	Globals	2
+全局	Globali	2
+本地	Locals	2
+本地	Locale	1
+专化	Specialize	1
+专化	Specializzazione in corso	1
+1分钟	1 minute	1
+1分钟	1 min	1
+矿物	Minerals	1
+矿物	Minerali	1
+活动	Activity	1
+活动	Attive	1
+活动	EVENTI	2
+能量	Energy	1
+能量	Energia	1
+消灭	Kills	1
+消灭	Ucciso	2
+消灭	Uccisioni	1
+生命值	Life	1
+生命值	Vitality	1
+生命值	Salute	1
+生命值	Vita	1
+最大生命值	Life Max	1
+最大生命值	Vitality Max	1
+生命值%	Life %	1
+生命值%	Vitality %	1
+未知玩家	Unknown Player	1
+未知玩家	Giocatore sconosciuto	1
+音轨	Soundtrack	1
+音轨	Colonna sonora	1
+冷却时间：%1秒	Recupero: %1 secondo	1
+冷却时间：%1秒	Recupero: %1 secondi	1
+接受	Conferma	1
+接受	ACCETTA	1
+接受	Accetta	1
+添加好友	Aggiungi amico	4
+添加好友	AGGIUNGI AMICO	1
+护甲：	Corazza:	1
+护甲：	Corazza:<sp/>	1
+重甲	Corazzata	3
+重甲	Corazzate	1
+队伍	Gruppo	3
+队伍	Squadre	1
+队伍	Squadra	1
+添加电脑	Aggiungi I.A.	2
+添加电脑	Aggiungi computer	1
+邀请	Invita	3
+邀请	INVITA	1
+电脑（%difficulty%）	I.A. (%difficulty%)	1
+电脑（%difficulty%）	Computer (%difficulty%)	1
+蓝队	Squadra blu	1
+蓝队	Squadra Blu	1
+红队	Squadra rossa	1
+红队	Squadra Rossa	1
+我方队伍	La tua squadra	2
+我方队伍	Squadra alleata	1
+暴雪游戏	Blizzard	1
+暴雪游戏	BLIZZARD	1
+合作任务	Missioni cooperative	2
+合作任务	COOPERATIVA	1
+设置好友备注	Imposta nota amico	1
+设置好友备注	IMPOSTA NOTA AMICO	1
+移除好友	Rimuovi amico	1
+移除好友	RIMUOVI AMICO	1
+举报玩家	Segnala giocatore	1
+举报玩家	SEGNALA GIOCATORE	1
+请求加入队伍	Richiesta di unirsi al gruppo	1
+请求加入队伍	Invia richiesta	1
+密语	Sussurra	1
+密语	Messaggi privati	1
+ADDITIONAL DEVELOPMENT	ADDITIONAL DEVELOPMENT	3
+ADDITIONAL DEVELOPMENT	SVILUPPO AGGIUNTIVO	1
+Service Engineering	Service Engineering	2
+Service Engineering	Programmazione servizi	1
+Infrastructure Engineering	Infrastructure Engineering	2
+Infrastructure Engineering	Programmazione infrastruttura	4
+Operations Center	Operations Center	2
+Operations Center	Centro operativo	2
+Database Administration	Database Administration	2
+Database Administration	Amministrazione database	1
+Lead Co-Op Designer	Progettista capo cooperazione	1
+Lead Co-Op Designer	Progettista capo cooperative	1
+Audio, Music	Audio (musica)	1
+Audio, Music	Musica	1
+Talent Acquisition Team	Squadra reclutamento risorse	3
+Talent Acquisition Team	Squadra reclutamento talenti	1
+Talent & Organizational Development Team	Squadra sviluppo organizzativo e risorse	3
+Talent & Organizational Development Team	Squadra sviluppo organizzativo e talenti	1
+Localization QA Team	Squadra QA localizzazione	1
+Localization QA Team	Squadra CQ localizzazione	1
+QA and Localization Administrative Support	Supporto amministrativo QA e localizzazione	1
+QA and Localization Administrative Support	Supporto amministrativo CQ e localizzazione	1
+Chief of Staff	Direttore esecutivo	1
+Chief of Staff	Capo del personale	1
+Global Esports Team	Squadra globale eSports	1
+Global Esports Team	Squadra globale eSport	1
+Esports Administrative Support	Supporto amministrativo eSports	1
+Esports Administrative Support	Supporto amministrativo eSport	1
+Additional Team Members	Membri aggiuntivi squadra	7
+Additional Team Members	Membri squadra aggiuntivi	2
+Project Analyst	Analisi del progetto	1
+Project Analyst	Analista progetto	2
+特别感谢	RINGRAZIAMENTI SPECIALI	3
+特别感谢	RINGRAZIAMENTI SPECIALI A	1
+继续	CONTINUA	1
+继续	Continua	1
+继续	Cont.	1
+教学模式	TUTORIAL	1
+教学模式	Tutorial	4
+取消(<h/>C)	<h/>ANNULLA	1
+取消(<h/>C)	<h/>Annulla	2
+创建战队	Crea un clan	1
+创建战队	Crea clan	1
+创建	Crea	1
+创建	CREA	2
+讨论组	Gruppi	2
+讨论组	Club	1
+保存	SALVA	2
+保存	Salva	2
+用户及技术服务经理	RESPONSABILI ACCOUNT E SERVIZI TECNICI	1
+用户及技术服务经理	RESPONSABILE ACCOUNT E SERVIZI TECNICI	1
+其他音乐制作人员	MUSICA AGGIUNTIVA DI	1
+其他音乐制作人员	MUSICA AGGIUNTIVA	1
+行政助理	ASSISTENTE AMMINISTRATIVO	2
+行政助理	ASSISTENTI AMMINISTRATIVI	1
+分析师	ANALISTI	1
+分析师	ANALISTA	1
+美术	GRAFICA	1
+美术	GRAFICO	1
+设计师	GRAFICI	1
+设计师	PROGETTISTI	2
+首席设计师	CAPI GRAFICI	1
+首席设计师	CAPO GRAFICO	1
+首席设计师	CAPO PROGETTISTA	1
+首席设计师	PROGETTISTI CAPI	1
+助理经理	VICEDIRETTORE	2
+助理经理	VICEDIRETTORI	2
+助理制作人	PRODUTTORE ASSOCIATO	1
+助理制作人	PRODUTTORI ASSOCIATI	1
+Anna Vocino	Iolanda Granato	1
+Anna Vocino	Jenny De Cesarei	1
+首席运营官	DIRETTORE OPERATIVO	1
+首席运营官	DIRETTORE CAPO OPERAZIONI	1
+指挥	MAESTRO DEL CORO	2
+指挥	DIRETTA DA	1
+合唱表演	ESECUZIONE CORALE DI	1
+合唱表演	ESECUZIONE CORO	1
+单簧管	CLARINETTO	1
+单簧管	CLARINETTI	1
+客户服务项目团队分析师	ANALISTI SQUADRA PROGETTO SC	1
+客户服务项目团队分析师	ANALISTI SQUADRA PROGETTO AC	1
+客户服务工具团队代表	INCARICATI SQUADRA STRUMENTI SC	1
+客户服务工具团队代表	INCARICATI SQUADRA STRUMENTI AC	1
+客户支持组经理	CAPIGRUPPO ASSISTENZA CLIENTI	2
+客户支持组经理	CAPOGRUPPO ASSISTENZA CLIENTI	1
+Blair Bess	Andrea Bolognini	1
+Blair Bess	Diego Sabre	1
+Blair Bess	Luca Sandri	1
+部门主管	CAPI DIPARTIMENTO	1
+部门主管	SUPERVISORI DIPARTIMENTO	2
+总监	DIRETTORE	2
+总监	DIRETTORI	1
+编辑	MONTATORE	1
+编辑	MONTATORI	1
+编辑	CURATORE	1
+编辑	EDITOR	1
+编辑	Modifica	1
+工程师	INGEGNERE	1
+工程师	PROGRAMMATORI	1
+欧洲区域计划及支持服务团队	SQUADRA PIANIFICAZIONE REGIONALE E SERVIZI ASSISTENZA EUROPA	1
+欧洲区域计划及支持服务团队	TEAM PIANIFICAZIONE REGIONALE E SERVIZI ASSISTENZA EUROPA	1
+执行助理	ASSISTENTI ESECUTIVI	2
+执行助理	ASSISTENTE ESECUTIVO	1
+Jonathan Cook	Pietro Ubaldi	1
+Jonathan Cook	Gianni Gaude	1
+Paul Eiding	Silvio Pandolfi	2
+Paul Eiding	Cristina Giolitti	1
+Gary Anthony Williams	Marco Balbi	2
+Gary Anthony Williams	Matteo Zanotti	1
+内部事务代表	RAPPRESENTANTI AFFARI INTERNI	2
+内部事务代表	RAPPRESENTANTE AFFARI INTERNI	1
+首席制作人	PRODUTTORE CAPO	2
+首席制作人	PRODUTTORI CAPI	2
+首席程序员	PROGRAMMATORE CAPO	2
+首席程序员	PROGRAMMATORI CAPI	2
+首席网页设计师	CAPO PROGETTISTA WEB	1
+首席网页设计师	CAPI PROGETTISTI WEB	1
+首席文档工程师	CAPO SCENEGGIATORE	1
+首席文档工程师	SCRITTORE CAPO	1
+培训与拓展专员	SPECIALISTA APPRENDIMENTO E SVILUPPO	2
+培训与拓展专员	SPECIALISTI APPRENDIMENTO E SVILUPPO	2
+本地化工程师	INGEGNERI LOCALIZZAZIONE	1
+本地化工程师	PROGRAMMATORI LOCALIZZAZIONE	1
+经理	RESPONSABILE	1
+经理	RESPONSABILI	2
+音乐	MUSICA	2
+音乐	Musica	2
+制作人	PRODUTTORE	2
+制作人	PRODUTTORI	2
+项目总监	DIRETTORE PROGETTO	2
+项目总监	DIRETTORE PROGETTI	1
+高级经理	RESPONSABILE SENIOR	2
+高级经理	RESPONSABILI SENIOR	1
+高级制作人	PRODUTTORE SENIOR	2
+高级制作人	PRODUTTORI SENIOR	1
+团队组长	CAPOSQUADRA	1
+团队组长	CAPISQUADRA	1
+技术总监	DIRETTORE TECNICO	2
+技术总监	DIRETTORI TECNICI	1
+技术文档工程师	SCENEGGIATORE TECNICO	1
+技术文档工程师	SCRITTORI TECNICI	1
+配音	DOPPIAGGIO	1
+配音	VOICEOVER	1
+助理编辑	ASSISTENTE CURATORE	1
+助理编辑	ASSISTENTI CURATORI	1
+助理编辑	CURATORE ASSOCIATO	1
+Steve Blum	Mario Zucca	1
+Steve Blum	Riccardo Rovatti	1
+全球营销执行副总裁	EVP MARKETING MONDIALE	1
+全球营销执行副总裁	VICEPRESIDENTE ESECUTIVO MARKETING MONDIALE	1
+混音师	MIXER RUMORISTA	1
+混音师	MIX STEM	1
+实习生	STAGISTA	1
+实习生	STAGISTI	1
+韩国	COREA	1
+韩国	Corea	2
+培训专员	SPECIALISTA APPRENDIMENTO	1
+培训专员	SPECIALISTI APPRENDIMENTO	1
+项目经理	RESPONSABILE PROGETTO	1
+项目经理	RESPONSABILI PROGETTO	1
+区域经理	RESPONSABILE REGIONALE	1
+区域经理	RESPONSABILI REGIONALI	1
+主管	SUPERVISORE	1
+主管	SUPERVISORI	1
+支持信息管理员	AMMINISTRATORE INFORMAZIONI SUPPORTO	1
+支持信息管理员	AMMINISTRATORI INFORMAZIONI SUPPORTO	1
+台湾	TAIWAN	1
+台湾	Taiwan	1
+网站制作人	PRODUTTORE WEB	1
+网站制作人	PRODUTTORI WEB	1
+删除	ELIMINA	2
+删除	Elimina	3
+选择难度	SELEZIONA LA DIFFICOLTÀ	1
+选择难度	Seleziona la difficoltà	2
+玩家	Giocatore	2
+玩家	Giocatori	1
+持续时间：	Durata:	2
+持续时间：	Durata:<sp/>	1
+贴图	Con tessere	1
+贴图	Texture	1
+类型：	Tipo:	1
+类型：	Tipo:<sp/>	1
+声音	Suono	1
+声音	Audio	1
+快	Veloce	1
+快	Rapida	2
+更快	Molto veloce	2
+更快	Veloce	1
+版本：	Versione:	1
+版本：	Versione:<sp/>	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Mostra sul Finder - riduce il gioco a icona e accede al file attualmente selezionato.	1
+在文件夹中显示 - 最小化游戏窗口，并切换至当前选中的文件。	Mostra nella cartella - riduce il gioco a icona e accede al file attualmente selezionato.	1
+加载录像	CARICA REPLAY	1
+加载录像	REPLAY	1
+多人游戏	Partita multigiocatore	1
+多人游戏	Multigiocatore	3
+保存录像	SALVA REPLAY	1
+保存录像	Salva replay	2
+模拟战	Contro I.A.	3
+模拟战	SCHERMAGLIA	1
+英雄联赛	Lega Eroi	1
+英雄联赛	Lega eroi	1
+团队联赛	Lega Squadre	1
+团队联赛	Lega squadre	1
+战败	Sconfitta	1
+战败	SCONFITTA!	1
+平局	Pareggio	1
+平局	PAREGGIO!	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">Seleziona tutte le Larve:</c><n/>quando è attivata, selezionando una Larva, si selezionano tutte le Larve adiacenti allo stesso Vivaio.	1
+<c val="ffffff">选择全部幼虫：</c><n/>开启该选项后，选中单只幼虫会自动选中同一个孵化场下的全部幼虫。	<c val="ffffff">Seleziona tutte le Larve:</c><n/>quando è attivata, selezionando una Larva, si selezionano tutte le Larve di un Vivaio.	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Alcune opzioni di dinamica di gioco richiedono il riavvio per avere effetto. Vuoi riavviare adesso?	1
+部分画面设置需要重启游戏后才能生效。现在就重启游戏吗？	Alcune delle opzioni grafiche richiedono il riavvio del gioco per avere effetto. Vuoi riavviare adesso?	1
+地区	Regionali	1
+地区	Regione	2
+欢迎	Benvenuto	1
+欢迎	BENVENUTO	1
+提示	Consigli	1
+提示	Suggerimenti	1
+加入讨论组	UNISCITI A UN GRUPPO	1
+加入讨论组	UNISCITI A UN CLUB	1
+新！	Nuova!	2
+新！	Nuova	1
+刺杀型	Assassini	2
+刺杀型	Assassino	1
+专业型	Specialisti	2
+专业型	Specialista	1
+战斗型	Guerrieri	2
+战斗型	Guerriero	1
+设定为观战者	Rendi osservatore	1
+设定为观战者	Imposta spettatore	1
+坐骑	Cavalcatura	1
+坐骑	Cavalcature	3
+选择坐骑	Scegli una cavalcatura	1
+选择坐骑	SCEGLI UNA CAVALCATURA	1
+皮肤	Modello	1
+皮肤	Skin	6
+推荐	PROPONI	2
+推荐	In primo piano	2
+推荐	Proponi	1
+近战	da mischia	1
+近战	Mischia	1
+远程	a distanza	1
+远程	Distanza<sp/>	1
+生命值：	Punti vita:	1
+生命值：	Vita:<sp/>	1
+重放	Riavvia	1
+重放	Replay	1
+录制视频	Registra su video	1
+录制视频	Registrazione	1
+轻甲	Leggera	2
+轻甲	Leggere	1
+正在加载	Caricamento	2
+正在加载	CARICAMENTO	1
+打开	Apri	1
+打开	Vuoto	1
+显示警告信息	Mostra messaggi d'avviso	1
+显示警告信息	Mostra avvisi	1
+寻求组队	Ricerca di un gruppo	1
+寻求组队	Ricerca gruppo	2
+超大型	Epica	1
+超大型	Mega	1
+选项	Opzioni	3
+选项	OPZIONI	2
+已雇佣	ASSOLDATO	1
+已雇佣	Assoldato	1
+消息记录	Registro messaggi	1
+消息记录	REGISTRO MESSAGGI	1
+任务：	Missione:	1
+任务：	MISSIONE:	1
+移动速度：	Velocità movimento:	1
+移动速度：	Velocità di movimento:<sp/>	1
+视野	VISIONE	1
+视野	Visione	1
+确定	OK	3
+确定	Ok	1
+正在游戏	Gioco	1
+正在游戏	In una partita	1
+奖励目标：	OBIETTIVO BONUS:	1
+奖励目标：	Obiettivo bonus:	1
+任务目标：	OBIETTIVO DI MISSIONE:	1
+任务目标：	Obiettivo di missione:	1
+奖励：	RICOMPENSA:	2
+奖励：	Ricompensa:	2
+开始游戏(<h/>P)	<h/>Gioca	2
+开始游戏(<h/>P)	<h/>Gioca partita	1
+获取控制	PRENDI IL CONTROLLO	1
+获取控制	Prendi il controllo	1
+支付	PAGA ORA	1
+支付	Pagamento	1
+搜索英雄	Filtra collezione	1
+搜索英雄	Cerca eroi	1
+购买	Acquista	1
+购买	ACQUISTA	1
+播报员	Annunciatore	2
+播报员	Annunciatori	1
+观看录像	Replay	1
+观看录像	Visualizza replay	1
+关于	Informazioni	3
+关于	INFORMAZIONI	1
+商城暂时不可用，请稍后再试。	Il negozio non è attualmente disponibile. Riprova più tardi.	1
+商城暂时不可用，请稍后再试。	Il negozio non è al momento disponibile. Riprova più tardi.	1
+试用	Prova	2
+试用	PROVA	1
+首页	Home	1
+首页	HOME	1
+离开	Abbandona	1
+离开	Assente	2
+强化	Stimpack	1
+强化	INCREMENTO	1
+%val%秒	%val% secondo	1
+%val%秒	%val% secondi	1
+%val%秒	%val% <lang rule="plural" val="%val%">secondo,secondi</lang>	1
+%val%秒	%val% s	1
+护盾：	Scudi:	1
+护盾：	Scudi:<sp/>	1
+b	b	1
+b	m	1
+忙碌	occupato	1
+忙碌	Occupato	2
+语音	Voci	1
+语音	Voce	1
+消耗	Spesa	1
+消耗	Spesi	1
+紫色	Indaco	1
+紫色	Viola	1
+%val%天	%val% <lang rule="plural" val="%val%">giorno,giorni</lang>	1
+%val%天	%val% g	1
+%val%小时	%val% <lang rule="plural" val="%val%">ora,ore</lang>	1
+%val%小时	%val% h	1
+%val%分钟	%val% <lang rule="plural" val="%val%">minuto,minuti</lang>	1
+%val%分钟	%val% min	1
+%val%周	%val% <lang rule="plural" val="%val%">settimana,settimane</lang>	1
+%val%周	%val% set	1
+%val%年	%val% <lang rule="plural" val="%val%">anno,anni</lang>	1
+%val%年	%val% a	1
+武器速度：	Velocità arma:	1
+武器速度：	Velocità arma:<sp/>	1
+生物单位	Biologica	2
+生物单位	Biologiche	1
+能量：	Energia:<sp/>	1
+能量：	Potere:<sp/>	1
+等级：	Livello:<sp/>	1
+等级：	Grado:<sp/>	1
+[观战者]	[Osservatori]	1
+[观战者]	[Spettatori]	1
+英雄单位	Eroiche	1
+英雄单位	Eroica	1
+重型单位	Enormi	1
+重型单位	Enorme	1
+机械单位	Meccaniche	1
+机械单位	Meccanica	1
+灵能单位	Psioniche	1
+灵能单位	Psionica	1
+智能机械	Robotiche	1
+智能机械	Robotica	1
