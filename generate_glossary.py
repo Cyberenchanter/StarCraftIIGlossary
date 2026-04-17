@@ -75,9 +75,6 @@ def finialize_output_list(target_lang):
             
     return output_list
 if __name__ == "__main__":
-    if OUTPUT_FORMAT not in ["ini", "tsv"]:
-        print(f"Error: Invalid output format {OUTPUT_FORMAT}. Must be 'ini' or 'tsv'.")
-        exit(1)
     for mod in reversed(MOD_LIST):
         local_id = {}
         path = os.path.join("mods", mod, f"{SOURCE_LANGUAGE}.sc2data", "localizeddata", "gamestrings.txt")
@@ -95,8 +92,7 @@ if __name__ == "__main__":
             parse_file(path, lang)
     
     output_path = f"glossary_{SOURCE_LANGUAGE}"
-    if OUTPUT_FORMAT == "tsv":
-        output_path += "_tsv"
+    output_path += f"_{OUTPUT_FORMAT}"
     if TERM_ONLY:
         output_path += "_term_only"
     if ALLOW_DUPLICATES:
@@ -120,6 +116,16 @@ if __name__ == "__main__":
                     src_text = src_text.replace('\t', ' ')
                     target_text = target_text.replace('\t', ' ')
                     f.write(f"{src_text}\t{target_text}\n")
+    elif OUTPUT_FORMAT == "csv":
+        for lang in LANGUAGE_LIST:
+            if lang == SOURCE_LANGUAGE:
+                continue
+            output_list = finialize_output_list(lang)
+            with open(os.path.join(output_path, f"{lang}.csv"), 'w', encoding='utf-8') as f:
+                for src_text, target_text in output_list:
+                    src_text = src_text.replace('"', '""')
+                    target_text = target_text.replace('"', '""')
+                    f.write(f"\"{src_text}\",\"{target_text}\"\n")
     else:
         print(f"Unsupported output format {OUTPUT_FORMAT}.")
 
