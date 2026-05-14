@@ -8,7 +8,7 @@ def is_term(text):
     if SOURCE_LANGUAGE != "zhcn" and SOURCE_LANGUAGE != "zhtw":
         return len(text.split()) <= 1 and len(text) >= 2
     else:
-        return len(text) <= 10 and text.isascii() == False
+        return len(text) <= 9 and text.isascii() == False
 
 
 def parse_file(filename, lang_code):
